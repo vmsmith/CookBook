@@ -8,7 +8,7 @@
 
 ### [Poultry and Fowl](https://github.com/vmsmith/CookBook/blob/master/poultry_fowl.md)
 
-### [Rice, Risotto, etc.]()
+### [Rice, Risotto, etc.](https://github.com/vmsmith/CookBook/blob/master/rice_risotto.md)
 
 ### [Soups](https://github.com/vmsmith/CookBook/blob/master/soups.md)  
 
