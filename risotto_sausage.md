@@ -1,3 +1,10 @@
+[things/README](https://github.com/vmsmith/things/blob/master/README.md)
+
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)
+
+[Rice and Risotto](https://github.com/vmsmith/CookBook/blob/master/rice_risotto.md)
+
+### Risotto with Sausage and Parsley  
 
 #### Ingredients  
 
