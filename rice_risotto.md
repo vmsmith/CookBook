@@ -4,4 +4,4 @@
 
 ### Rice, Risotto, etc.  
 
-* [Risotto with Sausage and Parsley]()
+* [Risotto with Sausage and Parsley](https://github.com/vmsmith/CookBook/blob/master/risotto_sausage.md)
