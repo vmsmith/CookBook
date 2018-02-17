@@ -1,7 +1,12 @@
+[things/README](https://github.com/vmsmith/things/blob/master/README.md)
 
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)
 
+[Poultry and Fowl](https://github.com/vmsmith/CookBook/blob/master/poultry_fowl.md)  
 
-### Ingredients  
+### Basque Chicken  
+
+#### Ingredients  
 
 * 2 Chicken thighs (or whole legs)  
 * Green, yellow, and red bell peppers, seeded and thinly sliced  
@@ -19,14 +24,14 @@
 * 1 teaspoon sugar  
 * Salt and pepper to season  
 
-### Preparation  
+#### Preparation  
 
 * Seed and slice peppers  
 * Slice red onion  
 * Peel, seed, and chop tomato  
 * Slice chili into rings  
 
-### Directions  
+#### Directions  
 
 * In a large cast iron pot, heat 1 of the tablespoon of oil on medium heat.  
 * Add the onion and cook until soft.  
