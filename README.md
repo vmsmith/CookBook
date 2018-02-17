@@ -6,6 +6,6 @@
 
 ### [Meat](https://github.com/vmsmith/CookBook/blob/master/meat.md)  
 
-### [Soups]()  
+### [Soups](https://github.com/vmsmith/CookBook/blob/master/soups.md)  
 
 ### [Stocks and Sauces]()  
