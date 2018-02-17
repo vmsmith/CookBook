@@ -6,7 +6,7 @@
 
 ### [Meat](https://github.com/vmsmith/CookBook/blob/master/meat.md)  
 
-### [Poultry and Fowl]()
+### [Poultry and Fowl](https://github.com/vmsmith/CookBook/blob/master/poultry_fowl.md)
 
 ### [Soups](https://github.com/vmsmith/CookBook/blob/master/soups.md)  
 
