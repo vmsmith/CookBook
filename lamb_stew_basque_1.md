@@ -23,7 +23,12 @@
 #### Preparation  
 
 * Marinate lamb with garlic, rosemary, white wine: Combine the lamb, half of the garlic cloves, rosemary, and white wine in a medium bowl and let marinate for 2 to 3 hours  
-* Drain the meat, discard the marinade, and pat dry with paper towels. Mince the remaining garlic cloves and set aside  
+* Drain the meat, discard the marinade, and pat dry with paper towels. 
+* Mince the remaining garlic cloves.
+* Peel and chop onion.  
+* Peel, seed, and chop tomato.  
+* Slice peppers. 
+
 
 #### Directions  
 
