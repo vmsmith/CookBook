@@ -2,7 +2,7 @@
 
 [Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)
 
-[Cook Book](https://github.com/vmsmith/CookBook/blob/master/stocks_sauces.md)
+[Stocks and Sauces](https://github.com/vmsmith/CookBook/blob/master/stocks_sauces.md)
 
 ### Toum (Lebanese Garlic Sauce)  
 
