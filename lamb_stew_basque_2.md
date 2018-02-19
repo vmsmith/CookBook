@@ -1,6 +1,7 @@
 [Meat](https://github.com/vmsmith/CookBook/blob/master/meat.md)
 
-### Basque Lamb Stew #2
+### Basque Lamb Stew #2  
+[The Kitchen Alchemist](http://thekitchenalchemist.co.uk/recipes/2013/11/17/basque-lamb-stew)
 
 #### Ingredients  
 
@@ -26,7 +27,7 @@
 * Dice the carrots  
 * Dice the celery  
 * Peel and crush the garlic  
-* Preheat the over to 
+* Preheat the over to 350F
 
 #### Directions  
 
