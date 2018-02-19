@@ -8,9 +8,9 @@
 
 #### Lamb  
 
-* [Lamb Stew, Basque](https://github.com/vmsmith/CookBook/blob/master/lamb_stew_basque_1.md)
+* [Lamb Stew, Basque #1](https://github.com/vmsmith/CookBook/blob/master/lamb_stew_basque_1.md)
 
-* [Lamb Stew, Basque](https://github.com/vmsmith/CookBook/blob/master/lamb_stew_basque_2.md)  
+* [Lamb Stew, Basque #2](https://github.com/vmsmith/CookBook/blob/master/lamb_stew_basque_2.md)  
 
 #### Pork  
 
