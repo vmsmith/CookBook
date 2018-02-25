@@ -4,4 +4,8 @@
 
 ### Stocks and Sauces    
 
-[Toum (Lebanese Garlic Sauce)](https://github.com/vmsmith/CookBook/blob/master/toum.md)
+[Smitane Sauce]()
+
+[Toum (Lebanese Garlic Sauce)](https://github.com/vmsmith/CookBook/blob/master/toum.md)  
+
+[Veloute Sauce]()
