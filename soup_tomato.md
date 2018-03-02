@@ -1,6 +1,6 @@
 [Cook Book]()
 
-[Soups]()
+[Soups](https://github.com/vmsmith/CookBook/blob/master/soups.md)
 
 ### Tomato Soup  
 
