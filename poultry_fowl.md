@@ -6,6 +6,6 @@
 
 [Basque Chicken](https://github.com/vmsmith/CookBook/blob/master/chicken_basque_1.md)  
 
-[Chicken a la Diable]()
+[Chicken a la Diable](https://github.com/vmsmith/CookBook/blob/master/chicken_diable.md)
 
 [Roast Pheasant](https://github.com/vmsmith/CookBook/blob/master/pheasant_roast.md)
