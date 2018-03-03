@@ -5,8 +5,8 @@
 [Poultry and Fowl](https://github.com/vmsmith/CookBook/blob/master/poultry_fowl.md)  
 
 ### Chicken a la Diable  
-* Wall Street Journal, Saturday,03 March  
-* Frenchette Restaurant  
+* Wall Street Journal, Saturday, 03 March  
+* Frenchette Restaurant, NY; Chefs Les Hanson and Riad Nasr  
 
 #### Ingredients  
 
