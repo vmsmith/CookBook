@@ -4,4 +4,10 @@
 
 ### Rice, Risotto, etc.  
 
-* [Risotto with Sausage and Parsley](https://github.com/vmsmith/CookBook/blob/master/risotto_sausage.md)
+#### Polenta  
+
+#### Rice  
+
+#### Risotto  
+
+[Risotto with Sausage and Parsley](https://github.com/vmsmith/CookBook/blob/master/risotto_sausage.md)
