@@ -4,4 +4,6 @@
 
 ### Soups    
 
+[Tarbais Bean Soup](https://github.com/vmsmith/CookBook/blob/master/soup_bean_tarbais.md)
+
 [Tomato Soup](https://github.com/vmsmith/CookBook/blob/master/soup_tomato.md)
