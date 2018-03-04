@@ -10,7 +10,7 @@
 
 [Lobster Bisque](https://github.com/vmsmith/CookBook/blob/master/soup_lobster_bisque.md)
 
-[Mushroom Soup(https://github.com/vmsmith/CookBook/blob/master/soup_mushroom.md)
+[Mushroom Soup](https://github.com/vmsmith/CookBook/blob/master/soup_mushroom.md)
 
 [Onion Soup](https://github.com/vmsmith/CookBook/blob/master/soup_onion.md)
 
