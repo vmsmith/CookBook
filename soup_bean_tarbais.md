@@ -2,8 +2,8 @@
 
 [Soups](https://github.com/vmsmith/CookBook/blob/master/soups.md)
 
-### Tarbais Bean Soup with Ventreche and Croutons  
-* “The Cooking of Southwest France,” by Paula Wolfert
+### Tarbais Bean Soup with Ventreche and Croutons   
+“The Cooking of Southwest France,” by Paula Wolfert
 
 #### Ingredients:
 
