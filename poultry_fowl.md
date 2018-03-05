@@ -12,4 +12,6 @@
 
 [Chicken Normandy](https://github.com/vmsmith/CookBook/blob/master/chicken_normandy.md)  
 
+[Chicken Thighs with Shallots](https://github.com/vmsmith/CookBook/blob/master/chicken_thighs_shallots.md)  
+
 [Roast Pheasant](https://github.com/vmsmith/CookBook/blob/master/pheasant_roast.md)
