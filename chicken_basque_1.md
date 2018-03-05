@@ -26,23 +26,33 @@
 
 #### Preparation  
 
-* Seed and slice peppers  
-* Slice red onion  
-* Peel, seed, and chop tomato  
-* Slice chili into rings  
+1. Seed and slice peppers  
+2. Slice red onion  
+3. Peel, seed, and chop tomato  
+4. Slice chili into rings  
 
 #### Directions  
 
-* In a large cast iron pot, heat 1 of the tablespoon of oil on medium heat.  
-* Add the onion and cook until soft.  
-* Add the garlic and Serrano and cook for a few minutes until garlic is softened.  
-* Add sliced peppers, green chilli, and piment d'Espelette to taste (be mindful of piment d'Esplette).  
-* Cook for 5 minutes until peppers start to soften.  
-* Add the thyme, bay leaves, chopped tomatoes, wine, and vinegar and simmer with the lid off for about 8-10 minutes.  
-* Season this with sugar, salt and pepper to taste, and remove from the pan and place in a bowl.  
-* Heat remaining tablespoon of oil in the pan on medium to high heat. 
-* Brown the chicken, skin side down, and then turn over. 
-* Once browned, turn heat down to low and place lid on and cook the chicken for 20 minutes.  
-* Then top the chicken with the pepper mixture and put lid back on.  
-* Cook for 50 minutes until the chicken is very soft.  
-* Serve with rice or bread.
+1. In a large cast iron pot, heat 1 of the tablespoon of oil on medium heat.  
+
+2. Add the onion and cook until soft.  
+
+3. Add the garlic and Serrano and cook for a few minutes until garlic is softened.  
+
+4. Add sliced peppers, green chilli, and piment d'Espelette to taste (be mindful of piment d'Esplette).  
+
+5. Cook for 5 minutes until peppers start to soften.  
+
+6. Add the thyme, bay leaves, chopped tomatoes, wine, and vinegar and simmer with the lid off for about 8-10 minutes.  
+
+7. Season this with sugar, salt and pepper to taste, and remove from the pan and place in a bowl.  
+
+8. Heat remaining tablespoon of oil in the pan on medium to high heat. 
+
+9. Brown the chicken, skin side down, and then turn over. 
+
+10. Once browned, turn heat down to low and place lid on and cook the chicken for 20 minutes.  
+
+11. Then top the chicken with the pepper mixture and put lid back on.  
+12. Cook for 50 minutes until the chicken is very soft.  
+13. Serve with rice or bread.
