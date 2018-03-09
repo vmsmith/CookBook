@@ -6,6 +6,8 @@
 
 ### [Meat](https://github.com/vmsmith/CookBook/blob/master/meat.md)  
 
+### [Pasta]()
+
 ### [Poultry and Fowl](https://github.com/vmsmith/CookBook/blob/master/poultry_fowl.md)
 
 ### [Rice, Risotto, etc.](https://github.com/vmsmith/CookBook/blob/master/rice_risotto.md)
