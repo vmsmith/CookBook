@@ -1,6 +1,6 @@
 [Cook Book]  
 
-[Pasta]  
+[Pasta](https://github.com/vmsmith/CookBook/blob/master/pasta.md)  
 
 ### Cacio e Pepe  
 From [Bon Apetit](https://www.bonappetit.com/recipe/cacio-e-pepe)
