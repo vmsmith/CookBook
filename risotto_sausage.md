@@ -10,9 +10,9 @@
 
 * Sweet Italian sausage  
 * 1 onion, peeled and diced
-* Arborio rice
-* Dry white wine  
-* Chicken stock
+* 1 part Arborio rice
+* 1 part Dry white wine  
+* 3 parts Chicken stock
 * 1 tablespoon extra-virgin olive oil
 * 1/4 teaspoon kosher salt
 * Freshly ground black pepper to taste
@@ -31,20 +31,36 @@
 
 #### Directions  
 
-* Crumble the sausage meat into a wide, heavy skillet or Dutch oven, and set over medium heat.  
-* If the meat is not rendering enough fat to coat the bottom of the pan as it begins to cook, add olive oil, 1 tablespoon at a time, until the meat is frying gently, not steaming.  
-* Sprinkle the salt and pepper over the sausage, and cook, breaking up any large chunks of sausage and stirring occasionally, until the meat is opaque and crisp at the edges, approximately 10 minutes.  
-* Remove sausage from pan, and reserve 1 tablespoon of the rendered fat.  
-* Add a bit of butter to the sausage fat.    
-* When the butter foams, add the diced onion, and cook approximately 5 to 7 minutes.  
-* Add the rice, and stir until well coated (adding another tablespoon of butter if necessary). 
-* Stir until translucent, an additional 5 to 7 minutes.  
-* Raise the heat under the rice to medium, and add the wine to the skillet.  
-* Stir until wine is absorbed, then reduce the heat slightly.  
-* Begin adding ladlefuls of hot broth to the rice, stirring constantly and allowing each addition to be absorbed before adding the next.  
-* Cook the rice until it is tender but slightly chewy, approximately 20 to 30 minutes. You may not need all the broth. You may need more than you have; if additional liquid is needed, you can use boiling water.  
-* Remove the skillet from heat, and add the cheese, stirring to mix it into the rice.  
-* Add the sausage to the rice, and stir again.  
-* Taste, and adjust seasonings with additional salt and pepper if necessary.  
-* Squeeze the lemon over the rice, and then mound the risotto on a large, warmed bowl.  
-* Scatter the parsley over the top, and serve immediately, with more grated Parmesan on the side.
+1. Crumble the sausage meat into a wide, heavy skillet or Dutch oven, and set over medium heat.  
+
+2. If the meat is not rendering enough fat to coat the bottom of the pan as it begins to cook, add olive oil, 1 tablespoon at a time, until the meat is frying gently, not steaming.  
+
+3. Sprinkle the salt and pepper over the sausage, and cook, breaking up any large chunks of sausage and stirring occasionally, until the meat is opaque and crisp at the edges, approximately 10 minutes.  
+
+4. Remove sausage from pan, and reserve 1 tablespoon of the rendered fat.  
+
+5. Add a bit of butter to the sausage fat.    
+
+6. When the butter foams, add the diced onion, and cook approximately 5 to 7 minutes.  
+
+7. Add the rice, and stir until well coated (adding another tablespoon of butter if necessary). 
+
+8. Stir until translucent, an additional 5 to 7 minutes.  
+
+9. Raise the heat under the rice to medium, and add the wine to the skillet.  
+
+10. Stir until wine is absorbed, then reduce the heat slightly.  
+
+11. Begin adding ladlefuls of hot broth to the rice, stirring constantly and allowing each addition to be absorbed before adding the next.  
+
+12. Cook the rice until it is tender but slightly chewy, approximately 20 to 30 minutes. You may not need all the broth. You may need more than you have; if additional liquid is needed, you can use boiling water.  
+
+13. Remove the skillet from heat, and add the cheese, stirring to mix it into the rice.  
+
+14. Add the sausage to the rice, and stir again.  
+
+15. Taste, and adjust seasonings with additional salt and pepper if necessary.  
+
+16. Squeeze the lemon over the rice, and then mound the risotto on a large, warmed bowl.  
+
+17. Scatter the parsley over the top, and serve immediately, with more grated Parmesan on the side.
