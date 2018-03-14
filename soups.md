@@ -14,6 +14,8 @@
 
 [Onion Soup](https://github.com/vmsmith/CookBook/blob/master/soup_onion.md)
 
+[Potato and Fennel Soup](https://github.com/vmsmith/CookBook/blob/master/soup_potato_fennel.md)
+
 [Rabbit Soup](https://github.com/vmsmith/CookBook/blob/master/soup_rabbit.md)
 
 [Tarbais Bean Soup](https://github.com/vmsmith/CookBook/blob/master/soup_bean_tarbais.md)
