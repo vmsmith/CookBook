@@ -4,7 +4,7 @@
 
 ### Potato and Fennel Soup  
 
-* Ingredients  
+#### Ingredients  
 
 * 4 lbs red potatoes, unpeeled and quartered  
 * 1⁄4 cup olive oil  
@@ -17,14 +17,14 @@
 * 3 quarts chicken stock or 3 quarts vegetable stock  
 * 1 cup heavy cream  
 
-* Preparation  
+#### Preparation  
 
 * Preheat oven to 400F  
 * Chop onions  
 * Chop fennel  
 * Mince garlic  
 
-* Directions  
+#### Directions  
 
 * In a large bowl, toss the potatoes with 1/4 cup olive oil, garlic, salt, and pepper.  
 * Spread on a baking sheet and roast for 30 minutes, until cooked through.  
