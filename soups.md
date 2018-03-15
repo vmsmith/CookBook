@@ -6,6 +6,8 @@
 
 [Borscht #1](https://github.com/vmsmith/CookBook/blob/master/soup_borscht1.md)  
 
+[Carrot and Ginger](https://github.com/vmsmith/CookBook/blob/master/soup_carrot_ginger.md)
+
 [Fish Soup, Basque](https://github.com/vmsmith/CookBook/blob/master/soup_fish_basquaise.md)
 
 [Lobster Bisque](https://github.com/vmsmith/CookBook/blob/master/soup_lobster_bisque.md)
