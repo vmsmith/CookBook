@@ -8,6 +8,8 @@
 
 [Carrot and Ginger](https://github.com/vmsmith/CookBook/blob/master/soup_carrot_ginger.md)
 
+[Roasted Carrot and Ginger](https://github.com/vmsmith/CookBook/blob/master/soup_carrot_ginger_roasted.md)
+
 [Fish Soup, Basque](https://github.com/vmsmith/CookBook/blob/master/soup_fish_basquaise.md)
 
 [Lobster Bisque](https://github.com/vmsmith/CookBook/blob/master/soup_lobster_bisque.md)
