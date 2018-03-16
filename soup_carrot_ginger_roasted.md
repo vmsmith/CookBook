@@ -2,6 +2,8 @@
 
 [Soups](https://github.com/vmsmith/CookBook/blob/master/soups.md)  
 
+### Roasted Carrot and Ginger Soup  
+
 #### Ingredients  
 
 * 1 pound of carrots, trimmed and peeled  
