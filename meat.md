@@ -6,7 +6,7 @@
 
 #### Beef  
 
-* [Steak au Poivre](https://github.com/vmsmith/CookBook/blob/master/steak_au_poivre.md)  
+* [Steak au poivre](https://github.com/vmsmith/CookBook/blob/master/steak_au_poivre.md)  
 * [Steak, reverse seared](https://github.com/vmsmith/CookBook/blob/master/steak_reverse_seared.md)
 
 #### Lamb  
