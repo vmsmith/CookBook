@@ -6,6 +6,8 @@
 
 [Chicken Cacciatore #1](https://github.com/vmsmith/CookBook/blob/master/chicken_cacciatore1.md)  
 
+[Chicken Cacciatore #2](https://github.com/vmsmith/CookBook/blob/master/chicken_cacciatore2.md)
+
 [Chicken Basquaise](https://github.com/vmsmith/CookBook/blob/master/chicken_basque_1.md)  
 
 [Chicken a la Diable](https://github.com/vmsmith/CookBook/blob/master/chicken_diable.md)
