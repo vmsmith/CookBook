@@ -4,7 +4,7 @@
 
 ### Poultry and Fowl     
 
-[Chicken Cacciatore](https://github.com/vmsmith/CookBook/blob/master/chicken_cacciatore.md)  
+[Chicken Cacciatore #1](https://github.com/vmsmith/CookBook/blob/master/chicken_cacciatore1.md)  
 
 [Chicken Basquaise](https://github.com/vmsmith/CookBook/blob/master/chicken_basque_1.md)  
 
