@@ -32,8 +32,10 @@ From Anthony Bourdain's *Les Halles Cookbook*
 
 3. Remove steaks and put in the oven for a few minutes, then bring out and cover them to rest.
 
-4. Deglace the pan with some cognac.  
+4. Deglace the pan with some cognac while reducing the cognac by about half.
 
 5. Add the beef stock and reduce a bit.  
 
-6. Add some the demi-glace, then the roux, then a splash of cream.
+6. Add some the demi-glace, then the roux, then a splash of cream.  
+
+7. Season with salt and pepper.
