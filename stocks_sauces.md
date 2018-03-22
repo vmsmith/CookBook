@@ -4,6 +4,8 @@
 
 ### Stocks and Sauces    
 
+[Bechamel Sauce](https://github.com/vmsmith/CookBook/blob/master/sauce_bechamel.md)
+
 [Green Sauce (Milk)](https://github.com/vmsmith/CookBook/blob/master/sauce_green_milk.md)
 
 [Smitane Sauce](https://github.com/vmsmith/CookBook/blob/master/sauce_smitane.md)
