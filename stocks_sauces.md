@@ -4,8 +4,10 @@
 
 ### Stocks and Sauces    
 
-[Smitane Sauce](https://github.com/vmsmith/CookBook/blob/master/smitane.md)
+[Green Sauce (Milk)](https://github.com/vmsmith/CookBook/blob/master/sauce_green_milk.md)
 
-[Toum (Lebanese Garlic Sauce)](https://github.com/vmsmith/CookBook/blob/master/toum.md)  
+[Smitane Sauce](https://github.com/vmsmith/CookBook/blob/master/sauce_smitane.md)
 
-[Veloute Sauce](https://github.com/vmsmith/CookBook/blob/master/veloute.md)
+[Toum (Lebanese Garlic Sauce)](https://github.com/vmsmith/CookBook/blob/master/sauce_toum.md)  
+
+[Veloute Sauce](https://github.com/vmsmith/CookBook/blob/master/sauce_veloute.md)
