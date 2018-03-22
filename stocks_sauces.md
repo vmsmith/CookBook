@@ -6,7 +6,9 @@
 
 [Bechamel Sauce](https://github.com/vmsmith/CookBook/blob/master/sauce_bechamel.md)
 
-[Green Sauce (Milk)](https://github.com/vmsmith/CookBook/blob/master/sauce_green_milk.md)
+[Green Sauce (Bechamel)](https://github.com/vmsmith/CookBook/blob/master/sauce_green_milk.md)
+
+[Green Sauce (Olive Oil)](https://github.com/vmsmith/CookBook/blob/master/sauce_green_oliveoil.md)
 
 [Smitane Sauce](https://github.com/vmsmith/CookBook/blob/master/sauce_smitane.md)
 
