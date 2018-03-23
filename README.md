@@ -10,6 +10,8 @@
 
 #### [Meat](https://github.com/vmsmith/CookBook/blob/master/meat.md)  
 
+#### [Mis en Place](https://github.com/vmsmith/CookBook/blob/master/mis_en_place.md)
+
 #### [Pasta](https://github.com/vmsmith/CookBook/blob/master/pasta.md)
 
 #### [Poultry and Fowl](https://github.com/vmsmith/CookBook/blob/master/poultry_fowl.md)
