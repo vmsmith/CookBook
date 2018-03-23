@@ -9,15 +9,16 @@
 •	One behemothly thick steak (bone in ribeye works great!). It's going to need to be at least 1" thick if not more. The thicker, the better  
 •	Salt & pepper to taste  
 
-#### Preparation
+#### Preparation  
 
-* Preheat oven to 135c/275f
+* Allow steaks to get to room temperature
+* Preheat oven to 135C/275F
 
 #### Instructions
 
 1.	Place well seasoned steaks on a rack over a baking tray.  
 
-2.	Put in oven and cook til an internal temp of 125-135f depending on your preference of "doneness". Usually takes around 45-60 minutes.
+2.	Put in oven and cook til an internal temp of 125-135F. Usually takes around 45-60 minutes.
 
 3.	Remove when at temp and rest for 10-15 minutes under foil.
 
