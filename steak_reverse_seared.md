@@ -6,7 +6,7 @@
 
 #### Ingredients
 
-•	One behemothly thick steak (bone in ribeye works great!). It's going to need to be at least 1" thick if not more. The thicker, the better  
+•	One thick (minimum 1") steak; bone in ribeye works great  
 •	Salt & pepper to taste  
 
 #### Preparation  
