@@ -6,7 +6,7 @@
 
 #### Ingredients
 
-* 1/1 pound carrots, peeled and sliced at an angle, 1/4-inch thick  
+* 1/2 pound carrots, peeled and sliced at an angle, 1/4-inch thick  
 * 1/4 cup chicken broth  
 * 3 x 1/2 tablespoons honey, divided  
 * 1/2 tablespoon butter  
