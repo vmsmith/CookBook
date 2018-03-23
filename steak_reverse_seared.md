@@ -1,13 +1,13 @@
-[Cook Book]()  
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/CookBook.md)  
 
-[Meat]()  
+[Meat](https://github.com/vmsmith/CookBook/blob/master/meat.md)  
 
 ### Reverse Seared Steak  
 
 #### Ingredients
 
-•	One behemothly thick steak (bone in ribeye works great!). It's going to need to be at least 1" thick if not more. The thicker, the better.
-•	Salt & pepper to taste
+•	One behemothly thick steak (bone in ribeye works great!). It's going to need to be at least 1" thick if not more. The thicker, the better  
+•	Salt & pepper to taste  
 
 #### Preparation
 
