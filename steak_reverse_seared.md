@@ -1,4 +1,4 @@
-[Cook Book](https://github.com/vmsmith/CookBook/blob/master/CookBook.md)  
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)  
 
 [Meat](https://github.com/vmsmith/CookBook/blob/master/meat.md)  
 
