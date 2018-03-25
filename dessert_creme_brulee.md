@@ -1,16 +1,16 @@
-[Cook Book]()  
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)  
 
-[Desserts]()  
+[Desserts](https://github.com/vmsmith/CookBook/blob/master/desserts.md)  
 
 ### Creme Brulee  
 
 #### Ingredients
 
-2 cups heavy cream (or 1 cup half & half and 1 cup heavy cream)
-5 tablespoons sugar
-4 large egg yolks
-1 teaspoon vanilla bean paste or vanilla extract
-3 tablespoons sugar (Demerara or coarse white sparkling sugar)
+* 2 cups heavy cream (or 1 cup half & half and 1 cup heavy cream)  
+* 5 tablespoons sugar  
+* 4 large egg yolks  
+* 1 teaspoon vanilla bean paste or vanilla extract  
+* 3 tablespoons sugar (Demerara or coarse white sparkling sugar)  
 
 #### Preparation 
 
