@@ -24,6 +24,6 @@
 
 #### [Vegetables](https://github.com/vmsmith/CookBook/blob/master/vegetables.md)  
 
-#### [Winter Dishes]()
+#### [Winter Dishes](https://github.com/vmsmith/CookBook/blob/master/misc_winter_dishes.md)
 
 
