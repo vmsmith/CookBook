@@ -22,4 +22,8 @@
 
 #### [Stocks and Sauces](https://github.com/vmsmith/CookBook/blob/master/stocks_sauces.md)  
 
-#### [Vegetables](https://github.com/vmsmith/CookBook/blob/master/vegetables.md)
+#### [Vegetables](https://github.com/vmsmith/CookBook/blob/master/vegetables.md)  
+
+#### [Winter Dishes]()
+
+
