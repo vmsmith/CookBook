@@ -4,7 +4,7 @@
 
 #### [Beverages](https://github.com/vmsmith/CookBook/blob/master/beverages.md)
 
-#### [Condiments]()  
+#### [Condiments](https://github.com/vmsmith/CookBook/blob/master/condiments.md)  
 
 #### [Desserts](https://github.com/vmsmith/CookBook/blob/master/desserts.md)  
 
