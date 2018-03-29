@@ -8,4 +8,6 @@
 
 [Glazed Carrots with Honey and Thyme](https://github.com/vmsmith/CookBook/blob/master/veg_carrots_glazed1.md)  
 
-[Roasted Carrots](https://github.com/vmsmith/CookBook/blob/master/veg_carrots_roasted.md)
+[Roasted Carrots](https://github.com/vmsmith/CookBook/blob/master/veg_carrots_roasted.md)  
+
+[Roasted Peppers Basquaise]()  
