@@ -4,6 +4,8 @@
 
 #### [Beverages](https://github.com/vmsmith/CookBook/blob/master/beverages.md)
 
+#### [Condiments]()  
+
 #### [Desserts](https://github.com/vmsmith/CookBook/blob/master/desserts.md)  
 
 #### [Fish and Shellfish](https://github.com/vmsmith/CookBook/blob/master/fish_shellfish.md)
