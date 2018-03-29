@@ -22,6 +22,8 @@
 
 [Rabbit Soup](https://github.com/vmsmith/CookBook/blob/master/soup_rabbit.md)
 
-[Tarbais Bean Soup](https://github.com/vmsmith/CookBook/blob/master/soup_bean_tarbais.md)
+[Tarbais Bean Soup](https://github.com/vmsmith/CookBook/blob/master/soup_bean_tarbais.md)  
+
+[Squash and Ginger Soup]()
 
 [Tomato Soup](https://github.com/vmsmith/CookBook/blob/master/soup_tomato.md)
