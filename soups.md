@@ -24,6 +24,6 @@
 
 [Tarbais Bean Soup](https://github.com/vmsmith/CookBook/blob/master/soup_bean_tarbais.md)  
 
-[Squash and Ginger Soup]()
+[Squash and Ginger Soup](https://github.com/vmsmith/CookBook/blob/master/soup_squash_ginger.md)
 
 [Tomato Soup](https://github.com/vmsmith/CookBook/blob/master/soup_tomato.md)
