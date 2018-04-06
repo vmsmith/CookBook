@@ -6,7 +6,7 @@
 
 [Borscht #1](https://github.com/vmsmith/CookBook/blob/master/soup_borscht1.md)  
 
-[Cauliflower Soup]()
+[Cauliflower Soup](https://github.com/vmsmith/CookBook/blob/master/soup_cauliflower.md)
 
 [Carrot and Ginger](https://github.com/vmsmith/CookBook/blob/master/soup_carrot_ginger.md)
 
