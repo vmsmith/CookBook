@@ -4,7 +4,7 @@
 
 ### Vegetables     
 
-[Green Beans Provencal]()
+[Green Beans Provencal](https://github.com/vmsmith/CookBook/blob/master/veg_green_beans_provencal.md)
 
 [Roasted Broccoli Basquaise](https://github.com/vmsmith/CookBook/blob/master/veg_broccoli_roasted.md)  
 
