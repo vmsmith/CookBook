@@ -4,7 +4,7 @@
 
 ### Vegetables     
 
-[Artichokes Sauteed with Onions, Garlic, and Herbs]()
+[Artichokes Sauteed with Onions, Garlic, and Herbs](https://github.com/vmsmith/CookBook/blob/master/veg_artichokes_sauteed.md)
 
 [Green Beans Provencal](https://github.com/vmsmith/CookBook/blob/master/veg_green_beans_provencal.md)
 
