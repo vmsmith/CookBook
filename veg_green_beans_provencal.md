@@ -2,6 +2,8 @@
 
 [Vegetables](https://github.com/vmsmith/CookBook/blob/master/vegetables.md)  
 
+### Green Beans Provencal  
+
 #### Ingredients
 
 * Haricots verts
