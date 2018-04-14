@@ -16,7 +16,7 @@
 
 #### Pork  
 
-[Italian Sausage and Peppers](https://github.com/vmsmith/CookBook/blob/master/pork_sausage_italian_peppers.md)
+* [Italian Sausage and Peppers](https://github.com/vmsmith/CookBook/blob/master/pork_sausage_italian_peppers.md)
 
 #### Rabbit  
 
