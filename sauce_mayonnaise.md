@@ -32,11 +32,11 @@
 
 5. Add some lemon juice and salt at the end to taste.
 
-The basis for:
-•	Herbed Mayonnaise – Chopped herbs (parsley, chives, tarragon, chervil) and lemon juice
-•	Aioli – garlic – no acids
-•	Tartar Sauce – chopped pickles, pickle juice, grated onion, capers, parsley, and a pinch of cayenne
-•	Russian Dressing (Ketchup)
-•	Green Goddess Dressing  
+The basis for:  
+* Herbed Mayonnaise – Chopped herbs (parsley, chives, tarragon, chervil) and lemon juice  
+* Aioli – garlic – no acids  
+* Tartar Sauce – chopped pickles, pickle juice, grated onion, capers, parsley, and a pinch of cayenne  
+* Russian Dressing (Ketchup)  
+* Green Goddess Dressing    
 * [Ranch Dressing](https://github.com/vmsmith/CookBook/blob/master/sauce_ranch_dressing.md)
 
