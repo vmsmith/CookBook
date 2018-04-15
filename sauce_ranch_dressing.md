@@ -21,7 +21,7 @@
 
 #### Preparation  
 
-* Make [mayonnaise]()  
+* Make [mayonnaise](https://github.com/vmsmith/CookBook/blob/master/sauce_mayonnaise.md)  
 * Mince garlic  
 * Chop chives  
 * Mince parsley  
