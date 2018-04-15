@@ -12,7 +12,7 @@
 
 [Green Sauce (Olive Oil)](https://github.com/vmsmith/CookBook/blob/master/sauce_green_oliveoil.md)  
 
-[Mayonnaise]()
+[Mayonnaise](https://github.com/vmsmith/CookBook/blob/master/sauce_mayonnaise.md)
 
 [Ranch Dressing](https://github.com/vmsmith/CookBook/blob/master/sauce_ranch_dressing.md)
 
