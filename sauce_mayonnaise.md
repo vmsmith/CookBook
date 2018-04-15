@@ -38,5 +38,5 @@ The basis for:
 •	Tartar Sauce – chopped pickles, pickle juice, grated onion, capers, parsley, and a pinch of cayenne
 •	Russian Dressing (Ketchup)
 •	Green Goddess Dressing  
-* [Ranch Dressing]()
+* [Ranch Dressing](https://github.com/vmsmith/CookBook/blob/master/sauce_ranch_dressing.md)
 
