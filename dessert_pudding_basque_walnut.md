@@ -1,16 +1,16 @@
-[Cook Book]()  
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)  
 
-[Desserts]()  
+[Desserts](https://github.com/vmsmith/CookBook/blob/master/desserts.md)  
 
 ### Basque Walnut Pudding
 
 
 #### Ingredients
 
-1 quart whole milk				
-1 cup sugar
-1 cup walnuts -ground fine			
-1 cup bread crumbs-ground fine
+* 1 quart whole milk				
+* 1 cup sugar
+* 1 cup walnuts -ground fine			
+* 1 cup bread crumbs-ground fine
 
 (The bread crumbs are optional, however if not used,double the amount of walnuts.)
 
