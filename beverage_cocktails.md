@@ -1,6 +1,6 @@
-[Cook Book]()  
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)  
 
-[Beverages]()  
+[Beverages](https://github.com/vmsmith/CookBook/blob/master/beverages.md)  
 
 ### Cocktails  
 
