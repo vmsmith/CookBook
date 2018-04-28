@@ -2,6 +2,6 @@
 
 ### Beverages  
 
-[Hot Chocolate]()  
+[Hot Chocolate](https://github.com/vmsmith/CookBook/blob/master/beverage_hot_chocolate.md)  
 
-[Cocktails]()
+[Cocktails](https://github.com/vmsmith/CookBook/blob/master/beverage_cocktails.md)
