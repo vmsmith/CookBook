@@ -1,6 +1,6 @@
-[Cook Book]()  
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)  
 
-[Beans and Legumes]()  
+[Beans and Legumes](https://github.com/vmsmith/CookBook/blob/master/beans_legumes.md)  
 
 ### Moroccan Lentils  
 
