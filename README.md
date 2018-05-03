@@ -2,7 +2,7 @@
 
 ### Cook Book  
 
-#### [Beans and Legumes]()
+#### [Beans and Legumes](https://github.com/vmsmith/CookBook/blob/master/beans_legumes.md)
 
 #### [Beverages](https://github.com/vmsmith/CookBook/blob/master/beverages.md)
 
