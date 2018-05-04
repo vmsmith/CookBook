@@ -16,6 +16,8 @@
 
 [Chicken Thighs with Shallots](https://github.com/vmsmith/CookBook/blob/master/chicken_thighs_shallots.md)  
 
+[Chicken Thighs, Braised Italian Style]()
+
 [Lemon Pepper Chicken Wings](https://github.com/vmsmith/CookBook/blob/master/chicken_wings_lemon_pepper.md)  
 
 [Roast Pheasant](https://github.com/vmsmith/CookBook/blob/master/pheasant_roast.md)
