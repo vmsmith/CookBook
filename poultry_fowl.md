@@ -16,7 +16,7 @@
 
 [Chicken Thighs with Shallots](https://github.com/vmsmith/CookBook/blob/master/chicken_thighs_shallots.md)  
 
-[Chicken Thighs, Braised Italian Style]()
+[Chicken Thighs, Braised Italian Style](https://github.com/vmsmith/CookBook/blob/master/chicken_thighs_braised_italian.md)
 
 [Lemon Pepper Chicken Wings](https://github.com/vmsmith/CookBook/blob/master/chicken_wings_lemon_pepper.md)  
 
