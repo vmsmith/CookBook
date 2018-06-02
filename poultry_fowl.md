@@ -14,6 +14,8 @@
 
 [Chicken Normandy](https://github.com/vmsmith/CookBook/blob/master/chicken_normandy.md)  
 
+[Chicken Thighs Roasted with Lemon/Thyme]()
+
 [Chicken Thighs with Shallots](https://github.com/vmsmith/CookBook/blob/master/chicken_thighs_shallots.md)  
 
 [Chicken Thighs, Braised Italian Style](https://github.com/vmsmith/CookBook/blob/master/chicken_thighs_braised_italian.md)
