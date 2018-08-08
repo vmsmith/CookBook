@@ -4,7 +4,7 @@
 #### Ingredients
 
 <table>
-<th><td>For 4</td><td>For 2</td></th>	
+<tr><td>For 4</td><td>For 2</td></tr>	
 <tr><td>4 green peppers</td><td>1 green pepper</td></tr>	
 <tr><td>2 red peppers</td><td>1 red pepper</td></tr>	
 <tr><td>4 onions</td><td>2 onions</td></tr>
