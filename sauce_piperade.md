@@ -11,10 +11,10 @@
 <tr><th>For 4</th><th>For 2</th></tr>	
 <tr><td>4 green peppers</td><td>1 green pepper</td></tr>	
 <tr><td>2 red peppers</td><td>1 red pepper</td></tr>	
-<tr><td>4 onions</td><td>2 onions</td></tr>
+<tr><td>4 medium yellos onions</td><td>2 medium yellow onions</td></tr>
 <tr><td>4 - 5 large tomatoes</td><td>2 large tomatoes</td></tr>
 <tr><td>3+ garlic cloves</td><td>3 garlic cloves</td></tr>
-<tr><td>3 - 4 tablespoons of olive oil</td><td>2 tablespoons of olive oil</td></tr>	
+<tr><td>5 - 6 tablespoons of olive oil</td><td>3 - 4 tablespoons of olive oil</td></tr>	
 <tr><td>Salt and pepper</td><td>Salt and pepper</td></tr>	
 <tr><td>Pinch of thyme</td><td>Pinch of thyme</td></tr>	
 <tr><td>Pimente d'Esplette</td><td>Piment d'Esplette</td></tr>	
