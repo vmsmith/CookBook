@@ -4,22 +4,18 @@
 #### Ingredients
 
 <table>
-	<th><td>For 4</td><td>For 2</td></th>	
-	<tr><td>4 green peppers</td><td>1 green pepper</td></tr>	
-	
+<th><td>For 4</td><td>For 2</td></th>	
+<tr><td>4 green peppers</td><td>1 green pepper</td></tr>	
+<tr><td>2 red peppers</td><td>1 red pepper</td></tr>	
+<tr><td>4 onions</td><td>2 onions</td></tr>
+<tr><td>4 - 5 large tomatoes</td><td>2 large tomatoes</td></tr>
+<tr><td>3+ garlic cloves</td><td>3 garlic cloves</td></tr>
+<tr><td>3 - 4 tablespoons of olive oil</td><td>2 tablespoons of olive oil</td></tr>	
+<tr><td>Salt and pepper</td><td>Salt and pepper</td></tr>	
+<tr><td>Pinch of thyme</td><td>Pinch of thyme</td></tr>	
+<tr><td>Pimente d'Esplette</td><td>Piment d'Esplette</td></tr>	
 </table>
 
-							For 2
-
-4 green peppers				2
-2 red peppers					1
-4 onions					2
-4 or 5 large tomatoes				2 – 2 1/2
-3 cloves garlic					2
-3 to 4 tablespoons olive oil
-Pinch of thyme
-Salt and pepper
-Powdered piment d'Espelette to taste		1/2 teaspoon
 
 #### Preparation    
 
