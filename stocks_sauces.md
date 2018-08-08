@@ -14,6 +14,8 @@
 
 [Mayonnaise](https://github.com/vmsmith/CookBook/blob/master/sauce_mayonnaise.md)
 
+[Piperade](https://github.com/vmsmith/CookBook/blob/master/sauce_piperade.md)
+
 [Ranch Dressing](https://github.com/vmsmith/CookBook/blob/master/sauce_ranch_dressing.md)
 
 [Smitane Sauce](https://github.com/vmsmith/CookBook/blob/master/sauce_smitane.md)
