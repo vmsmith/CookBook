@@ -1,4 +1,4 @@
-[Cook Book]()  
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)  
 
 [Sauces](https://github.com/vmsmith/CookBook/blob/master/stocks_sauces.md)  
 
@@ -8,7 +8,7 @@
 #### Ingredients
 
 <table>
-<tr><td>For 4</td><td>For 2</td></tr>	
+<tr><th>For 4</th><th>For 2</th></tr>	
 <tr><td>4 green peppers</td><td>1 green pepper</td></tr>	
 <tr><td>2 red peppers</td><td>1 red pepper</td></tr>	
 <tr><td>4 onions</td><td>2 onions</td></tr>
