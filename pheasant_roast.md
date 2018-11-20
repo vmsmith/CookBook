@@ -16,20 +16,20 @@
 * Black pepper to taste
 
 #### Preparation  
-* Brine pheasant for four hours (see brine directions, below)  
-* Bring pheasant to room temperature, stuff loosely with onion, apple, and herbs, then truss  
+* Brine pheasant for four hours (see brine directions, below).  
+* Bring pheasant to room temperature, stuff loosely with onion, apple, and herbs, then truss.  
 * Oil the birds with butter, duck fat, or olive oil and crack some black pepper on them.  
-* Preheat oven for 30 minutes to 450F - 500F 
+* Preheat oven for 30 minutes to 450F (232C) - 500F (260C).
 
 #### Directions  
 
 1. Roast the pheasant for 15 minutes at the high temperature. 
 
-2. Take the pheasant out and lower the temperature to 350°. Leave your oven door open to speed this process.  
+2. Take the pheasant out and lower the temperature to 350F (177C). Leave your oven door open to speed this process.  
 
 3. Optional step: Baste the bird with either butter or a boiled-down combination of butter and maple syrup.  
 
-4. Return the pheasant to the oven and roast for 30 to 45 minutes, until the internal temperature of the thigh meat to be about 155°F to 165°F and for the bird’s juices to run pretty clear. A little pink in the juice — and in the bird — is the goal. The higher end of this cooking time will produce a well-done bird.  
+4. Return the pheasant to the oven and roast for 30 to 45 minutes, until the internal temperature of the thigh meat to be about 155°F (68C) to 165°F (74C) and for the bird’s juices to run pretty clear. A little pink in the juice — and in the bird — is the goal. The higher end of this cooking time will produce a well-done bird.  
 
 5. Remove the pheasant and let it rest for 10 to 15 minutes. This resting time is vital, as it lets the juices redistribute within the pheasant. It will also finish off the cooking process through carry-over heating.
 
