@@ -10,7 +10,7 @@
 
 #### [Desserts](https://github.com/vmsmith/CookBook/blob/master/desserts.md)  
 
-#### [Eggs]()
+#### [Eggs](https://github.com/vmsmith/CookBook/blob/master/eggs.md)
 
 #### [Fish and Shellfish](https://github.com/vmsmith/CookBook/blob/master/fish_shellfish.md)
 
