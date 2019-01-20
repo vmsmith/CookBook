@@ -2,7 +2,7 @@
 
 [Soups](https://github.com/vmsmith/CookBook/blob/master/soups.md)
 
-### Borscht  
+### Borscht without meat
 
 #### Ingredients
 
