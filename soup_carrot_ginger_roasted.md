@@ -44,6 +44,6 @@
 
 7. Add the chicken stock, bring to a boil, then simmer for about 30 minutes.  
 
-8. Remove the bay leaf, add 1 tqblespoon of butter, then blend.  
+8. Remove the bay leaf, add 1 tablespoon of butter, then blend.  
 
 9. Taste and correct for seasoning (salt, pepper, sugar, cream).
