@@ -1,6 +1,6 @@
 [Cook Book]()  
 
-[Offal]()  
+[Offal](https://github.com/vmsmith/CookBook/blob/master/offal.md)  
 
 ### Rabbit Liver and Onions  
 
