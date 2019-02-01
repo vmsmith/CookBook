@@ -18,6 +18,8 @@
 
 #### [Mis en Place](https://github.com/vmsmith/CookBook/blob/master/mis_en_place.md)
 
+#### [Offal](https://github.com/vmsmith/CookBook/blob/master/offal.md)
+
 #### [Pasta](https://github.com/vmsmith/CookBook/blob/master/pasta.md)
 
 #### [Poultry and Fowl](https://github.com/vmsmith/CookBook/blob/master/poultry_fowl.md)
