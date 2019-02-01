@@ -20,6 +20,8 @@
 2. Chop garlic  
 3. Chop tarrgon  
 
+#### Directions  
+
 1. Heat up a small saute pan on medium-high heat and melt butter
 
 2. Add garlic, stir constantly until they start to turn golden brown.
