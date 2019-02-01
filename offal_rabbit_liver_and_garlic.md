@@ -20,14 +20,14 @@
 2. Chop garlic  
 3. Chop tarrgon  
 
-#### Directions  
+#### Directions   
 
-1. Heat up a small saute pan on medium-high heat and melt butter
+1. Heat up a small saute pan on medium-high heat and melt butter   
 
-2. Add garlic, stir constantly until they start to turn golden brown.
+2. Add garlic, stir constantly until they start to turn golden brown  
 
-3. Add livers and cook about 2 - 3 minutes on each side, until golden brown (there should be no pink in the middle) 
+3. Add livers and cook about 2 - 3 minutes on each side, until golden brown (there should be no pink in the middle)  
 
-**Note:** Be mindful of the garlic by stirring often - by the time the livers are cooked the garlic should be a sticky golden brown
+**Note:** Be mindful of the garlic by stirring often - by the time the livers are cooked the garlic should be a sticky golden brown  
 
 4. Take pan off heat and fold in the chopped herbs
