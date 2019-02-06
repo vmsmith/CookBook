@@ -20,5 +20,6 @@
 
 #### Rabbit  
 
-* [Rabbit, Basque](https://github.com/vmsmith/CookBook/blob/master/rabbit_basque.md)
+* [Rabbit, Basque](https://github.com/vmsmith/CookBook/blob/master/rabbit_basque.md)  
+* [À la Moutarde]()  
 
