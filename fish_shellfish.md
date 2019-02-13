@@ -4,4 +4,4 @@
 
 ### Fish and Shellfish    
 
-* [Baked Salmon]()
+* [Baked Salmon (with mustard)](https://github.com/vmsmith/CookBook/blob/master/fish_salmon_baked.md)
