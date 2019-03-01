@@ -16,6 +16,8 @@
 
 [Fish Soup, Basque](https://github.com/vmsmith/CookBook/blob/master/soup_fish_basquaise.md)
 
+[Red Lentil with Lemon](https://github.com/vmsmith/CookBook/blob/master/soup_red_lentil.md)
+
 [Lobster Bisque](https://github.com/vmsmith/CookBook/blob/master/soup_lobster_bisque.md)
 
 [Mushroom Soup](https://github.com/vmsmith/CookBook/blob/master/soup_mushroom.md)
