@@ -6,7 +6,7 @@
 
 #### Ingredients
 
-* 1 1-lb cod fillet
+* 1 1-pound cod fillet
 * 1 medium yellow onion, chopped
 * 1 medium red bell pepper, chopped
 * 1 14-oz can tomatoes, diced or crushed
