@@ -4,6 +4,6 @@
 
 ### Fish and Shellfish    
 
-[Mediterranean Cod]()
+[Mediterranean Cod](https://github.com/vmsmith/CookBook/blob/master/fish_cod_mediterranean.md)
 
 [Baked Salmon (with mustard)](https://github.com/vmsmith/CookBook/blob/master/fish_salmon_baked.md)
