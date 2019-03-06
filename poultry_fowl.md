@@ -10,7 +10,7 @@
 
 [Chicken Basquaise](https://github.com/vmsmith/CookBook/blob/master/chicken_basque_1.md)  
 
-[Chicken, Curried with Mango Chutney]()
+[Chicken, Curried with Mango Chutney](https://github.com/vmsmith/CookBook/blob/master/chicken_curried_mango-chutney.md)
 
 [Chicken a la Diable](https://github.com/vmsmith/CookBook/blob/master/chicken_diable.md)
 
