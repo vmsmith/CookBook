@@ -14,7 +14,9 @@
 
 [Roasted Carrot and Ginger](https://github.com/vmsmith/CookBook/blob/master/soup_carrot_ginger_roasted.md)
 
-[Fish Soup, Basque](https://github.com/vmsmith/CookBook/blob/master/soup_fish_basquaise.md)
+[Fish Soup, Basque](https://github.com/vmsmith/CookBook/blob/master/soup_fish_basquaise.md)  
+
+[Fish Soup, Provençal](https://github.com/vmsmith/CookBook/blob/master/soup_fish_provencal.md)
 
 [Red Lentil with Lemon](https://github.com/vmsmith/CookBook/blob/master/soup_red_lentil.md)
 
