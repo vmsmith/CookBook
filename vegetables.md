@@ -17,3 +17,5 @@
 [Roasted Carrots](https://github.com/vmsmith/CookBook/blob/master/veg_carrots_roasted.md)  
 
 [Roasted Peppers Basquaise](https://github.com/vmsmith/CookBook/blob/master/veg_peppers_roasted_basquaise.md)  
+
+[Stuffed Red Peppers Mediterranean Style]()
