@@ -18,4 +18,4 @@
 
 [Roasted Peppers Basquaise](https://github.com/vmsmith/CookBook/blob/master/veg_peppers_roasted_basquaise.md)  
 
-[Stuffed Red Peppers Mediterranean Style]()
+[Stuffed Red Peppers Mediterranean Style](https://github.com/vmsmith/CookBook/blob/master/veg_peppers_stuffed.md)
