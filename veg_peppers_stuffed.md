@@ -2,7 +2,7 @@
 
 [Vegetables](https://github.com/vmsmith/CookBook/blob/master/vegetables.md)  
 
-### Roasted Red Peppers  
+### Stuffed Red Peppers Mediterranean Style  
 
 #### Ingredients 
 * 4 red bell peppers 
