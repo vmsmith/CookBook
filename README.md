@@ -2,6 +2,8 @@
 
 ### Cook Book  
 
+#### [Appetizers](https://github.com/vmsmith/CookBook/blob/master/appetizers.md)  
+
 #### [Beans and Legumes](https://github.com/vmsmith/CookBook/blob/master/beans_legumes.md)
 
 #### [Beverages](https://github.com/vmsmith/CookBook/blob/master/beverages.md)
