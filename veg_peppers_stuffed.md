@@ -6,7 +6,7 @@
 
 #### Ingredients 
 * 4 red bell peppers 
-* 3 oounces of long grain white rice
+* 3 ounces of long grain white rice
 * 1+ cups of chicken stock
 * 1+ ounces of pine nuts
 * 1 medium onion, chopped
