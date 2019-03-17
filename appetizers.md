@@ -2,7 +2,7 @@
 
 ### Appetizers  
 
-[Rosemary Cashews](https://github.com/vmsmith/CookBook/blob/master/appetizers_cashews_rosemary.md)  
+[Rosemary Cashews](https://github.com/vmsmith/CookBook/blob/master/appetizers_rosemary_cashews.md)  
 
 [Sardine Butter]()  
 
