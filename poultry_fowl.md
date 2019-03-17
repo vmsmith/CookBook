@@ -4,11 +4,11 @@
 
 ### Poultry and Fowl     
 
-[Chicken Breasts Sautéed with Garlic]()  
+[Chicken Breasts Sautéed with Garlic](https://github.com/vmsmith/CookBook/blob/master/chicken_breasts_sauteed_garlic.md)  
 
-[Chicken Breasts Sautéed with Shallots and Garlic]()  
+[Chicken Breasts Sautéed with Shallots and Garlic](https://github.com/vmsmith/CookBook/blob/master/chicken_breasts_sauteed_shallots_garlic.md)  
 
-[Chicken Breasts Sautéed with Shallots]()  
+[Chicken Breasts Sautéed with Shallots](https://github.com/vmsmith/CookBook/blob/master/chicken_breasts_sauteed_shallots.md)  
 
 [Chicken Cacciatore #1](https://github.com/vmsmith/CookBook/blob/master/chicken_cacciatore1.md)  
 
@@ -20,13 +20,13 @@
 
 [Chicken a la Diable](https://github.com/vmsmith/CookBook/blob/master/chicken_diable.md)
 
-[Chicken Fricasée à la Julia Child]()
+[Chicken Fricasée à la Julia Child](https://github.com/vmsmith/CookBook/blob/master/chicken_fricasee.md)
 
 [Chicken Normandy](https://github.com/vmsmith/CookBook/blob/master/chicken_normandy.md)    
 
-[Roasted Chicken Pronvençal]()  
+[Roasted Chicken Pronvençal](https://github.com/vmsmith/CookBook/blob/master/chicken_roasted_provencal.md)  
 
-[Chicken Tagine with Apricots and Almonds]()  
+[Chicken Tagine with Apricots and Almonds](https://github.com/vmsmith/CookBook/blob/master/chicken_tagine.md)  
 
 [Chicken Thighs Roasted with Lemon/Thyme](https://github.com/vmsmith/CookBook/blob/master/chicken_thighs_roasted_lemon-thyme.md)
 
@@ -34,9 +34,9 @@
 
 [Chicken Thighs, Braised Italian Style](https://github.com/vmsmith/CookBook/blob/master/chicken_thighs_braised_italian.md)  
 
-[Spanish Garlic Chicken]()  
+[Spanish Garlic Chicken](https://github.com/vmsmith/CookBook/blob/master/chicken_spanish_garlic.md)  
 
-[Poulet au Pot]()  
+[Poulet au Pot](https://github.com/vmsmith/CookBook/blob/master/chicken_pot_au_poulet.md)  
 
 [Lemon Pepper Chicken Wings](https://github.com/vmsmith/CookBook/blob/master/chicken_wings_lemon_pepper.md)  
 
