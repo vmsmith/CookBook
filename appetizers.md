@@ -2,8 +2,8 @@
 
 ### Appetizers  
 
-[Rosemary Cashews]()  
+[Rosemary Cashews](https://github.com/vmsmith/CookBook/blob/master/appetizers_cashews_rosemary.md)  
 
 [Sardine Butter]()  
 
-[Caramelized Onion Dip]()  
+[Caramelized Onion Dip](https://github.com/vmsmith/CookBook/blob/master/appetizers_onion_dip_caramelized.md)  
