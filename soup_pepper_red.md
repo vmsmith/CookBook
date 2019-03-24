@@ -46,7 +46,7 @@
 
 -----
 
-### Red Pepper Soup #1  
+### Red Pepper Soup #2  
 
 #### Ingredients  
 * 6 Red Bell Peppers, quartered and seeded  
