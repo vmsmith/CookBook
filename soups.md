@@ -26,7 +26,7 @@
 
 [Onion Soup](https://github.com/vmsmith/CookBook/blob/master/soup_onion.md)  
 
-[Roasted Red Pepper #1](https://github.com/vmsmith/CookBook/blob/master/soup_pepper_red.md)
+[Roasted Red Pepper (two recipes)](https://github.com/vmsmith/CookBook/blob/master/soup_pepper_red.md)
 
 [Potato and Fennel Soup](https://github.com/vmsmith/CookBook/blob/master/soup_potato_fennel.md)
 
