@@ -1,7 +1,12 @@
 [things/README](https://github.com/vmsmith/things/blob/master/README.md)
 
-* [Vietnamese Dishes]()  
+-----
 
+### Ethnic Dishes  
+
+#### [Vietnamese Dishes](https://github.com/vmsmith/CookBook/blob/master/dishes_vietnamese.md)  
+
+-----
 
 ### Cook Book  
 
