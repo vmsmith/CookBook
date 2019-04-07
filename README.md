@@ -8,7 +8,7 @@
 
 -----
 
-#### [Ingredients]()  
+#### [Ingredients](https://github.com/vmsmith/CookBook/blob/master/ingredients.md)  
 
 -----
 
