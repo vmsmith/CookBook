@@ -1,4 +1,4 @@
-[Cook Book]()  
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)  
 
 [Eggs](https://github.com/vmsmith/CookBook/blob/master/eggs.md)  
 
@@ -31,24 +31,31 @@
 
 ##### Cook the black lentils  
 
-1. Combine the black lentils and 2½ cups water in pot. Bring to a boil and then reduce heat and simmer for 14 minutes or until the lentils are al dente. Drain and rinse the lentils. Note: Do not season the lentils with salt until the end of the recipe.
+1. Combine the black lentils and 2½ cups water in pot.  
+2. Bring to a boil and then reduce heat and simmer for 14 minutes or until the lentils are al dente. 
+3. Drain and rinse the lentils. **Note:** Do not season the lentils with salt until the end of the recipe.
 
 ##### Caremelize the onion  
 
-1. Heat 2 tablespoons butter in a wide skillet over medium heat. Once melted, add the onion and cook, stirring often, for about 15 minutes or until the onions are well-browned all over. Adjust the heat as necessary to ensure even browning without burning the onions. Season with salt and pepper and transfer to a large bowl.
+1. Heat 2 tablespoons butter in a wide skillet over medium heat.  
+2. Once melted, add the onion and cook, stirring often, for about 15 minutes or until the onions are well-browned all over.  
+3. Adjust the heat as necessary to ensure even browning without burning the onions.  
+4. Season with salt and pepper and transfer to a large bowl.
 
 ##### Cook the asparagus  
 
-Prepare the Asparagus Drain off any excess fat from the skillet and return the skillet to the stove. Melt the remaining 1 tablespoon butter over medium heat and add the asparagus spears. Season with salt and pepper and cook, flipping occasionally, for about 5-6 minutes or until the asparagus spears are just tender and not overcooked. Transfer to a plate and keep warm.
+1. Melt 1 tablespoon butter over medium heat and add the asparagus spears.  
+2. Season with salt and pepper and cook, flipping occasionally, for about 5-6 minutes or until the asparagus spears are just tender and not overcooked.  
+3. Transfer to a plate and keep warm.
 
 ##### Poach the eggs
 
-Crack an egg into a small sieve and strain off as much excess white as possible. Transfer the egg to a ramekin. Continue on with the remaining eggs until all eggs are in individual ramekins. Note: If you have only have 2 ramekins. add the eggs to the water in batches; timing will need to be adjusted for eggs added in the second batch.
-To the simmering water, use the back of the spoon to create a small whirlpool at 12:00. Lower the ramekin right to the water’s edge and carefully drop the first egg into the whirlpool and use the back of your spoon to gently nudge the egg over so it’s as close to 12:00 as possible. Make a second whirlpool at 3:00 and drop the second egg in. Continue on in the same way at 6:00 and at 9:00 until all 4 eggs are added.
-As the eggs are cooking, microwave a plate for 1 minute.
+1. Poach the eggs and set aside.  
 
 ##### Finish and serve  
 
-1. To the bowl of caramelized onions, add the cooked black lentils, half the chopped parsley leaves, lemon juice, and extra virgin olive oil and toss to combine. Season with salt and pepper.
-
-2. Divide the cooked asparagus between plates and pile the cooked black lentils on top. Arrange two eggs on each dish and sprinkle with the lemon zest and the remaining chopped parsley. Serve with grated gruyère cheese if desired. Enjoy!
+1. To the bowl of caramelized onions, add the cooked black lentils, half the chopped parsley leaves, lemon juice, and extra virgin olive oil and toss to combine.  
+2. Season with salt and pepper.  
+3. Divide the cooked asparagus between plates and pile the cooked black lentils on top.  
+4. Arrange two eggs on each dish and sprinkle with the lemon zest and the remaining chopped parsley.   
+5. Serve with grated gruyère cheese if desired.  
