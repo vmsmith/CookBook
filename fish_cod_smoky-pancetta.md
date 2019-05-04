@@ -1,6 +1,6 @@
 [Cook Book]()   
 
-[Fish]()  
+[Fish](https://github.com/vmsmith/CookBook/blob/master/fish_shellfish.md)  
 
 ### Smoky Pancetta Cod  
 
