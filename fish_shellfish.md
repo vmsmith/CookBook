@@ -6,4 +6,6 @@
 
 [Mediterranean Cod](https://github.com/vmsmith/CookBook/blob/master/fish_cod_mediterranean.md)
 
+[Smoky Pancetta Cod]()  
+
 [Baked Salmon (with mustard)](https://github.com/vmsmith/CookBook/blob/master/fish_salmon_baked.md)
