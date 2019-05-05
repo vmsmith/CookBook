@@ -1,16 +1,16 @@
-[Cook Book]()
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)
 
 Toulouse Sausage with apple sauce and green beans  
 
-Duck leg confit  
+Duck leg confit with white bean goulash (tomatoes, onions)  
 
-Sautéed duck breast slices  
+Sautéed duck breast slices with _______  
 
 Piperade with eggs and Bayonne ham  
 
 Pasta with shrimp  
 
-Pasta with mushrooms  
+Pasta with mushrooms and asperagus  
 
 White fish, poached with green sauce  
 
@@ -24,10 +24,6 @@ Rabbit à la moutarde
 
 Rabbit Basquaise  
 
-Lamb stew  
-
-Pork and prune stew  
-
 Coq au vin  
 
 Omelette with ratatouille  
@@ -38,7 +34,13 @@ Reverse seared steak
 
 Basque shrimp  
 
-Beef bourgignon  
+Beef bourgignon   
+
+Lamb stew  
+
+Pork and prune stew  
+
+Scrambled eggs with smoked salmon, chives, and sour cream  
 
 -----  
 
