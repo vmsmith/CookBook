@@ -32,10 +32,11 @@
 * Scrambled eggs with smoked salmon, chives, and sour cream   
 * Scrambled eggs with pan fried trout
 * Piperade with eggs and Bayonne ham  
+* Poached eggs with black lentils, asparagus, and caramelized onions  
 
 ##### Pasta  
 * Pasta with shrimp  
-* Pasta with mushrooms and asperagus  
+* Pasta with mushrooms and asparagus  
 * Pasta with pesto  
 * Pasta salad (Fusilli, red onions, olives, brocolli, artichoke hearts, sun dried tomatoes, etc.)    
 
