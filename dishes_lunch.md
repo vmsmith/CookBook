@@ -47,3 +47,4 @@
 
 * Pot au feu  
 * Toulouse cassoulet  
+* [Garbure](https://www.washingtonpost.com/recipes/classic-garbure/14502/?utm_term=.2efda0c97388)
