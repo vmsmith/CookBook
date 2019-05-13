@@ -14,6 +14,8 @@
 
 [Chicken Cacciatore #2](https://github.com/vmsmith/CookBook/blob/master/chicken_cacciatore2.md)
 
+[Coq au Vin](https://github.com/vmsmith/CookBook/blob/master/chicken_coq-au-vin.md)
+
 [Chicken Basquaise](https://github.com/vmsmith/CookBook/blob/master/chicken_basque_1.md)  
 
 [Chicken, Curried with Mango Chutney](https://github.com/vmsmith/CookBook/blob/master/chicken_curried_mango-chutney.md)
