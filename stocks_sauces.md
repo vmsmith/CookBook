@@ -14,7 +14,7 @@
 
 [Mayonnaise](https://github.com/vmsmith/CookBook/blob/master/sauce_mayonnaise.md)
 
-[Red Pesto]()  
+[Red Pesto](https://github.com/vmsmith/CookBook/blob/master/sauce_pesto_red.md)  
 
 [Piperade](https://github.com/vmsmith/CookBook/blob/master/sauce_piperade.md)
 
