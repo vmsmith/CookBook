@@ -42,4 +42,4 @@ Then...
 8. Mix energetically until pesto thickens enough to lightly coat pasta, about 2 minutes; the pasta should have sauce clinging to it but there should also be some extra sauce that collects in bottom of bowl.  
 9. Divide pasta among bowls and serve with more Parmesan alongside for sprinkling over.  
 
-![White Pesto](https://github.com/vmsmith/CookBook/blob/master/graphics/white-pesto-1.jpg)
+![White Pesto](https://github.com/vmsmith/CookBook/blob/master/graphics/white-pesto-pasta-1.jpg)
