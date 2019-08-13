@@ -31,9 +31,9 @@
 1. Heat the olive oil in a heavy skillet over medium heat. 
 2. Add the onion and red bell pepper and sautée until the onion is tender but not browned. 
 3. Stir in the garlic until fragrant, about 10 seconds. 
-4. Add the artichokes, tomatoes, olives and herbes de Provence and cook until the mixture is thoroughly warm. 
+4. Add the artichokes, tomatoes, olives, and herbes de Provence; cook until the mixture is thoroughly warm. 
 5. Season with salt and freshly-ground pepper to taste. 
 6. Add the cod, cover with the mixture and simmer until the flesh is no longer glassy and flakes easily, about five minutes. 
-7. Plate and serve (see picture, next page)
+7. Plate and serve.  
 
 ![Mediterranean Cod](https://github.com/vmsmith/CookBook/blob/master/graphics/cod_mediterranean.png)
