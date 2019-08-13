@@ -26,7 +26,7 @@
 4. Pit olives
 5. Mince garlic
 
-#### Instructions
+#### Directions
 
 1. Heat the olive oil in a heavy skillet over medium heat. 
 2. Add the onion and red bell pepper and sautée until the onion is tender but not browned. 
@@ -35,3 +35,5 @@
 5. Season with salt and freshly-ground pepper to taste. 
 6. Add the cod, cover with the mixture and simmer until the flesh is no longer glassy and flakes easily, about five minutes. 
 7. Plate and serve (see picture, next page)
+
+![Mediterranean Cod](https://github.com/vmsmith/CookBook/blob/master/graphics/cod_mediterranean.png)
