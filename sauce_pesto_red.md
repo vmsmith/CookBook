@@ -37,3 +37,5 @@
 8. Scrape pesto into a large bowl and add butter, then pasta and 1/2 cup pasta cooking liquid. 
 9. Using tongs, toss pasta vigorously, adding more pasta cooking liquid if needed (you may not need all of it), until glossy and well coated with sauce.  
 10. Divide pasta among bowls, then season with more salt and top with Parmesan.
+
+[Red Pesto](https://github.com/vmsmith/CookBook/blob/master/graphics/red-pesto-2.jpg)
