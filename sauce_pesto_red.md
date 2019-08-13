@@ -38,4 +38,4 @@
 9. Using tongs, toss pasta vigorously, adding more pasta cooking liquid if needed (you may not need all of it), until glossy and well coated with sauce.  
 10. Divide pasta among bowls, then season with more salt and top with Parmesan.
 
-[Red Pesto](https://github.com/vmsmith/CookBook/blob/master/graphics/red-pesto-2.jpg)
+![Red Pesto](https://github.com/vmsmith/CookBook/blob/master/graphics/red-pesto-2.jpg)
