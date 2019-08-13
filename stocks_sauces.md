@@ -14,6 +14,8 @@
 
 [Mayonnaise](https://github.com/vmsmith/CookBook/blob/master/sauce_mayonnaise.md)
 
+[Green (Basil) Pasta](https://github.com/vmsmith/CookBook/blob/master/sauce_pesto_green.md)  
+
 [Red Pesto](https://github.com/vmsmith/CookBook/blob/master/sauce_pesto_red.md)  
 
 [White Pesto](https://github.com/vmsmith/CookBook/blob/master/sauce_pesto_white.md)
