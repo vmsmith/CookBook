@@ -2,6 +2,8 @@
 
 [Stocks and Sauces](https://github.com/vmsmith/CookBook/blob/master/stocks_sauces.md)  
 
+### Green (Basil) Pesto  
+
 The key for this classic pesto recipe is to add the basil at the very end instead of blending everything all at once. That way the basil doesn’t get bruised or lose its flavor and maintains its vibrant green color. 
 
 #### Ingredients  
