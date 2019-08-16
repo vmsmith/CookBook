@@ -4,6 +4,8 @@
 
 ### Soups    
 
+[Avocado, Cucumber, and Fennel Soup](https://github.com/vmsmith/CookBook/blob/master/soup_avocado-cucumber-fennel.md)
+
 [Borscht #1 - no meat](https://github.com/vmsmith/CookBook/blob/master/soup_borscht1.md)  
 
 [Borscht #2 - with beef](https://github.com/vmsmith/CookBook/blob/master/soup_borscht2.md)
