@@ -2,8 +2,9 @@
 
 [Stocks and Sauces](https://github.com/vmsmith/CookBook/blob/master/stocks_sauces.md)  
 
-This is the direct inverse of the normal basil pesto you know and love. It’s built on a combination of toasted nuts, creamy ricotta, and salty Parmesan, with a little kick coming from raw garlic and fresh oregano. You don’t need a food processor, a mortar and pestle, or a blender —- in fact, the entire sauce comes together in the same bowl you can use for serving.
+### White Pesto  
 
+This is the direct inverse of the normal basil pesto you know and love. It’s built on a combination of toasted nuts, creamy ricotta, and salty Parmesan, with a little kick coming from raw garlic and fresh oregano. You don’t need a food processor, a mortar and pestle, or a blender —- in fact, the entire sauce comes together in the same bowl you can use for serving.
 
 #### Ingredients  
 
