@@ -1,9 +1,10 @@
-[Cook Book]()
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)
 
-[Desserts]()
+[Desserts](https://github.com/vmsmith/CookBook/blob/master/desserts.md)
 
 ### Figs and Raspberries with Steeped Lemon Cream  
 
+From [Gabrielle Hamilton - "Prune"](https://www.wnyc.org/story/recipe-gabrielle-hamiltons-figs-and-raspberries-steeped-lemon-cream/)  
 Yield: 6 servings
 
 #### Ingredients  
