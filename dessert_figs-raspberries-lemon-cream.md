@@ -27,6 +27,8 @@ Yield: 6 servings
 1. Cut ripe black figs open to reveal hopefully jammy, perfect, red interiors and arrange in shallow small bowl.  
 2. Stud ripe red raspberries in and around the figs, or in a mound in center.  
 3. Shake lemon-sweetened cream in quart container and pour through small passoir to strain out bits of zest, letting cream pool up in and around fruit without drowning it completely.
-4. Make sure fruit is room temperature and cream is cold.
+4. Make sure fruit is room temperature and cream is cold.  
+
+![Figs and Raspberries with Steeped Lemon Cream](https://github.com/vmsmith/CookBook/blob/master/graphics/TWE-Prune-FigAndRaspberries-1100x550-c-center.png)
 
  
