@@ -32,3 +32,5 @@
 5. Correct for seasoning and add chopped parsley.  
 6. Put into a baking dish, cover with bread dough, and broil.  
 
+![Linguine with Clams](https://github.com/vmsmith/CookBook/blob/master/graphics/linguine_with_clams.jpg)
+
