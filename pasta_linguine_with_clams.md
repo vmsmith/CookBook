@@ -18,19 +18,20 @@
 
 #### Preparation   
 
-1. Cook linguine halfway, remove and put aside   
-2. Open and shell clams  
-3. Peel and slice garlic  
-4. Chop parsley  
+1. **Make bread dough**    
+2. Cook linguine halfway, remove and put aside   
+3. Scrub the clams    
+4. Peel and slice garlic  
+5. Chop parsley  
 
 #### Directions  
 
 1. Heat olive oil.  
-2. Sauté red pepper flakes and garlic slices until garlic sticks to spoon but hasn't browned.   
+2. Sauté red pepper flakes and garlic slices until garlic sticks to tongs but hasn't browned.   
 3. Add wine and clams.  
 4. Add linguine and boil "thunderously."  
 5. Correct for seasoning and add chopped parsley.  
-6. Put into a baking dish, cover with bread dough, and broil.  
+6. Put into a baking dish, seal with bread dough, and broil.  
 
 ![Linguine with Clams](https://github.com/vmsmith/CookBook/blob/master/graphics/linguine_with_clams.jpg)
 
