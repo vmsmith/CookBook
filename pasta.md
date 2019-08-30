@@ -6,4 +6,4 @@
 
 [Linguine alle vongole (Clare de Boer)](https://github.com/vmsmith/CookBook/blob/master/pasta_linguine_with_clams.md)  
 
-[Linguine with clams]()
+[Linguine with clams](https://github.com/vmsmith/CookBook/blob/master/pasta_linguine_with_clams2.md)
