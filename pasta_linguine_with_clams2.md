@@ -1,6 +1,6 @@
-[Cook Book]()  
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)  
 
-[Pasta]()  
+[Pasta](https://github.com/vmsmith/CookBook/blob/master/pasta.md)  
 
 ### Linguine with Clams  
 
