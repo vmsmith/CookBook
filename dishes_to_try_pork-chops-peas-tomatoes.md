@@ -69,4 +69,6 @@
 20. If desired, thinly slice the pork chops.  
 21. Divide the creamy peas and tomatoes between bowls and arrange the sliced pork on top.  
 22. Pour more of the cream sauce over the pork chops just before serving.  
-23. Sprinkle with a touch of finishing salt, if desired. Enjoy!
+23. Sprinkle with a touch of finishing salt, if desired. Enjoy!  
+
+![Pork Chops with Creamy Peas and Tomatoes](https://github.com/vmsmith/CookBook/blob/master/graphics/Pork-Chops-with-Creamy-Peas-and-Tomatoes_Hero-980x695.png)
