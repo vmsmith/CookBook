@@ -58,7 +58,7 @@
 14. Add the peas and bring to a boil.  
 15. Reduce heat and simmer for 5-6 minutes or until the peas are softened but still bright green.  
 16. Return the heat to medium (a very low boil).  
-17 Season to taste with salt and pepper and then add the crushed red pepper, and thyme.  
+17. Season to taste with salt and pepper and then add the crushed red pepper, and thyme.  
 18. Pour in the heavy cream and the lemon juice.  
 19. Cook for 5 additional minutes or until the sauce has thickened a bit. Turn off the heat.  
 
