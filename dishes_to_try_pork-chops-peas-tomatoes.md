@@ -1,6 +1,6 @@
-[Cook Book]()
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)
 
-[Things to try...]()  
+[Things to try...](https://github.com/vmsmith/CookBook/blob/master/dishes_to_try.md)  
 
 ### Pork Chops with Creamy Peas and Tomatoes
 
