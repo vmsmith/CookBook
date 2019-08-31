@@ -14,7 +14,9 @@
 
 -----
 
-#### [Lunch Dishes](https://github.com/vmsmith/CookBook/blob/master/dishes_lunch.md)  
+#### [Lunch Dishes](https://github.com/vmsmith/CookBook/blob/master/dishes_lunch.md)   
+
+#### [Things to try...](https://github.com/vmsmith/CookBook/blob/master/dishes_to_try.md)  
 
 -----  
 
