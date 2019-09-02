@@ -2,6 +2,8 @@
 
 ### Desserts  
 
+[Sweet Basque Cream]()  
+
 [Creme Brulee](https://github.com/vmsmith/CookBook/blob/master/dessert_creme_brulee.md)  
 
 [Figs and Raspberries with Steeped Lemon Cream](https://github.com/vmsmith/CookBook/blob/master/dessert_figs-raspberries-lemon-cream.md)
