@@ -2,7 +2,7 @@
 
 ### Desserts  
 
-[Sweet Basque Cream]()  
+[Sweet Basque Cream](https://github.com/vmsmith/CookBook/blob/master/dessert_cream_sweet-basque.md)  
 
 [Creme Brulee](https://github.com/vmsmith/CookBook/blob/master/dessert_creme_brulee.md)  
 
