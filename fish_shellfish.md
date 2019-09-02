@@ -4,8 +4,14 @@
 
 ### Fish and Shellfish    
 
+[Bayou Lobster Omelet]()  
+
 [Mediterranean Cod](https://github.com/vmsmith/CookBook/blob/master/fish_cod_mediterranean.md)
 
 [Smoky Pancetta Cod with Lentils and Spinach](https://github.com/vmsmith/CookBook/blob/master/fish_cod_smoky-pancetta.md)  
 
-[Baked Salmon (with mustard)](https://github.com/vmsmith/CookBook/blob/master/fish_salmon_baked.md)
+[Baked Salmon (with mustard)](https://github.com/vmsmith/CookBook/blob/master/fish_salmon_baked.md)  
+
+[Shrimp in Green Sauce]()  
+
+[Seared Tuna]()  
