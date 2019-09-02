@@ -1,6 +1,6 @@
 [Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)  
 
-[Condiments](https://github.com/vmsmith/CookBook/blob/master/condiment.md)  
+[Condiments](https://github.com/vmsmith/CookBook/blob/master/condiments.md)  
 
 ### Onion Confitura  
 
