@@ -14,4 +14,4 @@
 
 [Shrimp in Green Sauce]()  
 
-[Seared Tuna]()  
+[Seared Tuna](https://github.com/vmsmith/CookBook/blob/master/fish_tuna_seared.md)  
