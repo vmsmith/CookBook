@@ -1,6 +1,6 @@
 [Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)  
 
-[Fish]()
+[Fish](https://github.com/vmsmith/CookBook/blob/master/fish_and_shellfish.md)
 
 ### Seared Sesame Tuna  
 
