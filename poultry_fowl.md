@@ -42,4 +42,6 @@
 
 [Lemon Pepper Chicken Wings](https://github.com/vmsmith/CookBook/blob/master/chicken_wings_lemon_pepper.md)  
 
+[Duck Breast, Sautéed](https://github.com/vmsmith/CookBook/blob/master/duck_breast_sauteed.md)  
+
 [Roast Pheasant](https://github.com/vmsmith/CookBook/blob/master/pheasant_roast.md)
