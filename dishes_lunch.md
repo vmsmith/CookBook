@@ -4,6 +4,7 @@
 * Toulouse Sausage with apple sauce and green beans  
 * Duck leg confit with white bean goulash (tomatoes, onions)  
 * Sautéed duck breast slices with fried apples    
+* Pan fried duck breast with stock/orange sauce  
 
 #### Seafood  
 * Basque shrimp with crusty bread, red peppers, etc.  
@@ -36,6 +37,7 @@
 
 ##### Pasta  
 * Pasta with shrimp  
+* Linguine with clams  
 * Pasta with mushrooms and asparagus  
 * Pasta with pesto  
 * Pasta salad (Fusilli, red onions, olives, brocolli, artichoke hearts, sun dried tomatoes, etc.)    
