@@ -4,7 +4,7 @@
 
 -----  
 
-### Hollandaise Sauces   
+### Hollandaise Sauce     
 
 #### Ingredients  
 
