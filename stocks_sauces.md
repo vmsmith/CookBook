@@ -24,7 +24,7 @@
 
 [Ranch Dressing](https://github.com/vmsmith/CookBook/blob/master/sauce_ranch_dressing.md)
 
-[Smitane Sauce](https://github.com/vmsmith/CookBook/blob/master/sauce_smitane.md)
+[Smitane Sauce](https://github.com/vmsmith/CookBook/blob/master/sauce_smitane.md)  
 
 [Toum (Lebanese Garlic Sauce)](https://github.com/vmsmith/CookBook/blob/master/sauce_toum.md)  
 
