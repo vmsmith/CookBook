@@ -32,4 +32,6 @@
 
 [Toum (Lebanese Garlic Sauce)](https://github.com/vmsmith/CookBook/blob/master/sauce_toum.md)  
 
+[Tomato Sauce (Marcella Hazan)](https://github.com/vmsmith/CookBook/blob/master/sauce_tomato.md)
+
 [Veloute Sauce](https://github.com/vmsmith/CookBook/blob/master/sauce_veloute.md)
