@@ -4,6 +4,8 @@
 
 ### Stocks and Sauces    
 
+[Bearnaise Sauce](https://github.com/vmsmith/CookBook/blob/master/sauce_bearnaise.md)
+
 [Bechamel Sauce](https://github.com/vmsmith/CookBook/blob/master/sauce_bechamel.md)  
 
 [Beurre Blanc](https://github.com/vmsmith/CookBook/blob/master/sauce_beurre_blanc.md)
