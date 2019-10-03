@@ -1,12 +1,12 @@
-[Cook Book]()  
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)  
 
-[Fish and Shellfish]()  
+[Fish and Shellfish](https://github.com/vmsmith/CookBook/blob/master/fish.md)  
 
 -----  
 
 ### Fish: Halibut Baked with Lemon Herb Butter Sauce  
 
-[Notes]()
+[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)
 
 #### Ingredients  
 
@@ -29,11 +29,11 @@
 
 1. Combine the butter, lemon juice, garlic and parsley in a small saucepan and cook over medium heat until the butter is melted and the ingredients are well mixed.
 
-2. While the sauce is heating, place the pieces of Halibut in a baking dish on parchment paper and add salt and pepper to taste
+2. While the sauce is heating, place the pieces of halibut in a baking dish on parchment paper and add salt and pepper to taste
 
 3. Once the sauce is melted, spoon it over the halibut.
 
-4. Place the halibut in the oven and cook it for 15 minutes (or until it’s cooked through
+4. Place the halibut in the oven and cook it for 15 minutes (or until it’s cooked through).
 
 5. Plate the halibut and spoon any sauce left in the baking dish on top.
 
