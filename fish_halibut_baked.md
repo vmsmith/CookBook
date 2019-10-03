@@ -10,7 +10,7 @@
 
 #### Ingredients  
 
-* 2 7oz. pieces of Halibut (wild-caught  
+* 2 7oz. pieces of halibut (or fluke, flounder (flet), turbot, wild striped bass, or cod (morue))  
 * 3 tbsp unsalted butter  
 * 2 tbsp lemon juice  
 * 2 tbsp of minced garlic  
