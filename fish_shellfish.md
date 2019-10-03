@@ -10,6 +10,8 @@
 
 [Smoky Pancetta Cod with Lentils and Spinach](https://github.com/vmsmith/CookBook/blob/master/fish_cod_smoky-pancetta.md)  
 
+[Baked Halibut with Lemon Herb Butter Sauce](https://github.com/vmsmith/CookBook/blob/master/fish_halibut_baked.md)
+
 [Baked Salmon (with mustard)](https://github.com/vmsmith/CookBook/blob/master/fish_salmon_baked.md)  
 
 [Shrimp in Green Sauce]()  
