@@ -1,4 +1,6 @@
-[things/README](https://github.com/vmsmith/things/blob/master/README.md)
+[Everyday Things - README](https://github.com/vmsmith/EDT/blob/master/README.md)
+
+[Miscellaneous Stuff - README](https://github.com/vmsmith/things/blob/master/README.md)
 
 -----
 
