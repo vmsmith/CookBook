@@ -1,12 +1,10 @@
-[things/README](https://github.com/vmsmith/things/blob/master/README.md)
-
 [Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)
 
-[Soups](https://github.com/vmsmith/CookBook/blob/master/soup.md)  
+[Soups](https://github.com/vmsmith/CookBook/blob/master/soups.md)  
 
 -----  
 
-[Notes]()  [Cook Book](https://github.com/vmsmith/CookBook/blob/master/notes.md)  
+[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)  
 
 ### Chestnut Soup  
 
