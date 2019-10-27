@@ -14,7 +14,9 @@
 
 [Carrot and Ginger](https://github.com/vmsmith/CookBook/blob/master/soup_carrot_ginger.md)
 
-[Roasted Carrot and Ginger](https://github.com/vmsmith/CookBook/blob/master/soup_carrot_ginger_roasted.md)
+[Roasted Carrot and Ginger](https://github.com/vmsmith/CookBook/blob/master/soup_carrot_ginger_roasted.md)  
+
+[Chestnut](https://github.com/vmsmith/CookBook/blob/master/soup_chestnut.md)
 
 [Fish Soup, Basque](https://github.com/vmsmith/CookBook/blob/master/soup_fish_basquaise.md)  
 
