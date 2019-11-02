@@ -52,6 +52,8 @@
 
 #### [Soups](https://github.com/vmsmith/CookBook/blob/master/soups.md)  
 
+#### [Stews](https://github.com/vmsmith/CookBook/blob/master/stocks_sauces.md)    
+
 #### [Stocks and Sauces](https://github.com/vmsmith/CookBook/blob/master/stocks_sauces.md)  
 
 #### [Vegetables](https://github.com/vmsmith/CookBook/blob/master/vegetables.md)  
