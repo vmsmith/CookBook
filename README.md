@@ -22,6 +22,8 @@
 
 -----  
 
+[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)
+
 ### Cook Book  
 
 #### [Appetizers](https://github.com/vmsmith/CookBook/blob/master/appetizers.md)  
