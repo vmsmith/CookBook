@@ -52,8 +52,7 @@
 2. Place the cream and butter into a microwave-safe container and heat in the microwave until warmed through, about 35 seconds.  
 3. Mix well the potatoes with the cream and butter, salt and pepper; continue to mash until smooth.  
 4. Stir in the egg yolk until well combined.  
-5. Heat the oil into a frying pan and set over a medium high heat.  
-Once the oil shimmers, add the onion and carrots and saute just until they begin to take on colour, approximately 3 to 4 minutes.  
+5. Heat the oil into a frying pan and set over a medium high heat. Once the oil shimmers, add the onion and carrots and saute just until they begin to take on colour, approximately 3 to 4 minutes.  
 6. Add the garlic and stir to combine.  
 7. Add the lamb, salt and pepper and cook until browned and cooked through, approximately 3 minutes.  
 8. Sprinkle the meat with the flour and toss to coat, continuing to cook for another minute.  
