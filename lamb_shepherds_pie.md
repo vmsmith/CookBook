@@ -6,7 +6,7 @@
 
 [Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)  
 
-### Shephard's Pie  
+### Shepherd's Pie  
 
 #### Ingredients  
 
