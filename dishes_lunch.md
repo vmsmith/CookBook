@@ -29,6 +29,7 @@
 * Pork and prune stew      
 
 ##### Eggs  
+* Quiche  
 * Omelette with ratatouille  
 * Scrambled eggs with smoked salmon, chives, and sour cream   
 * Scrambled eggs with pan fried trout
