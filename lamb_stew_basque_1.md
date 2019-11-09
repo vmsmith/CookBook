@@ -1,10 +1,17 @@
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)  
+
 [Meat](https://github.com/vmsmith/CookBook/blob/master/meat.md)
 
-### Basque Lamb Stew #1
+-----  
+
+[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)  
+
+### Basque Lamb Stew #1  
+* [Simply Recipes](https://www.simplyrecipes.com/recipes/basque_lamb_stew/)
 
 #### Ingredients  
 
-* Lamb stewing meat  
+* 3 1/2 pounds of lamb shoulder, cut into 2-inch pieces   
 * 1 10-ounce can roasted red bell peppers, cut into 1/2 inch strips  
 * 1 large ripe tomato, peeled, seeded, and chopped  
 * 1 large onion, peeled and chopped
