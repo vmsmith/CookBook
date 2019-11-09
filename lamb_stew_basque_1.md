@@ -11,7 +11,7 @@
 
 #### Ingredients  
 
-* 3 1/2 pounds of lamb shoulder, cut into 2-inch pieces   
+* 3 1/2 pounds (1.5 kilos) of lamb shoulder, cut into 2-inch pieces   
 * 1 10-ounce can roasted red bell peppers, cut into 1/2 inch strips  
 * 1 large ripe tomato, peeled, seeded, and chopped  
 * 1 large onion, peeled and chopped
