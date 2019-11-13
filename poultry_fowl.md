@@ -48,4 +48,8 @@
 
 -----
 
-[Roast Pheasant](https://github.com/vmsmith/CookBook/blob/master/pheasant_roast.md)
+[Roast Pheasant](https://github.com/vmsmith/CookBook/blob/master/pheasant_roast.md)  
+
+-----  
+
+[Roast Quail](https://github.com/vmsmith/CookBook/blob/master/quail_roast.md)
