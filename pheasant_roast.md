@@ -2,7 +2,12 @@
 
 [Poultry and Fowl](https://github.com/vmsmith/CookBook/blob/master/poultry_fowl.md)  
 
-### [Roast Pheasant](https://honest-food.net/roast-pheasant-recipe/)    
+-----  
+
+[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)
+
+### Roast Pheasant
+* [Honest Food](https://honest-food.net/roast-pheasant-recipe/)    
 
 #### Ingredients  
 
