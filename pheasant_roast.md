@@ -6,8 +6,7 @@
 
 [Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)
 
-### Roast Pheasant
-* [Honest Food](https://honest-food.net/roast-pheasant-recipe/)    
+### Roast Pheasant - [Honest Food](https://honest-food.net/roast-pheasant-recipe/)    
 
 #### Ingredients  
 
