@@ -3,3 +3,9 @@
 -----  
 
 ### Notes
+
+Duck leg confit, white bean ragout  
+Baked chicken leg, mushroom pilaf  
+Shrimp pasta  
+Mushroom omelette  
+Lamb stew Basquaise  
