@@ -4,6 +4,8 @@
 
 -----  
 
+[Notes](https://github.com/vmsmith/CookBook/blob/master/soups.md)  
+
 ### Avocado, Cucumber, and Fennel Soup  
 
 #### Ingredients  
