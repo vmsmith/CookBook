@@ -4,6 +4,8 @@
 
 -----  
 
+[Notes](https://github.com/vmsmith/CookBook/blob/master/soups.md)    
+
 ### Basque Fish Soup  
 
 From “The Cooking of Southwest France,” by Paula Wolfert
