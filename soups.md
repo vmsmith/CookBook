@@ -4,6 +4,10 @@
 
 [Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)
 
+-----  
+
+[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)  
+
 ### Soups    
 
 [Avocado, Cucumber, and Fennel Soup](https://github.com/vmsmith/CookBook/blob/master/soup_avocado-cucumber-fennel.md)
@@ -13,8 +17,6 @@
 [Borscht #2 - with beef](https://github.com/vmsmith/CookBook/blob/master/soup_borscht2.md)
 
 [Cauliflower Soup](https://github.com/vmsmith/CookBook/blob/master/soup_cauliflower.md)
-
-[Carrot and Ginger](https://github.com/vmsmith/CookBook/blob/master/soup_carrot_ginger.md)
 
 [Roasted Carrot and Ginger](https://github.com/vmsmith/CookBook/blob/master/soup_carrot_ginger_roasted.md)  
 
