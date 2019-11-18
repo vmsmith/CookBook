@@ -14,7 +14,7 @@
 
 [Roasted Broccoli Basquaise](https://github.com/vmsmith/CookBook/blob/master/veg_broccoli_roasted.md)  
 
-[Basalmic Roasted Brussells Sprouts]()  
+[Basalmic Roasted Brussells Sprouts](https://github.com/vmsmith/CookBook/blob/master/veg_brussells_sprouts_roasted1.md)  
 
 [Roasted Brussells Sprouts](https://github.com/vmsmith/CookBook/blob/master/veg_brussels-sprouts_roasted2.md)
 
