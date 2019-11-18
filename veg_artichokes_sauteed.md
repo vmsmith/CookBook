@@ -1,13 +1,17 @@
 [Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)  
 
-[Vegetables](https://github.com/vmsmith/CookBook/blob/master/vegetables.md)  
+[Vegetables](https://github.com/vmsmith/CookBook/blob/master/vegetables.md)   
+
+-----  
+
+[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)
 
 ### Artichokes Sauteed with Onions, Garlic, and Herbs
 
 #### Ingredients
 
 * 12 – 15 small artichokes
-* 1 small onion, diced
+* 1 small onion, sliced or diced
 * 3 garlic cloves, chopped
 * 3 tablespoons of olive oil
 * 3 tablespoons of chopped herbs (thyme, marjoram, oregano, savory, parsley)
@@ -15,7 +19,7 @@
 
 #### Preparation
 
-1. Dice the onion.
+1. Slice or dice the onion.
 2. Trim the artichokes and thinly slice the hearts (preserve in lemon water)
 3. Chop the herbs
 
