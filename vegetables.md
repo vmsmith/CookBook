@@ -20,4 +20,6 @@
 
 [Stuffed Red Peppers Mediterranean Style](https://github.com/vmsmith/CookBook/blob/master/veg_peppers_stuffed.md)  
 
-[Ratatouille](https://github.com/vmsmith/CookBook/blob/master/veg_ratatouille.md)    
+[Ratatouille](https://github.com/vmsmith/CookBook/blob/master/veg_ratatouille.md)   
+
+[Tomatoes, Over Dried](https://github.com/vmsmith/CookBook/blob/master/veg_tomatoes_oven-dried.md)  
