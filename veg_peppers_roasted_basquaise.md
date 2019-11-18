@@ -2,6 +2,10 @@
 
 [Vegetables](https://github.com/vmsmith/CookBook/blob/master/vegetables.md)  
 
+-----  
+
+[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)
+
 ### Roasted Peppers Basquaise   
 From "The Basque Table", by Teresa Barrenechea 
 
