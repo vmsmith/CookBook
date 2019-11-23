@@ -18,6 +18,8 @@
 ##### Poultry and Rabbit  
 * Coq au vin   
 * Chicken curry  
+* Roast quail  
+* Roast pigeon (TBD)  
 * Poultry roasted with onions and carrots   
 * Rabbit à la moutarde   
 * Rabbit Basquaise   
