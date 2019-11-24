@@ -28,6 +28,8 @@
 
 [Chicken Fricasée à la Julia Child](https://github.com/vmsmith/CookBook/blob/master/chicken_fricasee.md)
 
+[Chicken Legs, Baked](https://github.com/vmsmith/CookBook/blob/master/chicken_legs_baked.md)
+
 [Chicken Normandy](https://github.com/vmsmith/CookBook/blob/master/chicken_normandy.md)    
 
 [Roasted Chicken Pronvençal](https://github.com/vmsmith/CookBook/blob/master/chicken_roasted_provencal.md)  
