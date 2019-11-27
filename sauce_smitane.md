@@ -9,7 +9,7 @@
 * 1 tablespoon of unsalted butter
 * 1/4 cup of finely chopped onions
 * 1 cup of dry white wine
-* 1 cup of [velouté sauce](https://github.com/vmsmith/CookBook/blob/master/veloute.md)
+* 1 cup of [velouté sauce](https://github.com/vmsmith/CookBook/blob/master/sauce_veloute.md)
 * 1 cup of sour cream
 * Salt and freshly ground pepper
 * Lemon juice (optional)
