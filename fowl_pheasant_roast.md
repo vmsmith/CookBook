@@ -41,8 +41,8 @@
 
 #### Brine  
 
-1. bring the water, salt, bay leaves, juniper and sugar to a boil.  
+1. Bring the water, salt, bay leaves, juniper and sugar to a boil.  
 
 2. Cover and let cool to room temperature. 
 
-3. When it cools, submerge the pheasant in the brine and keep it in the fridge for 4. 
+3. When it cools, submerge the pheasant in the brine and keep it in the fridge for 4 hours. 
