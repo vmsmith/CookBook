@@ -28,5 +28,5 @@
 1. Pat chicken dry and rub with a bit of olive oil  
 2. Place chicken on baking sheet lined with parchement paper  
 3. Sprinkle chicken with spice mixture  
-4. Bake for about 40 minutes, but **check the internal temperature along the way** so as not to overcook it  
+4. Bake until internal temperature is 165F...about 40 minutes, but **check the internal temperature along the way** so as not to overcook it  
 
