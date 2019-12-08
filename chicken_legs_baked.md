@@ -15,7 +15,7 @@
 * 1/2 teaspoon ground black pepper  
 * 1 teaspoon onion powder  
 * 1/4 teaspoon piment d'Esplette  
-* Olive oil  
+* Goose or duck fat  
 
 #### Preparations  
 
@@ -25,7 +25,7 @@
 
 #### Directions  
 
-1. Pat chicken dry and rub with a bit of olive oil  
+1. Pat chicken dry and rub with a bit of goose or duck fat    
 2. Place chicken on baking sheet lined with parchement paper  
 3. Sprinkle chicken with spice mixture  
 4. Bake until internal temperature is 165F...about 40 minutes, but **check the internal temperature along the way** so as not to overcook it  
