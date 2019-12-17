@@ -48,6 +48,14 @@
 ##### Misc  
 * Reverse seared steak  
 
+##### Summer  
+* Ellen's eggplant & tomato tarte
+* Radia's sardines & tomato dish  
+* Pissaladière  
+* Salade Niçoise  
+* Pasta with pesto  
+* Fish soup Basquaise  
+
 -----  
 
 * Pot au feu  
