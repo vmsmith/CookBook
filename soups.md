@@ -20,7 +20,7 @@
 
 [Roasted Carrot and Ginger](https://github.com/vmsmith/CookBook/blob/master/soup_carrot_ginger_roasted.md)  
 
-[Celery Root and Leek]()
+[Celery Root and Leek](https://github.com/vmsmith/CookBook/blob/master/soup_celery_root_leek.md)  
 
 [Chestnut](https://github.com/vmsmith/CookBook/blob/master/soup_chestnut.md)
 
