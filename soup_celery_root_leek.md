@@ -19,7 +19,7 @@
 * 2 tablespoons olive oil  
 * Sea salt  
 * 1 to 1 1/2 teaspoons freshly-ground white pepper    
-* Scant 1/8 teaspoon chile powder   
+* Scant 1/8 teaspoon piment d'Esplette     
 
 #### Preparation  
 
@@ -34,6 +34,8 @@
 4. Add the celery root and stock    
 5. Bring to a boil, then reduce to a strong simmer   
 6. Cook, with the lid to the pot ajar on top, until the celery root pieces are soft and easily pierced with a paring knife, about forty five minutes  
-7. Add white pepper and chile powder, the purée using a hand mixer, or let the soup cool to room temperature and whiz in a blender until smooth. 
-8. Taste, and season with additional salt and pepper if desired    
-9. If the soup is too thick, it can be thinned with water or stock  
+7. Add white pepper and chile powder
+8. Let the soup cool a bit, then blend until smooth   
+9. Taste, and season with additional salt and pepper if desired    
+10. If the soup is too thick, thin it with water or stock  
+11. Food mill it if necessary  
