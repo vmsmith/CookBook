@@ -38,4 +38,8 @@
 8. Let the soup cool a bit, then blend until smooth   
 9. Taste, and season with additional salt and pepper if desired    
 10. If the soup is too thick, thin it with water or stock  
-11. Food mill it if necessary  
+11. Food mill it if necessary   
+
+**Variations:** Celery root has a distinctive flavor, but don’t hesitate to experiment with adding other ingredients. Cubes of pear or apple could be cooked with the cubes of celery root and puréed, a dusting of nutmeg, or some tangy crème fraîche instead of the olive oil are all worthy additions.
+
+If you’re feeling opulent, this soup lends itself very well to shaved truffles scattered over the top.
