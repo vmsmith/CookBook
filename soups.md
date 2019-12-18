@@ -20,6 +20,8 @@
 
 [Roasted Carrot and Ginger](https://github.com/vmsmith/CookBook/blob/master/soup_carrot_ginger_roasted.md)  
 
+[Celery Root and Leek]()
+
 [Chestnut](https://github.com/vmsmith/CookBook/blob/master/soup_chestnut.md)
 
 [Fish Soup, Basque](https://github.com/vmsmith/CookBook/blob/master/soup_fish_basquaise.md)  
