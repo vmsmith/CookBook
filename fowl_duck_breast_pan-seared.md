@@ -32,9 +32,30 @@
 
 -----  
 
-7. **For the Pan Sauce:** Over high heat, deglaze sauté pan with white wine.  
-8. Scrape up any brown bits stuck to pan and let wine reduce until pan is almost dry and only 1 to 2 tablespoons remain, about 2 minutes.  
-9. Add chicken stock and let reduce by half, until sauce is sticky and rich, about 2 minutes.  
-10. Remove sauce from heat and swirl in butter until melted and evenly incorporated.  
-11. Season sauce with orange juice and zest, salt, and black pepper.  
-12. Serve with duck breast.
+#### Regular pan sauce  
+
+1. Over high heat, deglaze sauté pan with white wine    
+2. Scrape up any brown bits stuck to pan and let wine reduce until pan is almost dry and only 1 to 2 tablespoons remain, about 2 minutes    
+3. Add chicken stock and let reduce by half, until sauce is sticky and rich, about 2 minutes    
+4. Remove sauce from heat and swirl in butter until melted and evenly incorporated    
+5. Season sauce with orange juice and zest, salt, and black pepper    
+
+-----  
+
+#### Cherry Sauce  
+
+* 1 tablespoon chilled butter    
+* 1/4 cup finely chopped shallot    
+* 1/2 cup chicken stock   
+* 8 halved pitted sweet red cherries   
+* 2 tablespoons tawny Port  
+* 1 tablespoon orange blossom honey  
+
+1. Pour off all but 2 tablespoons drippings from skillet  
+2. Add shallot to skillet and stir over medium heat 30 seconds  
+3. Add broth, cherries, Port, and honey  
+4. Increase heat to high and boil until sauce is reduced to glaze, stirring often, about 3 minutes  
+5. Whisk in 1 tablespoon cold butter  
+6. Season sauce to taste with salt and pepper  
+
+
