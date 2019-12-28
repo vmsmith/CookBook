@@ -1,4 +1,4 @@
-[things/README](https://github.com/vmsmith/things/blob/master/README.md)
+[Personal Stuff - README](https://github.com/vmsmith/things/blob/master/README.md)
 
 [Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)
 
@@ -7,6 +7,8 @@
 #### Polenta  
 
 #### Rice  
+
+[Wild Rice with (many things)]()  
 
 #### Risotto  
 
