@@ -2,13 +2,13 @@
 
 [Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)
 
-### Rice, Risotto, etc.  
+### Rice, Risotto, Polenta, etc.  
 
 #### Polenta  
 
 #### Rice  
 
-[Wild Rice with (many things)]()  
+[Wild Rice with (many things)](https://github.com/vmsmith/CookBook/blob/master/rice_wild.md)  
 
 #### Risotto  
 
