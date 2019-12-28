@@ -8,7 +8,7 @@
 
 #### Rice  
 
-[Wild Rice with (many things)](https://github.com/vmsmith/CookBook/blob/master/rice_wild.md)  
+[Wild Rice (with many things)](https://github.com/vmsmith/CookBook/blob/master/rice_wild.md)  
 
 #### Risotto  
 
