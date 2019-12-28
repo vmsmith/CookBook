@@ -7,13 +7,6 @@
 #### Ingredients  
 
 * Duck breasts  
-* 1/2 cup dry white wine (4 fluid ounces; 120 ml)
-* 1 1/2 cups homemade chicken stock  
-* 4 tablespoons unsalted butter  
-* 1/4 cup freshly squeezed orange juice from 1 orange
-* 1 teaspoon freshly grated orange zest
-* Freshly ground black pepper, to taste
-* Kosher salt  
 
 #### Preparations   
 
@@ -33,6 +26,14 @@
 -----  
 
 #### Regular pan sauce  
+
+* 1/2 cup dry white wine (4 fluid ounces; 120 ml)
+* 1 1/2 cups homemade chicken stock  
+* 4 tablespoons unsalted butter  
+* 1/4 cup freshly squeezed orange juice from 1 orange
+* 1 teaspoon freshly grated orange zest
+* Freshly ground black pepper, to taste
+* Kosher salt  
 
 1. Over high heat, deglaze sauté pan with white wine    
 2. Scrape up any brown bits stuck to pan and let wine reduce until pan is almost dry and only 1 to 2 tablespoons remain, about 2 minutes    
