@@ -18,17 +18,17 @@
 
 [Cauliflower Soup](https://github.com/vmsmith/CookBook/blob/master/soup_cauliflower.md)
 
-[Roasted Carrot and Ginger](https://github.com/vmsmith/CookBook/blob/master/soup_carrot_ginger_roasted.md)  
+[Roasted Carrot and Ginger Soup](https://github.com/vmsmith/CookBook/blob/master/soup_carrot_ginger_roasted.md)  
 
-[Celery Root and Leek](https://github.com/vmsmith/CookBook/blob/master/soup_celery_root_leek.md)  
+[Celery Root and Leek Soup](https://github.com/vmsmith/CookBook/blob/master/soup_celery_root_leek.md)  
 
-[Chestnut](https://github.com/vmsmith/CookBook/blob/master/soup_chestnut.md)
+[Chestnut Soup](https://github.com/vmsmith/CookBook/blob/master/soup_chestnut.md)
 
 [Fish Soup, Basque](https://github.com/vmsmith/CookBook/blob/master/soup_fish_basquaise.md)  
 
 [Fish Soup, Provençal](https://github.com/vmsmith/CookBook/blob/master/soup_fish_provencal.md)
 
-[Red Lentil with Lemon](https://github.com/vmsmith/CookBook/blob/master/soup_red_lentil.md)
+[Red Lentil with Lemon Soup](https://github.com/vmsmith/CookBook/blob/master/soup_red_lentil.md)
 
 [Lobster Bisque](https://github.com/vmsmith/CookBook/blob/master/soup_lobster_bisque.md)
 
@@ -36,7 +36,7 @@
 
 [Onion Soup](https://github.com/vmsmith/CookBook/blob/master/soup_onion.md)  
 
-[Roasted Red Pepper (two recipes)](https://github.com/vmsmith/CookBook/blob/master/soup_pepper_red.md)
+[Roasted Red Pepper Soup (two recipes)](https://github.com/vmsmith/CookBook/blob/master/soup_pepper_red.md)
 
 [Potato and Fennel Soup](https://github.com/vmsmith/CookBook/blob/master/soup_potato_fennel.md)
 
