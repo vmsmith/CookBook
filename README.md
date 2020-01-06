@@ -2,13 +2,7 @@
 
 [Personal Stuff - README](https://github.com/vmsmith/things/blob/master/README.md)
 
------
-
-### Ethnic Dishes  
-
-#### [Vietnamese Dishes](https://github.com/vmsmith/CookBook/blob/master/dishes_vietnamese.md)  
-
------
+-----  
 
 #### [Ingredients](https://github.com/vmsmith/CookBook/blob/master/ingredients.md)   
 
@@ -17,6 +11,8 @@
 -----
 
 #### [Lunch Dishes](https://github.com/vmsmith/CookBook/blob/master/dishes_lunch.md)   
+
+#### [Seasonal Foods](https://github.com/vmsmith/CookBook/blob/master/dishes_seasonal.md)  
 
 #### [Things to try...](https://github.com/vmsmith/CookBook/blob/master/dishes_to_try.md)  
 
@@ -59,6 +55,10 @@
 #### [Stocks and Sauces](https://github.com/vmsmith/CookBook/blob/master/sauces.md)  
 
 #### [Vegetables](https://github.com/vmsmith/CookBook/blob/master/vegetables.md)  
+
+-----  
+
+#### [Vietnamese Dishes](https://github.com/vmsmith/CookBook/blob/master/dishes_vietnamese.md)  
 
 #### [Winter Dishes](https://github.com/vmsmith/CookBook/blob/master/misc_winter_dishes.md)
 
