@@ -2,7 +2,7 @@
 
 -----  
 
-[Notes]()  
+[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)  
 
 ### Seasonal Foods  
 
