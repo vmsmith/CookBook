@@ -6,10 +6,10 @@
 
 #### Ingredients  
 
-* 1/4 cup dry white wine
-* 1/4 cup white-wine vinegar
+* 1/4 cup (59 ml) dry white wine
+* 1/4 cup (59 ml) white-wine vinegar
 * 2 tablespoons finely chopped shallot
-* 1/3 cup heavy cream
+* 1/3 cup (79 ml) heavy cream
 * 1/4 teaspoon salt
 * 1/8 teaspoon white pepper, or to taste
 * 2 sticks (1 cup) unsalted butter, cut into tablespoon-size pieces and chilled  
