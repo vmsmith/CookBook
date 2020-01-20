@@ -1,10 +1,10 @@
-[Cook Book]()  
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)  
 
-[Soups]()  
+[Soups](https://github.com/vmsmith/CookBook/blob/master/soups.md)  
 
 -----  
 
-[Notes]()  
+[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)  
 
 ### Split Pea Soup  
 
