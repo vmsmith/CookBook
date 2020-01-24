@@ -16,6 +16,7 @@
 * Baked salmon à la moutarde     
 
 ##### Poultry and Rabbit  
+* Baked chicken leg  
 * Coq au vin   
 * Chicken curry  
 * Roast quail  
