@@ -7,9 +7,19 @@
 ### Seasonal Foods  
 
 <table>
-  <tr><th></th><th>Protein</th><th>Vegetables</th><th>Fruit</th><th>Cheeses</th><th>Herbs</th></tr>
-  <tr><td>January</td><td></td><td></td><td></td><td></td><td></td></tr>
-   <tr><td>February</td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><th></th><th>Protein</th><th>Vegetables</th><th>Fruit</th><th>Cheeses</th><th>Herbs</th>th>Other</th></tr>
+  <tr><td>January</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td>February</td><td></td><td></td><td></td><td></td><td><td></td></td></tr>
+  <tr><td>March</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td>April</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td>May</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td>June</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td>July</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td>August</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td>September</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td>October</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td>November</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td>December</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
 #### Spring  
