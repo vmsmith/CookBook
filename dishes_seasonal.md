@@ -7,7 +7,7 @@
 ### Seasonal Foods  
 
 <table>
-  <tr><th></th><th>Protein</th><th>Vegetables</th><th>Fruit</th><th>Cheeses</th><th>Herbs</th>th>Other</th></tr>
+  <tr><th></th><th>Protein</th><th>Vegetables</th><th>Fruit</th><th>Cheeses</th><th>Herbs</th><th>Other</th></tr>
   <tr><td>January</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td>February</td><td></td><td></td><td></td><td></td><td><td></td></td></tr>
   <tr><td>March</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
