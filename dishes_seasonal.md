@@ -8,8 +8,9 @@
 
 <table>
   <tr><th></th><th>Protein</th><th>Vegetables</th><th>Fruit</th><th>Cheeses</th><th>Herbs</th></tr>
-  <tr><td>January</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-   <tr><td>February</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td>January</td><td></td><td></td><td></td><td></td><td></td></tr>
+   <tr><td>February</td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
 
 #### Spring  
 * Carrots  
