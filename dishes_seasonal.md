@@ -11,7 +11,7 @@
   <tr>
     <td>January</td>
     <td></td>
-    <td>Belgian Endive<br>Brussles Sprouts<br>Buttercup Squash<br>Carrots<br>Cabbage<br>Leeks<br>Onions<b>Lamb's lettuce<br>Turnips</td>
+    <td>Belgian Endive<br>Brussles Sprouts<br>Buttercup Squash<br>Carrots<br>Cabbage<br>Leeks<br>Onions<br>Lamb's lettuce<br>Turnips</td>
     <td>Clementies<br>Dates<br>Pears</td>
     <td></td>
     <td></td>
