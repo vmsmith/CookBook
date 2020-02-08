@@ -6,6 +6,18 @@
 
 ### Seasonal Foods  
 
+Vegetables Beetroot, red, white and green cabbages, celeriac, kohlrabi, leeks, onions, potatoes, spinach and chard.
+
+Fruit and nuts The last of the English apples, pears and nuts.
+
+Game Matured partridge, pheasant, mallard, pigeon, rabbit and hare.
+
+Fish Brill, cod, flounder, John Dory and scallops.
+
+Cheese Bonchester, Sharpham and Appleby Cheshire. From France - Bresse Bleu, Cantal, Pont l'Eveque and Roquefort.
+
+
+
 <table>
   <tr><th></th><th>Protein</th><th>Vegetables</th><th>Fruit</th><th>Cheeses</th><th>Herbs</th><th>Other</th></tr>
   <tr>
