@@ -6,26 +6,15 @@
 
 ### Seasonal Foods  
 
-Vegetables Beetroot, red, white and green cabbages, celeriac, kohlrabi, leeks, onions, potatoes, spinach and chard.
-
-Fruit and nuts The last of the English apples, pears and nuts.
-
-Game Matured partridge, pheasant, mallard, pigeon, rabbit and hare.
-
-Fish Brill, cod, flounder, John Dory and scallops.
-
-Cheese Bonchester, Sharpham and Appleby Cheshire. From France - Bresse Bleu, Cantal, Pont l'Eveque and Roquefort.
-
-
 
 <table>
   <tr><th></th><th>Protein</th><th>Vegetables</th><th>Fruit</th><th>Cheeses</th><th>Herbs</th><th>Other</th></tr>
   <tr>
     <td>January</td>
-    <td></td>
-    <td>Belgian Endive<br>Brussles Sprouts<br>Buttercup Squash<br>Carrots<br>Cabbage<br>Leeks<br>Onions<br>Lamb's lettuce<br>Turnips</td>
+    <td>Brill<b>Cod<b>Flounder<b>John Dory<b>Scallops</td>
+    <td>Beet Root<b>Belgian Endive<br>Brussles Sprouts<br>Buttercup Squash<br>Carrots<br>Cabbage<b>Celeriac<br>Leeks<br>Onions<br>Lamb's lettuce<br>Turnips</td>
     <td>Clementies<br>Dates<br>Pears</td>
-    <td></td>
+    <td>Bresse Bleu<b>Cantal<b>Pont l'Eveque<b>Roquefort</td>
     <td></td>
     <td></td>
   </tr>
