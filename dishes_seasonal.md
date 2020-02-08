@@ -33,7 +33,14 @@
   <tr><td>July</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td>August</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td>September</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td>October</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td>October</td>
+    <td></td>
+    <td>broccoli<br>carrots<br>cabbage<br>Brussels sprouts<br>cauliflower<br>pumpkin<br>squash<br>courgette<br>cress<br>endives<br>spinach<br>fennel<br>green beans<br>turnip<br>onion<br>leek<br>potato<br>pumpkin<br>radish.</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
   <tr><td>November</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td>December</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
