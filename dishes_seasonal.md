@@ -11,10 +11,10 @@
   <tr><th></th><th>Protein</th><th>Vegetables</th><th>Fruit</th><th>Cheeses</th><th>Herbs</th><th>Other</th></tr>
   <tr>
     <td>January</td>
-    <td>Brill<b>Cod<b>Flounder<b>John Dory<b>Scallops</td>
-    <td>Beet Root<b>Belgian Endive<br>Brussles Sprouts<br>Buttercup Squash<br>Carrots<br>Cabbage<b>Celeriac<br>Leeks<br>Onions<br>Lamb's lettuce<br>Turnips</td>
+    <td>Brill<br>Cod<br>Flounder<br>John Dory<br>Scallops</td>
+    <td>Beet Root<br>Belgian Endive<br>Brussles Sprouts<br>Buttercup Squash<br>Carrots<br>Cabbage<br>Celeriac<br>Leeks<br>Onions<br>Lamb's lettuce<br>Turnips</td>
     <td>Clementies<br>Dates<br>Pears</td>
-    <td>Bresse Bleu<b>Cantal<b>Pont l'Eveque<b>Roquefort</td>
+    <td>Bresse Bleu<br>Cantal<br>Pont l'Eveque<br>Roquefort</td>
     <td></td>
     <td></td>
   </tr>
