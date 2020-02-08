@@ -22,7 +22,7 @@
   <tr><td>February</td><td></td><td></td><td></td><td></td><td><td></td></td></tr>
   <tr><td>March</td>
     <td></td>
-    <td>Beet Root<br>Cabbage<br>Celeriac<br><br>Onions<br>Lamb's lettuce<br>Spinach<br></td>
+    <td>Beet Root<br>Cabbage<br>Celeriac<br>Onions<br>Lamb's lettuce<br>Spinach<br></td>
     <td></td>
     <td></td>
     <td></td>
