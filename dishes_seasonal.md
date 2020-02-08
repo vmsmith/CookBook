@@ -12,7 +12,7 @@
   <tr>
     <td>January</td>
     <td>Brill<br>Cod<br>Flounder<br>John Dory<br>Scallops</td>
-    <td>Beet Root<br>Belgian Endive<br>Brussles Sprouts<br>Buttercup Squash<br>Carrots<br>Cabbage<br>Celeriac<br>Leeks<br>Onions<br>Lamb's lettuce<br>Turnips</td>
+    <td>Beet Root<br>Belgian Endive<br>Broccoli<br>Brussles Sprouts<br>Buttercup Squash<br>Carrots<br>Cabbage<br>Celeriac<br>Leeks<br>Onions<br>Lamb's lettuce<br>Spinach<br>Turnips</td>
     <td>Clementies<br>Dates<br>Pears</td>
     <td>Bresse Bleu<br>Cantal<br>Pont l'Eveque<br>Roquefort</td>
     <td></td>
