@@ -35,8 +35,8 @@
   <tr><td>September</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td>October</td>
     <td></td>
-    <td>broccoli<br>carrots<br>cabbage<br>Brussels sprouts<br>cauliflower<br>pumpkin<br>squash<br>courgette<br>cress<br>endives<br>spinach<br>fennel<br>green beans<br>turnip<br>onion<br>leek<br>potato<br>pumpkin<br>radish.</td>
-    <td></td>
+    <td>Broccoli<br>Carrots<br>Cabbage<br>Brussels sprouts<br>Cauliflower<br>Squash<br>Courgette<br>Cress<br>Endives<br>Spinach<br>Fennel<br>Green beans<br>Turnip<br>Onion<br>Leek<br>Potato<br>Pumpkin<br>Radish</td>
+    <td>Chestnuts<br>Quince<br>Figs<br>Raspberries<br>Blueberries<br>Walnuts<br>Vine peaches<br>Pears<br>Apples<br>Plums<br>Grapes</td>
     <td></td>
     <td></td>
     <td></td>
