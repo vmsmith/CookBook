@@ -8,10 +8,22 @@
 
 ### French Rice Pudding  
 
+From [David Lebovitz](https://www.davidlebovitz.com/riz-au-lait-french-rice-pudding-recipe/)  
+
+The exact cooking time is hard to pin down in a number. You want to cook the mixture until it resembles runny oatmeal and a good amount of the liquid is absorbed by the rice, but there's still some liquid in the pot. (You don't want to cook it until all the milk is absorbed.) 
+
+The rice pudding will thicken up as it stands. If it's too stiff after it cools, you can thin it out with a splash of milk or cream.   
+
+If you don't have vanilla bean paste, or if you prefer, you could use a whole vanilla bean, split lengthwise, in place of the vanilla bean paste, which you can add in step #1. (In case you're wondering why I add a bit of vanilla extract, whether using vanilla beans or vanilla bean paste, I find that vanilla extract adds a more rounded vanilla flavor, even if using a bean or paste.) 
+
+If the pudding is too stiff or thick once cooled, thin it with a bit of milk or cream, to bring it to the consistency you like. 
+
+I like my rice pudding with this amount of sweetness, but you can reduce the amount of sugar to 4 tablespoons in step #1, then add more when the rice pudding has finished cooking., to suit your personal taste.
+
 #### Ingredients   
-* 1 quart (1l) whole milk
-* 2/3 cup (140g) white rice, preferably round rice
-* 6 tablespoons (75g) sugar, or to taste (see headnote)
+* 1/2 quart whole milk
+* 1/3 cup (70g) white rice, preferably round rice
+* 3 tablespoons (37g) sugar, or to taste (see headnote)
 * Big pinch salt
 * 1 teaspoon vanilla bean paste or vanilla extract, or a combination of both (see headnote)
 * 1/4 - 1/2 teaspoon vanilla extract
