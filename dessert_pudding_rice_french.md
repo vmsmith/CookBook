@@ -25,8 +25,8 @@ I like my rice pudding with this amount of sweetness, but you can reduce the amo
 * 1/3 cup (70g) white rice, preferably round rice
 * 3 tablespoons (37g) sugar, or to taste (see headnote)
 * Big pinch salt
-* 1 teaspoon vanilla bean paste or vanilla extract, or a combination of both (see headnote)
-* 1/4 - 1/2 teaspoon vanilla extract
+* 1/2 teaspoon vanilla bean paste or vanilla extract, or a combination of both (see headnote)
+* 1/4 teaspoon vanilla extract
 * Finely-grated zest of one lemon or orange, preferably unsprayed
 
 ##### Preparation   
