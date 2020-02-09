@@ -40,7 +40,9 @@
 
 [Split Pea Soup](https://github.com/vmsmith/CookBook/blob/master/soup_split_pea.md)   
 
-[Potato and Fennel Soup](https://github.com/vmsmith/CookBook/blob/master/soup_potato_fennel.md)
+[Potato and Fennel Soup](https://github.com/vmsmith/CookBook/blob/master/soup_potato_fennel.md)  
+
+[French Pumpkin Soup](https://github.com/vmsmith/CookBook/blob/master/soup_pumpkin_french.md)  
 
 [Rabbit Soup](https://github.com/vmsmith/CookBook/blob/master/soup_rabbit.md)
 
