@@ -52,6 +52,8 @@
 
 [Duck Breast, Pan Seared](https://github.com/vmsmith/CookBook/blob/master/fowl_duck_breast_pan-seared.md)  
 
+[Duck Breast with Blood Oranges](https://github.com/vmsmith/CookBook/blob/master/fowl_duck_breast_blood_oranges.md)
+
 -----
 
 [Roast Pheasant](https://github.com/vmsmith/CookBook/blob/master/fowl_pheasant_roast.md)  
