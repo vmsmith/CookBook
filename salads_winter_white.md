@@ -1,10 +1,10 @@
-[Cook Book]()  
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)  
 
-[Salads]()  
+[Salads](https://github.com/vmsmith/CookBook/blob/master/salads.md)  
 
 -----  
 
-[Notes]()  
+[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)  
 
 ### Winter White Salad  
 
@@ -27,16 +27,19 @@
 #### Preparation  
 
 1. Separate endive leaves  
-2. Slice pear  
-3. Shave cheese  
-4. Zest and juice lemon  
+2. Trim stems of vegetables and slice about 1/4 inch  
+3. Slice pear  
+4. Shave cheese  
+5. Zest and juice lemon  
 
 #### Directions  
 
-Trim stems of vegetables. Cut out core of cauliflower (if using). Thinly slice vegetables crosswise about ¼" thick.
-
-Toss vegetables, endive, pear, and cheese in a large bowl. Add oil and 1 Tbsp. fresh lemon juice; season with sea salt and pepper. Using your hands, toss salad until well coated. Chill (uncovered is fine) while you prepare the dressing.
-
-Whisk yogurt, mayonnaise, garlic, lemon zest, and remaining 2 Tbsp. lemon juice in a small bowl; season with kosher salt.
-
-Arrange about one-quarter of salad on a large platter. Drizzle some dressing over, letting it fall into the nooks and crannies of the vegetables. Add another one-quarter of salad; drizzle with dressing in same manner. Repeat with remaining salad and dressing. Season with kosher salt and pepper.
+1. Toss vegetables, endive, pear, and cheese in a large bowl    
+2. Add oil and 1 Tbsp. fresh lemon juice; season with sea salt and pepper    
+3. Using your hands, toss salad until well coated, and then chill while preparting the dressing  
+4. Whisk the yogurt, mayonnaise, garlic, lemon zest, and remaining 2 tablespoons lemon juice in a small bowl and season with kosher salt  
+5. Arrange about one-quarter of salad on a large platter
+6. Drizzle some dressing over, letting it fall into the nooks and crannies of the vegetables   
+7. Add another one-quarter of salad; drizzle with dressing in same manner
+8. Repeat with remaining salad and dressing  
+9. Season with kosher salt and pepper.
