@@ -48,7 +48,7 @@
 
 #### [Rice, Risotto, etc.](https://github.com/vmsmith/CookBook/blob/master/rice_risotto.md)
 
-#### [Salads]()  
+#### [Salads](https://github.com/vmsmith/CookBook/blob/master/salads.md)  
 
 #### [Soups](https://github.com/vmsmith/CookBook/blob/master/soups.md)  
 
