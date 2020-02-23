@@ -15,7 +15,7 @@
 
 -----  
 
-#### Endives with Ham  
+#### [Endives with Ham](https://www.marmiton.org/recettes/recette_endives-au-jambon_25868.aspx)  
 
 * Endives  
 
