@@ -13,3 +13,37 @@
 * Sole (Julia Child)   
 * Sardines and tomatoes (Radia)    
 
+-----  
+
+#### Endives with Ham  
+
+* Endives  
+
+2 slices of ham per endive  
+
+45 g butter  
+
+45 g flour  
+
+75 g cream  
+
+30 cl milk  
+
+60 g grated Gruyere cheese  
+
+Pepper  
+
+Salt  
+
+Cook the endives in boiling water for 45 min, then drain them well.  
+
+Arrange the cooked endives on the slices of ham and roll them up.  
+
+Place the endives surrounded by ham in an ovenproof dish.  
+
+Make a Mornay sauce by mixing the butter, flour, milk and cheese. Season with salt and pepper.  
+
+Pour the sauce over the ham endives and cover with grated cheese.  
+
+Gratinate for 10 to 15 minutes in the oven at 200°C (gas mark 6-7).  
+
