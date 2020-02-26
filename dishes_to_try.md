@@ -17,7 +17,7 @@
 
 #### [Endives with Ham](https://www.marmiton.org/recettes/recette_endives-au-jambon_25868.aspx)  
 
-* Endives  
+Endives  
 
 2 slices of ham per endive  
 
