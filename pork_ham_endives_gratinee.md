@@ -1,12 +1,12 @@
-[Cook Book]()  
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)  
 
-[Meat]()  
+[Meat](https://github.com/vmsmith/CookBook/blob/master/meat.md)  
 
-[Vegetables]()  
+[Vegetables](https://github.com/vmsmith/CookBook/blob/master/vegetables.md)  
 
 ----  
 
-[Notes]()  
+[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)  
 
 ### [Endives with Ham](https://www.marmiton.org/recettes/recette_endives-au-jambon_25868.aspx)  
 
@@ -24,7 +24,7 @@
 
 #### Preparation  
 
-1. Boil the endives in salted water for 45 minutes, then drain and let dry  
+1. Boil the endives in salted water for 45 minutes, then drain and **let dry**    
 
 #### Directions  
 
