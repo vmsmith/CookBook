@@ -24,6 +24,8 @@
 
 [Roasted Carrots](https://github.com/vmsmith/CookBook/blob/master/veg_carrots_roasted.md)  
 
+[Endives with Ham, Gratinée](https://github.com/vmsmith/CookBook/blob/master/pork_ham_endives_gratinee.md)  
+
 [Roasted Peppers Basquaise](https://github.com/vmsmith/CookBook/blob/master/veg_peppers_roasted_basquaise.md)  
 
 [Stuffed Red Peppers Mediterranean Style](https://github.com/vmsmith/CookBook/blob/master/veg_peppers_stuffed.md)  
