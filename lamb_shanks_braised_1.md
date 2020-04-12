@@ -20,7 +20,7 @@
  
 #### Preparation
 
-1. Preheat oven to 325 F
+1. Preheat oven to 350F
 2. Remove excess fat and silver skin from lamb shanks
 3. Chop the carrots and onions
 4. Chop the garlic clove
@@ -37,10 +37,12 @@
 
 5. Add the lamb shanks, wine, and lamb stock. Add salt and pepper, and perhaps some rosemary and a bay leaf. Eventually think about some sort of tomatoes.
 
-6. Do the parchment paper thing, cover tightly with lid, then put in the oven. 
+6. **Get it simmering on the stove for a few minutes.**  
 
-7. Turn the lamb shanks every 30 minutes. If the liquid is simmering to hard, reduce the heat to 315 or so.
+7. Do the parchment paper thing, cover tightly with lid, then put in the oven. 
 
-8. Cook for about 2 1/2 hours.
+8. Turn the lamb shanks every 30 minutes. If the liquid is simmering to hard, reduce the heat a bit.
 
-9. Remove the lamb from the pan, and set it aside. Remove the bay leaf and rosemary stems. Purée the remaining ingredients with the immersion blender. 
+9. Cook for about 2 1/2 hours.
+
+10. Remove the lamb from the pan, and set it aside. Remove the bay leaf and rosemary stems. Purée the remaining ingredients with the immersion blender. 
