@@ -10,5 +10,5 @@
 
 #### Used with:  
 
-[Smitane Sauce](https://github.com/vmsmith/CookBook/blob/master/smitane.md)
+[Smitane Sauce](https://github.com/vmsmith/CookBook/blob/master/sauce_smitane.md)  
 
