@@ -1,10 +1,11 @@
-[Cook Book]()  
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)  
 
-[Offal]()  
+[Offal](https://github.com/vmsmith/CookBook/blob/master/offal.md)  
 
 -----  
 
-[Notes]()  
+[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)  
+
 
 ### Sweetbreads  
 
