@@ -11,6 +11,12 @@
 
 #### Preparation  
 
+1. Soak in milk for a few hours (overnight is fine), or in water with a splash of vinegar or lemon juice - you just want something very mildly acidic. 
+
+2. Do a quick blanch in boiling water and then immediately shocked in ice water
+
+3. Remove the outer membrane and fat
+
 
 ### Crispy Sweetbreads  
 
