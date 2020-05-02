@@ -8,18 +8,16 @@
 
 ### Sautéed Chicken Breasts with Shallots   
 
-#### Ingredients  
-
-* Olive oil	1 1/2 tbsp 
-* Butter	1/2 tbsp 
-* Chicken breasts	2 
-* Shallots	15 – 20
-* Garlic cloves	3
-* Cognac	1 tbsp
-* Tomatoes	3
-* Parsley	Bunch
-* Salt and Pepper	
-
+#### Ingredients   
+* 2 Chicken breasts   
+* 15 - 20 shallots  
+* 3 cloves of garlic   
+* 1 1/2 Tbsp of olive oil     
+* 1/2 Tbsp of butter     
+* 1 Tbsp of cognac    
+* 3 Tomatoes  
+* Parsley  
+* Salt and Pepper	 
 
 #### Preparation  
 
