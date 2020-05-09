@@ -10,7 +10,7 @@
 
 #### Ingredients  
 
-* w chicken breasts  
+* 2 chicken breasts  
 * Salt and pepper to taste  
 * 3/4 teaspoons of paprika  
 * 1 1/2 tablespoons of oil from the sun-dried tomatoes jar  
