@@ -16,7 +16,9 @@
 
 [Chicken Cacciatore #1](https://github.com/vmsmith/CookBook/blob/master/chicken_cacciatore1.md)  
 
-[Chicken Cacciatore #2](https://github.com/vmsmith/CookBook/blob/master/chicken_cacciatore2.md)
+[Chicken Cacciatore #2](https://github.com/vmsmith/CookBook/blob/master/chicken_cacciatore2.md)  
+
+[Creamy Tuscany Chicken](https://github.com/vmsmith/CookBook/blob/master/chicken_creamy_tuscany.md)   
 
 [Coq au Vin](https://github.com/vmsmith/CookBook/blob/master/chicken_coq-au-vin.md)
 
