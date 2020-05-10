@@ -8,6 +8,20 @@
 
 ### Roast Beef  
 
+Pat roast dry with paper towels. Rub generously with salt (at least 1/4 cup) and pepper on all sides. Shake the roast gently, allowing any excess salt and pepper to fall off.
+
+Place a wire rack in a small rimmed baking sheet or lay 5 to 6 metal skewers across a large plate or baking sheet. Place roast on top of rack or skewers, making sure it is fully elevated above the bottom of the baking sheet. Place elevated roast on the bottom rack of your refrigerator, uncovered (or loosely covered with foil, if you are squeamish about raw meat), and let rest undisturbed for at least 24 hours and up to 48 hours.
+
+Transfer baking sheet with elevated roast directly from the refrigerator into a cold oven and set oven temperature to 225 degrees. Cook until the center of the roast reaches 120 degrees for rare, or 130 degrees for medium, as tested with a digital thermometer. Depending on the oven and the exact geometry of the roast, this will take 1 to 2 1/2 hours.
+
+Remove baking sheet with roast from oven and set on a trivet or on top of your stovetop. Let the roast rest on the baking sheet for at least 30 minutes.
+
+Heat vegetable oil in a large skillet (any heavy skillet without a nonstick coating will do) over high until lightly smoking. Sear roast, turning occasionally, until well browned on all sides, about 4 minutes total.
+
+Carve into thin slices with a sharp knife and serve what you’ll eat today. When finished, carve remaining roast. Carefully lay fanned slices into zipper-lock freezer bags in layers no thicker than 1/2 inch. Squeeze out as much air as possible and stack sealed bags on an aluminum baking sheet. Place in freezer until completely frozen. Store frozen for up to 2 months.
+
+To thaw, place one bag of frozen sliced steak on an aluminum baking sheet at room temperature until defrosted, about 45 minutes. It is important to use an aluminum sheet, as the high thermal conductivity of aluminum greatly speeds up the thawing process. Use thawed sliced steak as desired.
+
 [New York Times](https://www.nytimes.com/2020/05/04/dining/bulk-freeze-meat.html?smid=em-share)
 
 How to Cook and Freeze a Large Piece of Meat, and Eat for Weeks
