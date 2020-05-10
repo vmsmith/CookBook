@@ -8,6 +8,8 @@
 
 ### Roast Beef  
 
+[New York Times](https://www.nytimes.com/2020/05/04/dining/bulk-freeze-meat.html?smid=em-share)
+
 How to Cook and Freeze a Large Piece of Meat, and Eat for Weeks
 
 A large, inexpensive roast is a boon for busy home cooks: Prepare it simply, then let it star in a number of fast weeknight meals. J. Kenji López-Alt explains.
