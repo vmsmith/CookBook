@@ -62,4 +62,6 @@
 
 -----  
 
-[Roast Quail](https://github.com/vmsmith/CookBook/blob/master/fowl_quail_roast.md)
+[Roast Quail](https://github.com/vmsmith/CookBook/blob/master/fowl_quail_roast.md)  
+
+[Pan-seared Quail](https://github.com/vmsmith/CookBook/blob/master/fowl_quail_pan-seared.md)
