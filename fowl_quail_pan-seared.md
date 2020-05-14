@@ -28,7 +28,7 @@
 7. When the legs are almost ready, tip the breasts upside down to get contact with the hot oil directly to brown them.  
 8. Only let this happen for about a minute per side -- since a breast won't sit flat, you will need to tip them to one side, then the other.  
 9. To finish, turn off the heat and add the butter. When it melts, spoon it all over the birds. This is for flavor. You've been using a neutral, high smoke-point oil, and this adds nice flavor.  
-10. Serve with [vegetables](https://github.com/vmsmith/CookBook/blob/master/veg_brussels-sprouts_shitake-mushrooms.md) and some wild rice.
+10. Serve with [vegetables](https://github.com/vmsmith/CookBook/blob/master/veg_brussells-sprouts_shitake-mushrooms.md) and some wild rice.
 
 
 
