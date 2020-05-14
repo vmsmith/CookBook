@@ -17,4 +17,4 @@
 #### Directions  
 
 
-Serve with [pan-seared quail](https://github.com/vmsmith/CookBook/blob/master/poultry_fowl.md)
+Serve with [pan-seared quail](https://github.com/vmsmith/CookBook/blob/master/fowl_quail_pan-seared.md)
