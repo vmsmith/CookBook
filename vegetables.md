@@ -18,6 +18,8 @@
 
 [Roasted Brussells Sprouts](https://github.com/vmsmith/CookBook/blob/master/veg_brussels-sprouts_roasted2.md)  
 
+[Roasted Brussels Sprouts with Shitake Mushrooms](https://github.com/vmsmith/CookBook/blob/master/veg_brussells-sprouts_shitake-mushrooms.md)  
+
 [Brussells Sprouts Lardons](https://github.com/vmsmith/CookBook/blob/master/veg_brussells_sprouts_lardons.md)  
 
 [Glazed Carrots with Honey and Thyme](https://github.com/vmsmith/CookBook/blob/master/veg_carrots_glazed1.md)  
