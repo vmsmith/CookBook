@@ -25,12 +25,11 @@
 
 #### Preparation 
 
-1. Wipe peppers clean 
-2. Toast the pine nuts
-3. Chop the parsley
-4. Chop the mint leaves
-5. Cut off tops of pepper and clean the peppers (reserve the tops)
-6. Preheat oven to 350F 
+1. Preheat oven to 350F
+2. Wipe peppers clean 
+3. Toast the pine nuts
+4. Chop the parsley
+5. Chop the mint leaves
 
 #### Directions  
 
