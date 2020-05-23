@@ -29,6 +29,17 @@
 
 #### Sautéed and Broiled with Duxelles  
 
+1. Remove the sweetbread from the plate, pat dry, slice into scallops, season lightly with salt and pepper
+
+2. In a small skillet, melt some butter over low heat and add the scallops of sweetbread into the butter
+
+3. Cook gently until just lightly golden on the underside, flip and do the same for the other side
+
+4. Drain off the excess butter and top each scallop of sweetbreads with a coating of the duxelles and then a scattering of breadcrumbs
+
+5. Quarter the extra mushrooms and put around the sweetbreads. Put the whole thing under broiler and broil until the breadcrumbs are golden brown and the quartered mushrooms are just lightly cooked. Serve, with a squeeze of lemon juice and some chopped parsley.
+
+
 #### Crispy Sweetbreads  
 
 [Recipe](https://www.cookstr.com/Meat/Crispy-Sweetbreads)  
