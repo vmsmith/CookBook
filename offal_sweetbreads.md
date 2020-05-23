@@ -27,9 +27,9 @@ A. Prep peas, carrots, beans, potatoes, and turnips
 
 1. Poach in salted chicken stock for 30 minutes  
 
-2. Make [macédoine]() while sweetbreads are poaching  
+2. Make [macédoine](https://github.com/vmsmith/CookBook/blob/master/veg_macedoine.md) while sweetbreads are poaching  
 
-3. Serve with [macédoine]() as a main course  
+3. Serve with [macédoine](https://github.com/vmsmith/CookBook/blob/master/veg_macedoine.md) as a main course  
 
 #### Sautéed and Broiled with Duxelles  
 
