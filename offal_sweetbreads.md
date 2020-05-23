@@ -23,7 +23,7 @@
 
 #### Poached with Macédoine  
 
-A. Prep peas, carrots, beans, potatoes, and turnips    
+Prep: Cut peas, carrots, beans, potatoes, and turnips    
 
 1. Poach in salted chicken stock for 30 minutes  
 
@@ -33,7 +33,7 @@ A. Prep peas, carrots, beans, potatoes, and turnips
 
 #### Sautéed and Broiled with Duxelles  
 
-A. Make [duxelles](https://github.com/vmsmith/CookBook/blob/master/veg_duxelles.md)   
+Prep: Make [duxelles](https://github.com/vmsmith/CookBook/blob/master/veg_duxelles.md)   
 
 1. Remove the sweetbread from the plate, pat dry, slice into scallops, season lightly with salt and pepper
 
