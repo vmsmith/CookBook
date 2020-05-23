@@ -10,7 +10,11 @@
 
 [Artichokes Sauteed with Onions, Garlic, and Herbs](https://github.com/vmsmith/CookBook/blob/master/veg_artichokes_sauteed.md)
 
+[Duxelles](https://github.com/vmsmith/CookBook/blob/master/veg_duxelles.md)
+
 [Green Beans Provencal](https://github.com/vmsmith/CookBook/blob/master/veg_green_beans_provencal.md)
+
+[Macédoine](https://github.com/vmsmith/CookBook/blob/master/veg_macedoine.md)  
 
 [Roasted Broccoli Basquaise](https://github.com/vmsmith/CookBook/blob/master/veg_broccoli_roasted.md)  
 
