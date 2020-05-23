@@ -23,11 +23,17 @@
 
 #### Poached with Macédoine  
 
+A. Prep peas, carrots, beans, potatoes, and turnips    
+
 1. Poach in salted chicken stock for 30 minutes  
 
-2. Serve with [macédoine]() as a main course  
+2. Make [macédoine]() while sweetbreads are poaching  
+
+3. Serve with [macédoine]() as a main course  
 
 #### Sautéed and Broiled with Duxelles  
+
+A. Make [duxelles]()  
 
 1. Remove the sweetbread from the plate, pat dry, slice into scallops, season lightly with salt and pepper
 
