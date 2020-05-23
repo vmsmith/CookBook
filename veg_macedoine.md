@@ -1,10 +1,10 @@
-[Cook Book]()  
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)  
 
-[Vegetables]()  
+[Vegetables](https://github.com/vmsmith/CookBook/blob/master/vegetables.md)  
 
 -----  
 
-[Notes]()  
+[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)  
 
 ### Macédoine  
 
@@ -17,3 +17,8 @@
 
 
 #### Directions  
+
+
+-----  
+
+Serve with [sweetbreads](https://github.com/vmsmith/CookBook/blob/master/offal_sweetbreads.md)
