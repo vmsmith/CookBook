@@ -33,7 +33,7 @@ A. Prep peas, carrots, beans, potatoes, and turnips
 
 #### Sautéed and Broiled with Duxelles  
 
-A. Make [duxelles]()  
+A. Make [duxelles](https://github.com/vmsmith/CookBook/blob/master/veg_duxelles.md)   
 
 1. Remove the sweetbread from the plate, pat dry, slice into scallops, season lightly with salt and pepper
 
