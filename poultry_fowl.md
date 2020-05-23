@@ -34,6 +34,8 @@
 
 [Chicken Normandy](https://github.com/vmsmith/CookBook/blob/master/chicken_normandy.md)    
 
+[Roasted Chicken with Caremelized Shallots](https://github.com/vmsmith/CookBook/blob/master/chicken_roasted_shallot-caremelized.md)  
+
 [Roasted Chicken Pronvençal](https://github.com/vmsmith/CookBook/blob/master/chicken_roasted_provencal.md)  
 
 [Chicken Tagine with Apricots and Almonds](https://github.com/vmsmith/CookBook/blob/master/chicken_tagine.md)  
