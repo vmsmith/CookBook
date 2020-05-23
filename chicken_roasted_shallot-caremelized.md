@@ -1,10 +1,10 @@
-[Cook Book]()  
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)  
 
 [Poultry and Fowl]()  
 
 -----  
 
-[Notes]()  
+[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)  
 
 ### Roast Chicken with Caramelized Shallots	
 [David Levobitz blog](https://www.davidlebovitz.com/roast-chicken-recipe-caramelized-s/)  
