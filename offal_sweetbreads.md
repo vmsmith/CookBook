@@ -37,7 +37,11 @@
 
 4. Drain off the excess butter and top each scallop of sweetbreads with a coating of the duxelles and then a scattering of breadcrumbs
 
-5. Quarter the extra mushrooms and put around the sweetbreads. Put the whole thing under broiler and broil until the breadcrumbs are golden brown and the quartered mushrooms are just lightly cooked. Serve, with a squeeze of lemon juice and some chopped parsley.
+5. Quarter the extra mushrooms and put around the sweetbreads  
+
+6. Put the whole thing under broiler and broil until the breadcrumbs are golden brown and the quartered mushrooms are just lightly cooked  
+
+7. Serve with a squeeze of lemon juice and some chopped parsley  
 
 
 #### Crispy Sweetbreads  
