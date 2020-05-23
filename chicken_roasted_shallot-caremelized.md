@@ -1,6 +1,13 @@
-Roast Chicken with Caramelized Shallots	
+[Cook Book]()  
 
-Adapted from French Farmhouse Cookbook (Workman) by Susan Herrmann Loomis I use 
+[Poultry and Fowl]()  
+
+-----  
+
+[Notes]()  
+
+### Roast Chicken with Caramelized Shallots	
+[David Levobitz blog](https://www.davidlebovitz.com/roast-chicken-recipe-caramelized-s/)  
 
 #### Ingredients  
 
