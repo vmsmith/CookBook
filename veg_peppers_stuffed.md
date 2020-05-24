@@ -10,7 +10,7 @@
 
 #### Ingredients  
 
-* 4 red bell peppers 
+* 2 red bell peppers 
 * 3 ounces of long grain white rice
 * 1+ cups of chicken stock
 * 1+ ounces of pine nuts
@@ -26,26 +26,24 @@
 #### Preparation 
 
 1. Preheat oven to 350F
-2. Wipe peppers clean 
-3. Toast the pine nuts
-4. Chop the parsley
-5. Chop the mint leaves
+2. **Cook the rice** in chicken stock    
+3. Blanch the peppers in boiling water for two minues, cut off the lids, clean, and set aside  
+3. Wipe peppers clean 
+4. Toast the pine nuts
+5. Chop the parsley
+6. Chop the mint leaves
 
 #### Directions  
 
-1. Cook the rice in the chicken stock and set aside.
+1. Saute the onions in olive oil until soft in the pine nut pan.
 
-2. Blanch the peppers in boiling water for two minutes, cut off lids, then set peppers and lids aside.
+2. Add the tomato passata, currants, parsely, mint leaves, cinnamon, rice, and pine nuts to the pan. 
 
-3. Saute the onions in olive oil until soft in the pine nut pan.
+3. Stir for two minutes then season with salt and pepper to taste.
 
-4. Add the tomato passata, currants, parsely, mint leaves, cinnamon, rice, and pine nuts to the pan. 
+4. Pack the peppers with the mixture, then replace the lids.
 
-5. Stir for two minutes then season with salt and pepper to taste.
+5. Put the peppers in a baking dish snugly, pour some boiling water to about halfway up the pan, drizzle olive oil over the tops.
 
-6. Pack the peppers with the mixture, then replace the lids.
-
-7. Put the peppers in a baking dish snugly, pour some boiling water to about halfway up the pan, drizzle olive oil over the tops.
-
-8. Bake for about 40 minutes, until the peppers are tender to a small knife point.
+6. Bake for about 40 minutes, until the peppers are tender to a small knife point.
 
