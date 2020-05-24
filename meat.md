@@ -14,7 +14,7 @@
 * [Steak, reverse seared](https://github.com/vmsmith/CookBook/blob/master/meat_steak_reverse_seared.md)
 
 #### Lamb  
-* [Lamb Cutlets, pan seared](https://github.com/vmsmith/CookBook/blob/master/lamb_cutlets_pan-seared.md)  
+* [Lamb Chops, Pan-seared](https://github.com/vmsmith/CookBook/blob/master/lamb_chops_pan-seared.md)  
 * [Lamb Shanks, Braised](https://github.com/vmsmith/CookBook/blob/master/lamb_shanks_braised_1.md)
 * [Lamb Stew, Basque #1](https://github.com/vmsmith/CookBook/blob/master/lamb_stew_basque_1.md)  
 * [Lamb Stew, Basque #2](https://github.com/vmsmith/CookBook/blob/master/lamb_stew_basque_2.md) 
