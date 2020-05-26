@@ -50,6 +50,8 @@
 
 #### [Salads](https://github.com/vmsmith/CookBook/blob/master/salads.md)  
 
+#### [Sandwiches](https://github.com/vmsmith/CookBook/blob/master/sandwiches.md)  
+
 #### [Soups](https://github.com/vmsmith/CookBook/blob/master/soups.md)  
 
 #### [Stews](https://github.com/vmsmith/CookBook/blob/master/stews.md)    
