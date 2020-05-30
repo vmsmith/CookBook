@@ -1,10 +1,10 @@
-[Cook Book](https://github.com/vmsmith/CookBook/edit/master/README.md)  
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)  
 
-[Poutry and Fowl]()  
+[Poutry and Fowl](https://github.com/vmsmith/CookBook/blob/master/poultry_fowl.md)  
 
 -----  
 
-[Notes](https://github.com/vmsmith/CookBook/edit/master/notes.md)  
+[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)  
 
 ### Chicken Thights, Braised Italian Style  
 
