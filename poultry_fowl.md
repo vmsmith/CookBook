@@ -40,7 +40,7 @@
 
 [Chicken Tagine with Apricots and Almonds](https://github.com/vmsmith/CookBook/blob/master/chicken_tagine.md)  
 
-[Chicken Thighs, Italian Braised](https://afoodcentriclife.com/braised-italian-chicken-thighs/) - article  
+[Chicken Thighs, Braised Italian Style - 2](https://github.com/vmsmith/CookBook/blob/master/chicken_thighs_braised_italian-2.md)
 
 [Chicken Thighs Roasted with Lemon/Thyme](https://github.com/vmsmith/CookBook/blob/master/chicken_thighs_roasted_lemon-thyme.md)
 
