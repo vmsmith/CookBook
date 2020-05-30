@@ -29,12 +29,22 @@
 
 #### Preparation  
 
+* Season chicken with salt, pepper, and granulated garlic  
 * Chop onion  
 * Slice mushrooms  
 * Chop garlic  
 
 #### Directions  
 
-Trim excess fat and skin from chicken thighs. Season chicken with salt, pepper and granulated garlic. Heat olive oil in a pan large enough to hold the chicken in a single layer over medium heat. Use a 5 1/2 quart Dutch oven, 3 1/2 quart brasier, or 3-4 quart saute pan. Add the chicken skin side down and cook until the skin has a golden crust. Remove the chicken to a plate or rimmed baking pan.
-Add onion to the pan. You should hear a light sizzle when the onion hits the surface. Cook onion until soft, about 2-3 minutes. Turn the heat down if needed so the onion does not burn. Add the artichokes hearts, garlic, dried herbs, and red pepper and cook 1-2 minutes. Add the wine and broth and cook 2-3 minutes.
-Add the tomatoes to the pan and stir to mix them in.Nestle the chicken thighs into the vegetables and add the mushrooms. Turn the heat up until the pan is bubbling. Place the lid on the pan, turn heat to low and cook until the chicken reaches an internal temperature of 165°, about 20 minutes. Serve over noodles of choice and sprinkle with fresh herbs and Parmesan (if using).
+1. Heat olive oil in a pan large enough to hold the chicken in a single layer over medium heat    
+2. Add the chicken skin side down and cook until the skin has a golden crust    
+3. Remove the chicken to a plate or rimmed baking pan    
+4. Add onion to the pan    
+5. Cook onion until soft, about 2 - 3 minutes (turn the heat down if needed so the onion does not burn)    
+6. Add the artichokes hearts, garlic, dried herbs, and red pepper and cook 1-2 minutes.  
+7. Add the wine and broth and cook 2 - 3 minutes    
+8. Add the tomatoes to the pan and stir to mix them in    
+9. Nestle the chicken thighs into the vegetables and add the mushrooms     
+10. Turn the heat up until the pan is bubbling  
+11. Place the lid on the pan, turn heat to low and cook until the chicken reaches an internal temperature of 165°, about 20 minutes    
+12. Serve over noodles of choice and sprinkle with fresh herbs and Parmesan (if using)  
