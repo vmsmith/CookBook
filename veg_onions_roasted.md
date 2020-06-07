@@ -1,15 +1,15 @@
-[Cook Book]()  
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)  
 
-[Vegetables]()  
+[Vegetables](https://github.com/vmsmith/CookBook/blob/master/vegetables.md)  
 
 -----  
 
-[Notes]()  
+[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)  
 
 ### Roasted Onions  
 (Judith Barrett, New York Times, 4 June 1989)  
 
-$#### Ingredients  
+#### Ingredients  
 
 * Yellow onions of uniform diameter (about 3 inches)  
 * 1/3 cup of balsamic vinegar  
