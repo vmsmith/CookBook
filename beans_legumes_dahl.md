@@ -1,17 +1,20 @@
-[Cook Book]()  
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)  
 
-[Beans and Legumes]()  
+[Beans and Legumes](https://github.com/vmsmith/CookBook/blob/master/beans_legumes.md)  
 
 -----  
 
-[Notes]()  
+[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)   
 
 ### Red Lentil Dahl  
 [Red Lentil Dahl](https://veggiedesserts.com/red-lentil-dahl/)  
 
 
-#### Ingredients
-* 1 tsp olive oil or coconut oil  
+#### Ingredients  
+* 1 cup (200g) dried red lentils, uncooked (rinsed and drained)  
+* 1 can (14oz/400ml) chopped tomatoes  
+* 1 can (14oz/400ml) coconut milk  
+* 2 cups (500ml) vegetable broth/stock
 * 2 onions diced  
 * 3 garlic cloves finely chopped  
 * 1 tbsp fresh ginger peeled and grated  
@@ -21,10 +24,7 @@
 * 1/2 tsp mustard seeds  
 * 2 tsp ground turmeric  
 * 1 tsp garam masala  
-* 1 cup (200g) dried red lentils, uncooked (rinsed and drained)  
-* 1 can (14oz/400ml) chopped tomatoes  
-* 1 can (14oz/400ml) coconut milk  
-* 2 cups (500ml) vegetable broth/stock  
+* 1 tsp olive oil or coconut oil  
 * Salt and pepper  
 * Juice of half a lemon  
 * 2 handfuls fresh spinach washed  
