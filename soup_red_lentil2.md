@@ -7,6 +7,7 @@
 [Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)  
 
 ### Red Lentil Soup  
+[Reddit thread](https://old.reddit.com/r/Frugal/comments/gz1ouv/red_lentils_are_a_frugal_cooks_best_friend_30/)  
 
 #### Ingredients  
 * 1/2 cup red lentils  
