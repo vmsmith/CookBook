@@ -3,3 +3,5 @@
 ### Beans and Legumes  
 
 [Lentils, Moroccan](https://github.com/vmsmith/CookBook/blob/master/beans_legumes_lentils_moroccan.md)  
+
+[Red Lentil Dahl]()  
