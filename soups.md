@@ -28,6 +28,8 @@
 
 [Fish Soup, Provençal](https://github.com/vmsmith/CookBook/blob/master/soup_fish_provencal.md)
 
+[Red Lentil](https://github.com/vmsmith/CookBook/blob/master/soup_red_lentil2.md)  
+
 [Red Lentil with Lemon Soup](https://github.com/vmsmith/CookBook/blob/master/soup_red_lentil.md)
 
 [Lobster Bisque](https://github.com/vmsmith/CookBook/blob/master/soup_lobster_bisque.md)
