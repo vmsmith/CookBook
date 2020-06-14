@@ -14,6 +14,8 @@
 
 [Chicken Breasts Sautéed with Shallots](https://github.com/vmsmith/CookBook/blob/master/chicken_breasts_sauteed_shallots.md)  
 
+[Chicken Breasts Sautéed with Lemon Caper Sauce]()  
+
 [Chicken Cacciatore #1](https://github.com/vmsmith/CookBook/blob/master/chicken_cacciatore1.md)  
 
 [Chicken Cacciatore #2](https://github.com/vmsmith/CookBook/blob/master/chicken_cacciatore2.md)  
