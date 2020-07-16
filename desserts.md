@@ -2,7 +2,7 @@
 
 ### Desserts  
 
-[Sicilian Almond Granita]()  
+[Sicilian Almond Granita](https://github.com/vmsmith/CookBook/blob/master/dessert_almond_granita_sicilian.md)    
 
 [Sweet Basque Cream](https://github.com/vmsmith/CookBook/blob/master/dessert_cream_sweet-basque.md)  
 
