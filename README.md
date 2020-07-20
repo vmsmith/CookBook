@@ -6,8 +6,6 @@
 
 #### [Ingredients](https://github.com/vmsmith/CookBook/blob/master/ingredients.md)   
 
-#### [Markets](https://github.com/vmsmith/CookBook/blob/master/markets.md)
-
 -----
 
 #### [Lunch Dishes](https://github.com/vmsmith/CookBook/blob/master/dishes_lunch.md)   
