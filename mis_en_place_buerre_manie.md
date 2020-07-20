@@ -1,10 +1,10 @@
-[Cook Book]()  
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)  
 
-[Mis en Place]()  
+[Mis en Place](https://github.com/vmsmith/CookBook/blob/master/mis_en_place.md)  
 
 -----  
 
-[Notes]()  
+[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)  
 
 ### Buerre Manié
 
