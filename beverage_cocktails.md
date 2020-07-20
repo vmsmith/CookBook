@@ -15,7 +15,7 @@
 
 * 2 parts rye  
 * 1 part vermouth (50/50 sweet/dry)  
-* Dash of bitters  
+* 2 dashes of bitters  
 * Marachino cherry  
 
 #### Vesper  
