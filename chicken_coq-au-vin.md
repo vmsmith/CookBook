@@ -21,7 +21,7 @@
 
 #### Preparation:  
 
-1. Make beurre maniere   
+1. Make beurre maniere - see Mis en Place  
 2. Wash and dry mushrooms  
 3. Cut pancetta into lardons or cubes  
 4. Peel garlic cloves  
