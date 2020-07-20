@@ -2,4 +2,4 @@
 
 ### Mis en Place  
 
-[Buerre Manié]()  
+[Buerre Manié](https://github.com/vmsmith/CookBook/blob/master/mis_en_place_buerre_manie.md)    
