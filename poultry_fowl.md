@@ -20,7 +20,7 @@
 
 [Creamy Tuscany Chicken](https://github.com/vmsmith/CookBook/blob/master/chicken_creamy_tuscany.md)   
 
-[Coq au Vin](https://github.com/vmsmith/CookBook/blob/master/chicken_coq-au-vin.md)
+[Coq au Vin à la Elizabeth David](https://github.com/vmsmith/CookBook/blob/master/chicken_coq-au-vin.md)
 
 [Chicken Basquaise](https://github.com/vmsmith/CookBook/blob/master/chicken_basque_1.md)  
 
