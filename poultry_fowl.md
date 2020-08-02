@@ -38,6 +38,8 @@
 
 [Roasted Chicken Pronvençal](https://github.com/vmsmith/CookBook/blob/master/chicken_roasted_provencal.md)  
 
+[Roast Chicken the French Way](https://www.newyorker.com/culture/kitchen-notes/perfecting-roast-chicken-the-french-way) - External Link  
+
 [Chicken Tagine with Apricots and Almonds](https://github.com/vmsmith/CookBook/blob/master/chicken_tagine.md)  
 
 [Chicken Thighs, Braised Italian Style - 2](https://github.com/vmsmith/CookBook/blob/master/chicken_thighs_braised_italian-2.md)
