@@ -29,7 +29,7 @@
     <td>Other:</td></tr>
   
   <tr><td>Summer (Jun - Aug)</td>
-    <td>Seafood</td>
+    <td>Protein:<br>Sole</td>
     <td>Vegetables:<br>Artichoke<br>Aubergines<br>Cucumber<br><br>Haricots vert<br>Summer squash<br>Tomatoes<br>Zucchini</td>
     <td>Fruit:</td>
     <td>Cheese:</td>
