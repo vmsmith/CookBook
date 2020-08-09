@@ -121,3 +121,40 @@
 #### Winter - Spring  
 * Jerusalum artichokes  
 
+
+<table>
+  <tr><th></th><th>Protein</th><th>Vegetables</th><th>Fruit</th><th>Cheeses</th><th>Herbs</th><th>Other</th></tr>
+  <tr>
+    <td>January</td>
+    <td>Brill<br>Cod<br>Flounder<br>John Dory<br>Scallops</td>
+    <td>Beet Root<br>Belgian Endive<br>Broccoli<br>Brussles Sprouts<br>Buttercup Squash<br>Carrots<br>Cabbage<br>Celeriac<br>Leeks<br>Onions<br>Lamb's lettuce<br>Spinach<br>Turnips</td>
+    <td>Clementines<br>Dates<br>Pears</td>
+    <td>Bresse Bleu<br>Cantal<br>Pont l'Eveque<br>Roquefort</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr><td>February</td><td>Scallops</td><td></td><td></td><td></td><td><td></td></td></tr>
+  <tr><td>March</td>
+    <td>Scallops</td>
+    <td>Beet Root<br>Cabbage<br>Celeriac<br>Onions<br>Lamb's lettuce<br>Spinach<br></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td></tr>
+  <tr><td>April</td><td>Scallops</td><td>Asparagus<br>Fava beans</td><td></td><td></td><td></td><td></td></tr>
+  <tr><td>May</td><td>Seafood</td><td>Asparagus<br>Fava beans</td><td></td><td></td><td></td><td></td></tr>
+  <tr><td>June</td><td>Seafood</td><td>Asparagus<br>Fava beans<br>Haricots vert</td><td></td><td></td><td></td><td></td></tr>
+  <tr><td>July</td><td>Seafood</td><td>Vegetables<br>Haricots vert</td><td></td><td></td><td></td><td></td></tr>
+  <tr><td>August</td><td>Seafood</td><td>Cucumbers<br>Eggplant<br>Haricots verts<br>Summer squash<br>Tomatoes<br>Zucchini</td><td></td><td></td><td></td><td></td></tr>
+  <tr><td>September</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td>October</td>
+    <td>Scallops</td>
+    <td>Broccoli<br>Carrots<br>Cabbage<br>Brussels sprouts<br>Cauliflower<br>Squash<br>Courgette<br>Cress<br>Endives<br>Spinach<br>Fennel<br>Green beans<br>Turnip<br>Onion<br>Leek<br>Potato<br>Pumpkin<br>Radish</td>
+    <td>Chestnuts<br>Quince<br>Figs<br>Raspberries<br>Blueberries<br>Walnuts<br>Vine peaches<br>Pears<br>Apples<br>Plums<br>Grapes</td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+  <tr><td>November</td><td>Scallops</td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td>December</td><td>Scallops</td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
