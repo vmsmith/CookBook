@@ -31,7 +31,7 @@
   <tr><td>May</td><td>Seafood</td><td>Asparagus<br>Fava beans</td><td></td><td></td><td></td><td></td></tr>
   <tr><td>June</td><td>Seafood</td><td>Asparagus<br>Fava beans<br>Haricots vert</td><td></td><td></td><td></td><td></td></tr>
   <tr><td>July</td><td>Seafood</td><td>Vegetables<br>Haricots vert</td><td></td><td></td><td></td><td></td></tr>
-  <tr><td>August</td><td>Seafood</td><td>Vegetables<br>Haricots vert</td><td></td><td></td><td></td><td></td></tr>
+  <tr><td>August</td><td>Seafood</td><td>Cucumbers<br>Eggplant<br>Haricots verts<br>Summer squash<br>Tomatoes<br>Haricots vert</td><td></td><td></td><td></td><td></td></tr>
   <tr><td>September</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td>October</td>
     <td>Scallops</td>
