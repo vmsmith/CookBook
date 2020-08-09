@@ -30,7 +30,7 @@
   
   <tr><td>Summer (Jun - Aug)</td>
     <td>Protein:<br>Sole</td>
-    <td>Vegetables:<br>Artichoke<br>Aubergines<br>Cucumber<br><br>Haricots vert<br>Summer squash<br>Tomatoes<br>Zucchini</td>
+    <td>Vegetables:<br>Artichoke<br>Aubergines<br>Cucumber<br>Haricots vert<br>Summer squash<br>Tomatoes<br>Zucchini</td>
     <td>Fruit:</td>
     <td>Cheese:</td>
     <td>Herbs:</td>
