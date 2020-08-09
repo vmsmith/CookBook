@@ -19,7 +19,7 @@
     <td></td>
     <td></td>
   </tr>
-  <tr><td>February</td>Scallops<td></td><td></td><td></td><td></td><td><td></td></td></tr>
+  <tr><td>February</td><td>Scallops</td><td></td><td></td><td></td><td><td></td></td></tr>
   <tr><td>March</td>
     <td>Scallops</td>
     <td>Beet Root<br>Cabbage<br>Celeriac<br>Onions<br>Lamb's lettuce<br>Spinach<br></td>
