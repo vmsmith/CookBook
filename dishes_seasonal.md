@@ -38,7 +38,7 @@
  
   <tr><td>Autumn (Sep - Nov)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td></td>
-    <td>Protein:<b>Venison<br>Wild boar<br>Pidgeon<br>Pheasant<br>Scallops<br>Oysters</td>
+    <td>Protein:<br>Venison<br>Wild boar<br>Pidgeon<br>Pheasant<br>Scallops<br>Oysters</td>
     <td>Vegetables:<br>Broccoli<br>Carrots<br>Cabbage<br>Brussels sprouts<br>Cauliflower<br>Squash<br>Courgette<br>Cress<br>Endives<br>Spinach<br>Fennel<br>Green beans<br>Turnip<br>Onion<br>Leek<br>Potato<br>Pumpkin<br>Radish</td>
     <td>Fruit:<br>Chestnuts<br>Quince<br>Figs<br>Raspberries<br>Blueberries<br>Walnuts<br>Vine peaches<br>Pears<br>Apples<br>Plums<br>Grapes</td>
     <td>Cheese:</td>
