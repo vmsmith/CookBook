@@ -27,9 +27,9 @@
     <td></td>
     <td></td>
     <td></td></tr>
-  <tr><td>April</td><td>Scallops</td><td>Fava beans</td><td></td><td></td><td></td><td></td></tr>
-  <tr><td>May</td><td>Seafood</td><td>Fava beans</td><td></td><td></td><td></td><td></td></tr>
-  <tr><td>June</td><td>Seafood</td><td>Fava beans</td><td></td><td></td><td></td><td></td></tr>
+  <tr><td>April</td><td>Scallops</td><td>Asparagus<b>Fava beans</td><td></td><td></td><td></td><td></td></tr>
+  <tr><td>May</td><td>Seafood</td><td>Asparagus<b>Fava beans</td><td></td><td></td><td></td><td></td></tr>
+  <tr><td>June</td><td>Seafood</td><td>Asparagus<b>Fava beans</td><td></td><td></td><td></td><td></td></tr>
   <tr><td>July</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td>August</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td>September</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
