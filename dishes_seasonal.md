@@ -19,15 +19,15 @@
     <td></td>
     <td></td>
   </tr>
-  <tr><td>February</td><td></td><td></td><td></td><td></td><td><td></td></td></tr>
+  <tr><td>February</td>Scallops<td></td><td></td><td></td><td></td><td><td></td></td></tr>
   <tr><td>March</td>
-    <td></td>
+    <td>Scallops</td>
     <td>Beet Root<br>Cabbage<br>Celeriac<br>Onions<br>Lamb's lettuce<br>Spinach<br></td>
     <td></td>
     <td></td>
     <td></td>
     <td></td></tr>
-  <tr><td>April</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td>April</td><td>Scallops</td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td>May</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td>June</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td>July</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
@@ -41,8 +41,8 @@
     <td></td>
     <td></td>
 </tr>
-  <tr><td>November</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td>December</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td>November</td><td>Scallops</td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td>December</td><td>Scallops</td><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
 #### Spring  
