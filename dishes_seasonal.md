@@ -19,26 +19,32 @@
     <td></td>
     <td></td>
   </tr>
-  <tr><td>Spring (Mar - May)</td>
-    <td>Scallops</td>
-    <td>Beet Root<br>Asparagus<br>Cabbage<br>Celeriac<br>Fava beans<br>Lamb's lettuce<br>Spinach<br></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td></tr>
-  <tr><td>Summer (Jun - Aug)</td><td>Seafood</td><td>Asparagus<br>Fava beans<br>Haricots vert</td><td></td><td></td><td></td><td></td></tr>
-  <tr><td></td><td>Seafood</td><td>Vegetables<br>Haricots vert</td><td></td><td></td><td></td><td></td></tr>
-  <tr><td></td><td>Seafood</td><td>Cucumbers<br>Eggplant<br>Haricots verts<br>Summer squash<br>Tomatoes<br>Zucchini</td><td></td><td></td><td></td><td></td></tr>
+
+<tr><td>Spring (Mar - May)</td>
+    <td>Protein:<br>Scallops</td>
+    <td>Vegetables:<br>Beet Root<br>Asparagus<br>Cabbage<br>Celeriac<br>Fava beans<br>Lamb's lettuce<br>Spinach<br></td>
+    <td>Fruit:</td>
+    <td>Cheese:</td>
+    <td>Herbs:</td>
+    <td>Other:</td></tr>
+  
+  <tr><td>Summer (Jun - Aug)</td>
+    <td>Seafood</td>
+    <td>Vegetables:<br>Artichoke<br>Aubergines<br>Cucumber<br><br>Haricots vert<br>Summer squash<br>Tomatoes<br>Zucchini</td>
+    <td>Fruit:</td>
+    <td>Cheese:</td>
+    <td>Herbs:</td>
+    <td>Other:</td></tr>
+ 
   <tr><td>Autumn (Sep - Nov)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td></td>
-    <td>Scallops</td>
-    <td>Broccoli<br>Carrots<br>Cabbage<br>Brussels sprouts<br>Cauliflower<br>Squash<br>Courgette<br>Cress<br>Endives<br>Spinach<br>Fennel<br>Green beans<br>Turnip<br>Onion<br>Leek<br>Potato<br>Pumpkin<br>Radish</td>
-    <td>Chestnuts<br>Quince<br>Figs<br>Raspberries<br>Blueberries<br>Walnuts<br>Vine peaches<br>Pears<br>Apples<br>Plums<br>Grapes</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Protein:</td>
+    <td>Vegetables:<br>Broccoli<br>Carrots<br>Cabbage<br>Brussels sprouts<br>Cauliflower<br>Squash<br>Courgette<br>Cress<br>Endives<br>Spinach<br>Fennel<br>Green beans<br>Turnip<br>Onion<br>Leek<br>Potato<br>Pumpkin<br>Radish</td>
+    <td>Fruit:<br>Chestnuts<br>Quince<br>Figs<br>Raspberries<br>Blueberries<br>Walnuts<br>Vine peaches<br>Pears<br>Apples<br>Plums<br>Grapes</td>
+    <td>Cheese:</td>
+    <td>Herbs:</td>
+    <td>Other:</td>
 </tr>
-  <tr><td></td><td>Scallops</td><td></td><td></td><td></td><td></td><td></td></tr>
   
 </table>
 
