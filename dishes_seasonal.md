@@ -36,9 +36,9 @@
     <td>Herbs:</td>
     <td>Other:</td></tr>
  
-  <tr><td>Autumn (Sep - Nov)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td>Autumn (Sep - Nov)</td><td>Protein</td><td>Vegetables</td><td>Fruits</td><td>Cheese</td><td>Herbs</td><td>Other</td></tr>
   <tr><td></td>
-    <td>Protein:<br>
+    <td>
       Venison<br>
       Wild boar<br>
       Pidgeon<br>
@@ -46,7 +46,7 @@
       Scallops<br>
       Oysters
     </td>
-    <td>Vegetables:<br>
+    <td>
       Brocolli<br>
       Brussels sprouts<br>
       Cabbage<br>
@@ -63,7 +63,7 @@
       Spinach<br>
       Turnip
     </td>
-    <td>Fruit:<br>
+    <td>
       Apples<br>
       Chestnuts<br>
       Figs<br>
@@ -73,9 +73,9 @@
       Quince<br>
       Walnuts<br> 
     </td>
-    <td>Cheese:</td>
-    <td>Herbs:</td>
-    <td>Other:</td>
+    <td></td>
+    <td></td>
+    <td></td>
 </tr>
   
 </table>
