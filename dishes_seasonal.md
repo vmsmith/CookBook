@@ -28,7 +28,7 @@
     <td>Herbs:</td>
     <td>Other:</td></tr>
   
-  <tr><td>Summer (Jun - Aug)</td><td>Protein</td><td>Vegetables</td><td>Fruits</td><td>Cheese</td><td>Herbs</td><td>Other</td>
+  <tr><td>Summer (Jun - Aug)</td><td>Protein</td><td>Vegetables</td><td>Fruits</td><td>Cheese</td><td>Herbs</td><td>Other</td></tr>
     <td>Sole</td>
     <td>Artichoke<br>Aubergines<br>Cucumber<br>Haricots vert<br>Summer squash<br>Tomatoes<br>Zucchini</td>
     <td></td>
