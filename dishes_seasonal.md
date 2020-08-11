@@ -10,7 +10,7 @@
 
 <table>
    
-   <tr><td>Autumn (Sep - Nov)</td><td>Protein</td><td>Vegetables</td><td>Fruits</td><td>Cheese</td><td>Other</td></tr>
+   <tr><th>Autumn (Sep - Nov)</th><th>Protein</th><th>Vegetables</th><th>Fruits</th><th>Cheese</th><th>Other</th></tr>
   <tr><td></td>
     <td>
       Beef<br>
