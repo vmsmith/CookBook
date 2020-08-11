@@ -50,7 +50,13 @@
       Quince<br>
       Walnuts<br><br><br><br><br><br><br><br> 
     </td>
-    <td></td>
+    <td>
+       Saint Agur<br>
+       Roquefort<br>
+       Boulette d’Avesnes<br>
+       Maroille<br>
+       Munster<br>
+       Bleu de...<br><br><br><br><br><br><br><br><br></td>
     <td></td>
     <td></td>
 </tr>
