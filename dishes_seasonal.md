@@ -52,12 +52,15 @@
       Walnuts<br><br><br><br><br><br><br><br> 
     </td>
     <td>
+       Sainte-Maure (G)<br>
+       Chabichou (G)<br>
+       Crottin de Chavignol (GR)<br>
        Saint Agur<br>
        Roquefort<br>
        Boulette d’Avesnes<br>
        Maroille<br>
        Munster<br>
-       Bleu de...<br><br><br><br><br><br><br><br><br><br></td>
+       Bleu de...<br><br><br><br><br><br><br></td>
     <td></td>
     <td></td>
 </tr>
