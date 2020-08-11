@@ -10,9 +10,9 @@
 
 <table>
   <tr><th></th><th>Protein</th><th>Vegetables</th><th>Fruit</th><th>Cheeses</th><th>Herbs</th><th>Other</th></tr>
-  <tr>
+  <tr style="vertical-align:top">
     <td>Winter (Dec - Feb)</td>
-    <td valign-"top">Brill<br>Cod<br>Flounder<br>John Dory<br>Scallops</td>
+    <td>Brill<br>Cod<br>Flounder<br>John Dory<br>Scallops</td>
     <td>Beet Root<br>Belgian Endive<br>Broccoli<br>Brussles Sprouts<br>Buttercup Squash<br>Carrots<br>Cabbage<br>Celeriac<br>Leeks<br>Onions<br>Lamb's lettuce<br>Spinach<br>Turnips</td>
     <td>Clementines<br>Dates<br>Pears</td>
     <td>Bresse Bleu<br>Cantal<br>Pont l'Eveque<br>Roquefort</td>
