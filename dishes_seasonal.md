@@ -10,7 +10,7 @@
 
 <table>
    
-   <tr><th>Autumn (Sep - Nov)</th><th>Protein</th><th>Vegetables</th><th>Fruits</th><th>Cheese</th><th>Other</th></tr>
+   <tr><th>Autumn<br> (Sep - Nov)</th><th>Protein</th><th>Vegetables</th><th>Fruits</th><th>Cheese</th><th>Other</th></tr>
   <tr><td></td>
     <td>
       Beef<br>
@@ -68,7 +68,7 @@
     <td>Foie gras<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td>
 </tr>
  
-  <tr><td>Winter (Dec - Feb)</td><td>Protein</td><td>Vegetables</td><td>Fruit</td><td>Cheeses</td><td>Other</td></tr>
+  <tr><th>Winter<br> (Dec - Feb)</th><th>Protein</th><th>Vegetables</th><th>Fruits</th><th>Cheese</th><th>Other</th></tr>
   <tr><td></td>
     <td>Brill<br>Cod<br>Flounder<br>John Dory<br>Scallops<br><br><br><br><br><br><br><br><br></td>
     <td>Beet Root<br>Belgian Endive<br>Broccoli<br>Brussles Sprouts<br>Buttercup Squash<br>Carrots<br>Cabbage<br>Celeriac<br>Leeks<br>Onions<br>Lamb's lettuce<br>Spinach<br>Turnips</td>
@@ -77,7 +77,7 @@
     <td></td>
   </tr>
 
-<tr><td>Spring (Mar - May)</td><td>Protein</td><td>Vegetables</td><td>Fruit</td><td>Cheeses</td><td>Other</td></tr>
+<tr><th>Spring<br> (Mar - May)</th><th>Protein</th><th>Vegetables</th><th>Fruits</th><th>Cheese</th><th>Other</th></tr>
     <tr><td></td>
     <td></td>
     <td><br>Asparagus<br>Beet Root<br>Cabbage<br>Carrots<br>Celeriac<br>Fava beans<br>Lamb's lettuce<br>Sorrel<br>Spinach<br></td>
@@ -85,7 +85,7 @@
    <td></td>
     <td></td></tr>
   
-  <tr><td>Summer (Jun - Aug)</td><td>Protein</td><td>Vegetables</td><td>Fruits</td><td>Cheese</td><td>Other</td></tr>
+  <tr><th>Summer<br> (Jun - Aug)</th><th>Protein</th><th>Vegetables</th><th>Fruits</th><th>Cheese</th><th>Other</th></tr>
   <tr><td></td>
     <td>Sole</td>
     <td>Artichoke<br>Aubergines<br>Cucumber<br>Haricots vert<br>Summer squash<br>Tomatoes<br>Zucchini</td>
