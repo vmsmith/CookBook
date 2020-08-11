@@ -9,7 +9,6 @@
 [Seasonal Vegetable Calendar](http://na-nu.com/terfloth.org/Kitchen/Season_Cal.pdf)  
 
 <table>
-  
    <tr><td>Autumn (Sep - Nov)</td><td>Protein</td><td>Vegetables</td><td>Fruits</td><td>Cheese</td><td>Herbs</td><td>Other</td></tr>
   <tr><td></td>
     <td>
