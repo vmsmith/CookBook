@@ -15,14 +15,16 @@
     <td>
       Beef<br>
       Porc<br>
-      Hare and Rabbit<br>
+      Hare<br>
       Venison<br>
       Wild boar<br><br>
       Duck<br>
+      Partridge<br>
       Pidgeon<br>
       Pheasant<br><br>
+      Eel<br>
       Scallops<br>
-      Oysters<br><br><br>
+      Oysters<br>
     </td>
     <td>
       Brocolli<br>
@@ -30,6 +32,7 @@
       Cabbage<br>
       Carrots<br>
       Cauliflower<br>
+      Celery root<br>
       Courgette<br>
       Cress<br>
       Endives<br>
@@ -62,7 +65,7 @@
        Maroille<br>
        Munster<br>
        Bleu de...<br><br><br><br><br></td>
-    <td></td>
+    <td>Foie gras<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td>
     <td></td>
 </tr>
  
@@ -79,7 +82,7 @@
 <tr><td>Spring (Mar - May)</td><td>Protein</td><td>Vegetables</td><td>Fruit</td><td>Cheeses</td><td>Herbs</td><td>Other</td></tr>
     <tr><td></td>
     <td></td>
-    <td><br>Beet Root<br>Asparagus<br>Cabbage<br>Celeriac<br>Fava beans<br>Lamb's lettuce<br>Spinach<br></td>
+    <td><br>Asparagus<br>Beet Root<br>Cabbage<br>Carrots<br>Celeriac<br>Fava beans<br>Lamb's lettuce<br>Sorrel<br>Spinach<br></td>
     <td></td>
     <td></td>
     <td></td>
@@ -99,17 +102,6 @@
 </table>
 
 
-#### Spring  
-* Carrots  
-* Morels  
-* Sorrel  
-* Spinach  
-
-#### Spring - Summer  
-* Fava beans  
-* Lamb  
-* Zucchini  
-
 #### Summer  
 * Apricots  
 * Berries  
@@ -128,35 +120,16 @@
 * Honeydew  
 
 #### Fall  
-* Apples  
-* Lima beans  
-* Cauliflower  
+* Lima beans    
 * Cepes  
-* Duck  
-* Eels  
 * Fennel  
-* Foie Gras  
-* Hare  
-* Leeks  
-* Mushrooms  
-* Fall  
-* Partridge  
-* Pears  
-* Pheasant  
-* Pork  
-* Pumpkin  
-* Quail  
-* Quinces  
-* Spinach  
-* Walnuts  
+* Mushrooms    
 
 
 #### Fall - Winter  
 * Capon  
-* Celery root  
 * Chestnuts  
 * Mussels  
-* Potatoes  
 * Radicchio  
 * Acorn squash  
 
