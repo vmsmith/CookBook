@@ -24,7 +24,7 @@
       Pheasant<br><br>
       Eel<br>
       Scallops<br>
-      Oysters<br>
+      Oysters<br><br><br>
     </td>
     <td>
       Brocolli<br>
@@ -52,7 +52,7 @@
       Pears<br>
       Plums<br>
       Quince<br>
-      Walnuts<br><br><br><br><br><br><br><br> 
+      Walnuts<br><br><br><br><br><br><br><br><br>
     </td>
     <td>
        Sainte-Maure (G)<br>
@@ -64,8 +64,8 @@
        Boulette d’Avesnes<br>
        Maroille<br>
        Munster<br>
-       Bleu de...<br><br><br><br><br></td>
-    <td>Foie gras<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td>
+       Bleu de...<br><br><br><br><br><br><br></td>
+    <td>Foie gras<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td>
 </tr>
  
   <tr><td>Winter (Dec - Feb)</td><td>Protein</td><td>Vegetables</td><td>Fruit</td><td>Cheeses</td><td>Other</td></tr>
