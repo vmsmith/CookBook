@@ -9,36 +9,8 @@
 [Seasonal Vegetable Calendar](http://na-nu.com/terfloth.org/Kitchen/Season_Cal.pdf)  
 
 <table>
-  <tr><th></th><th>Protein</th><th>Vegetables</th><th>Fruit</th><th>Cheeses</th><th>Herbs</th><th>Other</th></tr>
-  <tr>
-    <td>Winter (Dec - Feb)</td>
-    <td>Brill<br>Cod<br>Flounder<br>John Dory<br>Scallops<br><br><br><br><br><br><br><br><br></td>
-    <td>Beet Root<br>Belgian Endive<br>Broccoli<br>Brussles Sprouts<br>Buttercup Squash<br>Carrots<br>Cabbage<br>Celeriac<br>Leeks<br>Onions<br>Lamb's lettuce<br>Spinach<br>Turnips</td>
-    <td>Clementines<br>Dates<br>Pears</td>
-    <td>Bresse Bleu<br>Cantal<br>Pont l'Eveque<br>Roquefort</td>
-    <td></td>
-    <td></td>
-  </tr>
-
-<tr><td>Spring (Mar - May)</td>
-    <td>Protein:<br>Scallops</td>
-    <td>Vegetables:<br>Beet Root<br>Asparagus<br>Cabbage<br>Celeriac<br>Fava beans<br>Lamb's lettuce<br>Spinach<br></td>
-    <td>Fruit:</td>
-    <td>Cheese:</td>
-    <td>Herbs:</td>
-    <td>Other:</td></tr>
   
-  <tr><td>Summer (Jun - Aug)</td><td>Protein</td><td>Vegetables</td><td>Fruits</td><td>Cheese</td><td>Herbs</td><td>Other</td></tr>
-  <tr>
-    <td>Sole</td>
-    <td>Artichoke<br>Aubergines<br>Cucumber<br>Haricots vert<br>Summer squash<br>Tomatoes<br>Zucchini</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-</tr>
- 
-  <tr><td>Autumn (Sep - Nov)</td><td>Protein</td><td>Vegetables</td><td>Fruits</td><td>Cheese</td><td>Herbs</td><td>Other</td></tr>
+   <tr><td>Autumn (Sep - Nov)</td><td>Protein</td><td>Vegetables</td><td>Fruits</td><td>Cheese</td><td>Herbs</td><td>Other</td></tr>
   <tr><td></td>
     <td>
       Venison<br>
@@ -79,6 +51,36 @@
     <td></td>
     <td></td>
 </tr>
+ 
+  <tr><th></th><th>Protein</th><th>Vegetables</th><th>Fruit</th><th>Cheeses</th><th>Herbs</th><th>Other</th></tr>
+  <tr>
+    <td>Winter (Dec - Feb)</td>
+    <td>Brill<br>Cod<br>Flounder<br>John Dory<br>Scallops<br><br><br><br><br><br><br><br><br></td>
+    <td>Beet Root<br>Belgian Endive<br>Broccoli<br>Brussles Sprouts<br>Buttercup Squash<br>Carrots<br>Cabbage<br>Celeriac<br>Leeks<br>Onions<br>Lamb's lettuce<br>Spinach<br>Turnips</td>
+    <td>Clementines<br>Dates<br>Pears</td>
+    <td>Bresse Bleu<br>Cantal<br>Pont l'Eveque<br>Roquefort</td>
+    <td></td>
+    <td></td>
+  </tr>
+
+<tr><td>Spring (Mar - May)</td>
+    <td>Protein:<br>Scallops</td>
+    <td>Vegetables:<br>Beet Root<br>Asparagus<br>Cabbage<br>Celeriac<br>Fava beans<br>Lamb's lettuce<br>Spinach<br></td>
+    <td>Fruit:</td>
+    <td>Cheese:</td>
+    <td>Herbs:</td>
+    <td>Other:</td></tr>
+  
+  <tr><td>Summer (Jun - Aug)</td><td>Protein</td><td>Vegetables</td><td>Fruits</td><td>Cheese</td><td>Herbs</td><td>Other</td></tr>
+  <tr>
+    <td>Sole</td>
+    <td>Artichoke<br>Aubergines<br>Cucumber<br>Haricots vert<br>Summer squash<br>Tomatoes<br>Zucchini</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+ 
   
 </table>
 
