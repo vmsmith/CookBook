@@ -55,7 +55,6 @@
  
   <tr><td>Winter (Dec - Feb)</td><td>Protein</td><td>Vegetables</td><td>Fruit</td><td>Cheeses</td><td>Herbs</td><td>Other</td></tr>
   <tr><td></td>
-  <tr>
     <td>Brill<br>Cod<br>Flounder<br>John Dory<br>Scallops<br><br><br><br><br><br><br><br><br></td>
     <td>Beet Root<br>Belgian Endive<br>Broccoli<br>Brussles Sprouts<br>Buttercup Squash<br>Carrots<br>Cabbage<br>Celeriac<br>Leeks<br>Onions<br>Lamb's lettuce<br>Spinach<br>Turnips</td>
     <td>Clementines<br>Dates<br>Pears</td>
