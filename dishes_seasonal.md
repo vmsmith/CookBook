@@ -56,7 +56,7 @@
        Boulette d’Avesnes<br>
        Maroille<br>
        Munster<br>
-       Bleu de...<br><br><br><br><br><br><br><br><br></td>
+       Bleu de...<br><br><br><br><br><br><br><br><br><br></td>
     <td></td>
     <td></td>
 </tr>
