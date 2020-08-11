@@ -76,8 +76,8 @@
     <td></td>
   </tr>
 
-<tr><td>Spring (Mar - May)</td>
-    <td>Protein:<br>Scallops</td>
+<tr><td>Spring (Mar - May)</td><td>Protein</td><td>Vegetables</td><td>Fruit</td><td>Cheeses</td><td>Herbs</td><td>Other</td></tr>
+    <tr><td></td>
     <td>Vegetables:<br>Beet Root<br>Asparagus<br>Cabbage<br>Celeriac<br>Fava beans<br>Lamb's lettuce<br>Spinach<br></td>
     <td>Fruit:</td>
     <td>Cheese:</td>
