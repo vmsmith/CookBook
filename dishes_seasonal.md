@@ -17,10 +17,11 @@
       Porc<br>
       Venison<br>
       Wild boar<br><br>
+      Duck<br>
       Pidgeon<br>
       Pheasant<br><br>
       Scallops<br>
-      Oysters<br><br><br><br><br><br>
+      Oysters<br><br><br><br><br>
     </td>
     <td>
       Brocolli<br>
