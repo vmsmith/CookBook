@@ -15,6 +15,7 @@
     <td>
       Beef<br>
       Porc<br>
+      Hare and Rabbit<br>
       Venison<br>
       Wild boar<br><br>
       Duck<br>
