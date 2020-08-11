@@ -13,7 +13,7 @@
    <tr><td>Autumn (Sep - Nov)</td><td>Protein</td><td>Vegetables</td><td>Fruits</td><td>Cheese</td><td>Herbs</td><td>Other</td></tr>
   <tr><td></td>
     <td>
-      Beef>br>
+      Beef<br>
       Porc<br>
       Venison<br>
       Wild boar<br><br>
