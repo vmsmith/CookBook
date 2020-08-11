@@ -10,7 +10,7 @@
 
 <table>
    
-   <tr><td>Autumn (Sep - Nov)</td><td>Protein</td><td>Vegetables</td><td>Fruits</td><td>Cheese</td><td>Herbs</td><td>Other</td></tr>
+   <tr><td>Autumn (Sep - Nov)</td><td>Protein</td><td>Vegetables</td><td>Fruits</td><td>Cheese</td><td>Other</td></tr>
   <tr><td></td>
     <td>
       Beef<br>
@@ -66,7 +66,6 @@
        Munster<br>
        Bleu de...<br><br><br><br><br></td>
     <td>Foie gras<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td>
-    <td></td>
 </tr>
  
   <tr><td>Winter (Dec - Feb)</td><td>Protein</td><td>Vegetables</td><td>Fruit</td><td>Cheeses</td><td>Herbs</td><td>Other</td></tr>
