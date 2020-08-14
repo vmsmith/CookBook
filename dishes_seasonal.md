@@ -25,7 +25,7 @@
       Pheasant<br><br>
       Eel<br>
       Scallops<br>
-      Oysters<br><br><br>
+      Oysters<br><br>
     </td>
     <td>
       Brocolli<br>
@@ -43,7 +43,6 @@
       Pumpkin<br>      
       Squash<br>
       Spinach<br>
-      <br>
     </td>
     <td>
       Apples<br>
