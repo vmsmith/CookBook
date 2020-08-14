@@ -18,6 +18,7 @@
       Hare<br>
       Venison<br>
       Wild boar<br><br>
+      Bresse chicken<br>
       Duck<br>
       Partridge<br>
       Pidgeon<br>
@@ -42,7 +43,7 @@
       Pumpkin<br>      
       Squash<br>
       Spinach<br>
-      Turnip
+      <br>
     </td>
     <td>
       Apples<br>
@@ -52,7 +53,7 @@
       Pears<br>
       Plums<br>
       Quince<br>
-      Walnuts<br><br><br><br><br><br><br><br><br>
+      Walnuts<br><br><br><br><br><br><br><br><br><br>
     </td>
     <td>
        Sainte-Maure (G)<br>
@@ -64,8 +65,10 @@
        Boulette d’Avesnes<br>
        Maroille<br>
        Munster<br>
-       Bleu de...<br><br><br><br><br><br><br></td>
-    <td>Foie gras<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td>
+       Bleu de...<br><br><br><br><br><br><br><br>
+   </td>
+    <td>Foie gras<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+   </td>
 </tr>
  
   <tr><th>Winter<br> (Dec - Feb)</th><th>Protein</th><th>Vegetables</th><th>Fruits</th><th>Cheese</th><th>Other</th></tr>
