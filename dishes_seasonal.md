@@ -42,7 +42,7 @@
       Potato<br>
       Pumpkin<br>      
       Squash<br>
-      Spinach<br>
+      Spinach<br><br><br>
     </td>
     <td>
       Apples<br>
