@@ -92,9 +92,10 @@
       Belgian Endives<br>
       Fennel<br>
       Leek<br>
+      Lettuce, lamb<br>
       Parsnip<br>
       Pumpkin<br>      
-      Squash<br>
+      Squash, winter<br>
       Rutabaga<br>
       Turnips<br><br><br>
     </td>
@@ -152,10 +153,11 @@
       Belgian Endives<br>
       Fennel<br>
       Leek<br>
+      Lettuce, lamb<br>
       Parsnip<br>
       Pumpkin<br>      
       Rutabaga<br>
-      Squash<br>
+      Squash, winter<br>
       Turnips<br><br><br>
     </td>
     <td>
@@ -199,10 +201,11 @@
        Cabbage, Red<br>
        Celery  Root<br>
        Leeks<br>
+       Lettuce, lamb<br>
        Parsnip<br>
        Pumpkin<br>
-       Lamb's lettuce<br>
        Rutabaga<br>
+       Squash, winter<br>
        Turnips<br></td>
     <td>Clementines<br>Dates<br>Pears</td>
     <td>Bresse Bleu<br>Cantal<br>Pont l'Eveque<br>Roquefort</td>
