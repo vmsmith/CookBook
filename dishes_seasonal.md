@@ -69,6 +69,124 @@
     <td>Foie gras<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
    </td>
 </tr>
+<tr><th>Autumn<br> (Sep - Nov)</th><th>Protein</th><th>Vegetables</th><th>Fruits</th><th>Cheese</th><th>Other</th></tr>
+  <tr><td></td>
+    <td>
+      Beef<br>
+      Porc<br>
+      Hare<br>
+      Venison<br>
+      Wild boar<br><br>
+      Bresse chicken<br>
+      Duck<br>
+      Partridge<br>
+      Pidgeon<br>
+      Pheasant<br><br>
+      Eel<br>
+      Scallops<br>
+      Oysters<br><br>
+    </td>
+    <td>
+      Brocolli<br>
+      Brussels sprouts<br>
+      Cabbage<br>
+      Carrots<br>
+      Cauliflower<br>
+      Celery root<br>
+      Courgette<br>
+      Cress<br>
+      Endives<br>
+      Fennel<br>
+      Leek<br>
+      Potato<br>
+      Pumpkin<br>      
+      Squash<br>
+      Spinach<br><br><br>
+    </td>
+    <td>
+      Apples<br>
+      Chestnuts<br>
+      Figs<br>
+      Grapes<br>
+      Pears<br>
+      Plums<br>
+      Quince<br>
+      Walnuts<br><br><br><br><br><br><br><br><br><br>
+    </td>
+    <td>
+       Sainte-Maure (G)<br>
+       Chabichou (G)<br>
+       Crottin de Chavignol (GR)<br>
+       Ossau-Iraty (S)<br>
+       Saint Agur<br>
+       Roquefort (S)<br>
+       Boulette d’Avesnes<br>
+       Maroille<br>
+       Munster<br>
+       Bleu de...<br><br><br><br><br><br><br><br>
+   </td>
+    <td>Foie gras<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+   </td>
+</tr>
+<tr><th>Autumn<br> (Sep - Nov)</th><th>Protein</th><th>Vegetables</th><th>Fruits</th><th>Cheese</th><th>Other</th></tr>
+  <tr><td></td>
+    <td>
+      Beef<br>
+      Porc<br>
+      Hare<br>
+      Venison<br>
+      Wild boar<br><br>
+      Bresse chicken<br>
+      Duck<br>
+      Partridge<br>
+      Pidgeon<br>
+      Pheasant<br><br>
+      Eel<br>
+      Scallops<br>
+      Oysters<br><br>
+    </td>
+    <td>
+      Brocolli<br>
+      Brussels sprouts<br>
+      Cabbage<br>
+      Carrots<br>
+      Cauliflower<br>
+      Celery root<br>
+      Courgette<br>
+      Cress<br>
+      Endives<br>
+      Fennel<br>
+      Leek<br>
+      Potato<br>
+      Pumpkin<br>      
+      Squash<br>
+      Spinach<br><br><br>
+    </td>
+    <td>
+      Apples<br>
+      Chestnuts<br>
+      Figs<br>
+      Grapes<br>
+      Pears<br>
+      Plums<br>
+      Quince<br>
+      Walnuts<br><br><br><br><br><br><br><br><br><br>
+    </td>
+    <td>
+       Sainte-Maure (G)<br>
+       Chabichou (G)<br>
+       Crottin de Chavignol (GR)<br>
+       Ossau-Iraty (S)<br>
+       Saint Agur<br>
+       Roquefort (S)<br>
+       Boulette d’Avesnes<br>
+       Maroille<br>
+       Munster<br>
+       Bleu de...<br><br><br><br><br><br><br><br>
+   </td>
+    <td>Foie gras<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+   </td>
+</tr>
  
   <tr><th>Winter<br> (Dec - Feb)</th><th>Protein</th><th>Vegetables</th><th>Fruits</th><th>Cheese</th><th>Other</th></tr>
   <tr><td></td>
