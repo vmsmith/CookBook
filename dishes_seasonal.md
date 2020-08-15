@@ -196,6 +196,33 @@
     <td></td>
   </tr>
 
+ <tr><th>December</th><th>Protein</th><th>Vegetables</th><th>Fruits</th><th>Cheese</th><th>Other</th></tr>
+  <tr><td></td>
+    <td>Brill<br>Cod<br>Flounder<br>John Dory<br>Scallops<br><br><br><br><br><br><br><br><br></td>
+    <td>Beet Root<br>Belgian Endive<br>Broccoli<br>Brussles Sprouts<br>Buttercup Squash<br>Carrots<br>Cabbage<br>Celeriac<br>Leeks<br>Onions<br>Lamb's lettuce<br>Spinach<br>Turnips</td>
+    <td>Clementines<br>Dates<br>Pears</td>
+    <td>Bresse Bleu<br>Cantal<br>Pont l'Eveque<br>Roquefort</td>
+    <td></td>
+  </tr>
+ <tr><th>January</th><th>Protein</th><th>Vegetables</th><th>Fruits</th><th>Cheese</th><th>Other</th></tr>
+  <tr><td></td>
+    <td>Brill<br>Cod<br>Flounder<br>John Dory<br>Scallops<br><br><br><br><br><br><br><br><br></td>
+    <td>Beet Root<br>Belgian Endive<br>Broccoli<br>Brussles Sprouts<br>Buttercup Squash<br>Carrots<br>Cabbage<br>Celeriac<br>Leeks<br>Onions<br>Lamb's lettuce<br>Spinach<br>Turnips</td>
+    <td>Clementines<br>Dates<br>Pears</td>
+    <td>Bresse Bleu<br>Cantal<br>Pont l'Eveque<br>Roquefort</td>
+    <td></td>
+  </tr>
+  <tr><th>February</th><th>Protein</th><th>Vegetables</th><th>Fruits</th><th>Cheese</th><th>Other</th></tr>
+  <tr><td></td>
+    <td>Brill<br>Cod<br>Flounder<br>John Dory<br>Scallops<br><br><br><br><br><br><br><br><br></td>
+    <td>Beet Root<br>Belgian Endive<br>Broccoli<br>Brussles Sprouts<br>Buttercup Squash<br>Carrots<br>Cabbage<br>Celeriac<br>Leeks<br>Onions<br>Lamb's lettuce<br>Spinach<br>Turnips</td>
+    <td>Clementines<br>Dates<br>Pears</td>
+    <td>Bresse Bleu<br>Cantal<br>Pont l'Eveque<br>Roquefort</td>
+    <td></td>
+  </tr>
+
+
+
 <tr><th>Spring<br> (Mar - May)</th><th>Protein</th><th>Vegetables</th><th>Fruits</th><th>Cheese</th><th>Other</th></tr>
     <tr><td></td>
     <td></td>
