@@ -33,7 +33,6 @@
       Carrots<br>
       Cauliflower<br>
       Celery root<br>
-      Courgette<br>
       Cress<br>
       Endives<br>
       Fennel<br>
@@ -93,7 +92,6 @@
       Carrots<br>
       Cauliflower<br>
       Celery root<br>
-      Courgette<br>
       Cress<br>
       Endives<br>
       Fennel<br>
@@ -153,7 +151,6 @@
       Carrots<br>
       Cauliflower<br>
       Celery root<br>
-      Courgette<br>
       Cress<br>
       Endives<br>
       Fennel<br>
