@@ -35,9 +35,7 @@
       Celery root<br>
       Cress<br>
       Belgian Endives<br>
-      Fennel<br>
-      Potato<br>
-      Pumpkin<br>      
+      Fennel<br>  
       Squash<br>
       Spinach<br><br><br><br><br>
     </td>
@@ -95,7 +93,6 @@
       Belgian Endives<br>
       Fennel<br>
       Leek<br>
-      Potato<br>
       Pumpkin<br>      
       Squash<br>
       Spinach<br><br><br>
@@ -154,7 +151,6 @@
       Belgian Endives<br>
       Fennel<br>
       Leek<br>
-      Potato<br>
       Pumpkin<br>      
       Squash<br>
       Spinach<br><br><br>
@@ -200,7 +196,7 @@
        Cabbage, Red<br>
        Celery  Root<br>
        Leeks<br>
-       Onions<br>
+       Pumpkin<br>
        Lamb's lettuce<br>
        Spinach<br>
        Turnips</td>
