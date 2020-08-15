@@ -34,7 +34,7 @@
       Cauliflower<br>
       Celery root<br>
       Cress<br>
-      Endives<br>
+      Belgian Endives<br>
       Fennel<br>
       Leek<br>
       Potato<br>
@@ -93,7 +93,7 @@
       Cauliflower<br>
       Celery root<br>
       Cress<br>
-      Endives<br>
+      Belgian Endives<br>
       Fennel<br>
       Leek<br>
       Potato<br>
@@ -152,7 +152,7 @@
       Cauliflower<br>
       Celery root<br>
       Cress<br>
-      Endives<br>
+      Belgian Endives<br>
       Fennel<br>
       Leek<br>
       Potato<br>
@@ -188,8 +188,23 @@
  
   <tr><th>December</th><th>Protein</th><th>Vegetables</th><th>Fruits</th><th>Cheese</th><th>Other</th></tr>
   <tr><td></td>
-    <td>Brill<br>Cod<br>Flounder<br>John Dory<br>Scallops<br><br><br><br><br><br><br><br><br></td>
-    <td>Beet Root<br>Belgian Endive<br>Broccoli<br>Brussles Sprouts<br>Buttercup Squash<br>Cabbage, Red<br>Celery  Root<br>Leeks<br>Onions<br>Lamb's lettuce<br>Spinach<br>Turnips</td>
+    <td>Brill<br>
+       Cod<br>
+       Flounder<br>
+       John Dory<br>
+       Scallops<br><br><br><br><br><br><br><br><br></td>
+    <td>Beet Root<br>
+       Belgian Endives<br>
+       Broccoli<br>
+       Brussles Sprouts<br>
+       Buttercup Squash<br>
+       Cabbage, Red<br>
+       Celery  Root<br>
+       Leeks<br>
+       Onions<br>
+       Lamb's lettuce<br>
+       Spinach<br>
+       Turnips</td>
     <td>Clementines<br>Dates<br>Pears</td>
     <td>Bresse Bleu<br>Cantal<br>Pont l'Eveque<br>Roquefort</td>
     <td></td>
@@ -198,7 +213,7 @@
  <tr><th>January</th><th>Protein</th><th>Vegetables</th><th>Fruits</th><th>Cheese</th><th>Other</th></tr>
   <tr><td></td>
     <td>Brill<br>Cod<br>Flounder<br>John Dory<br>Scallops<br><br><br><br><br><br><br><br><br></td>
-    <td>Beet Root<br>Belgian Endive<br>Broccoli<br>Brussles Sprouts<br>Buttercup Squash<br>Celery Root<br>Leeks<br>Onions<br>Lamb's lettuce<br>Spinach<br>Turnips</td>
+    <td>Beet Root<br>Belgian Endives<br>Broccoli<br>Brussles Sprouts<br>Buttercup Squash<br>Celery Root<br>Leeks<br>Onions<br>Lamb's lettuce<br>Spinach<br>Turnips</td>
     <td>Clementines<br>Dates<br>Pears</td>
     <td>Bresse Bleu<br>Cantal<br>Pont l'Eveque<br>Roquefort</td>
     <td></td>
@@ -219,7 +234,7 @@
 <tr><th>Spring<br> (Mar - May)</th><th>Protein</th><th>Vegetables</th><th>Fruits</th><th>Cheese</th><th>Other</th></tr>
     <tr><td></td>
     <td></td>
-    <td><br>Asparagus<br>Beet Root<br>Cabbage<br>Carrots<br>Celeriac<br>Fava beans<br>Lamb's lettuce<br>Sorrel<br>Spinach<br></td>
+    <td><br>Asparagus<br>Beet Root<br>Cabbage<br>Carrots<br>Celery Root<br>Belgian Endives<br>Fava beans<br>Lamb's lettuce<br>Sorrel<br>Spinach<br></td>
     <td></td>
    <td></td>
     <td></td></tr>
