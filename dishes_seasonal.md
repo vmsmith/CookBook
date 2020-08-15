@@ -68,6 +68,7 @@
     <td>Foie gras<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
    </td>
 </tr>
+
 <tr><th>October</th><th>Protein</th><th>Vegetables</th><th>Fruits</th><th>Cheese</th><th>Other</th></tr>
   <tr><td></td>
     <td>
@@ -127,6 +128,7 @@
     <td>Foie gras<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
    </td>
 </tr>
+
 <tr><th>November</th><th>Protein</th><th>Vegetables</th><th>Fruits</th><th>Cheese</th><th>Other</th></tr>
   <tr><td></td>
     <td>
