@@ -94,7 +94,8 @@
       Leek<br>
       Parsnip<br>
       Pumpkin<br>      
-      Squash<br><br><br><br>
+      Squash<br>
+      Turnips<br><br><br>
     </td>
     <td>
       Apples<br>
@@ -152,7 +153,8 @@
       Leek<br>
       Parsnip<br>
       Pumpkin<br>      
-      Squash<br><br><br><br>
+      Squash<br>
+      Turnips<br><br><br>
     </td>
     <td>
       Apples<br>
