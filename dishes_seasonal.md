@@ -36,8 +36,7 @@
       Cress<br>
       Belgian Endives<br>
       Fennel<br>  
-      Squash<br>
-      Spinach<br><br><br><br><br>
+      Squash<br><br><br><br><br><br>
     </td>
     <td>
       Apples<br>
@@ -94,8 +93,7 @@
       Fennel<br>
       Leek<br>
       Pumpkin<br>      
-      Squash<br>
-      Spinach<br><br><br>
+      Squash<br><br><br><br>
     </td>
     <td>
       Apples<br>
@@ -152,8 +150,7 @@
       Fennel<br>
       Leek<br>
       Pumpkin<br>      
-      Squash<br>
-      Spinach<br><br><br>
+      Squash<br><br><br><br>
     </td>
     <td>
       Apples<br>
@@ -197,8 +194,7 @@
        Celery  Root<br>
        Leeks<br>
        Pumpkin<br>
-       Lamb's lettuce<br>
-       Spinach<br>
+       Lamb's lettuce<br><br>
        Turnips</td>
     <td>Clementines<br>Dates<br>Pears</td>
     <td>Bresse Bleu<br>Cantal<br>Pont l'Eveque<br>Roquefort</td>
