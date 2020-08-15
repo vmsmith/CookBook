@@ -92,6 +92,7 @@
       Belgian Endives<br>
       Fennel<br>
       Leek<br>
+      Parsnip<br>
       Pumpkin<br>      
       Squash<br><br><br><br>
     </td>
@@ -149,6 +150,7 @@
       Belgian Endives<br>
       Fennel<br>
       Leek<br>
+      Parsnip<br>
       Pumpkin<br>      
       Squash<br><br><br><br>
     </td>
@@ -193,6 +195,7 @@
        Cabbage, Red<br>
        Celery  Root<br>
        Leeks<br>
+       Parsnip<br>
        Pumpkin<br>
        Lamb's lettuce<br><br>
        Turnips</td>
