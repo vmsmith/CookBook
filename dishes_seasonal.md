@@ -95,6 +95,7 @@
       Parsnip<br>
       Pumpkin<br>      
       Squash<br>
+      Rutabaga<br>
       Turnips<br><br><br>
     </td>
     <td>
@@ -153,6 +154,7 @@
       Leek<br>
       Parsnip<br>
       Pumpkin<br>      
+      Rutabaga<br>
       Squash<br>
       Turnips<br><br><br>
     </td>
@@ -199,8 +201,9 @@
        Leeks<br>
        Parsnip<br>
        Pumpkin<br>
-       Lamb's lettuce<br><br>
-       Turnips</td>
+       Lamb's lettuce<br>
+       Rutabaga<br>
+       Turnips<br></td>
     <td>Clementines<br>Dates<br>Pears</td>
     <td>Bresse Bleu<br>Cantal<br>Pont l'Eveque<br>Roquefort</td>
     <td></td>
