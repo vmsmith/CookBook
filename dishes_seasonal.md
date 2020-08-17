@@ -94,7 +94,8 @@
       Fennel<br>
       Leek<br>
       Lettuce, lamb<br>
-      Parsnip<br>
+      Mushrooms<br>
+      Parsnips<br>
       Pumpkin<br>      
       Squash, winter<br>
       Rutabaga<br>
