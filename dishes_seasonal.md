@@ -28,6 +28,7 @@
       Oysters<br><br><br>
     </td>
     <td>
+      Artichoke<br>
       Brussels sprouts<br>
       Cabbage, Red<br>
       Carrots<br>
@@ -230,9 +231,6 @@
     <td></td>
   </tr>
   
-
-
-
 <tr><th>Mar</th><th>Protein</th><th>Vegetables</th><th>Fruits</th><th>Cheese</th><th>Other</th></tr>
     <tr><td></td>
     <td></td>
@@ -244,7 +242,7 @@
 <tr><th>Apr</th><th>Protein</th><th>Vegetables</th><th>Fruits</th><th>Cheese</th><th>Other</th></tr>
     <tr><td></td>
     <td></td>
-    <td><br>Asparagus<br>Beet Root<br>Cabbage<br>Carrots<br>Celery Root<br>Belgian Endives<br>Fava beans<br>Lamb's lettuce<br>Sorrel<br>Spinach<br></td>
+    <td>Artichoke<br>Asparagus<br>Beet Root<br>Cabbage<br>Carrots<br>Celery Root<br>Belgian Endives<br>Fava beans<br>Lamb's lettuce<br>Sorrel<br>Spinach<br></td>
     <td></td>
    <td></td>
     <td></td></tr>
@@ -252,7 +250,7 @@
 <tr><th>May</th><th>Protein</th><th>Vegetables</th><th>Fruits</th><th>Cheese</th><th>Other</th></tr>
     <tr><td></td>
     <td></td>
-    <td>Asparagus<br>Fava beans</td>
+    <td>Artichoke<br>Asparagus<br>Fava beans</td>
     <td></td>
    <td></td>
     <td></td></tr>
