@@ -258,7 +258,7 @@
     <td></td></tr>
 
 
-  <tr><th>Summer<br> (Jun - Aug)</th><th>Protein</th><th>Vegetables</th><th>Fruits</th><th>Cheese</th><th>Other</th></tr>
+  <tr><th>June</th><th>Protein</th><th>Vegetables</th><th>Fruits</th><th>Cheese</th><th>Other</th></tr>
   <tr><td></td>
     <td>Sole</td>
     <td>Artichoke<br>Aubergines<br>Cucumber<br>Haricots vert<br>Summer squash<br>Tomatoes<br>Zucchini</td>
@@ -266,7 +266,27 @@
     <td></td>
     <td></td>
 </tr>
+
+
+  <tr><th>July</th><th>Protein</th><th>Vegetables</th><th>Fruits</th><th>Cheese</th><th>Other</th></tr>
+  <tr><td></td>
+    <td>Sole</td>
+    <td>Artichoke<br>Aubergines<br>Cucumber<br>Haricots vert<br>Summer squash<br>Tomatoes<br>Zucchini</td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+
+  <tr><th>August</th><th>Protein</th><th>Vegetables</th><th>Fruits</th><th>Cheese</th><th>Other</th></tr>
+  <tr><td></td>
+    <td>Sole</td>
+    <td>Artichoke<br>Aubergines<br>Cucumber<br>Haricots vert<br>Summer squash<br>Tomatoes<br>Zucchini</td>
+    <td>Mirabelle</td>
+    <td></td>
+    <td></td>
+</tr>
 </table>
+
 
 
 #### Summer  
