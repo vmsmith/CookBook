@@ -14,7 +14,9 @@
 
 [Borscht #1 - no meat](https://github.com/vmsmith/CookBook/blob/master/soup_borscht1.md)  
 
-[Borscht #2 - with beef](https://github.com/vmsmith/CookBook/blob/master/soup_borscht2.md)
+[Borscht #2 - with beef](https://github.com/vmsmith/CookBook/blob/master/soup_borscht2.md)  
+
+[Bouillabaisse Bacon]() - Patricia Wells, p. 21  
 
 [Cauliflower Soup](https://github.com/vmsmith/CookBook/blob/master/soup_cauliflower.md)
 
@@ -36,7 +38,9 @@
 
 [Mushroom Soup](https://github.com/vmsmith/CookBook/blob/master/soup_mushroom.md)
 
-[Onion Soup](https://github.com/vmsmith/CookBook/blob/master/soup_onion.md)  
+[Onion Soup, Classic](https://github.com/vmsmith/CookBook/blob/master/soup_onion.md)  
+
+[Onion Soup à la Pied de Cochon]() - Patricia Wells, p. 18  
 
 [Roasted Red Pepper Soup](https://github.com/vmsmith/CookBook/blob/master/soup_pepper_red.md)  
 
