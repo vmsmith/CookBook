@@ -32,6 +32,8 @@
 
 [Macédoine](https://github.com/vmsmith/CookBook/blob/master/veg_macedoine.md)  
 
+[Onion Gratin]() - Patricia Wells, p. 85  
+
 [Onions, Roasted](https://github.com/vmsmith/CookBook/blob/master/veg_onions_roasted.md)  
 
 [Red Peppers, Roasted - Basquaise](https://github.com/vmsmith/CookBook/blob/master/veg_peppers_roasted_basquaise.md)  
@@ -41,3 +43,5 @@
 [Ratatouille](https://github.com/vmsmith/CookBook/blob/master/veg_ratatouille.md)   
 
 [Tomatoes, Over Dried](https://github.com/vmsmith/CookBook/blob/master/veg_tomatoes_oven-dried.md)  
+
+[Tomatoes, Roasted]() - Patricia Wells, p. 88  
