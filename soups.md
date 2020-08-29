@@ -30,6 +30,8 @@
 
 [Fish Soup, Provençal](https://github.com/vmsmith/CookBook/blob/master/soup_fish_provencal.md)
 
+[Leek, Potato, and Bacon Soup]() - Patricia Wells, p. 29
+
 [Red Lentil](https://github.com/vmsmith/CookBook/blob/master/soup_red_lentil2.md)  
 
 [Red Lentil with Lemon Soup](https://github.com/vmsmith/CookBook/blob/master/soup_red_lentil.md)
