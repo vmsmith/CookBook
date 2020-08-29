@@ -1,10 +1,8 @@
-[Everyday Things - README](https://github.com/vmsmith/EDT/blob/master/README.md)
-
 [Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)  
 
 -----  
 
-[Notes]()  
+[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)  
 
 ### Vegetables     
 
