@@ -2,7 +2,11 @@
 
 ### Appetizers  
 
-[Rosemary Cashews](https://github.com/vmsmith/CookBook/blob/master/appetizers_rosemary_cashews.md)  
+[Anchoïade Chez Gilbert]() - Patricia Wells, p. 4  
+
+[Cashews, Rosemart](https://github.com/vmsmith/CookBook/blob/master/appetizers_rosemary_cashews.md)  
+
+[Céleri Rémoulade]() - Patricia Wells, p. 8
 
 [Chicken Liver Spread](https://github.com/vmsmith/CookBook/blob/master/appetizers_chicken_liver_spread.md)
 
