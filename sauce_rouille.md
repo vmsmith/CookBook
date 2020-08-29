@@ -1,12 +1,14 @@
-[Cook Book]()  
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)  
 
-[Stocks and Sauces]()  
+[Stocks and Sauces](https://github.com/vmsmith/CookBook/blob/master/sauces.md)  
 
 -----  
 
-[Notes]()  
+[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)  
 
-### Rouille 
+### Rouille   
+From "Bistro Cooking" - Patricia Wells  
+Goes with fish soup  
 
 ### Utensils  
 * Mortar and pestle  
