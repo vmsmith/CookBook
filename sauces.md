@@ -32,7 +32,7 @@
 
 [Ranch Dressing](https://github.com/vmsmith/CookBook/blob/master/sauce_ranch_dressing.md)
 
-[Rouille (Garlic Mayonnaise](https://github.com/vmsmith/CookBook/blob/master/sauce_rouille.md) 
+[Rouille (garlic mayonnaise for fish soups)](https://github.com/vmsmith/CookBook/blob/master/sauce_rouille.md) 
 
 [Smitane Sauce](https://github.com/vmsmith/CookBook/blob/master/sauce_smitane.md)  
 
