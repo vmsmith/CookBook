@@ -28,15 +28,11 @@
 
 #### Chicken Legs  
 
-[Coq au Vin à la Elizabeth David](https://github.com/vmsmith/CookBook/blob/master/chicken_coq-au-vin.md)
-
 [Chicken Basquaise](https://github.com/vmsmith/CookBook/blob/master/chicken_basque_1.md)  
 
 [Chicken a la Diable](https://github.com/vmsmith/CookBook/blob/master/chicken_diable.md)
 
-[Chicken Fricasée à la Julia Child](https://github.com/vmsmith/CookBook/blob/master/chicken_fricasee.md)
-
-[Legs, Baked](https://github.com/vmsmith/CookBook/blob/master/chicken_legs_baked.md)
+[Roasted Legs](https://github.com/vmsmith/CookBook/blob/master/chicken_legs_baked.md)
 
 [Legs, Normandy Style](https://github.com/vmsmith/CookBook/blob/master/chicken_normandy.md)    
 
@@ -45,6 +41,10 @@
 [Roasted Legs with Lemon/Thyme](https://github.com/vmsmith/CookBook/blob/master/chicken_thighs_roasted_lemon-thyme.md)
 
 [Thighs with Shallots](https://github.com/vmsmith/CookBook/blob/master/chicken_thighs_shallots.md)  
+
+[Coq au Vin à la Elizabeth David](https://github.com/vmsmith/CookBook/blob/master/chicken_coq-au-vin.md)
+
+[Chicken Fricasée à la Julia Child](https://github.com/vmsmith/CookBook/blob/master/chicken_fricasee.md)
 
 [Chicken Cacciatore #1](https://github.com/vmsmith/CookBook/blob/master/chicken_cacciatore1.md)  
 
