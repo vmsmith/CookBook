@@ -1,10 +1,10 @@
-[Cook Book]()  
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)  
 
 [Poultry and Fowl]()  
 
 ----  
 
-[Notes]()  
+[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)  
 
 ### Roast Chicken the French Way  
 [The New Yorker, 24 July 2020](https://www.newyorker.com/culture/kitchen-notes/perfecting-roast-chicken-the-french-way)  
