@@ -34,8 +34,6 @@
 
 [Roasted Legs](https://github.com/vmsmith/CookBook/blob/master/chicken_legs_baked.md)
 
-[Legs, Normandy Style](https://github.com/vmsmith/CookBook/blob/master/chicken_normandy.md)    
-
 [Roasted Legs Pronvençal](https://github.com/vmsmith/CookBook/blob/master/chicken_roasted_provencal.md)  
 
 [Roasted Legs with Lemon/Thyme](https://github.com/vmsmith/CookBook/blob/master/chicken_thighs_roasted_lemon-thyme.md)
@@ -45,6 +43,8 @@
 [Coq au Vin à la Elizabeth David](https://github.com/vmsmith/CookBook/blob/master/chicken_coq-au-vin.md)
 
 [Chicken Fricasée à la Julia Child](https://github.com/vmsmith/CookBook/blob/master/chicken_fricasee.md)
+
+[Legs, Normandy Style](https://github.com/vmsmith/CookBook/blob/master/chicken_normandy.md)    
 
 [Chicken Cacciatore #1](https://github.com/vmsmith/CookBook/blob/master/chicken_cacciatore1.md)  
 
