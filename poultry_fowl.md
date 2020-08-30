@@ -12,8 +12,6 @@
 
 [Roasted Chicken with Caremelized Shallots](https://github.com/vmsmith/CookBook/blob/master/chicken_roasted_shallot-caremelized.md)  
 
-[Roasted Chicken Pronvençal](https://github.com/vmsmith/CookBook/blob/master/chicken_roasted_provencal.md)  
-
 [Roast Chicken the French Way](https://www.newyorker.com/culture/kitchen-notes/perfecting-roast-chicken-the-french-way) - External Link  
 
 #### Chicken Breasts
@@ -42,7 +40,9 @@
 
 [Legs, Normandy Style](https://github.com/vmsmith/CookBook/blob/master/chicken_normandy.md)    
 
-[Thighs Roasted with Lemon/Thyme](https://github.com/vmsmith/CookBook/blob/master/chicken_thighs_roasted_lemon-thyme.md)
+[Roasted Legs Pronvençal](https://github.com/vmsmith/CookBook/blob/master/chicken_roasted_provencal.md)  
+
+[Roasted Legs with Lemon/Thyme](https://github.com/vmsmith/CookBook/blob/master/chicken_thighs_roasted_lemon-thyme.md)
 
 [Thighs with Shallots](https://github.com/vmsmith/CookBook/blob/master/chicken_thighs_shallots.md)  
 
