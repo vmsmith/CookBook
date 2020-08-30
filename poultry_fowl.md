@@ -28,33 +28,33 @@
 
 #### Chicken Legs  
 
-[Chicken a la Diable](https://github.com/vmsmith/CookBook/blob/master/chicken_diable.md)
-
 [Roasted Legs](https://github.com/vmsmith/CookBook/blob/master/chicken_legs_baked.md)
+
+[Chicken a la Diable](https://github.com/vmsmith/CookBook/blob/master/chicken_diable.md)
 
 [Roasted Legs Pronvençal](https://github.com/vmsmith/CookBook/blob/master/chicken_roasted_provencal.md)  
 
 [Roasted Legs with Lemon/Thyme](https://github.com/vmsmith/CookBook/blob/master/chicken_thighs_roasted_lemon-thyme.md)
 
-[Legs with Shallots](https://github.com/vmsmith/CookBook/blob/master/chicken_thighs_shallots.md)  
+[Braised Legs with Shallots](https://github.com/vmsmith/CookBook/blob/master/chicken_thighs_shallots.md)  
 
 [Coq au Vin à la Elizabeth David](https://github.com/vmsmith/CookBook/blob/master/chicken_coq-au-vin.md)
 
 [Chicken Fricasée à la Julia Child](https://github.com/vmsmith/CookBook/blob/master/chicken_fricasee.md)
 
-[Legs, Normandy Style](https://github.com/vmsmith/CookBook/blob/master/chicken_normandy.md)    
+[Braised Legs, Normandy Style](https://github.com/vmsmith/CookBook/blob/master/chicken_normandy.md)    
 
-[Chicken Basquaise](https://github.com/vmsmith/CookBook/blob/master/chicken_basque_1.md)  
+[Braised Legs Basquaise](https://github.com/vmsmith/CookBook/blob/master/chicken_basque_1.md)  
 
 [Chicken Cacciatore #1](https://github.com/vmsmith/CookBook/blob/master/chicken_cacciatore1.md)  
 
 [Chicken Cacciatore #2](https://github.com/vmsmith/CookBook/blob/master/chicken_cacciatore2.md)  
 
-[Thighs, Braised Italian Style #1](https://github.com/vmsmith/CookBook/blob/master/chicken_thighs_braised_italian.md)  
+[Braised Legs, Italian-style #1](https://github.com/vmsmith/CookBook/blob/master/chicken_thighs_braised_italian.md)  
 
-[Thighs, Braised Italian Style #2](https://github.com/vmsmith/CookBook/blob/master/chicken_thighs_braised_italian-2.md)
+[Braised Legs, Italian-style #2](https://github.com/vmsmith/CookBook/blob/master/chicken_thighs_braised_italian-2.md)
 
-[Thighs, Spanish Garlic](https://github.com/vmsmith/CookBook/blob/master/chicken_spanish_garlic.md)  
+[Braised Legs, Spanish-style with Garlic](https://github.com/vmsmith/CookBook/blob/master/chicken_spanish_garlic.md)  
 
 #### Wings  
 
