@@ -34,5 +34,5 @@
 3. Remove and keep warm   
 4. Add stock to pan and cook until reduced by half  
 5. Add lemon juice and capers  
-6. Pour sauce over the chicken, sprinkle with parsley and serve  
+6. Pour sauce over the chicken, sprinkle with parsley and serve over linguine  
 
