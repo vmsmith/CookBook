@@ -28,11 +28,7 @@
 
 [Creamy Tuscany Chicken](https://github.com/vmsmith/CookBook/blob/master/chicken_creamy_tuscany.md)   
 
-#### Chicken Thighs  
-
-[Chicken Cacciatore #1](https://github.com/vmsmith/CookBook/blob/master/chicken_cacciatore1.md)  
-
-[Chicken Cacciatore #2](https://github.com/vmsmith/CookBook/blob/master/chicken_cacciatore2.md)  
+#### Chicken Legs  
 
 [Coq au Vin à la Elizabeth David](https://github.com/vmsmith/CookBook/blob/master/chicken_coq-au-vin.md)
 
@@ -44,15 +40,19 @@
 
 [Legs, Baked](https://github.com/vmsmith/CookBook/blob/master/chicken_legs_baked.md)
 
-[Chicken Normandy](https://github.com/vmsmith/CookBook/blob/master/chicken_normandy.md)    
-
-[Thighs, Braised Italian Style - 2](https://github.com/vmsmith/CookBook/blob/master/chicken_thighs_braised_italian-2.md)
+[Legs, Normandy Style](https://github.com/vmsmith/CookBook/blob/master/chicken_normandy.md)    
 
 [Thighs Roasted with Lemon/Thyme](https://github.com/vmsmith/CookBook/blob/master/chicken_thighs_roasted_lemon-thyme.md)
 
 [Thighs with Shallots](https://github.com/vmsmith/CookBook/blob/master/chicken_thighs_shallots.md)  
 
-[Thighs, Braised Italian Style](https://github.com/vmsmith/CookBook/blob/master/chicken_thighs_braised_italian.md)  
+[Chicken Cacciatore #1](https://github.com/vmsmith/CookBook/blob/master/chicken_cacciatore1.md)  
+
+[Chicken Cacciatore #2](https://github.com/vmsmith/CookBook/blob/master/chicken_cacciatore2.md)  
+
+[Thighs, Braised Italian Style #1](https://github.com/vmsmith/CookBook/blob/master/chicken_thighs_braised_italian.md)  
+
+[Thighs, Braised Italian Style #2](https://github.com/vmsmith/CookBook/blob/master/chicken_thighs_braised_italian-2.md)
 
 [Thighs, Spanish Garlic](https://github.com/vmsmith/CookBook/blob/master/chicken_spanish_garlic.md)  
 
