@@ -58,7 +58,7 @@
 
 #### Wings  
 
-[Lemon Pepper Chicken Wings](https://github.com/vmsmith/CookBook/blob/master/chicken_wings_lemon_pepper.md) 
+[Baked Wings with Lemon-Pepper](https://github.com/vmsmith/CookBook/blob/master/chicken_wings_lemon_pepper.md) 
 
 #### Misc  
 
