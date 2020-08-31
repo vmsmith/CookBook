@@ -34,6 +34,8 @@
 
 #### [Fish and Shellfish](https://github.com/vmsmith/CookBook/blob/master/fish_shellfish.md)
 
+#### [Fruits](https://github.com/vmsmith/CookBook/blob/master/fruits.md)
+
 #### [Meat](https://github.com/vmsmith/CookBook/blob/master/meat.md)  
 
 #### [Mis en Place](https://github.com/vmsmith/CookBook/blob/master/mis_en_place.md)
