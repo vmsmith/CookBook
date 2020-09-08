@@ -40,7 +40,7 @@
 
 [Ratatouille](https://github.com/vmsmith/CookBook/blob/master/veg_ratatouille.md)   
 
-[Snow Peas](https://github.com/vmsmith/CookBook/blob/master/veg_snow-peas.md)
+[Snow Peas Mediterranean Style](https://github.com/vmsmith/CookBook/blob/master/veg_snow-peas-mediterranean.md)
 
 [Tomatoes, Over Dried](https://github.com/vmsmith/CookBook/blob/master/veg_tomatoes_oven-dried.md)  
 
