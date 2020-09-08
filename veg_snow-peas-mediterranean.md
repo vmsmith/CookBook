@@ -6,7 +6,7 @@
 
 [Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)  
 
-### Snow Peas  
+### Snow Peas Mediterranean Style  
 
 #### Ingredients  
 
