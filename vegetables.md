@@ -40,6 +40,8 @@
 
 [Ratatouille](https://github.com/vmsmith/CookBook/blob/master/veg_ratatouille.md)   
 
+[Snow Peas](https://github.com/vmsmith/CookBook/blob/master/veg_snow-peas.md)
+
 [Tomatoes, Over Dried](https://github.com/vmsmith/CookBook/blob/master/veg_tomatoes_oven-dried.md)  
 
 [Tomatoes, Roasted]() - Patricia Wells, p. 88  
