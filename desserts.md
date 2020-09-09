@@ -12,4 +12,4 @@
 
 [Pudding, Basque Walnut](https://github.com/vmsmith/CookBook/blob/master/dessert_pudding_basque_walnut.md)  
 
-[Rice Pudding, French]()  
+[Rice Pudding, French](https://github.com/vmsmith/CookBook/blob/master/dessert_pudding_rice_french.md)    
