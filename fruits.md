@@ -19,6 +19,10 @@
 
 A medium-sized pear with an elongated bottle, the 'Conference' pear is similar in appearance to the 'Bosc pear'. A table pear, it is suitable for fresh-cut processing. The fruit skin is thick greenish-brown, becoming pale yellow when ripe. The flesh is white, but turns pale yellow when the pear is ripe. The texture is very fine and soft, and the flavour is sweet. The brown part of the skin is called russet or russetting; it is more or less apparent depending on weather conditions.  
 
+Compliment: Walnuts, almonds, pecans, ginger, garlic, onion, smoked fish, bacon, ham, and blue cheese  
+
+Salad: Goat cheese, walnut, conference pear  
+
 **Forelle:**
 
 **Guyot:** Mid- to late-August  
