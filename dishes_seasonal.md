@@ -29,6 +29,7 @@
     </td>
     <td>
       Artichoke<br>
+      Arugula<br>
       Brussels sprouts<br>
       Cabbage, Red<br>
       Carrots<br>
@@ -83,6 +84,7 @@
       Oysters<br><br>
     </td>
     <td>
+      Arugula<br>
       Brocolli<br>
       Brussels sprouts<br>
       Cabbage, Red<br>
@@ -145,6 +147,7 @@
       Oysters<br><br>
     </td>
     <td>
+      Arugula<br>
       Brocolli<br>
       Brussels sprouts<br>
       Cabbage, Red<br>
