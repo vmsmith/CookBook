@@ -12,7 +12,7 @@
 
 [Wild Rice (with many things)](https://github.com/vmsmith/CookBook/blob/master/rice_wild.md)  
 
-[Paella]()  
+[Paella](https://github.com/vmsmith/CookBook/blob/master/rice_risotto_paella.md)  
 
 #### Risotto  
 
