@@ -12,6 +12,8 @@
 
 [Wild Rice (with many things)](https://github.com/vmsmith/CookBook/blob/master/rice_wild.md)  
 
+[Paella]()  
+
 #### Risotto  
 
 [Risotto with Sausage and Parsley](https://github.com/vmsmith/CookBook/blob/master/risotto_sausage.md)
