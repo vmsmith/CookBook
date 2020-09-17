@@ -8,6 +8,9 @@
 
 ### Apples  
 
+* Apples - Picardie - Verger de Picardie - Edgar Quinter:
+  * Cox's Orange  
+  * Pas de Loup  
 
 ### Pears  
 
