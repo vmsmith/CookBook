@@ -15,3 +15,8 @@
 * Avoid: Simintal, Salaraise  
 
 * Rustic: Gallacia   
+
+#### Cheese  
+
+The quality of cheese depends on the quality of milk; the quality of milk depends on the quality of grass.
+
