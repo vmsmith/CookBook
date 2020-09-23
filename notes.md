@@ -18,5 +18,11 @@
 
 #### Cheese  
 
-The quality of cheese depends on the quality of milk; the quality of milk depends on the quality of grass.
+* The quality of cheese depends on the quality of milk; the quality of milk depends on the quality of grass.
+
+* Hard and soft cheeses
+
+  * Hard cheese: when was the milk produced  
+    * Produced from milk at high altitude  
+  * Soft cheese: when you eat them  
 
