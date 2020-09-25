@@ -26,3 +26,11 @@
 4. Slice tomatoes  
 
 #### Directions  
+
+1. Cook potato and onion slices  
+
+2. Add egg and continue to cook  
+
+3. Place tomato slices on top  
+
+4. Broil  
