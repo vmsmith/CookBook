@@ -21,8 +21,8 @@
 #### Preparation  
 
 1. Break and beat eggs  
-2. Peel and slice potatoes  
-3. Slice onions  
+2. Peel and thinly slice potatoes  
+3. Thinly slice onions  
 4. Slice tomatoes  
 
 #### Directions  
