@@ -6,7 +6,7 @@
 
 #### Ingredients:
 
-* Chicken wing
+* Chicken wings  
 * 1 large lemon
 * 8-10 fresh bay leaves
 * 1 - 2 tablespoons whole black peppercorns (depending on how hot you want your wings)
@@ -16,6 +16,7 @@
 
 #### Preparation:
 
+* Prep the wings (e.g., remove tips)  
 * Grind the pepper with mortar and pestle
 * Juice the lemon and cut up the lemon peel into small pieces
 * Preheat oven to 350F
