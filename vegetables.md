@@ -42,7 +42,7 @@
 
 [Snow Peas Mediterranean Style](https://github.com/vmsmith/CookBook/blob/master/veg_snow-peas-mediterranean.md)  
 
-[Spinach, Sautéed with Garlic](https://github.com/vmsmith/CookBook/edit/master/veg_spinach_sauteed_garlic.md)    
+[Spinach, Sautéed with Garlic](https://github.com/vmsmith/CookBook/blob/master/veg_spinach_sauteed_garlic.md)    
 
 [Tomatoes, Over Dried](https://github.com/vmsmith/CookBook/blob/master/veg_tomatoes_oven-dried.md)  
 
