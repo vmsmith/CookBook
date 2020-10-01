@@ -10,6 +10,14 @@
 
 #### Ingredients  
 
+* Baby spinach leaves
+* 2 tbsps good olive oil
+* 2 tbsps chopped garlic (6 cloves)
+* 2 tsp salt
+* 3/4 tsp freshly ground black pepper
+* Unsalted butter
+* Lemon
+* Salt or sea salt, optional
 
 #### Preparation  
 
