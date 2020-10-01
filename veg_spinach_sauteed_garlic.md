@@ -1,10 +1,10 @@
-[Cook Book](https://github.com/vmsmith/CookBook/edit/master/README.md)  
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)  
 
-[Vegetables](https://github.com/vmsmith/CookBook/edit/master/vegetables.md)  
+[Vegetables](https://github.com/vmsmith/CookBook/blob/master/vegetables.md)  
 
 -----  
 
-[Notes](https://github.com/vmsmith/CookBook/edit/master/notes.md)  
+[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)  
 
 ### Spinach sautéed with garlic  
 
