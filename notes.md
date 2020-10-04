@@ -4,6 +4,17 @@
 
 ### Notes
 
+#### Cuisse de Pintade
+
+Brown the guinea fowl pieces in a pot with oil and a little salt over high heat.  
+Reserve the meat and remove the fat from the pot without cleaning it.  
+Remove the first skin from the onions and slice them.  
+Fry your onions with the butter and salt in the casserole over medium/high heat for 3 minutes, taking care to stir regularly.  
+Add the white wine, scrape the bottom of the casserole with a wooden spoon to collect all the cooking juices.  
+Add a little water, cover the guinea fowl legs and continue cooking for 30 minutes.  
+Serve one guinea fowl leg per plate with onions. Add salt and pepper to taste.  
+
+
 #### Beef  
 
 * Bill Ulrich 23 Sep  
