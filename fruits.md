@@ -11,6 +11,8 @@
 * Apples - Picardie - Verger de Picardie - Edgar Quinter:
   * Cox's Orange  
   * Pas de Loup  
+  
+**Boskoop** Originated in Boskoop, Netherlands, where it began as a chance seedling in 1856. There are many variants: Boskoop red, yellow or green. This rustic apple is firm, tart and fragrant. Greenish-gray tinged with red, the apple stands up well to cooking. Generally Boskoop varieties are very high in acid content and can contain more than four times the vitamin C of 'Granny Smith' or 'Golden Delicious'.
 
 ### Pears  
 
