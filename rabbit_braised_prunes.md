@@ -1,10 +1,10 @@
-[Cook Book]()  
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)  
 
-[Meat]()  
+[Meat](https://github.com/vmsmith/CookBook/blob/master/meat.md)  
 
 -----  
 
-[Notes]()  
+[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)  
 
 ### Rabbit Braised with Prunes  
 
@@ -39,13 +39,17 @@
 6. Add the white wine and increase the heat to high  
 7. Let the wine boil, until reduced by at least a half  
 8. Place rabbit, prunes, thyme, bay leaf, on top of shallots in pan  
-9. Lower heat, cover tightly and let cook for 45 minutes
+9. Lower heat, cover tightly and let cook for 45 minutes  
+10. Remove rabbit, strain liquid, and thicken the sauce  
+11. Serve with egg noodles  
 
+#### Optional Step
 
-4 Optional step using rabbit liver: After the rabbit is cooked through, if you want, you can intensify the flavor of the sauce using the rabbit's liver. The liver should have been included with the rabbit from your butcher, just like whole chickens come with the giblets. (Don't worry, the liver won't make your dish taste like liver. You can even try just a little amount to taste to make sure. The liver acts as a "liaison", thickening the sauce and making it richer.)
+After the rabbit is cooked through, if you want, you can intensify the flavor of the sauce using the rabbit's liver. The liver acts as a "liaison", thickening the sauce and making it richer.  
 
-Purée the rabbit liver with 1 Tbsp of vinegar (I used wine vinegar, but cider or white vinegar will do). Remove the rabbit pieces, prunes, thyme sprigs, and bay leaf from the pot (discard thyme and bay leaves) to a serving dish.
+A. Purée the rabbit liver with 1 Tbsp of wine or cider vinegar     
+B. Remove the rabbit pieces, prunes, thyme sprigs, and bay leaf from the pot to a serving dish   
+C. Whisk the puréed liver vinegar mixture into the sauce in the pot and cook for another 10 minutes   
+D. If the sauce is still too thin, you can thicken further with corn starch or flour  
+E. Drizzle the sauce over and around the rabbit and prunes  
 
-Whisk the puréed liver vinegar mixture into the sauce in the pot and cook for another 10 minutes. (If the sauce is still too thin, you can thicken further with corn starch or flour.) Then drizzle the sauce over and around the rabbit and prunes.
-
-Great served over egg noodles.
