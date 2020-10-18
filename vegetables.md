@@ -28,6 +28,8 @@
 
 [Endives with Ham, Gratinée](https://github.com/vmsmith/CookBook/blob/master/pork_ham_endives_gratinee.md)  
 
+[Fennel, Braised]  
+
 [Macédoine](https://github.com/vmsmith/CookBook/blob/master/veg_macedoine.md)  
 
 [Onion Gratin]() - Patricia Wells, p. 85  
