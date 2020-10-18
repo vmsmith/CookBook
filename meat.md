@@ -26,6 +26,8 @@
 
 #### Rabbit  
 
-* [Rabbit, Basque](https://github.com/vmsmith/CookBook/blob/master/rabbit_basque.md)  
-* [À la Moutarde](https://github.com/vmsmith/CookBook/blob/master/rabbit_a_la_moutarde.md)  
+* [Rabbit à la Moutarde](https://github.com/vmsmith/CookBook/blob/master/rabbit_a_la_moutarde.md)  
+* [Rabbit Basquaise](https://github.com/vmsmith/CookBook/blob/master/rabbit_basque.md)  
+* [Rabbit Braised with Prunes](https://github.com/vmsmith/CookBook/blob/master/rabbit_braised_prunes.md)  
+* [Rabbit Stew with Mushrooms](https://github.com/vmsmith/CookBook/blob/master/rabbit_stew_mushrooms.md)  
 
