@@ -28,7 +28,7 @@
 
 [Endives with Ham, Gratinée](https://github.com/vmsmith/CookBook/blob/master/pork_ham_endives_gratinee.md)  
 
-[Fennel, Braised]  
+[Fennel, Braised](https://github.com/vmsmith/CookBook/blob/master/veg_fennel_braised.md)  
 
 [Macédoine](https://github.com/vmsmith/CookBook/blob/master/veg_macedoine.md)  
 
