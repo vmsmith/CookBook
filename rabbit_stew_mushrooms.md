@@ -31,7 +31,7 @@
 
 #### Preparation  
 
-1. Roast the garlic^1  
+1. Roast the garlic<sup>1</sup>
 2. Soak dried porcini  
 3. Peel and chop parsnip  
 4. Chop shallots  
