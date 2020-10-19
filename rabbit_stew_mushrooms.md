@@ -32,7 +32,7 @@
 
 1. Bring rabbit up to room temperature  
 2. Roast the garlic<sup>1</sup>
-3. Soak dried porcini & save liquid  
+3. Soak dried porcini & save the liquid  
 4. Prep fresh mushrooms  
 5. Peel and chop parsnip  
 6. Chop shallots  
@@ -51,7 +51,7 @@
 8. Sauté until the shallots are nicely wilted, about 3 minutes
 9. While the shallots are cooking, squeeze the roasted garlic into the mushroom soaking water, then whisk it together  
 10. Add the sherry or white wine to the shallots in the pot  
-11. Use a wooden spoon to scrape off any browned bits on the bottom of the pot then let the sherry boil down by half  
+11. Use a wooden spoon to scrape off any browned bits on the bottom of the pot then let the liquid boils down by half  
 12. Add the mushroom-roasted garlic mixture and the stock and stir to combine  
 13. Add thyme, mushrooms, rabbit, and parsnips  
 14. Bring to simmer and cook gently for 90 minutes  
@@ -62,4 +62,8 @@ Serve with a crusty loaf of bread, a green salad and either a hearty white wine,
 
 <sup>1</sup>Preheat the oven to 375°F. Slice the top third off the heads of garlic and drizzle the olive oil over them. Wrap the heads loosely in foil and bake for 45 minutes to an hour, or until cloves are soft and brown. Set aside to cool.
 
-<sup>2</sup> If making the crème fraiche-liver thickener, mince the rabbit liver finely and move it to a small bowl. Vigorously mix in about 1 1/2 tablespoons crème fraiche or sour cream. Now put the mixture into a fine-meshed sieve over a bowl and push it through with a rubber spatula. Reserve in the fridge.
+<sup>2</sup> If making the crème fraiche-liver thickener:  
+* Mince the rabbit liver finely and move it to a small bowl  
+* Vigorously mix in about 1 1/2 tablespoons crème fraiche or sour cream  
+* Put the mixture into a fine-meshed sieve over a bowl and push it through with a rubber spatula  
+* Reserve in the fridge.
