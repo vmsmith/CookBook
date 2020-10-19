@@ -27,18 +27,19 @@
 
 1. Mince garlic  
 2. Slice shallots  
+3. Make *buerre manié* 
 3. Bring rabbit to room temperature  
 
 #### Directions  
 
-1. Heat the olive oil in a large thick-bottomed Dutch oven on medium-high heat & add a tablespoon of butter  
+1. Heat the olive oil in a large thick-bottomed Dutch oven on medium-high heat & add some butter  
 2. Pat dry the rabbit pieces, sprinkle all over with salt, and working in batches, brown on all sides in the pan  
 3. Remove the rabbit and set aside  
-4. Sauté the the sliced shallots, reduce the heat to medium, and cook for 2 minutes  
-5. . Add the minced garlic clove and cook for 30 seconds more  
+4. Sauté the sliced shallots for 2 minutes  
+5. Add the minced garlic clove and cook for 30 seconds more  
 6. Add the white wine and increase the heat to high  
 7. Let the wine boil, until reduced by at least a half  
-8. Place rabbit, prunes, thyme, bay leaf, on top of shallots in pan  
+8. Place rabbit, prunes, thyme and bay leaf on top of shallots in pan  
 9. Lower heat, cover tightly and let cook for 45 minutes  
 10. Remove rabbit, strain liquid, and thicken the sauce  
 11. Serve with egg noodles  
