@@ -3,6 +3,9 @@
 [Personal Stuff - README](https://github.com/vmsmith/things/blob/master/README.md)
 
 -----  
+#### Blog  
+
+* [Everyday French Chef](https://everydayfrenchchef.com/)  
 
 #### [Ingredients](https://github.com/vmsmith/CookBook/blob/master/ingredients.md)   
 
