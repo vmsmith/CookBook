@@ -31,5 +31,9 @@
 
 #### Preparation  
 
+1. Soak dried porcini  
+2. Peel and chop parsnip  
+3. Chop shallots  
+
 
 #### Directions  
