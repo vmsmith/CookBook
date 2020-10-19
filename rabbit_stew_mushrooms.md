@@ -32,11 +32,12 @@
 
 1. Bring rabbit up to room temperature  
 2. Roast the garlic<sup>1</sup>
-3. Soak dried porcini & save liquid<sup>2</sup>  
+3. Soak dried porcini & save liquid  
 4. Prep fresh mushrooms  
 5. Peel and chop parsnip  
 6. Chop shallots  
-7. Chop the parsley
+7. Chop the parsley  
+8. Optional: Make rabbit liver thickener<sup>2</sup>  
 
 #### Directions  
 
@@ -60,6 +61,6 @@ Serve with a crusty loaf of bread, a green salad and either a hearty white wine,
 
 <sup>1</sup>Preheat the oven to 375°F. Slice the top third off the heads of garlic and drizzle the olive oil over them. Wrap the heads loosely in foil and bake for 45 minutes to an hour, or until cloves are soft and brown. Set aside to cool.
 
-3 Optional Step with rabbit liver: If you are going to make the crème fraiche-liver thickener, mince the rabbit liver finely and move it to a small bowl. Vigorously mix in about 1 1/2 tablespoons crème fraiche or sour cream. Now put the mixture into a fine-meshed sieve over a bowl and push it through with a rubber spatula. Reserve in the fridge.
+<sup>2</sup> If you are going to make the crème fraiche-liver thickener, mince the rabbit liver finely and move it to a small bowl. Vigorously mix in about 1 1/2 tablespoons crème fraiche or sour cream. Now put the mixture into a fine-meshed sieve over a bowl and push it through with a rubber spatula. Reserve in the fridge.
 
 12 Add liver mixture if using: If you are using the crème fraiche-liver mixture to thicken your stew, turn off the heat. When the stew stops bubbling, add the mixture and let it heat through for a minute before serving.
