@@ -7,6 +7,7 @@
 [Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)  
 
 ### Pan-seared Cod with Thyme  
+[Everyday French Chef blog](https://everydayfrenchchef.com/recipes/fish-and-shellfish/pave-de-cabillaud-tout-simple/)  
 
 #### Ingredients  
 
