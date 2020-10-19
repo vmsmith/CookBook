@@ -6,6 +6,8 @@
 
 [Bayou Lobster Omelet]()  
 
+[Cod, Pan-seared with Thyme](https://github.com/vmsmith/CookBook/blob/master/fish_cod_pan-seared_thyme.md)
+
 [Mediterranean Cod](https://github.com/vmsmith/CookBook/blob/master/fish_cod_mediterranean.md)
 
 [Smoky Pancetta Cod with Lentils and Spinach](https://github.com/vmsmith/CookBook/blob/master/fish_cod_smoky-pancetta.md)  
