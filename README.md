@@ -3,7 +3,7 @@
 [Personal Stuff - README](https://github.com/vmsmith/things/blob/master/README.md)
 
 -----  
-#### Blog  
+#### Blogs    
 
 * [Everyday French Chef](https://everydayfrenchchef.com/)  
 
