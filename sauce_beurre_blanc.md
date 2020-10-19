@@ -2,7 +2,7 @@
 
 [Stocks and Sauces](https://github.com/vmsmith/CookBook/blob/master/sauces.md)  
 
-### Beurre Blanc
+### Beurre Blanc #1
 
 #### Ingredients  
 
@@ -31,5 +31,33 @@
 5. Remove from heat, then season to taste with salt and pepper and pour sauce through a medium-mesh sieve into a sauceboat, pressing on and then discarding shallot.  
 
 6. Serve immediately.
+
+### Buerre Blanc #2
+
+#### Ingredients  
+
+* 1/4 pound (125 g.) unsalted butter
+* 1 shallot
+* 2 tablespoons of wine vinegar
+* pinch of sea salt
+
+#### Preparation  
+
+* Mince the shallot finely  
+* Cut butter into 8 - 10 pieces  
+
+#### Directions  
+
+1. Bring the vinegar and the shallot to a simmer in a nonreactive pot — enamel is good  
+
+2. When the liquid has nearly evaporated, remove from heat and begin adding the butter, bit by bit, stirring constantly with a wooden spoon to make an unctuous sauce
+
+3. Wait until each bit has melted before adding the next  
+
+4. Add the salt.
+
+5. When all the butter has been incorporated, pour the sauce through a sieve into a clean pot or bowl to remove the shallot  
+
+6. To serve, drizzle a spoonful or two of warm sauce over each portion  
 
 
