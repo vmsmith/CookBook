@@ -55,12 +55,11 @@
 12. Add the mushroom-roasted garlic mixture and the stock and stir to combine  
 13. Add thyme, mushrooms, rabbit, and parsnips  
 14. Bring to simmer and cook gently for 90 minutes  
-15. Stir in the parsely  
+15. If using the crème fraiche-liver mixture to thicken the stew, turn off the heat, and when the stew stops bubbling, add the mixture and let it heat through for a minute before serving 
+16. Stir in the parsely  
 
 Serve with a crusty loaf of bread, a green salad and either a hearty white wine, a dry rose or a light red wine.
 
 <sup>1</sup>Preheat the oven to 375°F. Slice the top third off the heads of garlic and drizzle the olive oil over them. Wrap the heads loosely in foil and bake for 45 minutes to an hour, or until cloves are soft and brown. Set aside to cool.
 
 <sup>2</sup> If you are going to make the crème fraiche-liver thickener, mince the rabbit liver finely and move it to a small bowl. Vigorously mix in about 1 1/2 tablespoons crème fraiche or sour cream. Now put the mixture into a fine-meshed sieve over a bowl and push it through with a rubber spatula. Reserve in the fridge.
-
-12 Add liver mixture if using: If you are using the crème fraiche-liver mixture to thicken your stew, turn off the heat. When the stew stops bubbling, add the mixture and let it heat through for a minute before serving.
