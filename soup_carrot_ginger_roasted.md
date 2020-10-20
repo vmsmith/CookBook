@@ -10,10 +10,11 @@
 
 #### Ingredients  
 
-* 1 pound of carrots, trimmed and peeled  
+* 1 1/2 pound of carrots, trimmed and peeled  
 * 1 small Spanish onion, peeled and cut into small dice
 * 1/2 stalk of celery, cut into small dice 
 * 1 tablespoon of freshly grated ginger  
+* Minced garlic  
 * 3 cups of chicken stock  
 * Olive oil  
 * Unsalted butter
@@ -31,6 +32,7 @@
 * Peel and dice onion  
 * Dice celery  
 * Grate ginger  
+* Mince the garlic  
  
 #### Directions  
 
@@ -44,7 +46,7 @@
 
 5. Add onion and celery, season with salt and pepper, and cook about 5 minutes. 
 
-6. Add the carrots, ginger, and bay leaf, then cook for about 1 minutes.  
+6. Add the carrots, ginger, garlic, and bay leaf, then cook for a few minutes.  
 
 7. Add the chicken stock, bring to a boil, then simmer for about 30 minutes.  
 
