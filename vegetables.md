@@ -41,8 +41,8 @@ Mushrooms
 * [Oven Polenta with Roasted Mushrooms and Thyme](https://www.bonappetit.com/recipe/oven-polenta-with-roasted-mushrooms-and-thyme)  
 * [Lentil Kielbassoulet](https://www.bonappetit.com/recipe/lentil-kielbassoulet)  
 * [Seared Mushrooms with Garlic and Thyme](https://www.bonappetit.com/recipe/seared-mushrooms-with-garlic-and-thyme)  
-* [Creamy Pasta with Crispy Mushrooms](https://www.bonappetit.com/recipe/creamy-pasta-with-crispy-mushrooms)
-
+* [Creamy Pasta with Crispy Mushrooms](https://www.bonappetit.com/recipe/creamy-pasta-with-crispy-mushrooms)  
+* [Poulet Valée d'Auge](https://www.bonappetit.com/recipe/poulet-vallee-dauge)  
 
 [Onion Gratin]() - Patricia Wells, p. 85  
 
