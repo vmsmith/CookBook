@@ -44,7 +44,7 @@ Mushrooms
 * [Creamy Pasta with Crispy Mushrooms](https://www.bonappetit.com/recipe/creamy-pasta-with-crispy-mushrooms)  
 * [Poulet Valée d'Auge](https://www.bonappetit.com/recipe/poulet-vallee-dauge)  
 
-[Onion Gratin](https://github.com/vmsmith/CookBook/blob/master/veg_onions_gratin.md)  
+[Onions Gratin](https://github.com/vmsmith/CookBook/blob/master/veg_onions_gratin.md)  
 
 [Onions, Roasted](https://github.com/vmsmith/CookBook/blob/master/veg_onions_roasted.md)  
 
