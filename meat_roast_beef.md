@@ -4,7 +4,7 @@
 
 ----  
 
-[Notes]([Cook Book](https://github.com/vmsmith/CookBook/blob/master/notes.md)  
+[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)  
 
 ### Roast Beef  
 
