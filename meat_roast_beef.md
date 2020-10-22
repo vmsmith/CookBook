@@ -8,6 +8,29 @@
 
 ### Roast Beef  
 
+#### Ingredients  
+
+* Beef (1 - 2 pounds of rumsteak)  
+* Garlic  
+* Salt and pepper  
+
+#### Preparation  
+1. Preheat oven to 450F  
+2. Slice the garlic into moderately thin slices  
+3. Bring meat up to room temperature  
+4. Impregnate meat with the garlic slices  
+
+#### Directions  
+
+1. Truss the meat, salt and pepper  
+2. Put in the oven *on a rack* until internal temperature is 125F  
+3. Let rest of 10 - 15 minutes  
+
+
+-----  
+
+### NY Times  
+
 Pat roast dry with paper towels. Rub generously with salt (at least 1/4 cup) and pepper on all sides. Shake the roast gently, allowing any excess salt and pepper to fall off.
 
 Place a wire rack in a small rimmed baking sheet or lay 5 to 6 metal skewers across a large plate or baking sheet. Place roast on top of rack or skewers, making sure it is fully elevated above the bottom of the baking sheet. Place elevated roast on the bottom rack of your refrigerator, uncovered (or loosely covered with foil, if you are squeamish about raw meat), and let rest undisturbed for at least 24 hours and up to 48 hours.
@@ -30,7 +53,6 @@ A large, inexpensive roast is a boon for busy home cooks: Prepare it simply, the
 
 May 4, 2020
 
-74
 On my last bimonthly trip to the supermarket to stock up on staples, I noticed the beef offerings had transitioned from mostly steaks and chops to large, inexpensive roasts like top round, eye rounds and tri-tip. This makes sense, given our slowed shopping cadence. But what’s the best way to deal with big, inexpensive cuts of beef?
 
 Fattier, expensive cuts like prime rib or New York strip are celebratory centerpieces that do best when simply roasted with salt and pepper and served straight away. Leaner cuts can also be roasted successfully, provided you go low and slow. I like to place my roast in a cold oven, set it to 225 degrees Fahrenheit, and slow-roast the beef until it hits 125 degrees on a digital thermometer, which yields a rosy-pink doneness that extends from edge-to-edge, as well as enhanced tenderness. (The same enzymes that tenderize a dry-aged steak will work in overtime as you slowly heat them.)
