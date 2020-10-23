@@ -12,8 +12,8 @@
 
 #### Ingredients  
 
-* 1 part wild rice  
-* 3 parts liquid  
+* 30 grams of wild rice per person  
+* 3x liquid  
 * Additions:  
   * Sautéed mushrooms  
   * Sautéed onions  
@@ -25,6 +25,9 @@
 
 #### Directions  
 
-* **DO NOT** salt the water  
-* Only cook until the rice has "popped", then drain the water  
-* Add additions after the rice has cooked  
+* Put rice, liquid, and salt in pot  
+* Turn on to "High" (9) until just before it starts really boiling  
+* Turn it down to low (2), and put the lid on  
+* Cook approximately 40  until the rice has "popped"  
+* Drain the liquid  
+* Add additions, and put back on a (1) burner if other things are still cooking 
