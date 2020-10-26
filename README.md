@@ -6,6 +6,7 @@
 #### Blogs    
 
 * [Everyday French Chef](https://everydayfrenchchef.com/)  
+* [Mimi Thorisson](http://mimithorisson.com/)  
 
 #### [Ingredients](https://github.com/vmsmith/CookBook/blob/master/ingredients.md)   
 
