@@ -10,6 +10,15 @@
 
 #### Ingredients  
 
+* Duck Legs  
+* Sauternes  
+* Stock  
+* Golden Delicious apples  
+* 1 carrot  
+* 1 onion  
+* Olive oil  
+* Butter  
+* Salt and pepper
 
 
 #### Preparation  
