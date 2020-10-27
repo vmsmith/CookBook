@@ -16,11 +16,9 @@
 * 1 carrot, peeled and finely minced  
 * 1 onion, finely minced  
 * Parsley, thyme, and a bay leaf  
-* Olive oil  
-* Butter  
+* Olive oil (butter or duck fat?)  
+* Salt and pepper  
 * *Beurre manié*  
-* Salt and pepper
-
 
 #### Preparation  
 
