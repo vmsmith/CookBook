@@ -70,7 +70,9 @@
 
 [Duck Breast, Pan Seared](https://github.com/vmsmith/CookBook/blob/master/fowl_duck_breast_pan-seared.md)  
 
-[Duck Breast with Blood Oranges](https://github.com/vmsmith/CookBook/blob/master/fowl_duck_breast_blood_oranges.md)
+[Duck Breast with Blood Oranges](https://github.com/vmsmith/CookBook/blob/master/fowl_duck_breast_blood_oranges.md)  
+
+[Duck Leg Stew](https://github.com/vmsmith/CookBook/blob/master/fowl_duck_leg_stew.md)  
 
 -----
 
