@@ -72,6 +72,8 @@
 
 [Duck Breast with Blood Oranges](https://github.com/vmsmith/CookBook/blob/master/fowl_duck_breast_blood_oranges.md)  
 
+[Duck Breast with Prune Sauce](https://github.com/vmsmith/CookBook/blob/master/fowl_duck_breast_prune_sauce.md)  
+
 [Duck Leg Stew](https://github.com/vmsmith/CookBook/blob/master/fowl_duck_leg_stew.md)  
 
 -----
