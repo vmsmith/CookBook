@@ -6,7 +6,7 @@
 
 ### Poultry and Fowl     
 
-#### Whole Chicken  
+#### Chicken, Whole    
 
 [Poulet au Pot](https://github.com/vmsmith/CookBook/blob/master/chicken_pot_au_poulet.md)  
 
@@ -56,17 +56,18 @@
 
 [Braised Legs, Spanish-style with Garlic](https://github.com/vmsmith/CookBook/blob/master/chicken_spanish_garlic.md)  
 
-#### Wings  
+#### Chicken Wings  
 
 [Baked Wings with Lemon-Pepper](https://github.com/vmsmith/CookBook/blob/master/chicken_wings_lemon_pepper.md) 
 
-#### Misc  
+#### Chicken, Misc  
 
 [Chicken, Curried with Mango Chutney](https://github.com/vmsmith/CookBook/blob/master/chicken_curried_mango-chutney.md)
 
 [Chicken Tagine with Apricots and Almonds](https://github.com/vmsmith/CookBook/blob/master/chicken_tagine.md)  
 
 -----  
+#### Duck  
 
 [Duck Breast, Pan Seared](https://github.com/vmsmith/CookBook/blob/master/fowl_duck_breast_pan-seared.md)  
 
@@ -78,9 +79,13 @@
 
 -----
 
+#### Pheasant  
+
 [Roast Pheasant](https://github.com/vmsmith/CookBook/blob/master/fowl_pheasant_roast.md)  
 
 -----  
+
+#### Quail
 
 [Roast Quail](https://github.com/vmsmith/CookBook/blob/master/fowl_quail_roast.md)  
 
