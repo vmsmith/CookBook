@@ -12,6 +12,8 @@
 
 [Smoky Pancetta Cod with Lentils and Spinach](https://github.com/vmsmith/CookBook/blob/master/fish_cod_smoky-pancetta.md)  
 
+[Grilled Gambas on Sea Salt](https://github.com/vmsmith/CookBook/blob/master/fish_gambas_grilled.md)  
+
 [Baked Halibut with Lemon Herb Butter Sauce](https://github.com/vmsmith/CookBook/blob/master/fish_halibut_baked.md)
 
 [Baked Salmon (with mustard)](https://github.com/vmsmith/CookBook/blob/master/fish_salmon_baked.md)  
