@@ -21,6 +21,7 @@
 #### Pork  
 
 * [Slow-roasted Pork Belly with Celeriac and Pears](https://github.com/vmsmith/CookBook/blob/master/pork_belly_slow-roasted.md)  
+* [Braised Pork Cheeks](https://github.com/vmsmith/CookBook/blob/master/pork_cheek_braised.md)
 * [Italian Sausage and Peppers](https://github.com/vmsmith/CookBook/blob/master/pork_sausage_italian_peppers.md)  
 * [Ham and Endives Gratinée](https://github.com/vmsmith/CookBook/blob/master/pork_ham_endives_gratinee.md)    
 
