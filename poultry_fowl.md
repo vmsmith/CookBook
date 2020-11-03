@@ -24,7 +24,9 @@
 
 [Chicken Breasts Sautéed with Lemon Caper Sauce](https://github.com/vmsmith/CookBook/blob/master/chicken_breasts_sauteed_lemon_caper.md)  
 
-[Creamy Tuscany Chicken](https://github.com/vmsmith/CookBook/blob/master/chicken_creamy_tuscany.md)   
+[Creamy Tuscany Chicken](https://github.com/vmsmith/CookBook/blob/master/chicken_creamy_tuscany.md)    
+
+[Rustic Lemon Chicken Breast](https://github.com/vmsmith/CookBook/blob/master/chicken_rustic_lemon.md)
 
 #### Chicken Legs  
 
