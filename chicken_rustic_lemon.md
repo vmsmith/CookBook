@@ -16,16 +16,25 @@
 * 1 Tablespoon butter  
 * 1 Tablespoon olive oil  
 * 3/4 garlic cloves sliced   
-1 inch chilli chopped   
-3 sage leaves  
-Thyme  
-Rosemary  
-1 small unwaxed lemon sliced (3/4 sliced 1/4 saved for juice)  
+* 1 inch chilli chopped   
+* 3 sage leaves  
+* Thyme  
+* Rosemary  
+* 1 small unwaxed lemon sliced (3/4 sliced, 1/4 saved for juice)  
 
 #### Preparation  
+
+1. Peel and slice garlic  
+2. Chop the chilli  
+3. Wash and slice the lemon  
 
 
 #### Directions  
 
-
-Heat pan add oil butter, add floured chicken cook 5min moderate heat. Add garlic, chilli turn chicken. Add lemon slices, sage, thyme, rosemary. Juice lemon add stock. Cover and simmer for 15 min. Season with salt and pepper.
+1. Heat the pan and add oil & butter  
+2. Add floured chicken and cook for 5 minutes over moderate heat  
+3. Add the garlic and chilli, and turn the chicken  
+4. Add lemon slices, sage, thyme, and rosemary  
+5. Juice the lemon and add the stock  
+6. Cover and simmer for 15 minutes  
+7. Season with salt and pepper  
