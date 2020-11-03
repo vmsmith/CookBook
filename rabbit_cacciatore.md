@@ -1,10 +1,10 @@
-[Cook Book]()  
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)  
 
-[Meat]()  
+[Meat](https://github.com/vmsmith/CookBook/blob/master/meat.md)  
 
 -----  
 
-[Notes]()  
+[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)  
 
 ### Rabbit Cacciatore  
 
@@ -32,15 +32,14 @@ Serve with rice, pasta, or potatoes.
 
 #### Directions  
 
-1. Sprinkle the rabbit pieces generously with salt and pepper. Rub half of the thyme leaves into the pieces, then sprinkle with flour to lightly coat.  
-Heat olive oil in a large skillet on medium high. Place the rabbit pieces in the pan in a single layer. Do not stir.
-Cook for 2-3 minutes on one side until lightly browned, then turn the pieces and brown on the other side for a minute or two more. Remove the rabbit pieces to a dish to set aside.
-
-Reduce the heat to medium. Add onions to the pan, cook for 1 minute. Then add garlic, bell pepper, and mushrooms, cook for a couple minutes more. Add the rosemary and the remaining thyme.
-
-Reduce heat to medium low; cover the pan and cook for 35 minutes.
-
-Increase heat to high and cook for several minutes to boil off excess moisture and reduce the sauce.
-When the liquid has reduced by half, check the seasoning, add salt or pepper to taste, remove from heat and serve.
-Serve with rice, pasta, or potatoes.
+1. Sprinkle the rabbit pieces generously with salt and pepper, then rub half of the thyme leaves into the pieces, and then sprinkle with flour to lightly coat    
+2. Heat olive oil in a large skillet on medium high, then place the rabbit pieces in the pan in a single layer to brown  
+3. Cook for 2-3 minutes on one side until lightly browned, then turn the pieces and brown on the other side for a minute or two more   
+4. Remove the rabbit pieces to a dish to set aside, and reduce heat to medium  
+5. Add onions to the pan, cook for 1 minute, then add the garlic, bell pepper, and mushrooms  
+6. Cook for a couple minutes more, then add the rosemary and the remaining thyme  
+7. Reduce heat to medium low & cover the pan and cook for 35 minutes  
+8. Increase heat to high and cook for several minutes to boil off excess moisture and reduce the sauce  
+9. When the liquid has reduced by half, check the seasoning, add salt or pepper to taste, remove from heat and serve  
+10. Serve with rice, pasta, or potatoes.
 
