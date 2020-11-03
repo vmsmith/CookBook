@@ -36,7 +36,8 @@
 6. Cook for a couple minutes more, then add the rosemary and the remaining thyme  
 7. Add the rabbit back, and cover with tomatoes and bay leaf  
 8. Reduce heat to medium low & cover the pan and cook for 35 minutes  
-9. Increase heat to high and cook for several minutes to boil off excess moisture and reduce the sauce  
-10. When the liquid has reduced by half, check the seasoning, add salt or pepper to taste, remove from heat and serve   
-11. Serve with rice, pasta, or potatoes  
+9. Uncover the pan and add the olives  
+10. Increase heat to high and cook for several minutes to boil off excess moisture and reduce the sauce  
+11. When the liquid has reduced by half, check the seasoning, add salt or pepper to taste, remove from heat and serve   
+12. Serve with rice, pasta, or potatoes  
 
