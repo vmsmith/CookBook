@@ -20,10 +20,6 @@
 * 3 tablespoons fresh thyme leaves (or 1 Tbsp dried)   
 * 1 teaspoon fresh rosemary leaves (or 1/2 teaspoon dried)   
 * 1 bay leaf   
-
-Increase heat to high and cook for several minutes to boil off excess moisture and reduce the sauce.
-When the liquid has reduced by half, check the seasoning, add salt or pepper to taste, remove from heat and serve.
-Serve with rice, pasta, or potatoes.
 * 1/4 cup all-purpose flour   
 * 2 tablespoons extra virgin olive oil   
 
