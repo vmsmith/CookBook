@@ -7,6 +7,7 @@
 [Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)  
 
 ### Rustic Lemon Chicken 
+[Reddit post](https://old.reddit.com/r/recipes/comments/jnaix5/my_mothers_rustic_lemon_chicken/)  
 
 #### Ingredients  
 
