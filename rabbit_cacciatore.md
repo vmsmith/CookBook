@@ -25,6 +25,12 @@
 
 #### Preparation  
 
+1. Cut the peppers  
+2. Chop the onion  
+3. Slice the mushrooms  
+4. Mince the garlic  
+5. Prep the tomatoes  
+
 
 #### Directions  
 
