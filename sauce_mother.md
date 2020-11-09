@@ -28,15 +28,14 @@
 
 #### Espagnol  
 
-* 1 gallon brown stock, hot			1 quart
-* 1 1/2 cups brown roux 			3/8 cup
-* 1/4 cup bacon fat 				1/2 oz
-* 2 cups chopped onions 			1/2 cup
-* 1 cup chopped carrots				1/4 cup
-* 1 cup chopped celery 				1/4 cup
-* Salt 
-* Freshly ground black pepper 
-* 1/2 cup tomato puree 				1 oz
+* 1 quart of hot brown stock  
+* 3/8 cups brown roux  
+* 1/2 oz. bacon fat  
+* 1/2 cup chopped onions  
+* 1/4 cup chopped carrots  
+* 1/4 cup chopped celery  
+* 1 oz cup tomato puree  
+* Salt and freshly ground black pepper 
 * 1 bouquet garni 
 
 1. In a stock pot, whisk the hot stock into the roux
@@ -44,9 +43,9 @@
 3. Sauté until wilted, about 5 minutes  
 4. Stir the tomato puree into the vegetables and cook for about 5 minutes  
 5. Add the tomato/vegetable mixture to the stock/roux mixture  
-6. Add the bouquet garni and continue to simmer, skimming as needed  
-7. Season with salt and pepper. 
-8. Simmer the sauce for about 45 minutes. [Note: Ccover the pot to prevent evaporation]  
+6. Add the bouquet garni and continue to simmer, skimming as needed   
+7. Season with salt and pepper  
+8. Simmer the sauce for about 45 minutes [Note: Cover the pot to prevent evaporation]  
 9. Strain the sauce through a China cap or tightly meshed strainer  
 
 
