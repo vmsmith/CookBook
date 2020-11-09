@@ -41,12 +41,12 @@
 
 #### Derived Sauces  
 
-* [Marchand de Vin Sauce](https://www.thespruceeats.com/marchand-de-vin-red-wine-sauce-996103) (Red Wine Reduction)
+* [Marchand de Vin Sauce](https://www.thespruceeats.com/marchand-de-vin-red-wine-sauce-996103) (Red Wine Reduction)   
 * [Sauce Robert](https://www.thespruceeats.com/sauce-robert-recipe-996112)  
-* Charcutière Sauce
-* Lyonnaise Sauce
-* Chasseur Sauce
-* Bercy Sauce
-* Mushroom Sauce
-* Madeira Sauce
-* Port Wine Sauce
+* [Charcutière Sauce](https://www.thespruceeats.com/charcutiere-sauce-recipe-996075)  
+* [Lyonnaise Sauce](https://www.thespruceeats.com/lyonnaise-white-wine-onion-sauce-recipe-996100)  
+* [Chasseur Sauce](https://www.thespruceeats.com/chasseur-sauce-recipe-996086)    
+* [Bercy Sauce](https://www.thespruceeats.com/bercy-sauce-ii-996084)   
+* [Mushroom Sauce](https://www.thespruceeats.com/classic-mushroom-sauce-recipe-996107)    
+* [Madeira Sauce](https://www.thespruceeats.com/classic-madeira-sauce-996101)  
+* [Port Wine Sauce](https://www.thespruceeats.com/port-wine-sauce-recipe-996109)  
