@@ -7,8 +7,8 @@
 ### Stocks and Sauces    
 
 [Mother Sauces](https://github.com/vmsmith/CookBook/blob/master/sauce_mother.md)
-  * [Bechamel Sauce]()  
-  * [Espagnol Sauce]()
+  * [Béchamel Sauce](https://github.com/vmsmith/CookBook/blob/master/sauce_bechamel.md)  
+  * [Espagnol Sauce](https://github.com/vmsmith/CookBook/blob/master/sauce_espagnol.md)
   * [Hollandaise Sauce](https://github.com/vmsmith/CookBook/blob/master/sauce_hollandaise.md)  
   * [Mayonnaise](https://github.com/vmsmith/CookBook/blob/master/sauce_mayonnaise.md)
   * [Velouté Sauce](https://github.com/vmsmith/CookBook/blob/master/sauce_veloute.md)
