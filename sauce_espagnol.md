@@ -41,8 +41,8 @@
 
 #### Derived Sauces  
 
-* Marchand de Vin Sauce (Red Wine Reduction)
-* Robert Sauce
+* [Marchand de Vin Sauce](https://www.thespruceeats.com/marchand-de-vin-red-wine-sauce-996103) (Red Wine Reduction)
+* [Sauce Robert](https://www.thespruceeats.com/sauce-robert-recipe-996112)  
 * Charcutière Sauce
 * Lyonnaise Sauce
 * Chasseur Sauce
