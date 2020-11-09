@@ -8,7 +8,7 @@
 * Mix in 1 cup of hot chicken stock  
 * Let reduce about 1/3  
 
-#### Used with:  
+#### Derived Sauces    
 
-[Smitane Sauce](https://github.com/vmsmith/CookBook/blob/master/sauce_smitane.md)  
+* [Smitane Sauce](https://github.com/vmsmith/CookBook/blob/master/sauce_smitane.md)  
 
