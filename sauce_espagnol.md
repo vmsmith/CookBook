@@ -1,14 +1,15 @@
-[Cook Book]()  
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)  
 
-[Sauces]()  
+[Sauces](https://github.com/vmsmith/CookBook/blob/master/sauces.md)  
 
 -----  
 
-[Notes]()
+[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)
 
 ### Espagnol Sauce  
 
 #### Ingredients  
+
 * 1 quart of hot brown stock   
 * 3/8 cups brown roux   
 * 1/2 oz. bacon fat   
