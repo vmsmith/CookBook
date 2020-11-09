@@ -10,6 +10,21 @@
 
 #### Béchamel  
 
+* 2 tablespoons butter
+* 2 tablespoons flour
+* 1 1/4 cups milk, heated
+* Salt
+* Freshly ground pepper
+* Nutmeg...?
+
+1. Heat 1 1/4 cups of milk on low heat just until little bubbles begin to form at the edges, then remove from heat  
+2. Melt 2 tablespoons of butter in a heavy-bottomed saucepan  
+3. Stir in 2 tablespoons of flour and cook, stirring constantly, until the paste cooks and bubbles a bit, but don't let it brown — about 2 minutes  
+4. Add the hot milk, continuing to stir as the sauce thickens  
+5. Bring it to a boil  
+6. Add salt and pepper to taste, lower the heat, and cook, stirring for 2 to 3 minutes more  
+7. Remove from the heat  
+8. To cool this sauce for later use, cover it with wax paper or pour a film of milk over it to prevent a skin from forming  
 
 #### Espagnol  
 
