@@ -4,6 +4,8 @@
 
 [Anchoïade Chez Gilbert]() - Patricia Wells, p. 4  
 
+[Potted Shrimp]()  
+
 [Cashews, Rosemart](https://github.com/vmsmith/CookBook/blob/master/appetizers_rosemary_cashews.md)  
 
 [Céleri Rémoulade]() - Patricia Wells, p. 8
