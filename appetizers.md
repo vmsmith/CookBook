@@ -4,7 +4,7 @@
 
 [Anchoïade Chez Gilbert]() - Patricia Wells, p. 4  
 
-[Potted Shrimp]()  
+[Potted Shrimp](https://github.com/vmsmith/CookBook/blob/master/appetizers_shrimp_potted.md)  
 
 [Cashews, Rosemart](https://github.com/vmsmith/CookBook/blob/master/appetizers_rosemary_cashews.md)  
 
