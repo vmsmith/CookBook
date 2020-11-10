@@ -34,3 +34,8 @@
 To cool this sauce for later use, cover it with wax paper or pour a film of milk over it to prevent a skin from forming  
 
 #### Derived Sauces  
+
+[Cream Sauce](https://www.thespruceeats.com/cream-sauce-recipe-996214): 
+[Mornay Sauce](https://www.thespruceeats.com/classic-mornay-sauce-recipe-996215): eggs, steamed vegetables    
+[Soubise Sauce](https://www.thespruceeats.com/soubise-sauce-recipe-996219): vegetables, eggs, chicken    
+[Nantua Sauce](https://www.thespruceeats.com/nantua-sauce-recipe-996217): shellfish      
