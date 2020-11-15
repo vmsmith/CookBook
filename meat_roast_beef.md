@@ -23,7 +23,7 @@
 #### Directions  
 
 1. Truss the meat, salt and pepper  
-2. Put in the oven *on a rack* until internal temperature is 125F  
+2. Put in the oven *on a rack* until internal temperature is 125F (about 25 - 30 min)  
 3. Let rest of 10 - 15 minutes  
 
 
