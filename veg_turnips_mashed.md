@@ -1,10 +1,10 @@
-[Cook Book]()  
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)  
 
-[Vegetables]() / [Potatoes]()  
+[Vegetables](https://github.com/vmsmith/CookBook/blob/master/vegetables.md) / [Potatoes](https://github.com/vmsmith/CookBook/blob/master/potatoes.md)  
 
 -----  
 
-[Notes]()  
+[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)  
 
 ### Mashed Turnips  
 
