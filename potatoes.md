@@ -9,3 +9,7 @@
 [Gratin #2]() 
 
 [Sautéed with Garlic and Walnut Oil]() - Patricia Wells, p. 111  
+
+#### Alternative  
+
+[Mashed turnips](https://github.com/vmsmith/CookBook/blob/master/veg_turnips_mashed.md)   
