@@ -30,6 +30,8 @@
 
 [Fennel, Braised](https://github.com/vmsmith/CookBook/blob/master/veg_fennel_braised.md)  
 
+[Leeks, Braised](https://github.com/vmsmith/CookBook/blob/master/veg_leeks_braised.md)
+
 [Macédoine](https://github.com/vmsmith/CookBook/blob/master/veg_macedoine.md)  
 
 Mushrooms  
