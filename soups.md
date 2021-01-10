@@ -34,7 +34,7 @@
 
 [Red Lentil with Lemon Soup](https://github.com/vmsmith/CookBook/blob/master/soup_red_lentil.md)
 
-[Lobster Bisque](https://github.com/vmsmith/CookBook/blob/master/soup_lobster_bisque.md)
+[Lobster Bisque](https://github.com/vmsmith/CookBook/blob/master/soup_bisque_lobster.md)
 
 [Mushroom Soup](https://github.com/vmsmith/CookBook/blob/master/soup_mushroom.md)
 
