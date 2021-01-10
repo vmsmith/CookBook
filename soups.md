@@ -8,6 +8,8 @@
 
 [Avocado, Cucumber, and Fennel Soup](https://github.com/vmsmith/CookBook/blob/master/soup_avocado-cucumber-fennel.md)
 
+
+
 [Borscht #1 - no meat](https://github.com/vmsmith/CookBook/blob/master/soup_borscht1.md)  
 
 [Borscht #2 - with beef](https://github.com/vmsmith/CookBook/blob/master/soup_borscht2.md)  
@@ -49,6 +51,8 @@
 [French Pumpkin Soup](https://github.com/vmsmith/CookBook/blob/master/soup_pumpkin_french.md)  
 
 [Rabbit Soup](https://github.com/vmsmith/CookBook/blob/master/soup_rabbit.md)
+
+[Shrimp Bisque](https://github/vmsmith/CookBook/blob/master/soup_bisque_shrimp.md)  
 
 [Tarbais Bean Soup](https://github.com/vmsmith/CookBook/blob/master/soup_bean_tarbais.md)  
 
