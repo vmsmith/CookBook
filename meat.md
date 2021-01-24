@@ -13,6 +13,7 @@
 
 #### Lamb  
 * [Lamb Chops, Pan-seared](https://github.com/vmsmith/CookBook/blob/master/lamb_chops_pan-seared.md)  
+* [Lamb Ragu](https://github.com/vmsmith/CookBook/blob/master/lamb_ragu.md)   
 * [Lamb Shanks, Braised](https://github.com/vmsmith/CookBook/blob/master/lamb_shanks_braised_1.md)
 * [Lamb Stew, Basque #1](https://github.com/vmsmith/CookBook/blob/master/lamb_stew_basque_1.md)  
 * [Lamb Stew, Basque #2](https://github.com/vmsmith/CookBook/blob/master/lamb_stew_basque_2.md) 
