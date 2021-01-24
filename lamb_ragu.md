@@ -32,8 +32,17 @@
 
 #### Directions  
 
-1. In a medium enameled cast-iron Dutch oven, heat 1/4 cup of the olive oil until shimmering. Add the pancetta and stir once or twice over moderately high heat until sizzling. Toss lamb in flour then cook until the liquid has evaporated and the meat is browned well on at least one side.
-Remove all meat then add the carrots, onion and red bell pepper and cook over moderate heat, stirring occasionally, until softened and just beginning to brown, about 12 minutes. Add rosemary and black pepper (to taste) and sauté until fragrant. 
-Transfer meat back to pot and add 2 tbsp additional oil if needed. Add the red wine and strongly simmer until evaporated, scraping up any browned bits from the bottom of the casserole. Add the tomatoes and their juices, chicken stock, bay leaf and crushed red pepper. Reduce the heat to low, cover partially and simmer, stirring occasionally, until the lamb is very tender, 90 minutes. If it becomes too dry add more stock.  Discard the bay leaf.
-Transfer lamb to separate  bowl and using two forks shred until desired texture. Add back into the pot to warm through. The end result should be a moderately thick sauce. To finish, stir in 1 tbsp pecorino Romano.
-Once the sauce has cooled a bit, add to serving bowl with cooked pasta and drizzle fresh olive oil to toss. Top with pecorino Romano before serving.
+1. In a medium enameled cast-iron Dutch oven, heat 1/4 cup of the olive oil until shimmering, then add the pancetta and stir once or twice over moderately high heat until sizzling   
+2. Toss lamb in flour then cook until the liquid has evaporated and the meat is browned well on at least one side  
+3. Remove all meat then add the carrots, onion and red bell pepper and cook over moderate heat, stirring occasionally, until softened and just beginning to brown, about 12 minutes  
+4. Add rosemary and black pepper (to taste) and sauté until fragrant   
+5. Transfer meat back to pot and add 2 tbsp additional oil if needed   
+6. Add the red wine and strongly simmer until evaporated, scraping up any browned bits from the bottom of the casserole   
+7. Add the tomatoes and their juices, chicken stock, bay leaf and crushed red pepper   
+8. Reduce the heat to low, cover partially and simmer, stirring occasionally, until the lamb is very tender, 90 minutes (if it becomes too dry add more stock)  
+9. Discard the bay leaf  
+10. Transfer lamb to separate  bowl and using two forks shred until desired texture  
+11. Add back into the pot to warm through - the end result should be a moderately thick sauce   
+12. To finish, stir in 1 tbsp pecorino Romano  
+13. Once the sauce has cooled a bit, add to serving bowl with cooked pasta and drizzle fresh olive oil to toss   
+14. Top with pecorino Romano before serving  
