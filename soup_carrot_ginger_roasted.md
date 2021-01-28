@@ -11,7 +11,7 @@
 #### Ingredients  
 
 * 1 1/2 pound of carrots, trimmed and peeled  
-* 1 small Spanish onion, peeled and cut into small dice
+* 1 small Spanish (or yellow) onion, peeled and cut into small dice
 * 1/2 stalk of celery, cut into small dice 
 * 1 tablespoon of freshly grated ginger  
 * Minced garlic  
