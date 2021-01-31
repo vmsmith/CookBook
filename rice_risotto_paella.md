@@ -9,6 +9,8 @@
 ### Paella  
 
 #### Ingredients  
+* Arroz bomba  
+* Chicken and rabbit  
 * 3/4 cup of dried broad or lima beans (which you'll soak and precook before the class)  
 * 3/4 cup of flat beans (Romano or Italian green beans)  
 * Medium onion  
