@@ -18,6 +18,8 @@ Mother Sauces - [Web site](https://www.thespruceeats.com/mother-sauces-996119)
 
 [Beurre Blanc](https://github.com/vmsmith/CookBook/blob/master/sauce_beurre_blanc.md)
 
+[Brandy, Mushroom, and Cream Sauce](https://github.com/vmsmith/CookBook/blob/master/sauce_brandy-mushroom-cream.md)  
+
 [Fish Stock](https://github.com/vmsmith/CookBook/blob/master/stock_fish.md)
 
 [Green Sauce (Bechamel)](https://github.com/vmsmith/CookBook/blob/master/sauce_green_milk.md)
