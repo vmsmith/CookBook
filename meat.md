@@ -5,11 +5,12 @@
 ### Meat  
 
 #### Beef  
-
-
 * [Roast Beef](https://github.com/vmsmith/CookBook/blob/master/meat_roast_beef.md)  
 * [Steak au poivre](https://github.com/vmsmith/CookBook/blob/master/meat_steak_au_poivre.md)  
 * [Steak, reverse seared](https://github.com/vmsmith/CookBook/blob/master/meat_steak_reverse_seared.md)
+
+#### Veal  
+* [Osso Bucco]()    
 
 #### Lamb  
 * [Lamb Chops, Pan-seared](https://github.com/vmsmith/CookBook/blob/master/lamb_chops_pan-seared.md)  
