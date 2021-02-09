@@ -10,7 +10,7 @@
 * [Steak, reverse seared](https://github.com/vmsmith/CookBook/blob/master/meat_steak_reverse_seared.md)
 
 #### Veal  
-* [Osso Bucco]()    
+* [Osso Bucco](https://github.com/vmsmith/CookBook/blob/master/meat_osso_bucco.md)      
 
 #### Lamb  
 * [Lamb Chops, Pan-seared](https://github.com/vmsmith/CookBook/blob/master/lamb_chops_pan-seared.md)  
