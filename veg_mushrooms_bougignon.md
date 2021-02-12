@@ -35,4 +35,28 @@
 
 #### Directions  
 
+1. Add 2 tablespoons butter or oil to a large Dutch oven or pot and set it over medium heat  
+2. When the fat is hot, stir in half the mushrooms and half the pearl onions (if it doesn’t all fit in the pot in one layer, you might have to do this in three batches, rather than two)   
+3. Without moving them around too much, cook the mushrooms until they are brown on one side, about 3 minutes  
+4. Stir and let them brown on the other side, 2 to 3 minutes more  
+5. Use a slotted spoon to transfer mushrooms and onions to a large bowl or plate and sprinkle with salt and pepper  
+6. Repeat with another 2 tablespoons butter and the remaining mushrooms and pearl onions, seasoning them as you go  
+7. Reduce heat to medium-low and add another 1 tablespoon butter or oil to pan  
+8. Add leeks and carrot and sauté until the leeks turn lightly golden and start to soften, 5 minutes  
+9. Add the 2 minced garlic cloves and sauté for 1 minute longer  
+10. Stir in tomato paste and cook for 1 minute  
+11. Stir in flour and cook, stirring, for 1 minute, then add wine, broth, 1 tablespoon tamari, thyme and bay leaf, scraping up the brown bits at bottom of pot  
+12. Add reserved cooked mushrooms and pearl onions back to the pot and bring to a simmer  
+13. Partly cover the pot and simmer on low heat until carrots and onions are tender and sauce is thick, 30 to 40 minutes  
+14. Taste and add more salt and tamari if needed  
+15. Stir in the grated garlic clove.
+16. Just before serving, heat a small skillet over high heat and add 1/2 tablespoon butter or oil  
+17. Add half of the sliced chanterelles or oyster mushrooms and let cook without moving until they are crisp and brown on one side, 1 to 2 minutes  
+18. Flip and cook on the other side  
+19. Transfer to a plate and sprinkle with salt and smoked paprika  
+20. Repeat with remaining butter and mushrooms  
+
+Serve mushroom Bourguignon over polenta, noodles or mashed potatoes, topped with fried mushrooms and parsley
+
+
 
