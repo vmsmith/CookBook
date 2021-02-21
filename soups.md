@@ -30,6 +30,8 @@
 
 [Leek, Potato, and Bacon Soup]() - Patricia Wells, p. 29
 
+[Lentil](https://github.com/vmsmith/CookBook/blob/master/soup_lentil1.md)  
+
 [Red Lentil](https://github.com/vmsmith/CookBook/blob/master/soup_red_lentil2.md)  
 
 [Red Lentil with Lemon Soup](https://github.com/vmsmith/CookBook/blob/master/soup_red_lentil.md)
