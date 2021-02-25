@@ -24,6 +24,8 @@
 
 [Chestnut Soup](https://github.com/vmsmith/CookBook/blob/master/soup_chestnut.md)
 
+[Duck with Wild Rice](soup_duck_wild_rice.md)  
+
 [Fish Soup, Basque](https://github.com/vmsmith/CookBook/blob/master/soup_fish_basquaise.md)  
 
 [Fish Soup, Provençal](https://github.com/vmsmith/CookBook/blob/master/soup_fish_provencal.md)
