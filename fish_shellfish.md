@@ -18,6 +18,8 @@
 
 [Baked Salmon (with mustard)](https://github.com/vmsmith/CookBook/blob/master/fish_salmon_baked.md)  
 
+[Pan-seared Salmon]()  
+
 [Shrimp in Green Sauce]()  
 
 [Seared Tuna](https://github.com/vmsmith/CookBook/blob/master/fish_tuna_seared.md)  
