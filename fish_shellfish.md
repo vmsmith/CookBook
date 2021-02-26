@@ -18,7 +18,7 @@
 
 [Baked Salmon (with mustard)](https://github.com/vmsmith/CookBook/blob/master/fish_salmon_baked.md)  
 
-[Pan-seared Salmon]()  
+[Pan-seared Salmon](https://github.com/vmsmith/CookBook/blob/master/fish_salmon_pan-seared.md)    
 
 [Shrimp in Green Sauce]()  
 
