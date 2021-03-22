@@ -64,4 +64,8 @@
 
 [Roasted Butternut Squash Soup](https://github.com/vmsmith/CookBook/blob/master/soup_squash_butternut_roasted.md)  
 
-[Tomato Soup](https://github.com/vmsmith/CookBook/blob/master/soup_tomato.md)
+[Tomato Soup](https://github.com/vmsmith/CookBook/blob/master/soup_tomato.md)  
+
+[Vegetable Soup](https://github.com/vmsmith/CookBook/blob/master/soup_vegetable.md)  
+
+
