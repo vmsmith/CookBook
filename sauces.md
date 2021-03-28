@@ -42,5 +42,7 @@ Mother Sauces - [Web site](https://www.thespruceeats.com/mother-sauces-996119)
 
 [Toum (Lebanese Garlic Sauce)](https://github.com/vmsmith/CookBook/blob/master/sauce_toum.md)  
 
-[Tomato Sauce (Marcella Hazan)](https://github.com/vmsmith/CookBook/blob/master/sauce_tomato.md)
+[Tomato Sauce (Marcella Hazan)](https://github.com/vmsmith/CookBook/blob/master/sauce_tomato.md)  
+
+[Vegetable Stock](https://github.com/vmsmith/CookBook/blob/master/stock_vegetable.md)  
 
