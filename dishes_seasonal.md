@@ -219,7 +219,7 @@
 
  <tr><th>January</th><th>Protein</th><th>Vegetables</th><th>Fruits</th><th>Cheese</th><th>Other</th></tr>
   <tr><td></td>
-    <td>Brill<br>Cod<br>Flounder<br>John Dory<br>Scallops<br><br><br><br><br><br><br><br><br></td>
+    <td>Brill<br>Cod<br>Flounder<br>John Dory<br>Scallops</td>
     <td>Beet Root<br>Belgian Endives<br>Broccoli<br>Brussles Sprouts<br>Buttercup Squash<br>Celery Root<br>Leeks (peak)<br>Onions<br>Lamb's lettuce<br>Spinach<br>Turnips</td>
     <td>Clementines<br>Dates<br>Pears</td>
     <td>Bresse Bleu<br>Cantal<br>Pont l'Eveque<br>Roquefort</td>
@@ -228,7 +228,7 @@
   
  <tr><th>February</th><th>Protein</th><th>Vegetables</th><th>Fruits</th><th>Cheese</th><th>Other</th></tr>
   <tr><td></td>
-    <td>Goose Eggs<br>Brill<br>Cod<br>Flounder<br>John Dory<br>Scallops<br><br><br><br><br><br><br><br><br></td>
+    <td>Goose Eggs<br>Brill<br>Cod<br>Flounder<br>John Dory<br>Scallops</td>
     <td>Beet Root<br>Belgian Endive<br>Broccoli<br>Brussles Sprouts<br>Buttercup Squash<br>Celery Root<br>Leeks<br>Onions<br>Lamb's lettuce<br>Spinach<br>Turnips</td>
     <td>Clementines<br>Dates<br>Pears</td>
     <td>Bresse Bleu<br>Cantal<br>Pont l'Eveque<br>Roquefort</td>
