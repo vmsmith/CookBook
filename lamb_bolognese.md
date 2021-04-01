@@ -1,10 +1,10 @@
-[Cook Book]()  
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)  
 
-[Meats]()  
+[Meats](https://github.com/vmsmith/CookBook/blob/master/meat.md)  
 
 -----  
 
-[Notes]()  
+[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)  
 
 ### Lamb Bolognese
 
