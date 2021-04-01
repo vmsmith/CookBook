@@ -30,8 +30,13 @@
 
 #### Preparation  
 
+1. Dice onions  
+2. Peel and dice carrot  
+3. Dice pancetta  
+4. Puree plum tomatoes  
+5. Toast fennel seeds  
 
-#### Directions  
+#### Directions (almost two hours)  
 
 1. In a large, heavy-bottomed pot, combine olive oil and crushed red pepper, then toast over medium heat until fragrant (about 1 minute)   
 
