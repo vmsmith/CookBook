@@ -1,6 +1,8 @@
-[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)  
 
 -----  
+
+[How to Cook a Whole Fish](https://www.foodandwine.com/news/how-to-cook-whole-fish)  
 
 ### Fish and Shellfish    
 
