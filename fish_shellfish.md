@@ -24,6 +24,6 @@
 
 [Shrimp in Green Sauce]()  
 
-[Garlic Shrimp with Peas]()  
+[Garlic Shrimp with Peas](https://github.com/vmsmith/CookBook/blob/master/fish_shrimp_garlic_peas.md)    
 
 [Seared Tuna](https://github.com/vmsmith/CookBook/blob/master/fish_tuna_seared.md)  
