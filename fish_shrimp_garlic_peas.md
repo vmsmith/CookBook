@@ -8,35 +8,35 @@
 
 ### Garlic Shrimp with Peas  
 
+#### Ingredients  
 
+* 1/2 pound of shrimp after peeling and deveining  
+* 1/2 pound fresh English peas  
+* 2 - 3 garlic cloves, minced
+* 1 tablespoons extra-virgin olive oil
+* Red chili flakes, to taste
+* Finely chopped cilantro
+* Finely chopped parsley
+* Salt to taste
 
+#### Preparation  
 
-Makes 6 servings
+1. Peel and devein the shrimp  
+2. Make shrimp broth  
+3. Peel and mince the garlic  
+4. Chop the parsley and cilantro  
 
-1½ pounds medium shrimp with shells, shelled and deveined; retain shells
+#### Directions  
 
-Salt to taste
+Broth: Place shrimp shells in a medium saucepan, add 1 quart water and salt to taste — Bring to a boil, skim off foam, reduce heat, cover partly and simmer 30 minutes — Strain broth into a bowl and discard shells - return broth to saucepan and heat
 
-1½ pounds fresh English peas, shelled (1¼ to 1½ cups depending on size)
-
-
-3 tablespoons extra-virgin olive oil
-
-1 head green garlic or 6 garlic cloves, minced
-
-¼ to ½ teaspoon red chili flakes, to taste
-
-1/3 cup finely chopped cilantro
-
-1/3 cup finely chopped parsley
-
-Cooked rice for serving, optional
-
-
-1. Place shrimp shells in a medium saucepan, add 1 quart water and salt to taste. Bring to a boil. Skim off foam, reduce heat, cover partly and simmer 30 minutes. Strain broth into a bowl and discard shells. Return broth to saucepan.
-
-2. Meanwhile, sprinkle shrimp with salt, toss and let sit for 15 minutes.
-
-3. Return broth to a boil and add peas. Boil two minutes, until just wrinkled and slightly tender. Scoop out with a skimmer or slotted spoon and set aside. Measure out ½ cup broth and set aside.
-
-4. Heat oil over medium heat in a wide heavy skillet. Add garlic and chili flakes. Cook, stirring, until garlic is fragrant and beginning to color, about one minute. Turn heat to medium-high and add shrimp. Cook, stirring, until shrimp turns pink, about two minutes. Add peas, cilantro and parsley and continue to toss in the pan for another minute. Stir in ½ cup broth and heat through while stirring to deglaze pan. Remove from heat, taste and adjust seasoning. Serve.
+1. Sprinkle shrimp with salt, toss and let sit for 15 minutes  
+2. Return broth to a boil and cook the peas for a few minutes    
+3. Scoop out the peas with a skimmer or slotted spoon and set aside  
+4. Measure out 1/6 cup (2 tablespoons) broth and set aside  
+5. Heat oil over medium heat in a wide heavy skillet   
+6. Add garlic and chili flakes and cook about one minute, until garlic is fragrant and beginning to color  
+7. Turn heat to medium-high, add shrimp, and cook about two minutes  
+8. Add peas, cilantro and parsley and continue to toss in the pan for another minute  
+9. Stir in two tablespoons of broth and heat through while stirring to deglaze pan  
+10. Remove from heat, taste and adjust seasoning, and serve over rice  
