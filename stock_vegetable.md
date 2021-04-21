@@ -14,7 +14,7 @@
 * 1 carrot (8 ounces)  
 * 2 celery stalks    
 * 2 garlic cloves peeled  
-* 2 ounces fennel branches (~3 – 4 bulbs)  
+* 2 ounces fennel branches (~2 bulbs)  
 * 1 tablespoons olive oil or butter  
 * Bouquet garni  
 * 6 cups cold water  
