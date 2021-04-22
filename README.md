@@ -12,7 +12,9 @@
 
 -----
 
-#### [Lunch Dishes](https://github.com/vmsmith/CookBook/blob/master/dishes_lunch.md)   
+#### [Lunch Dishes - General](https://github.com/vmsmith/CookBook/blob/master/dishes_lunch.md)   
+
+#### [Lunch Dishes - Summer](https://github.com/vmsmith/CookBook/blob/master/dishes_lunch_summer.md)
 
 #### [Seasonal Foods](https://github.com/vmsmith/CookBook/blob/master/dishes_seasonal.md)  
 
