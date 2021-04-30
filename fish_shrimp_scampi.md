@@ -1,10 +1,10 @@
-[Cook Book]()  
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)  
 
-[Fish and Shellfish]()  
+[Fish and Shellfish](https://github.com/vmsmith/CookBook/blob/master/fish_shellfish.md)  
 
 -----   
 
-[Notes]()  
+[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)  
 
 ### Shrimp Scampi  
 
@@ -19,6 +19,9 @@
 * 1/2 teaspoon crushed red pepper flakes or to taste (optional)  
 
 #### Preparation  
+
+1. Shell and devein the shrimp  
+2. Peel and mince the garlic  
 
 #### Directions  
 
