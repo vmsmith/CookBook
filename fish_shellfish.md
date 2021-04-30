@@ -26,7 +26,7 @@
 
 [Garlic Shrimp with Peas](https://github.com/vmsmith/CookBook/blob/master/fish_shrimp_garlic_peas.md)    
 
-[Shrimp Scampi]()  
+[Shrimp Scampi](https://github.com/vmsmith/CookBook/blob/master/fish_shrimp_scampi.md)    
 
 [Sole Meunière](https://github.com/vmsmith/CookBook/blob/master/fish_sole_meuniere.md)
 
