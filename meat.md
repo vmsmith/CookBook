@@ -27,7 +27,9 @@
 * [Braised Pork Cheeks](https://github.com/vmsmith/CookBook/blob/master/pork_cheeks_braised.md)
 * [Italian Sausage and Peppers](https://github.com/vmsmith/CookBook/blob/master/pork_sausage_italian_peppers.md)  
 * [Ham and Endives Gratinée](https://github.com/vmsmith/CookBook/blob/master/pork_ham_endives_gratinee.md)    
-* [Roast Pork Echine](https://cookinginsens.wordpress.com/2019/12/10/herb-crusted-echine-de-porc-with-romanesco/) - web site    
+* [Roast Pork Echine](https://cookinginsens.wordpress.com/2019/12/10/herb-crusted-echine-de-porc-with-romanesco/) - web site   
+  * 400F - 45 min  
+  * 325F - until 145F    
 
 #### Rabbit  
 
