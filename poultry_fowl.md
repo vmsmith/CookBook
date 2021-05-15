@@ -28,6 +28,8 @@
 
 [Rustic Lemon Chicken Breast](https://github.com/vmsmith/CookBook/blob/master/chicken_rustic_lemon.md)  
 
+[Caprese Chicken Breast](https://github.com/vmsmith/CookBook/blob/master/chicken_caprese.md)
+
 [Chicken Veronique](https://www.tasteofhome.com/recipes/chicken-veronique/)  
 
 #### Chicken Legs  
