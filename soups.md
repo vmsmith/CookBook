@@ -22,7 +22,9 @@
 
 [Celery Root and Leek Soup](https://github.com/vmsmith/CookBook/blob/master/soup_celery_root_leek.md)  
 
-[Chestnut Soup](https://github.com/vmsmith/CookBook/blob/master/soup_chestnut.md)
+[Chestnut Soup](https://github.com/vmsmith/CookBook/blob/master/soup_chestnut.md)  
+
+[Clam Chowder](https://github.com/vmsmith/CookBook/blob/master/soup_clam_chowder.md)  
 
 [Duck with Wild Rice](soup_duck_wild_rice.md)  
 
