@@ -83,6 +83,8 @@
 
 [Duck Breast with Prune Sauce](https://github.com/vmsmith/CookBook/blob/master/fowl_duck_breast_prune_sauce.md)  
 
+[Duck Leg Confit Parmentier](https://github.com/vmsmith/CookBook/blob/master/fowl_duck_leg_confit_parmentier.md)  
+
 [Duck Leg Stew](https://github.com/vmsmith/CookBook/blob/master/fowl_duck_leg_stew.md)  
 
 -----
