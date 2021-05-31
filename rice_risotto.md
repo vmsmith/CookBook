@@ -12,6 +12,8 @@
 
 [Wild Rice (with many things)](https://github.com/vmsmith/CookBook/blob/master/rice_wild.md)  
 
+[Mediterranean Rice](https://github.com/vmsmith/CookBook/blob/master/rice_mediterranean.md)
+
 [Paella](https://github.com/vmsmith/CookBook/blob/master/rice_risotto_paella.md)  
 
 #### Risotto  
