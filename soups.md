@@ -6,9 +6,9 @@
 
 ### Soups    
 
+[Asparagus, Cream of](https://github.com/vmsmith/CookBook/blob/master/soup_asparagus-cream-of.md)
+
 [Avocado, Cucumber, and Fennel Soup](https://github.com/vmsmith/CookBook/blob/master/soup_avocado-cucumber-fennel.md)
-
-
 
 [Borscht #1 - no meat](https://github.com/vmsmith/CookBook/blob/master/soup_borscht1.md)  
 
