@@ -11,8 +11,8 @@
 #### Ingredients  
 
 * 2 1/2 kilos of fresh mussels or 2 small bowls of frozen mussels
-* 1 medium onion  
-* 2 large shallots  
+* 1 medium onion, chopped  
+* 2 large shallots, chopped    
 * 1 large carrot  
 * 2 large garlic cloves  
 * 1 kilo gram of very ripe tomatoes, peeled and seeded  
@@ -26,6 +26,10 @@
 
 #### Preparation  
 
+1. Chop the onion  
+2. Chop the shallots  
 
 
 #### Directions  
+
+1. In a saucepan with a lid, heat the olive oil and brown the chopped onion and shallots, the sliced carrot and the garlic seeds 
