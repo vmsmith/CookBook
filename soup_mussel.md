@@ -24,7 +24,7 @@
 * A bit of sugar  
 * 2 spoons of creme fraîche  
 * Some Gruyère cheese  
-* Croutons  
+* Croutons sautéed with garlic  
 
 #### Preparation  
 
@@ -44,7 +44,7 @@
 4. Add 1.5 liters of water and bring to a boil  
 5. Add saffron, half of the mussels, salt, pepper, and piment d'Éplette  
 6. Cover and cook for about 45 minutes over medium heat  
-7. Pass through a vegetable mill or blender   
-8. Add remaining mussels and let boil for a few minutes  
-9. At the last moment, add 2 or 3 spoons of fresh cream  
+7. Blend it, then (optionally) pass it through a vegetable mill     
+8. Add the remaining mussels and let boil for a few minutes  
+9. At the last moment, add 2 or 3 spoons of crème fraîche    
 10. Serve with fried croutons and grated Gruyere cheese  
