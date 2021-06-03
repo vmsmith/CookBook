@@ -19,6 +19,7 @@
 * 1/2 cup of olive oil  
 * 3 spoons of dry white wine  
 * 1 pinch of herbs de Provence  
+* Piment d'Éplette  
 * Saffron  
 * A bit of sugar  
 * 2 spoons of creme fraîche  
@@ -30,6 +31,7 @@
 2. Chop the shallots  
 3. Slice the carrot  
 4. Mince the garlic cloves  
+5. Peel and seed the tomatoes  
 
 
 #### Directions  
@@ -38,4 +40,6 @@
 2. Add the dry white wine and let it evaporate  
 3. Add the tomatoes, the sugar, the herbs of Provence, and let it brown again  
 4. Add 1.5 liters of water and bring to a boil  
-5. 
+5. Add saffron, half of the mussels, salt, pepper, and piment d'Éplette  
+6. Cover and cook for about 45 minutes over medium heat  
+7. Pass through a vegetable mill or blender
