@@ -14,7 +14,7 @@
 * 1 medium onion, chopped  
 * 2 large shallots, chopped    
 * 1 large carrot  
-* 2 large garlic cloves  
+* 2 large garlic cloves, minced    
 * 1 kilo gram of very ripe tomatoes, peeled and seeded  
 * 1/2 cup of olive oil  
 * 3 spoons of dry white wine  
@@ -28,8 +28,11 @@
 
 1. Chop the onion  
 2. Chop the shallots  
+3. Slice the carrot  
+4. Mince the garlic cloves  
 
 
 #### Directions  
 
-1. In a saucepan with a lid, heat the olive oil and brown the chopped onion and shallots, the sliced carrot and the garlic seeds 
+1. In a saucepan with a lid, heat the olive oil and brown the chopped onion and shallots, the sliced carrot and the garlic cloves   
+2.  
