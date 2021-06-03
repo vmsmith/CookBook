@@ -37,4 +37,5 @@
 1. In a saucepan with a lid, heat the olive oil and brown the chopped onion and shallots, the sliced carrot and the garlic cloves   
 2. Add the dry white wine and let it evaporate  
 3. Add the tomatoes, the sugar, the herbs of Provence, and let it brown again  
-4. 
+4. Add 1.5 liters of water and bring to a boil  
+5. 
