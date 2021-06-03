@@ -23,6 +23,7 @@
 * Saffron  
 * A bit of sugar  
 * 2 spoons of creme fraîche  
+* Some Gruyère cheese  
 * Croutons  
 
 #### Preparation  
@@ -32,6 +33,7 @@
 3. Slice the carrot  
 4. Mince the garlic cloves  
 5. Peel and seed the tomatoes  
+6. Grate Gruyère cheese  
 
 
 #### Directions  
