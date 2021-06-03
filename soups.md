@@ -44,6 +44,8 @@
 
 [Mushroom Soup](https://github.com/vmsmith/CookBook/blob/master/soup_mushroom.md)
 
+[Mussel Soup](https://github.com/vmsmith/CookBook/blob/master/soup_mussel.md)
+
 [Onion Soup, Classic](https://github.com/vmsmith/CookBook/blob/master/soup_onion.md)  
 
 [Onion Soup à la Pied de Cochon]() - Patricia Wells, p. 18  
