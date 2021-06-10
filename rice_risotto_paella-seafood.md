@@ -8,10 +8,7 @@
 
 ### Seafood Paella  
 
-Classic seafood paella doesn't have much in the way of vegetable in it, usually it's served with either a cooked vegetable, or more often, a salad on the side, so if you're planning you meal, you may want to buy some salad ingredients to have ready to accompany the paella.
-
-**Equipment:** 1 pot big enough to make the stock in - keeping in mind fish, vegetables, and 2 liters of water; and 1 wide flat frying pan/skillet for making the paella in - cast iron would be ideal, but don't run out and buy one if you don't have it, a regular one will work, we'll just be more careful about the heat under the pan. A ladle for the stock, and a spatula for stirring.
-
+Classic seafood paella doesn't have much in the way of vegetable in it, usually it's served with either a cooked vegetable, or more often, a salad on the side.  
 
 #### Ingredients  
 
