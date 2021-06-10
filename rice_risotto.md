@@ -14,7 +14,9 @@
 
 [Mediterranean Rice](https://github.com/vmsmith/CookBook/blob/master/rice_mediterranean.md)
 
-[Paella](https://github.com/vmsmith/CookBook/blob/master/rice_risotto_paella.md)  
+[Paella - Chicken and Rabbit](https://github.com/vmsmith/CookBook/blob/master/rice_risotto_paella.md)  
+
+[Paella - Seafood]()
 
 #### Risotto  
 
