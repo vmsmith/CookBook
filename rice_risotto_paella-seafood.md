@@ -23,6 +23,12 @@ Classic seafood paella doesn't have much in the way of vegetable in it, usually 
 
 #### Preparation  
 
+1. Shell and devein the prawns  
+2. Cut the squid  
+3. Cut the fish in two    
+4. Mash the tomato  
+5. Garlic . . . ? 
+
 
 #### Directions  
 
