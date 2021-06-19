@@ -8,7 +8,7 @@
 
 ### Spanish Fish Stock  
 
-[Seafood Paelle](https://github.com/vmsmith/CookBook/blob/master/rice_risotto_paella-seafood.md)  
+[Seafood Paella](https://github.com/vmsmith/CookBook/blob/master/rice_risotto_paella-seafood.md)  
 
 #### Ingredients  
 
