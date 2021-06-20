@@ -26,10 +26,18 @@ Classic seafood paella doesn't have much in the way of vegetable in it, usually 
 1. Shell and devein the prawns  
 2. Cut the squid  
 3. Cut the fish in two    
-4. Mash the tomato  
-5. Garlic . . . ? 
+4. Purée the tomato  
+5. Chop the garlic 
 
 
 #### Directions  
+
+1. Heat some olive oil, then—one at a time—lightly sautée the shrimp, calamari, and fish & remove  
+2. Create a sofrito by combining tomato purée, garlic, and paprika in pan, and reduce to a slurry  
+3. Add the stock and saffron, turn up heat to high  
+4. Add the rice **evenly** around the stock, and season with salt  
+5. Boil the mixture down until the rice is just showing  
+6. Reduce the heat to low, and add the protein and peas  
+7. Simmer until the broth has evaporated and you hear a crackling 
 
 
