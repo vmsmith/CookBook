@@ -7,6 +7,7 @@
 [Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)  
 
 ### Red Wine Sauce  
+Goes with beef or [lamb](https://github.com/vmsmith/CookBook/blob/master/lamb_hachis_parmentier.md) *hachis parmentier*
 
 #### Ingredients  
 
