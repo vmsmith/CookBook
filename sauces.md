@@ -38,6 +38,8 @@ Mother Sauces - [Web site](https://www.thespruceeats.com/mother-sauces-996119)
 
 [Ranch Dressing](https://github.com/vmsmith/CookBook/blob/master/sauce_ranch_dressing.md)
 
+[Red Wine Sauce]()  
+
 [Rouille (garlic mayonnaise for fish soups)](https://github.com/vmsmith/CookBook/blob/master/sauce_rouille.md) 
 
 [Smitane Sauce](https://github.com/vmsmith/CookBook/blob/master/sauce_smitane.md)  
