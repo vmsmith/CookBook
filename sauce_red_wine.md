@@ -10,11 +10,32 @@
 
 #### Ingredients  
 
+* 1 green bell pepper, cut into small pieces  
+* 1 small yellow onion, chopped   
+* 1 clove of crushed garlic, chopped  
+* 10 cherry tomatos  
+* 6 medium white mushrooms, sliced thinly    
+* 1 cup of red wine  
+* 1 cup of water  
+* 1.5 teaspoons of salt  
+* 1.5 teaspoons of pepper  
+* Herbes de Provence  
+* 1 pat of butter  
+* Olive oil  
 
 #### Preparation  
 
+1. Chop onion  
+2. Chop pepper  
+3. Chop garlic  
 
 #### Directions  
 
-For the wine sauce, cut up the onion and put it in a small saucepan with olive oil. Add the crushed garlic. Cook the onions until golden brown. Then cut the green pepper into small pieces and the mushrooms into thin slices, add them to the small pan and cook on medium heat for 5 minutes. Add the cherry tomatoes, 1 glass of red wine, and a glass of water. Add salt, pepper and herbes de Provence to taste. Bring to boil and simmer for 10-15 minutes. Finally, place a pat of butter on top of the sauce.
+1. Heat the chopped onion in olive oil until golden brown    
+2. Add the garlic  
+3. Add the peppers and mushrooms and cook for five minutes  
+4. Add the cherry tomatoes, wine, and water, along with herbes de Provence  
+5. Bring to a boil and simmer for 5 - 10 minutes  
+6. Salt and pepper to taste  
+7. Add a pat of butter on top of the sauce  
 
