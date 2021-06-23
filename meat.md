@@ -19,7 +19,8 @@
 * [Lamb Stew, Basque #1](https://github.com/vmsmith/CookBook/blob/master/lamb_stew_basque_1.md)  
 * [Lamb Stew, Basque #2](https://github.com/vmsmith/CookBook/blob/master/lamb_stew_basque_2.md) 
 * [Shepherd's Pie](https://github.com/vmsmith/CookBook/blob/master/lamb_shepherds_pie.md)  
-* [Lamb Bolognese](https://github.com/vmsmith/CookBook/blob/master/lamb_bolognese.md)    
+* [Lamb Bolognese](https://github.com/vmsmith/CookBook/blob/master/lamb_bolognese.md)   
+* [Lamb *Hachis Parmentier*](https://github.com/vmsmith/CookBook/blob/master/lamb_hachis_parmentier.md)   
 
 #### Pork  
 
