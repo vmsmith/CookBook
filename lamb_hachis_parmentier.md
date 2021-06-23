@@ -27,7 +27,7 @@
 2. Chop the onion  
 3. Chop the garlic  
 4. Grate cheese  
-5. Make red wine sauce  
+5. Make [red wine sauce](https://github.com/vmsmith/CookBook/blob/master/sauce_red_wine.md)    
 
 #### Directions  
 
@@ -39,7 +39,7 @@
 6. Place the mashed potatoes on top and spread evenly on top of the layer of meat  
 7. Add the grated cheese evenly over it  
 8. Place in the oven on broil and brown for 3-5 minutes  
-9. Serve with [red wine sauce]()  
+9. Serve with red wine sauce  
 
 
 
