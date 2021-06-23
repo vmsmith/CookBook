@@ -1,10 +1,10 @@
-[Cook Book]()  
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)  
 
-[Stocks and Sauces]()  
+[Stocks and Sauces](https://github.com/vmsmith/CookBook/blob/master/stocks_sauces.md)  
 
 -----  
 
-[Notes]()  
+[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)  
 
 ### Red Wine Sauce  
 
