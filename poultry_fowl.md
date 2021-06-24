@@ -34,7 +34,7 @@
 
 #### Chicken Legs  
 
-[Roasted Legs](https://github.com/vmsmith/CookBook/blob/master/chicken_legs_baked.md)  
+[Baked Legs](https://github.com/vmsmith/CookBook/blob/master/chicken_legs_baked.md)  
 
 [Chicken Thighs Confit](https://github.com/vmsmith/CookBook/blob/master/chicken_thighs_confit.md)  
 
