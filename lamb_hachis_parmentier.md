@@ -8,6 +8,8 @@
 
 ### Lamb *Hachis Parmentier*  
 
+[Hachis Parmentier](https://www.frenchtoday.com/blog/french-food-wine/hachis-parmentier-recipe/)  
+
 #### Ingredients  
 * 1 pound of ground lamb   
 * 140 grams of tomato paste   
