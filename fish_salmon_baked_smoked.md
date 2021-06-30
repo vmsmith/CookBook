@@ -31,3 +31,5 @@
 4. Refrigerate overnight  
 5. Put some sliced lemon and capers on it  
 6. Serve surrounded by hard boiled eggs, cucumber slices, red onion slices, avacado, bread, fresh dill  
+
+![Cold Baked Smoked Salmon](https://github.com/vmsmith/CookBook/blob/master/graphics/cold_baked_smoked_salmon.png)
