@@ -34,7 +34,9 @@ Mother Sauces - [Web site](https://www.thespruceeats.com/mother-sauces-996119)
 
 [Pesto, White](https://github.com/vmsmith/CookBook/blob/master/sauce_pesto_white.md)
 
-[Piperade](https://github.com/vmsmith/CookBook/blob/master/sauce_piperade.md)
+[Piperade](https://github.com/vmsmith/CookBook/blob/master/sauce_piperade.md)  
+
+[Puttanesca Sauce](https://github.com/vmsmith/CookBook/blob/master/sauce_puttanesca.md)  
 
 [Ranch Dressing](https://github.com/vmsmith/CookBook/blob/master/sauce_ranch_dressing.md)
 
