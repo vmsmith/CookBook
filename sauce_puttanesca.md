@@ -24,10 +24,20 @@
 
 #### Preparation  
 
-
+1. Slice garlic  
+2. Chop basil  
+3. Zest lemon  
 
 #### Directions  
 
-Warm oil in a large pot over medium heat. Add garlic and anchovies; cook until garlic is lightly golden and anchovies melt into the oil, 3-4 minutes. Add tomato paste and cook, stirring, for 1 minute. Add tomatoes and crush them with a fork or wooden spoon. Season to taste with salt and pepper. Raise heat to medium-high and cook, stirring occasionally, until tomatoes break down and mixture becomes saucy, about 10 minutes.
-Stir in olives, capers, basil, and red pepper flakes, reduce heat to low, and simmer, stirring occasionally, until it thickens, about 30 minutes.
-Remove from heat and stir in lemon zest. Season again with salt and pepper to taste. Note: When cooking pasta, reserve some of the water to thin out the puttanesca as needed before serving.
+1. Warm oil in a large pot over medium heat and add garlic and anchovies   
+2. Cook until garlic is lightly golden and anchovies melt into the oil, 3-4 minutes    
+3. Add tomato paste and cook, stirring, for 1 minute   
+4. Add tomatoes and crush them with a fork or wooden spoon    
+5. Season to taste with salt and pepper   
+6. Raise heat to medium-high and cook, stirring occasionally, until tomatoes break down and mixture becomes saucy, about 10 minutes    
+7. Stir in olives, capers, basil, and red pepper flakes, reduce heat to low, and simmer, stirring occasionally, until it thickens, about 30 minutes  
+8. Remove from heat and stir in lemon zest  
+9. Season again with salt and pepper to taste  
+
+**Note:**  When cooking pasta, reserve some of the water to thin out the puttanesca as needed before serving.
