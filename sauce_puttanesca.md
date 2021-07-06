@@ -7,6 +7,7 @@
 [Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)  
 
 ### Puttanesca Sauce  
+[Puttanesca: The Sordid Story](https://www.thrillist.com/eat/nation/the-sordid-story-of-puttanesca-the-prostitute-pasta-sauce)  
 
 #### Ingredients  
 
