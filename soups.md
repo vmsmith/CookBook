@@ -52,6 +52,8 @@
 
 [Roasted Red Pepper Soup](https://github.com/vmsmith/CookBook/blob/master/soup_pepper_red.md)  
 
+[Fresh Pea Soup](https://github.com/vmsmith/CookBook/blob/master/soup_pea_fresh.md)  
+
 [Split Pea Soup](https://github.com/vmsmith/CookBook/blob/master/soup_split_pea.md)   
 
 [Potato and Fennel Soup](https://github.com/vmsmith/CookBook/blob/master/soup_potato_fennel.md)  
