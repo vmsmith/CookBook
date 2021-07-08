@@ -4,7 +4,15 @@
 
 [Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)  
 
-### Stocks and Sauces    
+### Stocks  
+
+[Fish Stock](https://github.com/vmsmith/CookBook/blob/master/stock_fish.md)  
+
+[Fish Stock - Spanish](https://github.com/vmsmith/CookBook/blob/master/stock_fish_spanish.md)  
+
+[Vegetable Stock](https://github.com/vmsmith/CookBook/blob/master/stock_vegetable.md)  
+
+### Sauces  
 
 Mother Sauces - [Web site](https://www.thespruceeats.com/mother-sauces-996119)  
   * [Béchamel Sauce](https://github.com/vmsmith/CookBook/blob/master/sauce_bechamel.md)  
@@ -21,10 +29,6 @@ Mother Sauces - [Web site](https://www.thespruceeats.com/mother-sauces-996119)
 [Brandy, Mushroom, and Cream Sauce](https://github.com/vmsmith/CookBook/blob/master/sauce_brandy-mushroom-cream.md)  
 
 [Cocktail Sauce, Shrimp](https://github.com/vmsmith/CookBook/blob/master/sauce_cocktail_shrimp.md)    
-
-[Fish Stock](https://github.com/vmsmith/CookBook/blob/master/stock_fish.md)  
-
-[Fish Stock - Spanish](https://github.com/vmsmith/CookBook/blob/master/stock_fish_spanish.md)  
 
 [Green Sauce (Bechamel)](https://github.com/vmsmith/CookBook/blob/master/sauce_green_milk.md)
 
@@ -52,5 +56,4 @@ Mother Sauces - [Web site](https://www.thespruceeats.com/mother-sauces-996119)
 
 [Tomato Sauce (Marcella Hazan)](https://github.com/vmsmith/CookBook/blob/master/sauce_tomato.md)  
 
-[Vegetable Stock](https://github.com/vmsmith/CookBook/blob/master/stock_vegetable.md)  
 
