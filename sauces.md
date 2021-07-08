@@ -20,6 +20,8 @@ Mother Sauces - [Web site](https://www.thespruceeats.com/mother-sauces-996119)
 
 [Brandy, Mushroom, and Cream Sauce](https://github.com/vmsmith/CookBook/blob/master/sauce_brandy-mushroom-cream.md)  
 
+[Cocktail Sauce, Shrimp]()  
+
 [Fish Stock](https://github.com/vmsmith/CookBook/blob/master/stock_fish.md)  
 
 [Fish Stock - Spanish](https://github.com/vmsmith/CookBook/blob/master/stock_fish_spanish.md)  
