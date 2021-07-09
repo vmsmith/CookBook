@@ -1,7 +1,5 @@
 [Everyday Things - README](https://github.com/vmsmith/EDT/blob/master/README.md)
 
-[Personal Stuff - README](https://github.com/vmsmith/things/blob/master/README.md)
-
 -----  
 #### Blogs    
 
