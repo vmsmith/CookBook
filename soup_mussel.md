@@ -10,7 +10,8 @@
 
 #### Ingredients  
 
-* 2 1/2 kilos of fresh mussels or 2 small bowls of frozen mussels
+* 2 1/2 kilos of fresh mussels or 2 small bowls of frozen mussels  
+* 1 1/2 liters of water (6 1/3 cups)  
 * 1 medium onion, chopped  
 * 2 large shallots, chopped    
 * 1 large carrot  
