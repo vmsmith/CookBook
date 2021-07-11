@@ -13,7 +13,7 @@ Classic seafood paella doesn't have much in the way of vegetable in it, usually 
 #### Ingredients  
 * 2/3 cup of arroz bomba   
 * 2 cups of [spanish seafood stock](https://github.com/vmsmith/CookBook/blob/master/stock_fish_spanish.md)    
-* Seafood:  
+* Seafood - some combination of:
   * 6 or so large whole prawns  
   * 2 small squid  
   * 1 white fish fillet (enough to cut in two, one for each portion)    
