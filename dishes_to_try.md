@@ -1,6 +1,7 @@
 [Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)  
 
 #### Things to try  
+* [Hachis Parmentier de Canard](https://mesmeilleuresrecettesfaciles.over-blog.com/2021/05/hachis-parmentier-de-canard.html)  
 * [Confit of Duck & Lentil Salad](https://www.youtube.com/watch?v=NF4-t8EwVMQ)  
 * [Pork Chops with Creamy Peas and Tomatoes](https://github.com/vmsmith/CookBook/blob/master/dishes_to_try_pork-chops-peas-tomatoes.md)  
 * [Jugged Hare](https://www.greatbritishchefs.com/recipes/classic-jugged-hare-recipe)  
