@@ -34,6 +34,8 @@ Mother Sauces - [Web site](https://www.thespruceeats.com/mother-sauces-996119)
 
 [Green Sauce (Olive Oil)](https://github.com/vmsmith/CookBook/blob/master/sauce_green_oliveoil.md)  
 
+[Lemon Cream Sauce with Capers and Shallots](https://github.com/vmsmith/CookBook/blob/master/sauce_lemon-cream.md)
+
 [Pesto, Green (Basil)](https://github.com/vmsmith/CookBook/blob/master/sauce_pesto_green.md)  
 
 [Pesto, Red](https://github.com/vmsmith/CookBook/blob/master/sauce_pesto_red.md)  
