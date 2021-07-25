@@ -11,11 +11,11 @@ Serve on pasta or fish (salmon)
 
 #### Ingredients  
 
-* Butter  
-* Shallots, chopped  
-* Capers  
-* Lemon juice (half a lemon)  
-* Heavy cream  
+* 1 Tbsp of butter  
+* 1 shallot, finely chopped  
+* 2 Tbsp of drained capers  
+* Lemon juice (1 fresh lemon)    
+* 1/4 cup of heavy cream  
 * Parsely, chopped  
 
 
@@ -30,6 +30,6 @@ Serve on pasta or fish (salmon)
 2. Sauté the shallots and capers in it  
 3. Add the lemon juice, and cook it down  
 4. Add the cream  
-5. Stir in the parsely  
+5. Pour over pasta or fish, and sprinkle with parsely  
 
 
