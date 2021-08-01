@@ -12,7 +12,8 @@
   <tr><td>Fruit</td><td></td><td></td><td></td></tr>
   <tr><td>Nuts</td><td></td><td></td><td></td></tr>
   <tr><td>Grains</td><td></td><td></td><td></td></tr>
-  <tr><td>Vegetables</td><td></td><td></td><td></td></tr>
+  <tr><td>Vegetables, green</td><td></td><td></td><td></td></tr>
+  <tr><td>Vegetables, root</td><td></td><td></td><td></td></tr>
   <tr><td>Tubers</td><td></td><td></td><td></td></tr>  
   <tr><td>Legumes</td><td></td><td></td><td></td></tr>
 </table>
