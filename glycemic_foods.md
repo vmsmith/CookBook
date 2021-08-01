@@ -8,7 +8,11 @@
 
 <table>
   <tr><th></th><th>Low</th><th>Medium</th><th>High</th></tr>
-  <tr><td></td><td></td><td></td><td></td></tr>
-  <tr><td></td><td></td><td></td><td></td></tr>
-  <tr><td></td><td></td><td></td><td></td></tr>
+  <tr><td>Dairy</td><td></td><td></td><td></td></tr>
+  <tr><td>Fruit</td><td></td><td></td><td></td></tr>
+  <tr><td>Nuts</td><td></td><td></td><td></td></tr>
+  <tr><td>Grains</td><td></td><td></td><td></td></tr>
+  <tr><td>Vegetables</td><td></td><td></td><td></td></tr>
+  <tr><td>Tubers</td><td></td><td></td><td></td></tr>  
+  <tr><td>Legumes</td><td></td><td></td><td></td></tr>
 </table>
