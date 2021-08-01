@@ -10,7 +10,7 @@
   <tr><th></th><th>Low</th><th>Medium Low</th><th>Medium High</th><th>High</th><th>?</th></tr>
   <tr><td><b>Dairy</td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><b>Fruit</td>
-    <td><ul><li>Plumbs<li>Pitted prunes<li>Cherries</td>
+    <td><ul><li>Plums<li>Pitted prunes<li>Cherries</td>
     <td><ul><li>Apples<li>Pears<li>Dried dates<li>Dried apricots<li>Grapes</td>
     <td><ul><li>Raisins<li>Canteloupe</ul></td>
     <td><ul><li>Ripe bananas<li>Watermelon</td>
