@@ -8,7 +8,7 @@
 
 <table>
   <tr><th></th><th>Low</th><th>Medium</th><th>High</th></tr>
-  <tr><td></td><td></td><td></td><td></td>/tr>
-  <tr><td></td><td></td><td></td><td></td>/tr>
-  <tr><td></td><td></td><td></td><td></td>/tr>
+  <tr><td></td><td></td><td></td><td></td></tr>
+  <tr><td></td><td></td><td></td><td></td></tr>
+  <tr><td></td><td></td><td></td><td></td></tr>
 </table>
