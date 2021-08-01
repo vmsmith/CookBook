@@ -9,7 +9,7 @@
 <table>
   <tr><th></th><th>Low</th><th>Medium</th><th>High</th><th>?</th></tr>
   <tr><td>Dairy</td><td></td><td></td><td></td><td></td></tr>
-  <tr><td>Fruit</td><td></td><td></td><td><ul><li>Grapes<li>Raisins<li>Watermelon</ul></td><td>Melon</td></tr>
+  <tr><td>Fruit</td><td></td><td></td><td><ul><li>Grapes<li>Raisins<li>Banana<li>Watermelon</ul></td><td>Melon</td></tr>
   <tr><td>Nuts</td><td></td><td></td><td></td><td></td></tr>
   <tr><td>Grains</td><td></td><td></td><td></td><td></td></tr>
   <tr><td>Vegetables, green</td><td></td><td></td><td></td><td></td></tr>
