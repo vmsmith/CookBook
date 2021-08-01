@@ -12,8 +12,8 @@
   <tr><td><b>Fruit</td>
     <td><ul><li>Plumbs<li>Pitted prunes<li>Cherries</td>
     <td><ul><li>Apples<li>Pears<li>Dried dates<li>Dried apricots<li>Grapes</td>
-    <td><ul><li>Raisins<li>Ripe bananas<li>Watermelon<li>Canteloupe</ul></td>
-    <td><ul></td>
+    <td><ul><li>Raisins<li>Canteloupe</ul></td>
+    <td><ul><li>Ripe bananas<li>Watermelon</td>
     <td></td></tr>
   <tr><td><b>Berries</td>
     <td><ul><li>Blackberries<li>Blueberries</td>
