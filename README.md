@@ -8,6 +8,8 @@
 
 #### [Ingredients](https://github.com/vmsmith/CookBook/blob/master/ingredients.md)   
 
+#### [Glycemic Foods Index](https://github.com/vmsmith/CookBook/blob/master/glycemic_foods.md)
+
 -----
 
 #### [Lunch Dishes - General](https://github.com/vmsmith/CookBook/blob/master/dishes_lunch.md)   
