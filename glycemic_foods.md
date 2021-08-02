@@ -30,7 +30,7 @@
     <td></td>
     <td></td></tr>
   <tr><td><b>Nuts and Seeds</td><td><ul><li>Almonds<li>Cashews<li>Hazelnuts<li>Peanuts<li>Seeds (Pumkpik, Sunflower, etc.)<li>Walnuts</td><td></td><td></td></tr>
-  <tr><td><b>Grains</td><td><ul><li>Barley</td><td></td><td></td></tr>
+  <tr><td><b>Grains</td><td><ul><li>Barley</td><td><ul><li>Rice, Basmati<li>Rice, white<li>Rice, wild</td><td></td></tr>
   <tr><td><b>Vegetables, green</td>
     <td><ul><li>Artichokes<li>Asparagus<li>Green beans<li>Brocolli<li>Brusells sprouts<li>Cabbage<li>Carrots<li>Cauliflower<li>Cucumber<li>Green beans<li>Carrots<li>Eggplant<li>Greens<li>Onions<li>Peas<li>Snow peas<li>Peppers (all)<li>Tomatoes<li>Squash, summer<li>Zucchini</td>
     <td><ul><li>Beets<li>Parsnips</td>
