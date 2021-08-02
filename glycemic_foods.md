@@ -2,7 +2,15 @@
 
 -----  
 
-[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)  
+[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)   
+
+#### Glycemic Index   
+* Glucose = 100  
+* High > 70  
+* 69 > Medium > 56  
+* 55 > Low   
+
+#### Glycemic Load
 
 #### Glycemic Foods Table   
 
