@@ -21,9 +21,8 @@
   <tr><th></th><th>Low<br>0 - 55</th><th>Medium<br>56 - 69</th><th>High<br>70 - 100</th></tr>
   <tr><td><b>Dairy</td><td><ul><li>Goat milk</td><td></td><td></td><td></td></tr>
   <tr><td><b>Fruit</td>
-    <td><ul><li>Plums<li>Pitted prunes<li>Cherries</td>
-    <td><ul><li>Apples<li>Pears<li>Dried dates<li>Dried apricots<li>Grapes</td>
-    <td><ul><li>Raisins<li>Canteloupe</ul></td>
+    <td><ul><li>Apples<li>Dried apricots<li>Cherries<li>Pears<li>Plums<li>Pitted prunes</td>
+    <td><ul><li>Canteloupe<li>Dried dates<li><li>Grapes</td>
     <td><ul><li>Ripe bananas<li>Watermelon</td>
     </tr>
   <tr><td><b>Berries</td>
