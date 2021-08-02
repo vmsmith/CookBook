@@ -18,7 +18,7 @@
 #### Glycemic Foods Table   
 
 <table>
-  <tr><th></th><th>Low<br>0 - 55</th><th>Medium<br>56 - 69</th><th>High<br>70 - 100</th><th>?</th></tr>
+  <tr><th></th><th>Low<br>0 - 55</th><th>Medium<br>56 - 69</th><th>High<br>70 - 100</th></tr>
   <tr><td><b>Dairy</td><td><ul><li>Goat milk</td><td></td><td></td><td></td></tr>
   <tr><td><b>Fruit</td>
     <td><ul><li>Plums<li>Pitted prunes<li>Cherries</td>
