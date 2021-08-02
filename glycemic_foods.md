@@ -22,7 +22,7 @@
   <tr><td><b>Dairy</td><td><ul><li>Cheese<li>Milk (all)<li>Yogurt, plain</td><td></td><td></td></tr>
   <tr><td><b>Fruit</td>
     <td><ul><li>Apples<li>Apricots, dried<li>Cherries<li>Dates, dried<li>Pears<li>Peaches<li>Plums<li>Prunes, pitted</td>
-    <td><ul><li>Canteloupe<li><li>Grapes</td>
+    <td><ul></td>
     <td><ul><li>Ripe bananas<li>Watermelon</td>
     </tr>
   <tr><td><b>Berries</td>
@@ -32,8 +32,8 @@
   <tr><td><b>Nuts and Seeds</td><td><ul><li>Almonds<li>Cashews<li>Hazelnuts<li>Peanuts<li>Seeds (Pumkpik, Sunflower, etc.)<li>Walnuts</td><td></td><td></td></tr>
   <tr><td><b>Grains</td><td><ul><li>Barley</td><td></td><td></td></tr>
   <tr><td><b>Vegetables, green</td>
-    <td><ul><li>Artichokes<li>Green beans<li>Brocolli<li>Brusells sprouts<li>Cabbage<li>Carrots<li>Cauliflower<li>Cucumber<li>Green beans<li>Carrots<li>Eggplant<li>Greens<li>Onions<li>Parsnips<li>Peas<li>Snow peas<li>Peppers (all)<li>Tomatoes<li>Squash<li>Zucchini</td>
-    <td><ul><li>Beets</td>
+    <td><ul><li>Artichokes<li>Asparagus<li>Green beans<li>Brocolli<li>Brusells sprouts<li>Cabbage<li>Carrots<li>Cauliflower<li>Cucumber<li>Green beans<li>Carrots<li>Eggplant<li>Greens<li>Onions<li>Peas<li>Snow peas<li>Peppers (all)<li>Tomatoes<li>Squash, summer<li>Zucchini</td>
+    <td><ul><li>Beets<li>Parsnips</td>
     <td></td>
     <td></td></tr>
   <tr><td><b>Vegetables, root</td><td></td><td></td><td></td></tr>
