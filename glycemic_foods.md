@@ -5,6 +5,12 @@
 [Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)   
 
 #### Glycemic Index   
+
+<table>
+  <tr><th>High</th><th>Medium</th><th>Low</th></tr>
+   <tr><th>100 - 70</th><th>69 - 56</th><th>56 - 0</th></tr>
+</table>
+
 * Glucose = 100  
 * High > 70  
 * 69 > Medium > 56  
