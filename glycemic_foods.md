@@ -36,8 +36,8 @@
     <td><ul><li>Beets</td>
     <td></td>
     <td></td></tr>
-  <tr><td><b>Vegetables, root</td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><b>Tubers</td><td></td><td></td><td></td><td></td></tr>  
-  <tr><td><b>Legumes</td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><b>Misc</td><td><ul><li>Avocados</td><td><li>Corn chips</td><td></td><td></td></tr>
+  <tr><td><b>Vegetables, root</td><td></td><td></td><td></td></tr>
+  <tr><td><b>Tubers</td><td></td><td></td><td></td></tr>  
+  <tr><td><b>Legumes</td><td></td><td></td><td></td></tr>
+  <tr><td><b>Misc</td><td><ul><li>Avocados</td><td><li>Corn chips</td><td></td></tr>
 </table>
