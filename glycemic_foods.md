@@ -23,7 +23,7 @@
   <tr><td><b>Dairy</td><td><ul><li>Cheese<li>Milk (all)<li>Yogurt, plain</td><td></td><td></td></tr>
   
   <tr><td><b>Fruit</td>
-    <td><ul><li>Apples<li>Apricots, dried<li>Dates, dried<li>Pears<li>Peaches<li>Plums<li>Prunes, pitted</td>
+    <td><ul><li>Apples<li>Apricots, dried<li>Apricots, fresh<li>Dates, dried<li>Pears<li>Peaches<li>Plums<li>Prunes, pitted</td>
     <td><ul><li>Bananas, yellow<li>Cherries, fresh<li>Figs, dried<li>Figs, fresh<li>Grapes<li>Raisins</td>
     <td><ul><li>Ripe bananas<li>Watermelon</td>
     </tr>
