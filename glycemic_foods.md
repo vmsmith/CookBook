@@ -34,7 +34,12 @@
     <td></td></tr>
   <tr><td><b>Nuts</td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><b>Grains</td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><b>Vegetables, green</td><td></td><td></td><td></td><td><td></td></td></tr>
+  <tr><td><b>Vegetables, green</td>
+    <td><ul><li>Green peas (51/4)<li>Carrots (35/2)</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td></tr>
   <tr><td><b>Vegetables, root</td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><b>Tubers</td><td></td><td></td><td></td><td></td><td></td></tr>  
   <tr><td><b>Legumes</td><td></td><td></td><td></td><td></td><td></td></tr>
