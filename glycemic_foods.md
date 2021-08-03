@@ -40,7 +40,7 @@
   </tr>
   
   <tr><td><b>Nuts and Seeds</td>
-    <td><ul><li>Almonds<li>Cashews<li>Hazelnuts<li>Peanuts<li>Seeds (Pumkpik, Sunflower, etc.)<li>Walnuts</td>
+    <td><ul><li>Almonds<li>Cashews<li>Hazelnuts<li>Peanuts<li>Seeds (Pumpkin, Sunflower, etc.)<li>Walnuts</td>
     <td></td>
     <td></td>
   </tr>
