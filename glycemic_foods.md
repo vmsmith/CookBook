@@ -47,26 +47,24 @@
   
   <tr><td><b>Grains</td>
     <td><ul><li>Barley</td>
-    <td><ul><li>Bread, pumperkickle<li>Bread, rye<li>Oat bran<li>Pasta, regular<li>Rice, Basmati<li>Rice, white<li>Rice, wild</td>
+    <td><ul><li>Bread, pumperkickle<li>Bread, rye<li>Oatmeal<li>Pasta, regular<li>Rice, Basmati<li>Rice, white<li>Rice, wild</td>
     <td><ul><li>Baguette<li>Bread, white<li>Bread, whole wheat<li>Couscous<li>Cornmeal<li>Croissant<li>Noodles, rice<li>Pita<li>Pizza</td>
   </tr>
   
   <tr><td><b>Vegetables, green</td>
-    <td><ul><li>Artichokes<li>Asparagus<li>Green beans<li>Brocolli<li>Brusells sprouts<li>Cabbage<li>Cauliflower<li>Cucumber<li>Green beans<li>Carrots<li>Eggplant<li>Greens<li>Onions<li>Peas<li>Snow peas<li>Peppers (all)<li>Tomatoes<li>Squash, summer<li>Zucchini</td>
+    <td><ul><li>Artichokes<li>Asparagus<li>Beans, green<li>Brocolli<li>Brusells sprouts<li>Cabbage<li>Cauliflower<li>Cucumber<li>Green beans<li>Carrots<li>Eggplant<li>Greens<li>Onions<li>Peas<li>Snow peas<li>Peppers (all)<li>Tomatoes<li>Squash, summer<li>Zucchini</td>
+    <td><ul><li>Beans, fava</td>
     <td><ul></td>
-    <td><ul><li>Beets<li>Broad beans<li>Carrots<li>Parsnips</td>
     <td></td></tr>
   
   <tr><td><b>Vegetables, root</td>
     <td></td>
-    <td><ul><li>Potatoes, boiled<li>Potatoes, mashed</td>
+    <td><ul><li>Beets<li>Carrots<li>Parsnips<li>Potatoes, boiled<li>Potatoes, mashed</td>
     <td></td>
   </tr>
   
-  <tr><td><b>Tubers</td><td></td><td></td><td></td></tr>  
-  
   <tr><td><b>Legumes</td>
-    <td><ul><li>Beans (Tarbais, Chickpeas, etc.)<li>Hummus<li>Lentils<li>Peas, split</td>
+    <td><ul><li>Beans (Tarbais, Chickpeas, Red kidney etc.)<li>Hummus<li>Lentils<li>Peas, snap<li>Peas, split</td>
     <td><ul><li>Beans, baked</td>
     <td></td>
   </tr>
