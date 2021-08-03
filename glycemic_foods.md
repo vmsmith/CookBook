@@ -69,5 +69,5 @@
     <td></td>
   </tr>
   
-  <tr><td><b>Misc</td><td><ul><li>Avocados</td><td><li>Corn chips<li>Ice cream</td><td><li>Pretzels</td></tr>
+  <tr><td><b>Misc</td><td><ul><li>Avocados</td><td><ul><li>Corn chips<li>Ice cream</td><td><ul><li>Pretzels</td></tr>
 </table>
