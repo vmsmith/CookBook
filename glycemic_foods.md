@@ -57,11 +57,19 @@
     <td><ul><li>Beets<li>Broad beans<li>Carrots<li>Parsnips</td>
     <td></td></tr>
   
-  <tr><td><b>Vegetables, root</td><td></td><td></td><td></td></tr>
+  <tr><td><b>Vegetables, root</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
   
   <tr><td><b>Tubers</td><td></td><td></td><td></td></tr>  
   
-  <tr><td><b>Legumes</td><td><ul><li>Beans (Tarbais, Chickpeas, etc.)<li>Hummus<li>Lentils<li>Peas, split</td><td></td><td></td></tr>
+  <tr><td><b>Legumes</td>
+    <td><ul><li>Beans (Tarbais, Chickpeas, etc.)<li>Hummus<li>Lentils<li>Peas, split</td>
+    <td></td>
+    <td></td>
+  </tr>
   
   <tr><td><b>Misc</td><td><ul><li>Avocados</td><td><li>Corn chips</td><td><li>Pretzels</td></tr>
 </table>
