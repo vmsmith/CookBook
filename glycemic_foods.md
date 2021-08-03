@@ -64,7 +64,7 @@
   </tr>
   
   <tr><td><b>Legumes</td>
-    <td><ul><li>Beans<br>(Tarbais, Chickpeas, Red kidney etc.)<li>Hummus<li>Lentils<li>Peas, snap<li>Peas, split</td>
+    <td><ul><li>Beans<br>(Tarbais, Chickpeas,<br>Red kidney etc.)<li>Hummus<li>Lentils<li>Peas, snap<li>Peas, split</td>
     <td><ul><li>Beans, baked</td>
     <td></td>
   </tr>
