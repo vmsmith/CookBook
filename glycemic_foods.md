@@ -28,8 +28,8 @@
   </tr>
   
   <tr><td><b>Fruit</td>
-    <td><ul><li>Apples<li>Apricots, dried<li>Apricots, fresh<li>Dates, dried<li>Pears<li>Peaches<li>Plums<li>Prunes, pitted</td>
-    <td><ul><li>Bananas, yellow<li>Canteloupe<li>Cherries, fresh<li>Figs, dried<li>Figs, fresh<li>Grapes<li>Raisins</td>
+    <td><ul><li>Apples<li>Apricots, dried<li>Apricots, fresh<li>Dates, dried<li>Pears<li>Plums<li>Prunes, pitted</td>
+    <td><ul><li>Bananas, yellow<li>Canteloupe<li>Cherries, fresh<li>Figs, dried<li>Figs, fresh<li>Grapes<li>Kiwis<li>Mangos<li>Oranges<li>Peaches<li>Raisins<li>Sultanas</td>
     <td><ul><li>Bananas, ripe<li>Pineapple<li>Watermelon</td>
     </tr>
   
@@ -59,7 +59,7 @@
   
   <tr><td><b>Vegetables, root</td>
     <td></td>
-    <td></td>
+    <td><ul><li>Potatoes, boiled<li>Potatoes, mashed</td>
     <td></td>
   </tr>
   
@@ -67,7 +67,7 @@
   
   <tr><td><b>Legumes</td>
     <td><ul><li>Beans (Tarbais, Chickpeas, etc.)<li>Hummus<li>Lentils<li>Peas, split</td>
-    <td></td>
+    <td><ul><li>Beans, baked</td>
     <td></td>
   </tr>
   
