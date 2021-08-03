@@ -47,7 +47,7 @@
   
   <tr><td><b>Grains</td>
     <td><ul><li>Barley</td>
-    <td><ul><li>Bread, pumperkickle<li>Bread, rye<li>Rice, Basmati<li>Rice, white<li>Rice, wild</td>
+    <td><ul><li>Bread, pumperkickle<li>Bread, rye<li>Oat bran<li>Pasta, regular<li>Rice, Basmati<li>Rice, white<li>Rice, wild</td>
     <td><ul><li>Baguette<li>Bread, white<li>Bread, whole wheat<li>Couscous<li>Cornmeal<li>Croissant<li>Noodles, rice<li>Pita<li>Pizza</td>
   </tr>
   
@@ -71,5 +71,5 @@
     <td></td>
   </tr>
   
-  <tr><td><b>Misc</td><td><ul><li>Avocados</td><td><li>Corn chips</td><td><li>Pretzels</td></tr>
+  <tr><td><b>Misc</td><td><ul><li>Avocados</td><td><li>Corn chips<li>Ice cream</td><td><li>Pretzels</td></tr>
 </table>
