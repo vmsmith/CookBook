@@ -24,3 +24,11 @@
 
 #### Uses  
 
+1. [Green sauce](https://github.com/vmsmith/CookBook/blob/master/sauce_green_oliveoil.md) à la Alice Waters (with olive oil) for fish and chicken.  
+
+2. [Green sauce](https://github.com/vmsmith/CookBook/blob/master/sauce_green_milk.md) à la Kitchen Bazaar (with milk) for shrimp.
+
+3. Addition to mayonnaise, scrambled eggs.
+
+4. Garnish
+
