@@ -38,8 +38,6 @@
 
 #### [Eggs](https://github.com/vmsmith/CookBook/blob/master/eggs.md)
 
-#### [Fish and Shellfish](https://github.com/vmsmith/CookBook/blob/master/fish_shellfish.md)
-
 #### [Fruits](https://github.com/vmsmith/CookBook/blob/master/fruits.md)
 
 #### [Meat](https://github.com/vmsmith/CookBook/blob/master/meat.md)  
@@ -59,6 +57,8 @@
 #### [Salads](https://github.com/vmsmith/CookBook/blob/master/salads.md)  
 
 #### [Sandwiches](https://github.com/vmsmith/CookBook/blob/master/sandwiches.md)  
+
+#### [Seafood](https://github.com/vmsmith/CookBook/blob/master/fish_shellfish.md)
 
 #### [Soups](https://github.com/vmsmith/CookBook/blob/master/soups.md)  
 
