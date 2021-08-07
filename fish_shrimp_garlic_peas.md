@@ -12,6 +12,7 @@
 
 * 1/2 pound of shrimp after peeling and deveining  
 * 1/2 pound fresh English peas  
+* Shrimp broth  
 * 2 - 3 garlic cloves, minced
 * 1 tablespoons extra-virgin olive oil
 * Red chili flakes, to taste
