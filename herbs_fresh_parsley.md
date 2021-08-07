@@ -10,9 +10,17 @@
 
 #### Keeping Fresh  
 
+1. Trim the stems slightly, and without washing place the bundle in a container filled with about 1 inch of water.  
+2. Cover the container loosely with a plastic bag and store in the refrigerator.  
+3. Change the water every couple of days or when it looks murky.  
+4. Rinse the stems and leaves as needed and pat dry in paper towels.
 
 #### Keeping Frozen  
 
+1. Wash and dry the leaves and place them in ice cube trays.  
+2. Cover gently with water or olive oil.  
+3. Once it’s frozen store in freezer containers.  
+4. This is great for use in soups or sauces, but not suitable for garnish as the leaves will turn limp.  
 
 #### Uses  
 
