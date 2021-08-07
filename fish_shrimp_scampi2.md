@@ -1,12 +1,13 @@
 [Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)  
 
-[Seafood]()  
+[Seafood](https://github.com/vmsmith/CookBook/blob/master/fish_shellfish.md)    
 
 -----  
 
 [Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)  
 
 ### Shrimp Scampi  
+[Nerds with Knives](https://nerdswithknives.com/the-most-delicious-garlic-butter-shrimp-scampi/)  
 
 #### Ingredients  
 * 1 - 1 1/2 pounds extra-large (U 26/30) shrimp, peeled and deveined  
