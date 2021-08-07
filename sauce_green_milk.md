@@ -14,7 +14,7 @@
 * 1/2 cup of dry white wine (reduced)  
 * 1 1/4 cups of fish broth or clam juice  
 * 1/4 cup of whole milk (or add a bit of cream)  
-* 1 cup of very finely minced parsley  
+* 1 cup of very finely minced [fresh parsley](https://github.com/vmsmith/CookBook/blob/master/herbs_fresh_parsley.md)    
 * Salt and pepper  
 
 #### Preparation
