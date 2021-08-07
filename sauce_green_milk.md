@@ -3,7 +3,7 @@
 [Stocks and Sauces](https://github.com/vmsmith/CookBook/blob/master/sauces.md)
 
 ### Green Sauce  
-* Adriana's Bizarre, NYC
+* Adriana's Bazaar, NYC
 
 #### Ingredients
 
