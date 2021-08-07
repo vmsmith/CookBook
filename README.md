@@ -40,6 +40,8 @@
 
 #### [Fruits](https://github.com/vmsmith/CookBook/blob/master/fruits.md)
 
+#### [Herbs, Fresh](https://github.com/vmsmith/CookBook/blob/master/herbs_fresh.md)
+
 #### [Meat](https://github.com/vmsmith/CookBook/blob/master/meat.md)  
 
 #### [Mis en Place](https://github.com/vmsmith/CookBook/blob/master/mis_en_place.md)
