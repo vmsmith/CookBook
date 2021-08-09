@@ -1,6 +1,6 @@
 [Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)  
 
-[Rice](https://github.com/vmsmith/CookBook/blob/master/rice_risotto.md)  
+[Rice](https://github.com/vmsmith/CookBook/blob/master/rice_risotto.md), [Vegetables](https://github.com/vmsmith/CookBook/blob/master/vegetables.md)  
 
 -----  
 
