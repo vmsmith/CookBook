@@ -8,18 +8,25 @@
 
 ### Sweet Pea Pilaf  
 
-#### Ingredients  
+#### Ingredients   
+* 1 part rice  
+* 2 1/2 parts hot, salted water  
+* 1 part medium onions sliced thin      
+* 1/2 part fresh or frozen green peas    
+* Ghee  
+* Kosher salt  
+* Herbs  
 
 #### Preparation  
-
+1. Slice onion  
+2. Shell peas  
 
 #### Directions  
 
-1. Heat oil in a medium saucepan over medium-high heat until shimmering.  
-2. Add cloves and cinnamon and cook until fragrant, about 20 seconds. 
-3. Add chillies and onions and cook, stirring frequently, until golden brown, 6 to 8 minutes. 
-4. Add rice and cook, stirring frequently, until nutty, about 2 minutes. 
-5. Add peas and cumin powder and cook, stirring constantly, for 1 minute longer. 
-6. Add water and salt, bring to a boil, and reduce to lowest heat setting. 
-7. Cover with lid and allow to cook until all the water is absorbed, about 10 to 12 minutes.
+1. Heat ghee in a medium saucepan over medium-high heat until shimmering  
+2. Add onions and cook 6 - 8 minutes  
+3. Add rice and cook, stirring frequently, until nutty, about 2 minutes   
+6. Add peas and stir constantly, for 1 minute longer  
+7. Add salted water, bring to a boil, and reduce to lowest heat setting  
+8. Cover with lid and allow to cook until all the water is absorbed, about 10 to 12 minutes  
 
