@@ -61,7 +61,9 @@ Mushrooms
 
 [Snow Peas Mediterranean Style](https://github.com/vmsmith/CookBook/blob/master/veg_snow-peas-mediterranean.md)  
 
-[Snow Peas with Shiitake Mushrooms](https://github.com/vmsmith/CookBook/blob/master/veg_snow-peas_mushrooms.md)
+[Snow Peas with Shiitake Mushrooms](https://github.com/vmsmith/CookBook/blob/master/veg_snow-peas_mushrooms.md)  
+
+[Sweet Pea Pilaf](https://github.com/vmsmith/CookBook/blob/master/rice_risotto_sweet-pea_pilaf.md)  
 
 [Spinach, Sautéed with Garlic](https://github.com/vmsmith/CookBook/blob/master/veg_spinach_sauteed_garlic.md)    
 
