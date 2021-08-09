@@ -16,7 +16,9 @@
 
 [Paella - Chicken and Rabbit](https://github.com/vmsmith/CookBook/blob/master/rice_risotto_paella.md)  
 
-[Paella - Seafood](https://github.com/vmsmith/CookBook/blob/master/rice_risotto_paella-seafood.md)
+[Paella - Seafood](https://github.com/vmsmith/CookBook/blob/master/rice_risotto_paella-seafood.md)  
+
+[Sweet Pea Pilaf](https://github.com/vmsmith/CookBook/blob/master/rice_risotto_sweet-pea_pilaf.md)  
 
 #### Risotto  
 
