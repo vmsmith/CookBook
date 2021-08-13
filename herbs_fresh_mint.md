@@ -37,3 +37,8 @@ Baking Sheet Method:
 
 #### Using  
 
+Mint sauce:  
+* Green colored herb sauce made from mint leaves, sugar and vinegar.   
+* Common sauce applied as a marinade to poultry, fish or meat, most notably lamb.  
+* Can also be used as an ingredient for dips that combine the sauce with mayonnaise and yogurt or as a means to enhance the flavors of potatoes and vegetables.    
+
