@@ -32,6 +32,8 @@
 
 [Chicken Veronique](https://www.tasteofhome.com/recipes/chicken-veronique/)  
 
+[Supremes de Volaille aux Champignons - Julia Child](https://github.com/vmsmith/CookBook/blob/master/chicken_volaille.md)
+
 #### Chicken Legs  
 
 [Baked Legs](https://github.com/vmsmith/CookBook/blob/master/chicken_legs_baked.md)  
