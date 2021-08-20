@@ -14,7 +14,10 @@
 * 1/2 tablespoon of minced shallot  
 * 2 1/2 tablespoons of butter  
 * 1/4 teaspoon of lemon juice  
-
+* 1/8 of a cup of chicken stock  
+* 1/8 of a cup of Madeira wine or dry white vermouth  
+* 1/2 cup of whipping cream  
+* Freshly minced parsley  
 
 #### Preparation   
 
