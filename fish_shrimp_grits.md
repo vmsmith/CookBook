@@ -8,6 +8,8 @@
 
 #### Shrimp and Grits  
 
+*Note:* Last time at Kevin and Holly's there were way too many grits . . . way too much cheese in the grits ... and forgot the scallions. Adjust accordingly.  
+
 #### Ingredients  
 
 * 1 pound of shrimp  
