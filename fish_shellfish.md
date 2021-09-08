@@ -28,7 +28,7 @@
 
 [Garlic Shrimp with Peas](https://github.com/vmsmith/CookBook/blob/master/fish_shrimp_garlic_peas.md)    
 
-[Shrimp and Grits]()  
+[Shrimp and Grits](https://github.com/vmsmith/CookBook/blob/master/fish_shrimp_grits.md)  
 
 [Shrimp Scampi #1](https://github.com/vmsmith/CookBook/blob/master/fish_shrimp_scampi1.md)    
 
