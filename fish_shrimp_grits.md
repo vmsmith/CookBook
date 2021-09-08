@@ -10,17 +10,16 @@
 
 #### Ingredients  
 
-•	1 pound of shrimp
-•	6 slices bacon, chopped
-•	4 teaspoons lemon juice
-•	2 tablespoons chopped parsley
-•	1 cup thinly sliced scallions
-•	1 large clove garlic, minced
-
-•	4 cups water
-•	1 cup of stone ground grits
-•	3 tablespoons butter
-•	2 cups shredded sharp cheddar cheese
+* 1 pound of shrimp  
+* 6 slices bacon, chopped  
+* 4 teaspoons lemon juice  
+* 2 tablespoons chopped parsley  
+* 1 cup thinly sliced scallions  
+* 1 large clove garlic, minced  
+* 4 cups water  
+* 1 cup of stone ground grits  
+* 3 tablespoons butter  
+* 2 cups shredded sharp cheddar cheese  
 
 #### Preparation
 
