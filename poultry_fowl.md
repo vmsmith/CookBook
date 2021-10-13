@@ -68,6 +68,8 @@
 
 [Braised Legs, Spanish-style with Garlic](https://github.com/vmsmith/CookBook/blob/master/chicken_spanish_garlic.md)  
 
+[Orange Braised Chicken Thighs with Green Olives](https://github.com/vmsmith/CookBook/blob/master/chicken_thighs_orange_braised.md)  
+
 #### Chicken Wings  
 
 [Baked Wings with Lemon-Pepper](https://github.com/vmsmith/CookBook/blob/master/chicken_wings_lemon_pepper.md) 
