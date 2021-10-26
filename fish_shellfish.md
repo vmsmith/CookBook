@@ -24,6 +24,8 @@
 
 [Pan-seared Salmon](https://github.com/vmsmith/CookBook/blob/master/fish_salmon_pan-seared.md)    
 
+[Sardine Recipes](https://www.saveur.com/best-sardine-recipes/)  
+
 [Shrimp in Green Sauce]()  
 
 [Garlic Shrimp with Peas](https://github.com/vmsmith/CookBook/blob/master/fish_shrimp_garlic_peas.md)    
