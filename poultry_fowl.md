@@ -85,6 +85,8 @@
 
 [Duck Breast, Pan Seared](https://github.com/vmsmith/CookBook/blob/master/fowl_duck_breast_pan-seared.md)  
 
+[Duck Breast, Roasted with Apicius Sauce](https://github.com/vmsmith/CookBook/blob/master/fowl_duck_breast_roasted_apicius-sauce.md)
+
 [Duck Breast with Blood Oranges](https://github.com/vmsmith/CookBook/blob/master/fowl_duck_breast_blood_oranges.md)  
 
 [Duck Breast with Prune Sauce](https://github.com/vmsmith/CookBook/blob/master/fowl_duck_breast_prune_sauce.md)  
