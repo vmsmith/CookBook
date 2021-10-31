@@ -26,6 +26,7 @@
 2. Season duck breast with salt, pepper, thyme, and oregano, then marinate with honey/oil and put in fridge overnight  
 
 *Day Two:*   
+
 3. Prehat oven to 400F  
 4. Mix 1:1 ratio of sherry and honey  
 5. Combine Coriander, fennel seed, and All Spice powder in a bowl  
@@ -35,4 +36,5 @@
 1. Sear duck breast on medium-high heat to get color, then remove from pan and rest on another surface  
 2. Brush the skin side of the duck breast with the sherry/honey mixture.
 3. Cover the duck breast skin with the combined spices  
-4. Bake for ~15 mins
+4. Bake for ~15 mins  
+5. Serve with mashed pototoes and stir-fried Brussels Sprouts with garlic  
