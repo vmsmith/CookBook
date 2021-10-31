@@ -12,7 +12,8 @@
 
 * Duck breast with skin
 * Salt, pepper
-* Thyme, Oregano, Coriander, Fennel Seeds, All spice powder
+* Thyme and Oregano
+* Coriander, Fennel Seeds, All spice powder
 * Garlic
 * Olive Oil
 * Honey
@@ -20,8 +21,10 @@
 
 #### Preparation:  
 
+*Day One:*  
 1. Mix 1:1 ratio of honey and olive oil  
-2. Season duck breast with salt, pepper, and oregano, then marinate with honey/oil and put in fridge overnight  
+2. Season duck breast with salt, pepper, thyme, and oregano, then marinate with honey/oil and put in fridge overnight  
+*Day Two:*  
 3. Prehat oven to 400F  
 4. Mix 1:1 ratio of sherry and honey  
 5. Combine Coriander, fennel seed, and all spice powder in a bowl
