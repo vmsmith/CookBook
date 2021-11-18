@@ -1,3 +1,11 @@
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)   
+
+[Miscellaneous]()
+
+-----  
+ [Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)
+
+### Lucy Buffett's Oyster Dressing  
 
 #### Ingredients  
 
