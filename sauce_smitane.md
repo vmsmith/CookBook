@@ -28,5 +28,5 @@
 * Remove from heat and stir in the sour cream.  
 * Season with salt, pepper, and (if desired) lemon juice.
 
-I spent years looking for other references to this sauce. It’s not in Escoffier and it’s not in Peterson. And I could never find reference to it on the Internet. Then, on day in February 2013, I Googled it, and recipes appeared all over the place.
+I originally found this sauce in The Joy of Cooking. I spent years looking for other references to it. It’s not in Escoffier and it’s not in Peterson. And I could never find reference to it on the Internet. Then, one day in February 2013, I Googled it, and recipes appeared all over the place.
 
