@@ -44,6 +44,8 @@
 
 #### [Meat](https://github.com/vmsmith/CookBook/blob/master/meat.md)  
 
+#### [Miscellaneous](https://github.com/vmsmith/CookBook/blob/master/miscellaneous.md)  
+
 #### [Mis en Place](https://github.com/vmsmith/CookBook/blob/master/mis_en_place.md)
 
 #### [Offal](https://github.com/vmsmith/CookBook/blob/master/offal.md)
