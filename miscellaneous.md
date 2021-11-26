@@ -8,3 +8,5 @@
 
 [Oyster Dressing](https://github.com/vmsmith/CookBook/blob/master/misc_oyster_dressing.md)  
 
+[Winter Dishes](https://github.com/vmsmith/CookBook/blob/master/winter_dishes.md)
+
