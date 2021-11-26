@@ -1,6 +1,6 @@
 [Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)   
 
-[Miscellaneous]()
+[Miscellaneous](https://github.com/vmsmith/CookBook/blob/master/miscellaneous.md)
 
 -----  
  [Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)
