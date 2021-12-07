@@ -28,8 +28,8 @@
 
 #### Directions
 
-1. In an 8-quart pot, sweat the diced vegetables, garlic and fennel in the olive oil or butter for about 10 minutes (do not allow them to brown)      
+1. In an 8-quart pot, sweat the diced vegetables, garlic, and fennel in the olive oil or butter for about 10 minutes (do not allow them to brown)      
 2. Add the bouquet garni and the cold water and bring to a simmer  
-3. Simmer gently for 10 munutes    
+3. Simmer gently for 10 minutes    
 4. Add the white wine and vinegar and continue simmering for 15 to 20 minutes more    
 5. Let it cool before straining out the vegetables    
