@@ -54,7 +54,9 @@
 
 [Fresh Pea Soup](https://github.com/vmsmith/CookBook/blob/master/soup_pea_fresh.md)  
 
-[Split Pea Soup](https://github.com/vmsmith/CookBook/blob/master/soup_split_pea.md)   
+[Split Pea Soup 1](https://github.com/vmsmith/CookBook/blob/master/soup_split_pea.md)   
+
+[Split Pea Soup 2](https://github.com/vmsmith/CookBook/blob/master/soup_split-pea.md)  
 
 [Potato and Fennel Soup](https://github.com/vmsmith/CookBook/blob/master/soup_potato_fennel.md)  
 
