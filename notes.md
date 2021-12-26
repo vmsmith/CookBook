@@ -2,7 +2,17 @@
 
 -----  
 
-### Notes
+### Notes  
+
+#### French Christmas Classics  
+* Foie gras terrine on a good bread with onion confit or fig jam  
+* Smoked salmon  
+* Scallops with orange cream sauce and braised endives  
+* Chilled oysters with mignonette sauce (red wine vinegar, chopped shallots and black pepper)  
+* Game birds and/or wild game  
+* Cheese platter  
+* Chocolate truffels  
+* Champagne  
 
 #### Chestnut and Parsnip Soup  
 
