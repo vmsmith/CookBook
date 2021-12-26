@@ -11,6 +11,7 @@
 * Chilled oysters with mignonette sauce (red wine vinegar, chopped shallots and black pepper)  
 * Game birds and/or wild game  
 * Cheese platter  
+* Candied fruits  
 * Chocolate truffels  
 * Champagne  
 
