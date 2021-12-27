@@ -4,6 +4,10 @@
 
 [Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)  
 
-### Salads
+### Salads  
+
+[Salad Lyonnaise](https://github.com/vmsmith/CookBook/blob/master/salads_lyonnaise.md)  
+
+[Salad Nicoise](https://github.com/vmsmith/CookBook/blob/master/salads_nicoise.md)  
 
 [Winter White Salad](https://github.com/vmsmith/CookBook/blob/master/salads_winter_white.md)    
