@@ -6,17 +6,18 @@
 
 [Notes]()  
 
-### Salad Lyonnaise  
+### Salad Lyonnaise   
+[Alternative recipe](https://www.bbcgoodfood.com/recipes/salad-lyonnaise-warm-bacon-egg-salad)  
 
 #### Ingredients  
 
-* 4 Eggs
-* 4 cups torn frisée or other strong-tasting greens, washed and dried
-* 2 tablespoons extra virgin olive oil
-* About 1/2 pound good slab bacon or pancetta, cut into 1/2-inch cubes
+* 2 eggs
+* 2 cups torn frisée or other strong-tasting greens, washed and dried
+* 1 tablespoons extra virgin olive oil
+* 1/4+ pound good slab bacon or pancetta, cut into 1/2-inch cubes
 * 1 shallot, chopped, or 1 tablespoon chopped red onion
-* 2 to 4  tablespoons top-quality sherry vinegar
-* 1 tablespoon Dijon mustard
+* 1 - 2  tablespoons top-quality sherry vinegar
+* 1/2 tablespoon Dijon mustard
 * Salt and black pepper
 
 #### Preparation  
@@ -29,7 +30,7 @@
 1. Put frisée or other greens in large salad bowl  
 2. Put olive oil in skillet over medium heat
 3. When hot, add bacon and cook slowly until crisp all over, about 10 minutes  
-4. Add shallot and cook until softened, a minute or two  
+4. Add shallot or onion and cook until softened, a minute or two  
 5. Add vinegar and mustard to the skillet and bring just to a boil, stirring, then turn off heat 
 6. Meanwhile, bring about an inch of salted water to a boil in a small, deep skillet, then lower heat to barely bubbling  
 7. One at a time, break eggs into a shallow bowl and slip them into the bubbling water  
