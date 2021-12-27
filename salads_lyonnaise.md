@@ -1,10 +1,10 @@
-[Cook Book]()  
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)  
 
-[Salads]()  
+[Salads](https://github.com/vmsmith/CookBook/blob/master/salads.md)  
 
 -----  
 
-[Notes]()  
+[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)  
 
 ### Salad Lyonnaise   
 [Alternative recipe](https://www.bbcgoodfood.com/recipes/salad-lyonnaise-warm-bacon-egg-salad)  
