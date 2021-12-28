@@ -50,6 +50,8 @@ Mother Sauces - [Web site](https://www.thespruceeats.com/mother-sauces-996119)
 
 [Red Wine Sauce](https://github.com/vmsmith/CookBook/blob/master/sauce_red_wine.md)    
 
+[Red Wine and Date Sauce - Goose](https://github.com/vmsmith/CookBook/blob/master/sauce_red_wine_date.md)
+
 [Rouille (garlic mayonnaise for fish soups)](https://github.com/vmsmith/CookBook/blob/master/sauce_rouille.md) 
 
 [Smitane Sauce](https://github.com/vmsmith/CookBook/blob/master/sauce_smitane.md)  
