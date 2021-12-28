@@ -95,6 +95,12 @@
 
 [Duck Leg Stew](https://github.com/vmsmith/CookBook/blob/master/fowl_duck_leg_stew.md)  
 
+-----  
+
+#### Goose  
+
+[Roast Goose (with crown)](https://github.com/vmsmith/CookBook/blob/master/fowl_goose_roast_crown.md)
+
 -----
 
 #### Pheasant  
