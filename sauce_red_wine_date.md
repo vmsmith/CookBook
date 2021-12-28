@@ -17,7 +17,16 @@
 
 #### Preparation   
 
-
-
+1. Pit the dates and cut them.  
+2. Make some *buerre manié*  
 
 #### Directions  
+
+1. Combine the liquids.  
+2. Reduce the liqued by 2/3.    
+3. Pour boiling water over the dates and let sit for five minutes.  
+4. Add the dates to the reduced liquid.  
+5. Remove the dates, whisk in some *buerre manié* to thicken, readd the dates.  
+6. Serve with [roast goose]().  
+
+
