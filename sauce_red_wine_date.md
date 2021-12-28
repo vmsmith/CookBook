@@ -27,6 +27,6 @@
 3. Pour boiling water over the dates and let sit for five minutes.  
 4. Add the dates to the reduced liquid.  
 5. Remove the dates, whisk in some *buerre manié* to thicken, readd the dates.  
-6. Serve with [roast goose]().  
+6. Serve with [roast goose](https://github.com/vmsmith/CookBook/blob/master/fowl_goose_roast_crown.md).    
 
 
