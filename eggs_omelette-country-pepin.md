@@ -24,19 +24,15 @@
 #### Preparation  
 
 1. Break and beat eggs (with cheese if desired)  
-2. Peel and thinly slice potatoes  
+2. Peel and thinly slice potatoes, **THEN PARBOIL**  
 3. Thinly slice onions  
 4. Slice tomatoes  
 5. Chop chives (or other herbs)  
 
 #### Directions  
 
-1. Sauté potato and onion slices in oil/butter with a dash of salt (covered) 
-
-2. Add egg and continue to cook  
-
+1. Sauté potato and onion slices in oil/butter with a dash of salt (covered)  
+2. Add egg and continue to cook   
 3. Place tomato slices on top & season with salt and pepper and a drizzle of oil   
-
 4. Broil  
-
-5. Slide it out or flip it  
+5. Slide it out or flip it   
