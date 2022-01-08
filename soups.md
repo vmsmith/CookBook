@@ -42,7 +42,7 @@
 
 [Lobster Bisque](https://github.com/vmsmith/CookBook/blob/master/soup_bisque_lobster.md)  
 
-[Minestrone]()  
+[Minestrone](https://github.com/vmsmith/CookBook/blob/master/soup_minestrone.md)    
 
 [Mushroom Soup](https://github.com/vmsmith/CookBook/blob/master/soup_mushroom.md)
 
