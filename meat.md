@@ -40,4 +40,5 @@
 * [Rabbit Braised with Prunes](https://github.com/vmsmith/CookBook/blob/master/rabbit_braised_prunes.md)  
 * [Rabbit Cacciatore](https://github.com/vmsmith/CookBook/blob/master/rabbit_cacciatore.md)  
 * [Rabbit Stew with Mushrooms](https://github.com/vmsmith/CookBook/blob/master/rabbit_stew_mushrooms.md)  
+* [Maltese Rabbit Stew](https://github.com/vmsmith/CookBook/blob/master/rabbit_stew_maltese.md)  
 
