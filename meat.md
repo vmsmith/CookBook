@@ -5,6 +5,7 @@
 ### Meat  
 
 #### Beef  
+* [Pot au Feu](https://github.com/vmsmith/CookBook/blob/master/stews_pot_au_feu.md)  
 * [Roast Beef](https://github.com/vmsmith/CookBook/blob/master/meat_roast_beef.md)  
 * [Steak au poivre](https://github.com/vmsmith/CookBook/blob/master/meat_steak_au_poivre.md)  
 * [Steak, reverse seared](https://github.com/vmsmith/CookBook/blob/master/meat_steak_reverse_seared.md)
