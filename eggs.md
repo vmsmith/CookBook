@@ -7,6 +7,8 @@
 
 [Basque Poached Eggs](https://github.com/vmsmith/CookBook/blob/master/eggs_poached_basque.md)  
 
+[En cocotte]() - oven 190C  
+
 [Scrambled Eggs with piperade and Bayonne ham]()  
 
 [Omelettes](https://github.com/vmsmith/CookBook/blob/master/eggs_omelettes.md)  
