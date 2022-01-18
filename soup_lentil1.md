@@ -11,7 +11,8 @@
 #### Ingredients  
 * 1/4 cup extra virgin olive oil
 * 1 medium yellow or white onion, chopped
-* 2 carrots, peeled and chopped
+* 2 carrots, peeled and chopped  
+* 3 celery stalks  
 * 4 garlic cloves, pressed or minced
 * 2 teaspoons ground cumin
 * 1 teaspoon curry powder
@@ -31,9 +32,10 @@
 
 1. Peel and chop the onion  
 2. Peel and chop the carrot  
-3. Peel and mince the garlic  
-4. Chop the tomatoes  
-5. Rinse the lentils  
+3. Chop the celery  
+4. Peel and mince the garlic  
+5. Chop the tomatoes  
+6. Rinse the lentils  
 
 #### Directions  
 
