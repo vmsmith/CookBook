@@ -1,12 +1,12 @@
 [Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)  
 
-[Poultry and Fowl](https://github.com/vmsmith/CookBook/blob/master/poultry-fowl.md)  
+[Poultry and Fowl](https://github.com/vmsmith/CookBook/blob/master/poultry_fowl.md)  
 
 -----  
 
 [Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)  
 
-### Garlic Chicken Wings  
+### Crispy Garlic Chicken Wings  
 
 #### Ingredients   
 
