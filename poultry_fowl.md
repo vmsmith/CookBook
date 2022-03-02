@@ -72,7 +72,9 @@
 
 #### Chicken Wings  
 
-[Baked Wings with Lemon-Pepper](https://github.com/vmsmith/CookBook/blob/master/chicken_wings_lemon_pepper.md) 
+[Baked Wings with Lemon-Pepper](https://github.com/vmsmith/CookBook/blob/master/chicken_wings_lemon_pepper.md)  
+
+[Baked Garlic Wings](https://github.com/vmsmith/CookBook/blob/master/chicken_wings_garlic_baked.md)
 
 #### Chicken, Misc  
 
