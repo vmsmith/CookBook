@@ -4,6 +4,9 @@
 
 -----  
 
+#### Products  
+* Goya Products: VT Cash and Carry @ 13 rue Cail 75010  
+
 #### Dry Ingredients  
 
 * All-purpose Flour - Farine de Blé Type 55  
