@@ -1,4 +1,10 @@
-https://github.com/vmsmith/CookBook/blob/master/fish_sardines_tomatoes_baked.md
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)  
+
+[Fish and Seafood](https://github.com/vmsmith/CookBook/blob/master/README.md)  
+
+-----  
+
+[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)
 
 
 #### Ingredients   
