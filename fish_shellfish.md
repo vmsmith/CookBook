@@ -26,6 +26,8 @@
 
 [Sardine Recipes](https://www.saveur.com/best-sardine-recipes/)  
 
+[Baked Sardines and Tomatoes](https://github.com/vmsmith/CookBook/blob/master/fish_sardines_tomatoes_baked.md)
+
 [Sardine Sandwich #2](https://github.com/vmsmith/CookBook/blob/master/fish_sardine_sandwich2.md)
 
 [Shrimp in Green Sauce]()  
