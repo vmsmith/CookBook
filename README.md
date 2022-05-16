@@ -38,6 +38,8 @@
 
 #### [Eggs](https://github.com/vmsmith/CookBook/blob/master/eggs.md)
 
+#### [Fish](https://github.com/vmsmith/CookBook/blob/master/fish_shellfish.md)  
+
 #### [Fruits](https://github.com/vmsmith/CookBook/blob/master/fruits.md)
 
 #### [Herbs, Fresh](https://github.com/vmsmith/CookBook/blob/master/herbs_fresh.md)
