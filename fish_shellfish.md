@@ -6,6 +6,8 @@
 
 ### Fish and Shellfish    
 
+[Whole Baked Bar](https://github.com/vmsmith/CookBook/blob/master/fish_bar_baked.md)  
+
 [Bayou Lobster Omelet]()  
 
 [Cod, Pan-seared with Thyme](https://github.com/vmsmith/CookBook/blob/master/fish_cod_pan-seared_thyme.md)
