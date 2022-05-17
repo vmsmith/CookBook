@@ -18,6 +18,10 @@
 
 #### Chicken Breasts
 
+[Caprese Chicken Breast](https://github.com/vmsmith/CookBook/blob/master/chicken_caprese.md)  
+
+[Rustic Lemon Chicken Breast](https://github.com/vmsmith/CookBook/blob/master/chicken_rustic_lemon.md)  
+
 [Chicken Breasts Sautéed with Garlic](https://github.com/vmsmith/CookBook/blob/master/chicken_breasts_sauteed_garlic.md)  
 
 [Chicken Breasts Sautéed with Shallots and Garlic](https://github.com/vmsmith/CookBook/blob/master/chicken_breasts_sauteed_shallots_garlic.md)  
@@ -27,10 +31,6 @@
 [Chicken Breasts Sautéed with Lemon Caper Sauce](https://github.com/vmsmith/CookBook/blob/master/chicken_breasts_sauteed_lemon_caper.md)  
 
 [Creamy Tuscany Chicken](https://github.com/vmsmith/CookBook/blob/master/chicken_creamy_tuscany.md)    
-
-[Rustic Lemon Chicken Breast](https://github.com/vmsmith/CookBook/blob/master/chicken_rustic_lemon.md)  
-
-[Caprese Chicken Breast](https://github.com/vmsmith/CookBook/blob/master/chicken_caprese.md)
 
 [Chicken Veronique](https://www.tasteofhome.com/recipes/chicken-veronique/)  
 
