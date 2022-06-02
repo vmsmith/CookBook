@@ -35,6 +35,7 @@
 3. Dice carrots  
 4. Mince or purée roasted red peppers  
 5. Peel and devein shrimp  
+6. Rice  
 
 #### Directions 
 
@@ -44,11 +45,20 @@
 4. Melt the butter into the vegetables. Once bubbly and melted, add the tomato paste and crushed red pepper. Stir to coat the vegetables in the paste and cook for 2 minutes.
 5. Pour in the stock and bring to a boil. 
 6. Reduce heat to medium-low and hard simmer for 25–30 minutes. 
-7. Stir occasionally and add more liquid as needed or reduce the heat if the stew reduces too quickly—taste and season with salt and pepper. The stew should be thick, not soupy, so be careful not to add too much water.
+7. Stir occasionally and add more liquid as needed or reduce the heat if the stew reduces too quickly—taste and season with salt and pepper. The stew should be thick, not soupy, so be careful not to add too much liquid.
 
-Poach the shrimp:
-Bring a large saucepan of generously salted water to a boil. Once boiling, cut the lemon in half and squeeze the juice from both halves into the pot. Add the lemon halves to the pot and turn off the heat. Immediately add the shrimp, cover, and let stand off the heat for 5 minutes. The residual heat from the boiling water will gently poach the shrimp. Next, remove the lid and check the shrimp for doneness. Cover and let stand in hot water for an additional minute or two if they aren’t fully opaque.
-Finish the shrimp:
-Melt the butter into a bowl. Add the parsley and garlic powder. Using tongs, pick the poached shrimp from the pot and add them to the bowl of melted butter. Toss to coat. Taste and season with salt, if needed.
+Poach the shrimp:  
+
+8. Bring a large saucepan of generously salted water to a boil. 
+9. Once boiling, cut the lemon in half and squeeze the juice from both halves into the pot. 
+10. Add the lemon halves to the pot and turn off the heat. 
+11. Immediately add the shrimp, cover, and let stand off the heat for 5 minutes. The residual heat from the boiling water will gently poach the shrimp. 
+12. Remove the lid and check the shrimp for doneness. Cover and let stand in hot water for an additional minute or two if they aren’t fully opaque.
+13. Melt the butter into a bowl and add the parsley and garlic powder. 
+14. Using tongs, pick the poached shrimp from the pot and add them to the bowl of melted butter. 
+15. Toss to coat, and taste and season with salt, if needed.
+
 To serve:
-Divide the cooked rice between shallow bowls and ladle the hot stew around the rice. Pile the poached shrimp on top. Finish with a drizzle of hot honey, if you like. Enjoy!
+
+16. Divide the cooked rice between shallow bowls and ladle the hot stew around the rice. 
+17. Pile the poached shrimp on top.  
