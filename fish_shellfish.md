@@ -32,6 +32,8 @@
 
 [Sardine Sandwich #2](https://github.com/vmsmith/CookBook/blob/master/fish_sardine_sandwich2.md)
 
+[Buttery Poached Shrimp Stew](https://github.com/vmsmith/CookBook/blob/master/fish_shrimp_buttery-poached.md)  
+
 [Shrimp in Green Sauce]()  
 
 [Garlic Shrimp with Peas](https://github.com/vmsmith/CookBook/blob/master/fish_shrimp_garlic_peas.md)    
