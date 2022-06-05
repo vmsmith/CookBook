@@ -16,7 +16,7 @@
 
 [Bouillabaisse - James Beard](https://github.com/vmsmith/CookBook/blob/master/soup_bouillabaisse_beard.md)  
 
-[Bouillabaisse Bacon]() - Patricia Wells, p. 21  
+[Bouillabaisse Bacon - Patricia Wells](https://github.com/vmsmith/CookBook/blob/master/soup_bouillabaisse_wells.md)
 
 [Cauliflower Soup](https://github.com/vmsmith/CookBook/blob/master/soup_cauliflower.md)
 
