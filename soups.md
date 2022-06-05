@@ -14,6 +14,8 @@
 
 [Borscht #2 - with beef](https://github.com/vmsmith/CookBook/blob/master/soup_borscht2.md)  
 
+[Bouillabaisse - James Beard](https://github.com/vmsmith/CookBook/blob/master/soup_bouillabaisse_beard.md)  
+
 [Bouillabaisse Bacon]() - Patricia Wells, p. 21  
 
 [Cauliflower Soup](https://github.com/vmsmith/CookBook/blob/master/soup_cauliflower.md)
