@@ -27,7 +27,8 @@
 3. Chop the onions  
 4. Chop the garlic  
 5. Trim and quarter the fennel  
-6. Heat the fish stock  
+6. Peel the potatoes  
+7. Heat the fish stock  
 
 #### Directions  
 
@@ -39,3 +40,6 @@
 6. Return to heat and add some saffron.  
 7. Add the heavier fish pieces and cook a few minutes, then the more tender fish pieces.  
 8. Cook a total of 10 minutes.  
+9. Meanwhile, steam the potatoes.  
+10. Place potatoes on the bottom of soup bowls, lay fish on top, pour soup over.  
+11. Serve with croutons and rouille.  
