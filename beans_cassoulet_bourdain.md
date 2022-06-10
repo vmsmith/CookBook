@@ -1,6 +1,6 @@
 [Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)  
 
-[Miscellaneous](https://github.com/vmsmith/CookBook/blob/master/miscellaneous.md)   
+[Miscellaneous](https://github.com/vmsmith/CookBook/blob/master/beans_legumes.md)   
 
 -----   
 
