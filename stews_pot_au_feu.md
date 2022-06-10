@@ -45,15 +45,19 @@
 10. Check the vegetables for doneness, and then remove any that have turned tender and cooked through.   
 11. Add the potato bundle to the pot and continue simmering for an additional 20 to 25 minutes, until the potatoes are cooked through.   
 12. Remove each vegetable and meat bundle from the pot, unwrap it, and arrange the vegetables in groups around the meat on the serving platter. Keep warm.  
-13. Discard the clove-studded onion and strain the broth through a fine-mesh sieve.   
-14. Return the broth to a clean saucepan and bring it to a boil for about 10 to 15 minutes, until it has reduced in volume and has a good, strong flavor. Season it with additional salt, if needed.   
-15. Transfer the hot broth to a serving bowl and offer as soup. Spread the marrow on the slices of toasted bread (called croûtes) and serve as an appetizer or alongside the broth. Present the meat and vegetable platter as the main course with small bowls of the garnishes on the side.  
-16. Garnishes:  
+
+![Pot au Feu Platter](https://github.com/vmsmith/CookBook/blob/master/graphics/Pot-au-Feu_Platter.png)
+
+14. Discard the clove-studded onion and strain the broth through a fine-mesh sieve.   
+15. Return the broth to a clean saucepan and bring it to a boil for about 10 to 15 minutes, until it has reduced in volume and has a good, strong flavor. Season it with additional salt, if needed.   
+16. Transfer the hot broth to a serving bowl and offer as soup. Spread the marrow on the slices of toasted bread (called croûtes) and serve as an appetizer or alongside the broth. Present the meat and vegetable platter as the main course with small bowls of the garnishes on the side.  
+17. Garnishes:  
 * Coarse sea salt, to taste
 * Cornichons, for garnish
 * Mustard, for serving
 * Horseradish, for serving
 
+![Pot au Feu Setting](https://github.com/vmsmith/CookBook/blob/master/graphics/Pot-au-Feu_Total.png)
 
 
 
