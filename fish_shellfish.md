@@ -10,6 +10,8 @@
 
 [Bayou Lobster Omelet]()  
 
+[Cod, Baked](https://github.com/vmsmith/CookBook/blob/master/fish_cod_baked.md)
+
 [Cod, Pan-seared with Thyme](https://github.com/vmsmith/CookBook/blob/master/fish_cod_pan-seared_thyme.md)
 
 [Mediterranean Cod](https://github.com/vmsmith/CookBook/blob/master/fish_cod_mediterranean.md)
