@@ -32,7 +32,7 @@
 
 [Creamy Tuscany Chicken](https://github.com/vmsmith/CookBook/blob/master/chicken_creamy_tuscany.md)    
 
-[Chicken Veronique](https://www.tasteofhome.com/recipes/chicken-veronique/)  
+[Chicken Veronique](https://github.com/vmsmith/CookBook/blob/master/chicken_veronique.md))  
 
 [Supremes de Volaille aux Champignons - Julia Child](https://github.com/vmsmith/CookBook/blob/master/chicken_volaille.md)
 
