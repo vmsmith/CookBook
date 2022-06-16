@@ -14,7 +14,7 @@
 * 1 tablespoon of orange marmalade  
 * 3/8 teaspoon of dried tarragon (or two tarragon sprigs)   
 * 1/4 cup of thick cream  
-* 2 teaspoons of flour  
+* 1 teaspoon of flour  
 * Green grapes, halved  
 * Salt  
 * Grated nutmeg  
@@ -36,3 +36,7 @@
 5. Add the cream/flour mix to the pan slowly, and stir until it thickens.  
 6. Add the grape halves and stir for a few seconds.  
 7. Pour the sauce and grapes over the chicken.  
+
+#### Notes:  
+
+1. Made on 16 June 2022 following the recipe. Chicken a little tasteless, sauce could use a touch more marmalade, and more flour to thicken it.  
