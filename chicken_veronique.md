@@ -6,7 +6,7 @@
 
 [Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)   
 
-### [Chicken Veronique #1](https://www.tasteofhome.com/recipes/chicken-veronique/)     
+### [Chicken Véronique #1](https://www.tasteofhome.com/recipes/chicken-veronique/)     
 
 #### Ingredients   
 * Two chicken breasts  
@@ -40,3 +40,8 @@
 #### Notes:  
 
 1. Made on 16 June 2022 following the recipe. Chicken a little tasteless, sauce could use a touch more marmalade, and more flour to thicken it.  
+
+### [Chicken Véronique #2](https://www.deliaonline.com/recipes/international/european/french/chicken-veronique)  
+
+
+
