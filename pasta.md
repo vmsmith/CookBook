@@ -13,3 +13,5 @@
 [Linguine with squid]() - Patricia Wells, p. 72  
 
 [Linguine with Scallops, Capers, and Grilled Scallions](https://github.com/vmsmith/CookBook/blob/master/pasta_scallops_capers_grilled-scallions.md)    
+
+[Spaghetti Puttanesca](https://github.com/vmsmith/CookBook/blob/master/pasta_puttanesca.md)
