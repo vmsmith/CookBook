@@ -22,6 +22,8 @@
 
 [Rustic Lemon Chicken Breast](https://github.com/vmsmith/CookBook/blob/master/chicken_rustic_lemon.md)  
 
+[Creamy Tuscan Chicken](https://github.com/vmsmith/CookBook/blob/master/chicken_tuscan_creamy.md)
+
 [Chicken Breasts Sautéed with Garlic](https://github.com/vmsmith/CookBook/blob/master/chicken_breasts_sauteed_garlic.md)  
 
 [Chicken Breasts Sautéed with Shallots and Garlic](https://github.com/vmsmith/CookBook/blob/master/chicken_breasts_sauteed_shallots_garlic.md)  
