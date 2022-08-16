@@ -42,3 +42,5 @@
 10. Reduce heat to low and simmer until sauce is slightly reduced, about 3 minutes.   
 11. Return chicken to skillet and cook until heated through, 5 to 7 minutes.  
 12. Serve with lemon wedges. 
+
+![Creamy Tuscan Chicken](https://github.com/vmsmith/CookBook/blob/master/graphics/chicken_tuscan_creamy.jpg)
