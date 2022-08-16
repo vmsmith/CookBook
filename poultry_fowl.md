@@ -123,4 +123,8 @@
 
 #### Pigeon  
 
-[Roast Pigeon](https://github.com/vmsmith/CookBook/blob/master/fowl_pigeon_roast.md)
+[Roast Pigeon](https://github.com/vmsmith/CookBook/blob/master/fowl_pigeon_roast.md)  
+
+#### Partridge (Perdrix)  
+
+[Roast Partridge](https://github.com/vmsmith/CookBook/blob/master/fowl_partridge_roast.md)
