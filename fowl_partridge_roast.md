@@ -13,7 +13,7 @@
 * 3 tablespoons of butter
 * 4 cloves garlic, smashed  
 * 1 small lemon cut into wedges
-* 2 tablespoons of [Glace de Viande](https://github.com/vmsmith/CookBook/blob/master/sauce_glace_viande.md), preferably from light-meated fowl
+* 2 tablespoons of [glace de viande](https://github.com/vmsmith/CookBook/blob/master/sauce_glace_viande.md), preferably from light-meated fowl
 * 2 tablespoons of white wine or lemon juice
 * 1 tablespoon of flour
 * Rosemary fresh
