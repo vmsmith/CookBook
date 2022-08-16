@@ -1,6 +1,6 @@
-[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md) P
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)  
 
-[Chicken]()   
+[Chicken](https://github.com/vmsmith/CookBook/blob/master/poultry_fowl.md)    
 
 -----   
 
