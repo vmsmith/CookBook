@@ -21,7 +21,7 @@
 * Black pepper
 
 #### Preparation   
-1. Brine the partridge  
+1. Remove wings and wishbone (optional) and brine the partridge  
 2. Peel and smash garlic cloves  
 3. Wedge the lemon  
 4. Preheat oven to 515F  
