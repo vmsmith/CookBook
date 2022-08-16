@@ -22,6 +22,8 @@
 
 [Rustic Lemon Chicken Breast](https://github.com/vmsmith/CookBook/blob/master/chicken_rustic_lemon.md)  
 
+[Baked Greek Chicken Breast with Feta](https://github.com/vmsmith/CookBook/blob/master/chicken_greek_baked.md)
+
 [Creamy Tuscan Chicken](https://github.com/vmsmith/CookBook/blob/master/chicken_tuscan_creamy.md)
 
 [Chicken Breasts Sautéed with Garlic](https://github.com/vmsmith/CookBook/blob/master/chicken_breasts_sauteed_garlic.md)  
