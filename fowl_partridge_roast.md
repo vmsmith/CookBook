@@ -21,7 +21,7 @@
 * Black pepper
 
 #### Preparation   
-1. Remove wings and wishbone (optional) and [brine]() the partridge for 8 - 12 hours  
+1. Remove wings and wishbone (optional) and [brine](https://github.com/vmsmith/CookBook/blob/master/misc_brine.md) the partridge for 8 - 12 hours  
 2. Peel and smash garlic cloves  
 3. Wedge the lemon  
 4. Preheat oven to 515F  
