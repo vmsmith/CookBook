@@ -7,6 +7,10 @@
 [Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)   
 
 ### Brine - For upland game birds  
+* [Partridge](https://github.com/vmsmith/CookBook/blob/master/fowl_partridge_roast.md)  
+* [Pheasant]()  
+* [Pigeon]()  
+* [Quail]()  
 
 #### Ingredients  
 * 1 part water  
