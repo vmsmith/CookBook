@@ -10,30 +10,22 @@
 
 #### Ingredients   
 * Boneless, skinless chicken breasts
-* 1 cup olive oil
-* 1/3 cup sherry vinegar
-* 1/4 cup fresh parsley
-* 1 Tbsp lemon juice (from half of a lemon)
-* 2 tsp smoked paprika
-* 1/2 tsp coarse salt
-* 1/4 tsp chili powder , more to your liking
-* 1 generous pinch saffron
 * 1 bay leaf
 
 #### Preparation   
-
-
-
+1. Make the marinade with a bay leaf (see below)  
+2. Marinate chicken overnight   
 
 #### Directions  
-
-
+1. Sautée chicken until cooked through, about 6 minutes per side. 
+2. Serve with saffron rice or your favorite grilled vegetables.
 
 #### Marinade   
-* Olive oil   
-* Sherry Vinegar
-* Lemon juice  
-* Parsley   
-* Smoked Paprika   
-* Saffron    
+* 1/2 cup of olive oil   
+* 2 tablespoons of sherry vinegar
+* 2 tablespoons of lemon juice   
+* Zest of one lemon    
+* 1/4 cup of chopped parsley   
+* 1 teaspoon of smoked paprika 
+* Piment d'Espelette     
 * Salt   
