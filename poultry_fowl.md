@@ -18,6 +18,10 @@
 
 #### Chicken Breasts
 
+[Spanish Spiced Sautéed Chicken Breasts](https://github.com/vmsmith/CookBook/blob/master/chicken_breasts_spanish_spiced.md)
+
+[Chicken Breasts Sautéed with Lemon Caper Sauce](https://github.com/vmsmith/CookBook/blob/master/chicken_breasts_sauteed_lemon_caper.md)  
+
 [Caprese Chicken Breast](https://github.com/vmsmith/CookBook/blob/master/chicken_caprese.md)  
 
 [Rustic Lemon Chicken Breast](https://github.com/vmsmith/CookBook/blob/master/chicken_rustic_lemon.md)  
@@ -32,7 +36,7 @@
 
 [Chicken Breasts Sautéed with Shallots](https://github.com/vmsmith/CookBook/blob/master/chicken_breasts_sauteed_shallots.md)  
 
-[Chicken Breasts Sautéed with Lemon Caper Sauce](https://github.com/vmsmith/CookBook/blob/master/chicken_breasts_sauteed_lemon_caper.md)  
+
 
 [Creamy Tuscany Chicken](https://github.com/vmsmith/CookBook/blob/master/chicken_creamy_tuscany.md)    
 
