@@ -30,7 +30,10 @@
 
 
 #### Directions  
-1. In a 6- to 8-quart slow cooker, combine the barley, mushrooms, chicken, chicken broth, lemon juice, white wine, garlic, thyme, salt, onion powder, red-pepper flakes and several generous grinds of black pepper. Stir to combine, then cook for 3 hours on high.
-At first it will seem like there is too much liquid, but the dish will thicken as it cools, and as you stir. Stir in the frozen peas and let them heat through, about 2 minutes.
-Step 3
-In a small bowl, stir together the crème fraîche and mustard, then fold it into the barley mixture. The chicken thighs should be falling apart; break them into coarse chunks with a spatula. Taste and add more mustard for a stronger flavor, if desired. Stir in the chopped tarragon and serve. Pass Parmesan at the table for topping.
+1. In a slow cooker, combine the barley, mushrooms, chicken, chicken broth, lemon juice, white wine, garlic, thyme, salt, onion powder, red-pepper flakes and several generous grinds of black pepper.  
+2. Stir to combine, then cook for 3 hours on high.
+3. At first it will seem like there is too much liquid, but the dish will thicken as it cools, and as you stir. 
+4. Stir in the frozen peas and let them heat through, about 2 minutes.
+5. In a small bowl, stir together the crème fraîche and mustard, then fold it into the barley mixture.  
+6. The chicken thighs should be falling apart; break them into coarse chunks with a spatula.  
+7. Taste and add more mustard for a stronger flavor, if desired. Stir in the chopped tarragon and serve. 
