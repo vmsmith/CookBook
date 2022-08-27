@@ -1,30 +1,30 @@
-[Cook Book]()   
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)   
 
-[Poultry and Fowl]()   
+[Poultry and Fowl](https://github.com/vmsmith/CookBook/blob/master/poultry_fowl.md)   
 
 -----   
 
-[Notes]()  
+[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)  
 
 ### Slow-Cooker Dijon Chicken With Barley and Mushrooms
 
 #### Ingredients  
-3/4 cup pearled barley  
-1/2 pound sliced cremini mushrooms  
-1/2 pound boneless, skinless chicken thighs  
-2 cups chicken broth  
-1/4 cup lemon juice (from about 1 large lemon)  
-1/8 cup dry white wine  
-3 garlic cloves, smashed and chopped  
-2 thyme sprigs, leaves picked (about 2 teaspoons), or 1 teaspoon of dried thyme  
-1 teaspoons coarse kosher salt  
-1/2 teaspoon onion powder  
-1/4 teaspoon red-pepper flakes  
-Black pepper  
-5 ounces of frozen peas   
-1/8 cup crème fraîche or sour cream  
-1 heaping tablespoons smooth Dijon mustard, plus more to taste  
-1/4 chopped fresh tarragon or dill, to taste  
+* 3/4 cup pearled barley  
+* 1/2 pound sliced cremini mushrooms  
+* 1/2 pound boneless, skinless chicken thighs  
+* 2 cups chicken broth  
+* 1/4 cup lemon juice (from about 1 large lemon)  
+* 1/8 cup dry white wine  
+* 3 garlic cloves, smashed and chopped  
+* 2 thyme sprigs, leaves picked (about 2 teaspoons), or 1 teaspoon of dried thyme  
+* 1 teaspoons coarse kosher salt  
+* 1/2 teaspoon onion powder  
+* 1/4 teaspoon red-pepper flakes  
+* Black pepper  
+* 5 ounces of frozen peas   
+* 1/8 cup crème fraîche or sour cream  
+* 1 heaping tablespoons smooth Dijon mustard, plus more to taste  
+* 1/4 chopped fresh tarragon or dill, to taste  
 
 #### Preparation   
 
