@@ -46,6 +46,8 @@
 
 #### Chicken Legs  
 
+[Slow-Cooker Dijon Chicken With Barley and Mushrooms](https://github.com/vmsmith/CookBook/blob/master/chicken_thighs_slow-cooked_barley_mushrooms.md)
+
 [Baked Legs](https://github.com/vmsmith/CookBook/blob/master/chicken_legs_baked.md)  
 
 [Chicken Thighs Confit](https://github.com/vmsmith/CookBook/blob/master/chicken_thighs_confit.md)  
