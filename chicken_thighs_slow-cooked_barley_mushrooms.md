@@ -6,7 +6,8 @@
 
 [Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)  
 
-### Slow-Cooker Dijon Chicken With Barley and Mushrooms
+### Slow-Cooker Dijon Chicken With Barley and Mushrooms   
+* See comments in [NY Times article](https://cooking.nytimes.com/recipes/1023252-slow-cooker-dijon-chicken-with-barley-and-mushrooms)   
 
 #### Ingredients  
 * 3/4 cup pearled barley  
@@ -27,7 +28,9 @@
 * 1/4 chopped fresh tarragon or dill, to taste  
 
 #### Preparation   
-
+1. Slice mushrooms   
+2. Peel and chop garlic   
+3. Mix crème fraîche and mustard   
 
 #### Directions  
 1. In a slow cooker, combine the barley, mushrooms, chicken, chicken broth, lemon juice, white wine, garlic, thyme, salt, onion powder, red-pepper flakes and several generous grinds of black pepper.  
