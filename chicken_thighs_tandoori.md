@@ -7,6 +7,7 @@
 [Notes](https://github.com/vmsmith/CookBook/blob/master/Notes.md)   
 
 ### Tandoori Chicken Thighs   
+* Menu: Tandoori chicken, basmati rice, 
 
 #### Ingredients   
 * Skinless chicken thighs   
