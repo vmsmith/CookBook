@@ -36,8 +36,6 @@
 
 [Chicken Breasts Sautéed with Shallots](https://github.com/vmsmith/CookBook/blob/master/chicken_breasts_sauteed_shallots.md)  
 
-
-
 [Creamy Tuscany Chicken](https://github.com/vmsmith/CookBook/blob/master/chicken_creamy_tuscany.md)    
 
 [Chicken Veronique](https://github.com/vmsmith/CookBook/blob/master/chicken_veronique.md)   
@@ -45,6 +43,8 @@
 [Supremes de Volaille aux Champignons - Julia Child](https://github.com/vmsmith/CookBook/blob/master/chicken_volaille.md)
 
 #### Chicken Legs  
+
+[Tandoori Chicken](https://github.com/vmsmith/CookBook/blob/master/chicken_thighs_tandoori.md)
 
 [Slow-Cooker Dijon Chicken With Barley and Mushrooms](https://github.com/vmsmith/CookBook/blob/master/chicken_thighs_slow-cooked_barley_mushrooms.md)
 
