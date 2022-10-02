@@ -18,7 +18,9 @@
 
 [Bouillabaisse Bacon - Patricia Wells](https://github.com/vmsmith/CookBook/blob/master/soup_bouillabaisse_wells.md)
 
-[Cauliflower Soup](https://github.com/vmsmith/CookBook/blob/master/soup_cauliflower.md)
+[Cauliflower Soup](https://github.com/vmsmith/CookBook/blob/master/soup_cauliflower.md)  
+
+[Carrot - Apple Soup](https://github.com/vmsmith/CookBook/blob/master/soup_carrot_apple.md)
 
 [Roasted Carrot and Ginger Soup](https://github.com/vmsmith/CookBook/blob/master/soup_carrot_ginger_roasted.md)  
 
