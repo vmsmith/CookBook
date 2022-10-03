@@ -1,10 +1,10 @@
-[Cook Book]()   
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)   
 
-[Soups]()  
+[Soups](https://github.com/vmsmith/CookBook/blob/master/soups.md)  
 
 -----   
 
-[Notes]()   
+[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)   
 
 #### Carrot - Apple Soup  
 
@@ -12,10 +12,10 @@
 * Olive or canola oil
 * 1 small yellow onion, chopped
 * 1 pound of carrots, peeled and cut crosswise into thin slices
-* 1/2 and apple, peeled (optional), cored and chopped, plus more for garnish
+* 1/2 an apple, peeled (optional), cored and chopped, plus more for garnish
 * 1/4 teaspoon fine salt, plus more to taste
-* 4 cups no-salt-added chicken or vegetable broth
-* 1/4 cup Greek-style or plain low-fat yogurt (optional)
+* 4 cups no-salt-added chicken (winter) or vegetable (summer) broth   
+* 1/4 cup Greek-style or plain low-fat yogurt (optional)   
 
 #### Preparation   
 1. Chop onion   
