@@ -42,7 +42,9 @@
 
 [Supremes de Volaille aux Champignons - Julia Child](https://github.com/vmsmith/CookBook/blob/master/chicken_volaille.md)
 
-#### Chicken Legs  
+#### Chicken Legs   
+
+[Chicken Normand](https://github.com/vmsmith/CookBook/blob/master/chicken_legs_normand.md)  
 
 [Tandoori Chicken](https://github.com/vmsmith/CookBook/blob/master/chicken_thighs_tandoori.md)
 
