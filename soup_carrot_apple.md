@@ -9,24 +9,25 @@
 #### Carrot - Apple Soup  
 
 #### Ingredients   
-1 tablespoon olive or canola oil
-1 medium yellow onion, chopped
-2 pounds carrots, peeled and cut crosswise into thin slices
-1 apple, peeled (optional), cored and chopped, plus more for garnish
-1/2 teaspoon fine salt, plus more to taste
-8 cups no-salt-added chicken or vegetable broth
-1/2 cup Greek-style or plain low-fat yogurt (optional)
+* Olive or canola oil
+* 1 small yellow onion, chopped
+* 1 pound of carrots, peeled and cut crosswise into thin slices
+* 1/2 and apple, peeled (optional), cored and chopped, plus more for garnish
+* 1/4 teaspoon fine salt, plus more to taste
+* 4 cups no-salt-added chicken or vegetable broth
+* 1/4 cup Greek-style or plain low-fat yogurt (optional)
 
 #### Preparation   
-
-
+1. Chop onion   
+2. Peel and slice carrots   
+3. Peel, core, and slice apples  
 
 #### Directions   
 
-Warm a large pot over medium heat until hot. Carefully add the oil, followed by the onion, carrots and apple. Stir to coat the ingredients in the oil, season with salt, then cover and cook until the ingredients start to soften, about 15 minutes. From time to time, lift the lid and stir with a wooden spoon.
+1. Salt and gently sauté the onion, carrots and apple (covered) until they soften, about 15 minutes.   
+2. Increase the heat to high, add the chicken stock and bring to a boil.   
+3. Reduce the heat to low, and cook until the carrots are completely tender, about 20 minutes.  
+4. Remove from the heat and let cool for 20 minutes.
+5. Using a slotted spoon, transfer the solids to the blender or food processor and process until smooth.  
+6. Add the yogurt, if desired, and process again, then stir this mixture back into the soup. Taste, and season with additional salt, if desired.   
 
-Increase the heat to high, add the chicken or vegetable broth and bring to a boil. Reduce the heat to low, and cook until the carrots are completely tender, about 20 minutes. Remove from the heat and let cool for 20 minutes.
-
-Using a slotted spoon, transfer the solids to the blender or food processor and process until smooth. Add the yogurt, if desired, and process again, then stir this mixture back into the soup. Taste, and season with additional salt, if desired.
-
-Serve right away, or cover and refrigerate until needed.
