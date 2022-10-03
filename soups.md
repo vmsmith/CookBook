@@ -74,7 +74,7 @@
 
 [Squash and Ginger Soup](https://github.com/vmsmith/CookBook/blob/master/soup_squash_ginger.md)  
 
-[Squash and Butternut Squash Soup](https://github.com/vmsmith/CookBook/blob/master/soup_squash_pear.md)   
+[Butternut Squash and Pear Soup](https://github.com/vmsmith/CookBook/blob/master/soup_squash_pear.md)   
 
 [Roasted Butternut Squash Soup](https://github.com/vmsmith/CookBook/blob/master/soup_squash_butternut_roasted.md)  
 
