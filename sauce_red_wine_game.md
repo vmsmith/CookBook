@@ -13,11 +13,11 @@
 * 2 carrots, chopped   
 * 2 shallots, chopped     
 * 1 bouquet garni  
-* 60 grams of butter    
-* 30 grams of flour    
-* 10 cl of red wine vinegar   
-* 50 cl of red wine   
-* 50 cl of game stock (or veal stock)   
+* 60 grams of butter (2.1 ounces)       
+* 30 grams of flour (1.6 ounces)       
+* 10 cl of red wine vinegar (3.4 fluid ounces)  
+* 50 cl of red wine (2 1/8 cups)     
+* 50 cl of game or veal stock (2 1/8 cups)    
 * 2 tablespoons of red currant or cranberry jelly   
 * Oil
 
