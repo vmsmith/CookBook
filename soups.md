@@ -24,6 +24,8 @@
 
 [Roasted Carrot and Ginger Soup](https://github.com/vmsmith/CookBook/blob/master/soup_carrot_ginger_roasted.md)  
 
+[Carrot/Cashew Soup](https://www.washingtonpost.com/news/voraciously/wp/2019/11/03/cashews-make-this-vegan-carrot-soup-creamy-spices-make-it-wonderful/) - Link to WaPo   
+
 [Celery Root and Leek Soup](https://github.com/vmsmith/CookBook/blob/master/soup_celery_root_leek.md)  
 
 [Chestnut Soup](https://github.com/vmsmith/CookBook/blob/master/soup_chestnut.md)  
