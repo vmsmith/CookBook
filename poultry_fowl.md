@@ -98,6 +98,8 @@
 -----  
 #### Duck  
 
+[Roast Wild Duck](https://www.cuisinefiend.com/147/roast-wild-duck) - Link to Cuisine Friend   
+
 [Duck Breast, Pan Seared](https://github.com/vmsmith/CookBook/blob/master/fowl_duck_breast_pan-seared.md)  
 
 [Duck Breast, Roasted with Apicius Sauce](https://github.com/vmsmith/CookBook/blob/master/fowl_duck_breast_roasted_apicius-sauce.md)
