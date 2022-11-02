@@ -6,7 +6,8 @@
 
 ### Poultry and Fowl     
 
-[Steam Roast Pakistani Chicken](https://www.nytimes.com/2021/09/17/dining/chicken-steam-roast-recipe-wedding-dish.html)
+[Chicken Normandy](https://eatingeuropean.com/chicken-normandy/) - Link to Eating European  
+
 
 #### Chicken, Whole    
 
