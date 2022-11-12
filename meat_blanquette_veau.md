@@ -44,18 +44,16 @@
 
 2. Empty the contents of the pot into a colander to discard the cooking water while recovering the pieces of veal. Rinse the meat under cold water, drain it, and put it back in the bottom of the pot.
 
-Ensuite, ajoutez l'oignon, l'échalote, l'ail, le poireau, le céleri, les carottes et le bouquet garni. Salez et poivrez. Mouillez avec le vin puis ajoutez de l'eau de façon à immerger la viande et les légumes. Couvrez, portez à ébullition, puis baissez le feu et laissez mijoter environ 1h30 à petits frémissements.
+Then add the onion, shallot, garlic, leek, celery, carrots and bouquet garni. Add salt and pepper. Moisten with the wine and add water so that the meat and vegetables are immersed. Cover, bring to a boil, then lower the heat and simmer for about 1h30.
 
-4
-
-Pendant la cuisson de la viande, faites revenir dans une poêle les champignons (environ 10 min à feu moyen), avec 20 g de beurre et les 3/4 du jus du citron.
+While the meat is cooking, sauté the mushrooms in a pan (about 10 minutes over medium heat) with 20 g of butter and 3/4 of the lemon juice.
 
 Then prepare a blond roux: in a saucepan, melt the remaining butter, sprinkle it with the flour, whisk until the butter has been completely absorbed and the mixture is lightly browned, then stop cooking and let cool.
 
-6
-
 Once the meat is cooked, pour the contents of the casserole into a fine sieve to strain the cooking broth into a bowl. Turn the heat back on under the saucepan containing the roux, pour in the broth in batches and whisk constantly to thicken the roux and bring the sauce to a boil.
 
-7
-
 Finally, put the meat and vegetables (without the aromatics) back into the casserole, add the pan-fried mushrooms, mix with the sauce and reheat for 10 to 15 minutes.
+
+Just before serving, mix the cream with the egg yolks and add this mixture to the sauce, stirring constantly to avoid boiling. Flavor with the remaining lemon juice, then arrange in a shallow dish and garnish with the parsley sprigs.
+
+Serve on white rice
