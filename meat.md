@@ -10,7 +10,8 @@
 * [Steak au poivre](https://github.com/vmsmith/CookBook/blob/master/meat_steak_au_poivre.md)  
 * [Steak, reverse seared](https://github.com/vmsmith/CookBook/blob/master/meat_steak_reverse_seared.md)
 
-#### Veal  
+#### Veal   
+* [Blanquette de Veau]()  
 * [Osso Bucco](https://github.com/vmsmith/CookBook/blob/master/meat_osso_bucco.md)      
 
 #### Lamb  
