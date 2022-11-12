@@ -11,7 +11,7 @@
 * [Steak, reverse seared](https://github.com/vmsmith/CookBook/blob/master/meat_steak_reverse_seared.md)
 
 #### Veal   
-* [Blanquette de Veau]()  
+* [Blanquette de Veau](https://github.com/vmsmith/CookBook/blob/master/meat_blanquette_veau.md)     
 * [Osso Bucco](https://github.com/vmsmith/CookBook/blob/master/meat_osso_bucco.md)      
 
 #### Lamb  
