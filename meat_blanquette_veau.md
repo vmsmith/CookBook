@@ -40,20 +40,20 @@
 
 #### Directions   
 
-1. In a casserole, pot or stewpot, pour 2 L of water, then plunge the pieces of meat into it and bring to a boil for a maximum of 1 to 2 minutes to blanch them (rid them of their impurities and starch). 
+1. In a pot, pour 2 liters of water, then put the pieces of meat into it and bring to a boil for a maximum of 1 to 2 minutes to blanch them. 
 
 2. Empty the contents of the pot into a colander to discard the cooking water while recovering the pieces of veal. Rinse the meat under cold water, drain it, and put it back in the bottom of the pot.
 
-Then add the onion, shallot, garlic, leek, celery, carrots and bouquet garni. Add salt and pepper. Moisten with the wine and add water so that the meat and vegetables are immersed. Cover, bring to a boil, then lower the heat and simmer for about 1h30.
+3. Add the onion, shallot, garlic, leek, celery, carrots and bouquet garni. **Add salt and pepper.** Add the wine and water so that the meat and vegetables are immersed. Cover, bring to a boil, then lower the heat and simmer until the meat is tender (up to 1h30).
 
-While the meat is cooking, sauté the mushrooms in a pan (about 10 minutes over medium heat) with 20 g of butter and 3/4 of the lemon juice.
+4. While the meat is cooking, sauté the mushrooms in a pan for about 10 minutes over medium heat with 20 g of butter and 3/4 of the lemon juice.
 
-Then prepare a blond roux: in a saucepan, melt the remaining butter, sprinkle it with the flour, whisk until the butter has been completely absorbed and the mixture is lightly browned, then stop cooking and let cool.
+5. Then make a blond roux with equal parts (25g) flour and butter. 
 
-Once the meat is cooked, pour the contents of the casserole into a fine sieve to strain the cooking broth into a bowl. Turn the heat back on under the saucepan containing the roux, pour in the broth in batches and whisk constantly to thicken the roux and bring the sauce to a boil.
+6. Once the meat is cooked, pour the contents of the casserole into a fine sieve to strain the cooking broth into a bowl. Turn the heat back on under the saucepan containing the roux, pour in the broth in batches and whisk constantly to thicken the roux and bring the sauce to a boil.
 
-Finally, put the meat and vegetables (without the aromatics) back into the casserole, add the pan-fried mushrooms, mix with the sauce and reheat for 10 to 15 minutes.
+7. Put the meat and vegetables (without the aromatics) back into the casserole, add the pan-fried mushrooms, mix with the sauce and reheat for 10 to 15 minutes.
 
-Just before serving, mix the cream with the egg yolks and add this mixture to the sauce, stirring constantly to avoid boiling. Flavor with the remaining lemon juice, then arrange in a shallow dish and garnish with the parsley sprigs.
+8. Just before serving, mix the cream with the egg yolks and add this mixture to the sauce, stirring constantly to avoid boiling. Flavor with the remaining lemon juice, then arrange in a shallow dish and garnish with the parsley sprigs.
 
 Serve on white rice
