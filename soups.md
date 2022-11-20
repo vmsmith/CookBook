@@ -20,7 +20,9 @@
 
 [Cauliflower Soup](https://github.com/vmsmith/CookBook/blob/master/soup_cauliflower.md)  
 
-[Carrot - Apple Soup](https://github.com/vmsmith/CookBook/blob/master/soup_carrot_apple.md)
+[Carrot and Apple Soup](https://github.com/vmsmith/CookBook/blob/master/soup_carrot_apple.md)   
+
+[Carrot and Cashew Soup](https://github.com/vmsmith/CookBook/blob/master/soup_carrot_cashew.md)   
 
 [Roasted Carrot and Ginger Soup](https://github.com/vmsmith/CookBook/blob/master/soup_carrot_ginger_roasted.md)  
 
