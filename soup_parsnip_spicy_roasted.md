@@ -9,12 +9,12 @@
 ### Spicy Roasted Parsnip Soup   
 
 #### Ingredients   
-* 1 pounds of parsnips     
+* 1 pounds of parsnips, peeled and cubed        
 * 3 1/2 cups of stock  
-* 1 medium onion, cut into 8 chunks   
-* 2 garlic cloves   
-* 1 large plum tomatoes, quartered  
-* 1 tbsp olive oil   
+* 1 medium onion, peeled and cut into 8 chunks   
+* 2 garlic cloves, peeled      
+* 1 large plum tomatoes, quartered      
+* 1 tbsp olive oil    
 * 1/2 tsp coriander seeds   
 * 1/2 tsp cumin seeds, plus extra to garnish   
 * 1/4 tsp ground turmeric   
