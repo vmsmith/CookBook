@@ -58,7 +58,9 @@
 
 [Onion Soup, Classic](https://github.com/vmsmith/CookBook/blob/master/soup_onion.md)  
 
-[Onion Soup à la Pied de Cochon]() - Patricia Wells, p. 18  
+[Onion Soup à la Pied de Cochon]() - Patricia Wells, p. 18   
+
+[Spicy Roasted Parsnip Soup](https://github.com/vmsmith/CookBook/blob/master/soup_parsnip_spicy_roasted.md)   
 
 [Roasted Red Pepper Soup](https://github.com/vmsmith/CookBook/blob/master/soup_pepper_red.md)  
 
