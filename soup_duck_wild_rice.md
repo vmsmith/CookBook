@@ -6,8 +6,7 @@
 
 [Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)  
 
-### [Hearty Duck and Wild Rice Soup](https://cooking.nytimes.com/recipes/50-hearty-duck-and-wild-rice-soup)   
-NY Times  
+### Hearty Duck and Wild Rice Soup - [NY Times](https://cooking.nytimes.com/recipes/50-hearty-duck-and-wild-rice-soup)   
 
 #### Ingredients 
 * Duck meat  
