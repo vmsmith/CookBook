@@ -6,10 +6,10 @@
 
 [Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)  
 
-### Hearty Duck and Wild Rice Soup  
+### [Hearty Duck and Wild Rice Soup](https://cooking.nytimes.com/recipes/50-hearty-duck-and-wild-rice-soup)   
+NY Times  
 
 #### Ingredients 
-
 * Duck meat  
 * 1 onion, peeled and coarsely chopped
 * 1 carrot, trimmed, scraped and coarsely chopped
@@ -23,7 +23,6 @@
 
 
 #### Preparation  
-
 1. Cook rice
 2. Prepare onion    
 3. Prepare carrots, both coarse and fine
@@ -33,7 +32,6 @@
 
 
 #### Directions  
-
 1. Sauté the duck pieces until nicely browned, then cut into small pieces  
 2. Return all the pieces to the pot and add the onion, coarsely chopped carrot, and garlic and cook three minutes, stirring constantly  
 3. Add the broth and bring to the boil   
