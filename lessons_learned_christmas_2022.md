@@ -24,6 +24,8 @@
   * Did majority of shopping   
 * D + 1  
   * Made goose stock  
+  * Shredded bread for dressing  
+  * Made *beurre manié* for sauces  
   * Made parsnip purée   
   * Sauces   
 * D-day   
