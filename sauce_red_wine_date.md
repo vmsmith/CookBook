@@ -14,6 +14,7 @@
 * 3 tbsp of balsamic vinegar  
 * 3 tbsp of port  
 * 200 grams of pitted dates  
+* Buerre manié   
 
 #### Preparation   
 
