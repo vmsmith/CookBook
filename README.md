@@ -12,6 +12,8 @@
 
 -----  
 
+#### [Lessons Learned](https://github.com/vmsmith/CookBook/blob/master/lesson_learned.md)
+
 #### [Classic French Dishes](https://github.com/vmsmith/CookBook/blob/master/dishes_classic_french.md)
 
 #### [Lunch Dishes - General](https://github.com/vmsmith/CookBook/blob/master/dishes_lunch.md)   
