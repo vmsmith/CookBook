@@ -11,7 +11,7 @@
 #### Menu   
 * Quail egg broth  
 * Roast goose with date sauce   
-* Brussels sprouts with pancetta   
+* [Brussels sprouts with pancetta](https://github.com/vmsmith/CookBook/blob/master/veg_brussells_sprouts_pancetta.md)      
 * Parsnip putée   
 * Cranberry sauce   
 * Dressing   
