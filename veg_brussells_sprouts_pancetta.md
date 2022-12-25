@@ -1,10 +1,10 @@
-[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README)
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)
 
-[Vegetables](https://github.com/vmsmith/CookBook/blob/master/vegetables)   
+[Vegetables](https://github.com/vmsmith/CookBook/blob/master/vegetables.md)   
 
 -----    
 
-[Notes](https://github.com/vmsmith/CookBook/blob/master/notes)  
+[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)  
 
 ### Brussels Sprouts with Pancetta   
 
