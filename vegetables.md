@@ -24,6 +24,8 @@
 
 [Brussells Sprouts with Lardons](https://github.com/vmsmith/CookBook/blob/master/veg_brussells_sprouts_lardons.md)  
 
+[Brussels Sprouts with Pancetta](https://github.com/vmsmith/CookBook/blob/master/veg_brussells_sprouts_lardons.md)   
+
 [Carrots, Glazed with Honey and Thyme](https://github.com/vmsmith/CookBook/blob/master/veg_carrots_glazed1.md)  
 
 [Carrots, Roasted](https://github.com/vmsmith/CookBook/blob/master/veg_carrots_roasted.md)  
