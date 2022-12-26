@@ -9,14 +9,15 @@
 ### Chestnut Dressing  
 
 #### Ingredients  
-* One red apple, cut into relatively small chunks  
+* Stale bread, broken into cruton-size chunks  
+  * One tradition serves six   
+* Half a red apple, cut into relatively small chunks  
 * Equal amount of quartered chestnuts  
 * Equal amount of raisins  
 * Equal amount of chopped sweet onions  
 * Equal amount of chopped celery  
-* 3 - 4 cloves of garlic, chopped  
-* Stale bread, broken into cruton-size chunks  
-* 2 cups of chicken stock  
+* 3 - 4 cloves of garlic, chopped   
+* 1+ cup of stock  
 * Heavy cream  
 * Chopped fresh parsley, sage  
 * Salt and pepper   
@@ -38,4 +39,4 @@
 3. Pour enough chicken stock on to dampen the mixture and loosely mix with hands (adding salt and pepper as you go)    
 4. Pour in a bit of cream while continuing to mix  
 5. Butter a baking dish, and add the mixture  
-6. Bake for a while with an aluminum foil cover, then remove the cover to brown the top  
+6. Bake for a while (45 minutes) with an aluminum foil cover, then remove the cover to brown the top  
