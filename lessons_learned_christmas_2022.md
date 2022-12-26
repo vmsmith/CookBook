@@ -40,6 +40,7 @@
 #### Issues   
 * Quail egg broth   
   * 5 1/2 cups of stock   
+  * :exclamation: A little unsalted   
 * Goose   
   * Bought at Marché Saint-Quentin   
   * :exclamation: Very expensive: 217€   
