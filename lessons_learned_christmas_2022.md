@@ -50,6 +50,7 @@
 * Brussels sprouts   
   * Not-so-great lots in local produce stands - next time go to *Le Grande Épicerie* 
   * Slightly undercooked - needed another minute of parboiling    
+  * Forgot to add shredded sage   
 * Parsnip purée   
   * Made a day early - fine   
 * Cranberry sauce   
