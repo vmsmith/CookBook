@@ -48,9 +48,9 @@
   * Slightly sweet  
   * Not sure dates in the sauce really worked - maybe cook to add flavor, then remove dates    
 * Brussels sprouts   
-  * Not-so-great lots in local produce stands - next time go to *Le Grande Épicerie* 
-  * Slightly undercooked - needed another minute of parboiling    
-  * Forgot to add shredded sage   
+  * :exclamation: Not-so-great lots in local produce stands - next time go to *Le Grande Épicerie* 
+  * :exclamation: Slightly undercooked - needed another minute of parboiling    
+  * :exclamation: Forgot to add shredded sage   
 * Parsnip purée   
   * Made a day early - fine   
 * Cranberry sauce   
@@ -59,10 +59,10 @@
 * Dressing   
   * Wasn't sure about the timing, but it didn't seem to matter  
   * Could have used a touch more stock    
-  * Forgot to butter the roasting pan  
+  * :exclamation: Forgot to butter the roasting pan  
 * Roasted sweet potatoes  
   * No problems   
 * Tarte tatin   
-  * No cooked enough to caremalize the entire top      
+  * :exclamation: No cooked enough to caremalize the entire top      
 * Christmas pudding      
-  * Underestimated the time to re-stream   
+  * :exclamation: Underestimated the time to re-stream   
