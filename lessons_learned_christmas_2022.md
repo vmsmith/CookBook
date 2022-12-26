@@ -58,6 +58,7 @@
 * Dressing   
   * Wasn't sure about the timing, but it didn't seem to matter  
   * Could have used a touch more stock    
+  * Forgot to butter the roasting pan  
 * Roasted sweet potatoes  
   * No problems   
 * Tarte tatin   
