@@ -42,7 +42,7 @@
   * 5 1/2 cups of stock   
 * Goose   
   * Bought at Marché Saint-Quentin   
-  * Very expensive: 217€   
+  * :exclamation: Very expensive: 217€   
   * Fed six people with some leftover   
 * Date Sauce   
   * Slightly sweet  
