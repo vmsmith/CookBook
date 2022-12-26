@@ -14,7 +14,7 @@
 * [Brussels sprouts with pancetta](https://github.com/vmsmith/CookBook/blob/master/veg_brussells_sprouts_pancetta.md)      
 * Parsnip purée   
 * Cranberry sauce   
-* Dressing   
+* [Dressing](https://github.com/vmsmith/CookBook/blob/master/misc_chestnut_dressing.md)      
 * Roasted rosemary sweet potatoes and shallots   
 * Christmas pudding with brandy sauce   
 * Tarte tatin   
