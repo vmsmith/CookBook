@@ -44,6 +44,7 @@
 * Goose   
   * Bought at Marché Saint-Quentin   
   * :exclamation: Very expensive: 217€   
+  * :exclamation: Forgot to get wishbone removed   
   * Fed six people with some leftover   
 * Date Sauce   
   * Slightly sweet  
