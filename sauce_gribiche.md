@@ -23,9 +23,10 @@
 
 #### Preparation   
 1. Hard boil and egg, and separate the yolk from the white   
-2. Chop the cornichons   
-3. Crush the capers and egg whites  
-4. Chop the parsley and taragon   
+2. Julienne the egg white      
+3. Chop the cornichons   
+4. Chop the capers  
+5. Chop the parsley and taragon   
 
 #### Directions   
 
