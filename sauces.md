@@ -36,6 +36,8 @@ Mother Sauces - [Web site](https://www.thespruceeats.com/mother-sauces-996119)
 
 [Green Sauce (Olive Oil)](https://github.com/vmsmith/CookBook/blob/master/sauce_green_oliveoil.md)  
 
+[Sauce Gribiche](https://github.com/vmsmith/CookBook/blob/master/sauce_gribiche.md)
+
 [Lemon Cream Sauce with Capers and Shallots](https://github.com/vmsmith/CookBook/blob/master/sauce_lemon-cream.md)
 
 [Mignonette Sauce (Oysters)](https://github.com/vmsmith/CookBook/blob/master/sauce_mignonette.md)
