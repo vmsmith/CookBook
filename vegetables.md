@@ -8,7 +8,9 @@
 
 * [How to Braise Vegetables](https://www.washingtonpost.com/food/2021/01/11/how-to-braise-vegetables/)  
 
-[Artichokes Sauteed with Onions, Garlic, and Herbs](https://github.com/vmsmith/CookBook/blob/master/veg_artichokes_sauteed.md)
+[Artichokes Sauteed with Onions, Garlic, and Herbs](https://github.com/vmsmith/CookBook/blob/master/veg_artichokes_sauteed.md)   
+
+[Artichokes, Roman-style with Herbed Mayonnaise](https://github.com/vmsmith/CookBook/blob/master/veg_artichokes_roman-style.md)   
 
 [Duxelles](https://github.com/vmsmith/CookBook/blob/master/veg_duxelles.md)
 
