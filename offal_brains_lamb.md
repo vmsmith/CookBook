@@ -42,6 +42,7 @@ Rainsy's recipe
 * 1 egg, lightly beaten    
 * 1 cup plain flour seasoned with salt & pepper    
 * Vegetable oil for deep-frying    
+* Lemon wedges   
 
 #### Preparation   
 1. Soak the lambs’ brains in a large bowl of cold water for 1-2 hours to remove the excess blood.   
@@ -56,4 +57,4 @@ Rainsy's recipe
 5. Dip the poached brains in the beaten egg and lightly coat with some flour.    
 6. Deep-fry the brains in batches for about 5 minutes each, or until they turn lovely and golden.   
 7. Drain on some kitchen paper and sprinkle over some sea salt flakes.   
-8. Serve immediately.   
+8. Season with lemon oil and serve immediately.   
