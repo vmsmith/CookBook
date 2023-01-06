@@ -33,3 +33,27 @@ Rainsy's recipe
 7. Serve immediately.
 
 -----   
+
+### Fried Breaded Lamb Brains   
+
+#### Ingredients   
+* Lambs’ brains   
+* Sea salt    
+* 1 egg, lightly beaten    
+* 1 cup plain flour seasoned with salt & pepper    
+* Vegetable oil for deep-frying    
+
+#### Preparation   
+1. Soak the lambs’ brains in a large bowl of cold water for 1-2 hours to remove the excess blood.   
+2. Carefully separate the lobes by removing the white central cortex in the middle.
+
+
+#### Directions   
+1. Bring a large pot of water to the boil and season it with some sea salt.
+2. Use a slotted spoon to carefully poach the brains in the simmering water for 3-5 minutes. You don’t want to cook it completely, but just long enough for the brains to firm up and become easier to handle.   
+3. Use a slotted spoon to remove the brains to a plate lined with kitchen paper and allow to cool.   
+4. Fill a large pan with enough vegetable oil for deep-frying (about 5cm or 2 inch depth) and heat to about 180°C (350°F).   
+5. Dip the poached brains in the beaten egg and lightly coat with some flour.    
+6. Deep-fry the brains in batches for about 5 minutes each, or until they turn lovely and golden.   
+7. Drain on some kitchen paper and sprinkle over some sea salt flakes.   
+8. Serve immediately.   
