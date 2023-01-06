@@ -60,4 +60,4 @@ Rainsy's recipe
 5. Dip the poached brains in the beaten egg and lightly coat with some flour.    
 6. Deep-fry the brains in batches for about 5 minutes each, or until they turn lovely and golden.   
 7. Drain on some kitchen paper and sprinkle over some sea salt flakes.   
-8. Season with lemon oil, garnish with parsley, and serve immediately.   
+8. Season with lemon oil, garnish with parsley, and serve immediately with [Roman-style fried artichokes with herb mayonaisse](https://eatlittlebird.com/roman-style-fried-artichokes-carciofi-alla-giudia/).      
