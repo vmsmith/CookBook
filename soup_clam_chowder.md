@@ -8,6 +8,40 @@
 
 ### Clam Chowder  
 
+#### Ingredients    
+* 2 cans (6-1/2 ounces each) chopped clams, undrained   
+* 1 cup chicken stock (or water)     
+* 1 bottle (8 ounces) clam juice   
+* 1/3 cup all-purpose flour   
+* 2 cups fat-free half-and-half, divided   
+* 4 center-cut bacon strips   
+* 2 celery ribs, chopped   
+* 1 large onion, chopped   
+* 1 garlic clove, minced   
+* 3 small potatoes, peeled and cubed   
+* 1/4 teaspoon white pepper   
+* 1/4 teaspoon dried thyme   
+
+#### Preparation   
+1. Chop onion   
+2. Chop celery ribs  
+3. Mince garlic clove   
+4. Peel and cube potatotes  
+
+#### Directions   
+1. In a Dutch oven, cook bacon over medium heat until crisp. Remove to paper towels to drain; set aside.  
+2. Saute celery and onion in the drippings until tender.   
+3. Add garlic; cook 1 minute longer.   
+4. Stir in the potatoes, water, clam juice, bouillon, pepper and thyme.   
+5. Bring to a boil. Reduce heat; simmer, uncovered, until potatoes are tender, 15-20 minutes.   
+6. In a small bowl, combine flour and 1 cup half-and-half until smooth.   
+7. Gradually stir into soup.   
+8. Bring to a boil; cook and stir until thickened, 1-2 minutes.    
+9. Stir in clams and remaining half-and-half; heat through (do not boil).  
+10. Crumble the cooked bacon; sprinkle over each serving.
+
+-----   
+
 #### Ingredients   
 
 * 12 ounces of clams  
