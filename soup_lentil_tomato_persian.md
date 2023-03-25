@@ -3,20 +3,21 @@
 [Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)   
 
 ### Persian Lentil Tomato Soup   
+[Washington Post](https://www.washingtonpost.com/food/2022/02/03/rezas-persian-lentil-tomato-soup-recipe/)   
 
 #### Ingredients
 
-* 1 1/2 tablespoons ghee or olive oil
+* 2 tablespoons ghee or olive oil
 * 1/2 medium yellow onion (8 ounces), diced
-* 3/8 cup green or brown lentils
-* 1/4 cup uncooked basmati rice
-* 3 ounces tomato paste
+* 1/2 cup green or brown lentils
+* 3/8 cup uncooked basmati rice
+* 4 ounces tomato paste
 * 1/2 teaspoon ground cumin
 * 1/2 teaspoon dried mint leaves (optional)
 * 1/4 teaspoon fine salt, plus more as needed
 * 1/8 teaspoon freshly ground black pepper
 * 1/8 teaspoon ground cinnamon
-* 3 cups low-sodium vegetable or chicken broth, divided
+* 4 cups low-sodium vegetable or chicken broth, divided
 * 1/4 bunch (1 ounce) fresh parsley, preferably curly, leaves and tender stems, finely chopped and divided, plus more for serving
 * 1/8 cup fresh lemon juice (from 2 large lemons), plus more to taste
 * Fresh herb sprigs, such as parsley, scallions, tarragon and/or dill, for serving, as desired (optional)
