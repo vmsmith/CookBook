@@ -1,8 +1,8 @@
 
 
-[Cook Book](https://github.com/vmsmith/CookBook/blob/master/sauce_madeira.md)   
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)   
 
-[Sauces](https://github.com/vmsmith/CookBook/blob/master/sauce.md)   
+[Sauces](https://github.com/vmsmith/CookBook/blob/master/sauces.md)   
 
 [Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)   
 
