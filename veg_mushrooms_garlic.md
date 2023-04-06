@@ -1,6 +1,6 @@
 [Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)   
-[Vegetables]()   
-[Notes]()    
+[Vegetables](https://github.com/vmsmith/CookBook/blob/master/vegetables.md)   
+[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)    
 
 -----    
 
