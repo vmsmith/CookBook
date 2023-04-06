@@ -28,8 +28,12 @@
 
 
 #### Preparation    
-
-
+1. Prehat oven to 450F    
+2. Slice carrots   
+3. Slice parsnips   
+4. Slice onion   
+5. Smath garlic    
+6. Quarter mushrooms   
 
 #### Directions   
 
