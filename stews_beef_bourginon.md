@@ -25,6 +25,7 @@
 * 3 1/2 tablespoons butter    
 * 1 herb bouquet (4 sprigs parsley, 2 sprigs thyme, 1 bay leaf)    
 * 1 pound fresh white mushrooms, quartered    
+* Marrow bones   
 
 
 #### Preparation    
