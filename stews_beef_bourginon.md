@@ -50,18 +50,19 @@
 10. Add the tomato paste, garlic and thyme.   
 11. Bring to a light simmer on the stove, then cover and simmer in the lower part of the oven for 3 to 4 hours, or until the meat is easily pierced.   
 12. **All this can be done a day ahead of time to let the flavors marry**   
-13. In the last hour of cooking, bring 1 1/2 tablespoons butter and 2 teaspoons oil to a medium heat in a sauté pan.   
-14. Add the pearl onions and toss around in the fat until they've browned, 10 minutes.   
-15. Then stir in 1/2 cup beef stock, a small pinch of salt and pepper and the herb bouquet.   
-16. Reduce the heat to low and simmer the onions for about 40 minutes, until the liquid has evaporated, and the onions are tender.      
-17. Remove the onions and set aside.   
-18. Discard the herb bouquet and wipe out the skillet. Add the remaining butter and oil and bring to a medium heat.   
-19. Add the mushrooms and cook for about 5 minutes, shaking the pan to coat with the butter.    
-20. Place a colander over a large pot. Drain the beef stew through the colander and into the pot.     
-21. Place the pot with the sauce over a medium heat and simmer for about 5 minutes, skimming any fat on top.   
-22. Pour the beef and vegetables back into the Dutch oven.   
-23. Add the pearl onions and mushrooms to the pot.    
-24. Pour the sauce over the beef mix and simmer an additional 3 to 5 minutes.
+13. In the last hour of cooking, add the marrow bones.  
+14. Bring 1 1/2 tablespoons butter and 2 teaspoons oil to a medium heat in a sauté pan.   
+15. Add the pearl onions and toss around in the fat until they've browned, 10 minutes.   
+16. Then stir in 1/2 cup beef stock, a small pinch of salt and pepper and the herb bouquet.   
+17. Reduce the heat to low and simmer the onions for about 40 minutes, until the liquid has evaporated, and the onions are tender.      
+18. Remove the onions and set aside.   
+19. Discard the herb bouquet and wipe out the skillet. Add the remaining butter and oil and bring to a medium heat.   
+20. Add the mushrooms and cook for about 5 minutes, shaking the pan to coat with the butter.    
+21. Place a colander over a large pot. Drain the beef stew through the colander and into the pot.     
+22. Place the pot with the sauce over a medium heat and simmer for about 5 minutes, skimming any fat on top.   
+23. Pour the beef and vegetables back into the Dutch oven.   
+24. Add the pearl onions and mushrooms to the pot.    
+25. Pour the sauce over the beef mix and simmer an additional 3 to 5 minutes.
 
 
 
