@@ -41,6 +41,7 @@
 [Macédoine](https://github.com/vmsmith/CookBook/blob/master/veg_macedoine.md)  
 
 Mushrooms  
+* [Garlic Mushrooms](https://github.com/vmsmith/CookBook/blob/master/veg_mushrooms_garlic.md)
 * [Mushrooms Bourgignon](https://github.com/vmsmith/CookBook/blob/master/veg_mushrooms_bourgignon.md)
 * [Grilled Brussels Sprouts with Chanterelles](https://www.bonappetit.com/recipe/grilled-brussels-sprouts-with-chanterelles)  
 * [Chicken and Dumplings with Mushrooms](https://www.bonappetit.com/recipe/chicken-dumplings-mushrooms)  
