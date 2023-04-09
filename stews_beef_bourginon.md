@@ -29,16 +29,14 @@
 * 1 pound fresh white mushrooms, quartered    
 * Marrow bones   
 
-
-#### Preparation    
+#### Preparation Day One  
 1. Prehat oven to 450F    
 2. Slice carrots   
 3. Slice parsnips   
 4. Slice onion   
 5. Smash garlic    
-6. Quarter mushrooms   
 
-#### Directions   
+#### Directions Day One   
 
 1. In a large Dutch oven, sauté the bacon in 1 tablespoon of oil for about 3 minutes, until it starts to lightly brown.   
 2. Remove with a slotted spoon and set aside.    
@@ -52,19 +50,27 @@
 10. Add the tomato paste, garlic and thyme.   
 11. Bring to a light simmer on the stove, then cover and simmer in the lower part of the oven for 3 to 4 hours, or until the meat is easily pierced.   
 12. **All this can be done a day ahead of time to let the flavors marry**   
-13. In the last hour of cooking, add the marrow bones.  
-14. Bring 1 1/2 tablespoons butter and 2 teaspoons oil to a medium heat in a sauté pan.   
-15. Add the pearl onions and toss around in the fat until they've browned, 10 minutes.   
-16. Then stir in 1/2 cup beef stock, a small pinch of salt and pepper and the herb bouquet.   
-17. Reduce the heat to low and simmer the onions for about 40 minutes, until the liquid has evaporated, and the onions are tender.      
-18. Remove the onions and set aside.   
-19. Discard the herb bouquet and wipe out the skillet. Add the remaining butter and oil and bring to a medium heat.   
-20. Add the mushrooms and cook for about 5 minutes, shaking the pan to coat with the butter.    
-21. Place a colander over a large pot. Drain the beef stew through the colander and into the pot.     
-22. Place the pot with the sauce over a medium heat and simmer for about 5 minutes, skimming any fat on top.   
-23. Pour the beef and vegetables back into the Dutch oven.   
-24. Add the pearl onions and mushrooms to the pot.    
-25. Pour the sauce over the beef mix and simmer an additional 3 to 5 minutes.
+
+#### Preparation Day Two  
+1. Smash the garlic   
+2. Prep the pearl onions  
+
+#### Directions Day Two 
+
+1. Reheat the stew.
+2. Add the marrow bones.  
+3. Bring 1 1/2 tablespoons butter and 2 teaspoons oil to a medium heat in a sauté pan.   
+4. Add the pearl onions and toss around in the fat until they've browned, 10 minutes.   
+5. Then stir in 1/2 cup beef stock, a small pinch of salt and pepper and the herb bouquet.   
+6. Reduce the heat to low and simmer the onions for about 40 minutes, until the liquid has evaporated, and the onions are tender.      
+7. Remove the onions and set aside.   
+8. Discard the herb bouquet and wipe out the skillet. Add the remaining butter and oil and bring to a medium heat.   
+9. Add the mushrooms and cook for about 5 minutes, shaking the pan to coat with the butter.    
+10. Place a colander over a large pot. Drain the beef stew through the colander and into the pot.     
+11. Place the pot with the sauce over a medium heat and simmer for about 5 minutes, skimming any fat on top.   
+12. Pour the beef and vegetables back into the Dutch oven.   
+13. Add the pearl onions and mushrooms to the pot.    
+14. Pour the sauce over the beef mix and simmer an additional 3 to 5 minutes.
 
 
 
