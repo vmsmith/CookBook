@@ -1,3 +1,4 @@
+[Calendar](https://github.com/vmsmith/EDT/blob/master/calendar.md)   
 [Everyday Things - README](https://github.com/vmsmith/EDT/blob/master/README.md)
 
 -----  
