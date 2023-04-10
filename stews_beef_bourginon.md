@@ -51,7 +51,7 @@
 12. **All this can be done a day ahead of time to let the flavors marry**   
 
 #### Preparation Day Two  
-1. Smash the garlic   
+1. Prep the mushrooms      
 2. Prep the pearl onions  
 
 #### Directions Day Two 
