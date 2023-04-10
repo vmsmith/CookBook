@@ -13,6 +13,8 @@
 
 [Poulet au Pot](https://github.com/vmsmith/CookBook/blob/master/chicken_pot_au_poulet.md)  
 
+[Roast Chicken with Butter, Taragon, and Cognac](https://github.com/vmsmith/CookBook/blob/master/chicken_roasted_butter-tarragon-cognac.md)
+
 [Roasted Chicken with Caremelized Shallots](https://github.com/vmsmith/CookBook/blob/master/chicken_roasted_shallot-caremelized.md)  
 
 [Roast Chicken the French Way](https://github.com/vmsmith/CookBook/blob/master/chicken_roast_french-way.md)  
