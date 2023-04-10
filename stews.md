@@ -7,7 +7,7 @@
 
 ### Stews  
 
-[Beef Bourginon](https://github.com/vmsmith/CookBook/blob/master/stews_beef_bourginon.md)   
+[Beouf Bourguinon](https://github.com/vmsmith/CookBook/blob/master/stews_beef_bourginon.md)   
 
 [Pot au Feu](https://github.com/vmsmith/CookBook/blob/master/stews_pot_au_feu.md)  
 
