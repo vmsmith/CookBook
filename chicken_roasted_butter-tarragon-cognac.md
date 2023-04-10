@@ -1,7 +1,7 @@
-[Calendar]()   
+[Calendar](https://github.com/vmsmith/EDT/blob/master/calendar.md)      
 [Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)  
-[Poultry/Fowl]((https://github.com/vmsmith/CookBook/blob/master/poultry_fowl.md)
-[Notes]((https://github.com/vmsmith/CookBook/blob/master/notes.md)   
+[Poultry/Fowl](https://github.com/vmsmith/CookBook/blob/master/poultry_fowl.md)
+[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)   
 
 -----   
 
@@ -12,11 +12,10 @@
 * Butter   
 * Fresh tarragon   
 * Cognac   
-
+* Nice gray sea salt   
 
 #### Preparation    
-
-
+1. Mash the butter and the tarragon together  
 
 #### Directions    
 1. Salt the bird, let the skin dry out a bit, then coat it with softened butter and tarragon.  
