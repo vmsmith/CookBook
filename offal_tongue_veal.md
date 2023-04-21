@@ -28,8 +28,9 @@
 4. Salt sparingly.    
 5. Let it simmer for about 2 - 3 hours, until a knife slides in easily.   
 6. Take the tongue out, let it cool a bit, then peel the outer layer.   
-7. When it's cooled enough, slice and refrigerate.   
-8. Heat up and serve with Madeira sauce.  
+7. Strain and save the broth.  
+8. When it's cooled enough, slice and refrigerate.   
+9. Heat up and serve with Madeira sauce.  
 
 #### Madeira Sauce   
 1. Melt 2 table spoons of butter and add two tablespoons of flour.   
