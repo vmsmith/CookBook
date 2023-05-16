@@ -6,6 +6,8 @@
 
 ### Soups    
 
+[White Asparagus Soup](https://github.com/vmsmith/CookBook/blob/master/soup_asparagus-creamy-white.md)
+
 [Asparagus, Cream of](https://github.com/vmsmith/CookBook/blob/master/soup_asparagus-cream-of.md)
 
 [Avocado, Cucumber, and Fennel Soup](https://github.com/vmsmith/CookBook/blob/master/soup_avocado-cucumber-fennel.md)
