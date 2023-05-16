@@ -6,7 +6,7 @@
 
 ### Soups    
 
-[White Asparagus Soup](https://github.com/vmsmith/CookBook/blob/master/soup_asparagus-creamy-white.md)
+[Creamy White Asparagus Soup](https://github.com/vmsmith/CookBook/blob/master/soup_asparagus-creamy-white.md)
 
 [Asparagus, Cream of](https://github.com/vmsmith/CookBook/blob/master/soup_asparagus-cream-of.md)
 
