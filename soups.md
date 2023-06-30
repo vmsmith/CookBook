@@ -36,7 +36,9 @@
 
 [Clam Chowder](https://github.com/vmsmith/CookBook/blob/master/soup_clam_chowder.md)  
 
-[Duck with Wild Rice](soup_duck_wild_rice.md)  
+[Duck with Wild Rice](https://github.com/vmsmith/CookBook/blob/master/soup_duck_wild_rice.md)  
+
+[Eggplant Soup](https://github.com/vmsmith/CookBook/blob/master/soup_eggplant.md)
 
 [Fish Soup, Basque](https://github.com/vmsmith/CookBook/blob/master/soup_fish_basquaise.md)  
 
