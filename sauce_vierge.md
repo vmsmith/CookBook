@@ -9,13 +9,14 @@
 ### Sauce Vierge   
 
 #### Ingredients   
+* 10 cl (4 oz) of olive oil
 * 2 tomatoes, peeled, seeded and chopped    
-* 1 chopped shallot or two spring onions, chopped   
-* 10 sprigs of chives    
 * 10 basil leaves  
-* 1 garlic clove    
 * 1/2 a lemon  
-* 10 cl of olive oil  
+* 1 chopped shallot or two spring onions, chopped   
+* 1 garlic clove    
+* 10 sprigs of chives    
+* Crushed coriander seeds   
 * Salt and freshly ground pepper  
 
 #### Preparation  
