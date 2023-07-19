@@ -13,16 +13,19 @@
 * Olive oil  
 * Lemon(s)  
 * Salt and pepper  
-* Piment d'Eplette  
+* Piment d'Eplette
+* Parsley   
 
 #### Preparation   
 
-1. Juice the lemon  
-2. Preheat oven to 400F/210C  
+1. Juice the lemon
+2. Chop the parsley   
+3. Preheat oven to 400F/210C  
 
 #### Directions  
 
 1. Rub cod with oil and put in baking pan  
 2. Add a little lemon juice  
 3. Season with salt, pepper, and piment d'Eplette  
-4. Bake for 10 - 12 minutes, depending on the thickness  
+4. Bake for 10 - 12 minutes, depending on the thickness
+5. Garnish with chopped parsley   
