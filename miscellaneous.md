@@ -10,6 +10,8 @@
 
 [Oyster Dressing](https://github.com/vmsmith/CookBook/blob/master/misc_oyster_dressing.md)  
 
+[Pissalidière](https://github.com/vmsmith/CookBook/blob/master/misc_pissalidiere.md)
+
 [Roux](https://github.com/vmsmith/CookBook/blob/master/misc_roux.md)   
 
 [Winter Dishes](https://github.com/vmsmith/CookBook/blob/master/misc_winter_dishes.md)
