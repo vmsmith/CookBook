@@ -94,4 +94,7 @@
 
 [Vegetable Soup](https://github.com/vmsmith/CookBook/blob/master/soup_vegetable.md)  
 
+[Creamy Zucchini Soup](https://github.com/vmsmith/CookBook/blob/master/soup_zucchini_creamy.md)  
+
+
 
