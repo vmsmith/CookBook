@@ -4,7 +4,7 @@
 
 [Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)  
 
-[Gratin #1]() - Patricia Wells, p. 98    
+[Gratin #1](https://github.com/vmsmith/CookBook/blob/master/potatoes_gratin1.md) - Patricia Wells, p. 98    
 
 [Gratin #2]() 
 
