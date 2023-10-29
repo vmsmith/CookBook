@@ -8,10 +8,10 @@
 ### Potatoes Gratin #1 - Patricia Wells  
 
 #### Ingredienats    
-* Potatoes    
-* Grated Gruyère   
-* Creme Fraîche   
-* Garlic
+* 1 pound of potatoes    
+* 1/2 a cup of grated Gruyère   
+* 1/2 a cup of creme fraîche   
+* Peeled garlic clove   
 * Salt and pepper
 
 #### Preparation   
