@@ -6,3 +6,15 @@
 -----  
 
 ### Potatoes Dauphinoise     
+
+#### Ingredients   
+* Potatoes   
+* 500ml double cream
+* 500ml milk
+* 2 garlic cloves
+* 100g grated gruyère cheese (optional)
+
+#### Preparation    
+
+
+#### Directions   
