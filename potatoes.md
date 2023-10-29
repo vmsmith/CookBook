@@ -1,9 +1,10 @@
 [Calendar](https://github.com/vmsmith/EDT/blob/master/calendar.md)  
 [Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)  
+[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)  
 
 -----  
 
-[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)  
+### Potatoes    
 
 [Gratin #1](https://github.com/vmsmith/CookBook/blob/master/potatoes_gratin1.md) - Patricia Wells, p. 98    
 
