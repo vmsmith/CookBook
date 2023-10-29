@@ -8,7 +8,7 @@
 
 [Gratin #1](https://github.com/vmsmith/CookBook/blob/master/potatoes_gratin1.md) - Patricia Wells, p. 98    
 
-[Gratin #2](https://github.com/vmsmith/CookBook/blob/master/potatoes_gratin2.md) 
+[Dauphinoise #1](https://github.com/vmsmith/CookBook/blob/master/potatoes_dauphinoise1.md) 
 
 [Sautéed with Garlic and Walnut Oil]() - Patricia Wells, p. 111  
 
