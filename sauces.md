@@ -24,6 +24,8 @@ Mother Sauces - [Web site](https://www.thespruceeats.com/mother-sauces-996119)
 
 [Bearnaise Sauce](https://github.com/vmsmith/CookBook/blob/master/sauce_bearnaise.md)  
 
+[Bordelaise Sauce](https://github.com/vmsmith/CookBook/blob/master/sauce_bordelaise.md)  
+
 [Beurre Blanc](https://github.com/vmsmith/CookBook/blob/master/sauce_beurre_blanc.md)
 
 [Brandy, Mushroom, and Cream Sauce](https://github.com/vmsmith/CookBook/blob/master/sauce_brandy-mushroom-cream.md)  
