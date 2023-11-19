@@ -16,6 +16,7 @@
 * 1/2 cup of stock    
 * Beurre manié
 * Butter
+* Demi-glace (optional)   
 * Bone marrow (optional)   
 
 #### Preparation   
