@@ -52,7 +52,7 @@
 15. Check for moisture, and add more stock if necessary.
 16. Remove, let cool, and refigerate overnight.   
 
-#### Day Two   
+#### Day Two - Part I
 1. Reheat the pot of stew.
 2. Bring 1 1/2 tablespoons butter and 2 teaspoons oil to a medium heat in a sauté pan.
 3. Add the pearl onions and toss around in the fat until they've browned, 10 minutes.
@@ -62,6 +62,7 @@
 7. Discard the herb bouquet and wipe out the skillet. Add the remaining butter and oil and bring to a medium heat.
 8. Add the mushrooms and cook for about 5 minutes, shaking the pan to coat with the butter.
 
+#### Day Two - Part II    
 9. Place a colander over a large pot.
 10. Drain the beef stew through the colander and into the pot.
 11. Place the pot with the sauce over a medium heat and simmer for about 5 minutes, skimming any fat on top.
