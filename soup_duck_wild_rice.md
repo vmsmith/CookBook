@@ -25,11 +25,11 @@
 
 #### Preparation  
 1. Cook rice
-2. Prepare onion    
+2. Coarsely chop onion    
 3. Prepare carrots, both coarse and fine
-4. Prepare leek
-5. Prepare mushrooms  
-6. Prepare garlic
+4. Finely mince leek
+5. Cut mushrooms  
+6. Mince garlic
 
 
 #### Directions  
