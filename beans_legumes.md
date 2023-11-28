@@ -4,6 +4,8 @@
 
 ### Beans and Legumes  
 
+[Cassoulet - Paula Wolfert](https://github.com/vmsmith/CookBook/blob/master/beans_cassoulet_wolfert.md)
+
 [Cassoulet - Anthony Bourdain](https://github.com/vmsmith/CookBook/blob/master/beans_cassoulet_bourdain.md)
 
 [Lentils, Moroccan](https://github.com/vmsmith/CookBook/blob/master/beans_legumes_lentils_moroccan.md)  
