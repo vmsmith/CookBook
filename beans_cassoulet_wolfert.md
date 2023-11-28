@@ -35,10 +35,8 @@
   * Chop the onion
   * Cut the carrot
   * Cut the pancetta into cubes   
-
-
-* Make garlic purée
-  * Blend pork fat, cooked garlic, raw garlic, and water     
+* Day Three
+  * Preheat oven to 325F (165C)      
 
 
 #### Day 1 Directions   
@@ -53,4 +51,21 @@
 4. Add the ham hock and pancetta and allow both to brown.
 5. Add the whole head of garlic and the tomato, and cook for a minute.
 6. Add the stock, pork skin, and herb bouquet.
-7. Bring to a boil and simmer for an hour.  
+7. Bring to a boil and simmer for an hour.
+8. Remove beans from fridge, drain, cover with water, slowly bring to a boil, skim, simmer for a few minutes, then add to the ragout.
+9. Continue simmering the ragout until the beans are tender.
+10. Let it cool, then skim off the fat (save two tablespoons).
+11. Put in the refrigerator overnight.
+
+#### Day 3 Directions   
+1. Remove the ragout from the refrigerator and bring to room temperature.
+2. Pick out the ham hock, pancetta, garlic head and herbs.
+3. Cut the pancetta into pieces, discarding the fat.
+4. Set all the meats aside.
+5. Squeeze the garlic out of the garlic head.  
+6. Make the garlic purée: blend the pork fat, cooked garlic, raw garlic, and water.   
+7. Steam the duck leg confit, then pull the meat off the bones.
+8. Assemble the cassoulet:
+  a. Cut the pork skin and line the cassoulet.
+  b. Add half the beans and pork shoulder.
+  c. Scatter the duck leg confit on the beans and pork shoulder.    
