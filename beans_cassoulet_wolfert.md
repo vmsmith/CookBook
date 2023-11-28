@@ -68,4 +68,14 @@
 8. Assemble the cassoulet:    
   a. Cut the pork skin and line the cassoulet.    
   b. Add half the beans and pork shoulder.    
-  c. Scatter the duck leg confit on the beans and pork shoulder.      
+  c. Scatter the duck leg confit on the beans and pork shoulder.
+  d. Cover with the remaining beans and ragout.
+  e. Taste the ragout liquid and season as necessary.
+  f. Pour enough liquid over the beans to just cover them - leave at least one inch growing space in the dish.    
+  g. Drizzle with the reserved fat.
+  h. Cook for 1 1/2 hours.
+  i. Prick the sausages and brown them.
+  j. Reduce the oven to 275F (135C).
+  k. Place the sausage on top and dust with bread crumbs.
+  l. Bake for one more hour, until top is golden brown.   
+  m. Let cool for 20 minutes, and drizzle with walnut oil.  
