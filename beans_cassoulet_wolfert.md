@@ -65,7 +65,7 @@
 5. Squeeze the garlic out of the garlic head.  
 6. Make the garlic purée: blend the pork fat, cooked garlic, raw garlic, and water.   
 7. Steam the duck leg confit, then pull the meat off the bones.
-8. Assemble the cassoulet:
-  a. Cut the pork skin and line the cassoulet.
-  b. Add half the beans and pork shoulder.
-  c. Scatter the duck leg confit on the beans and pork shoulder.    
+8. Assemble the cassoulet:    
+  a. Cut the pork skin and line the cassoulet.    
+  b. Add half the beans and pork shoulder.    
+  c. Scatter the duck leg confit on the beans and pork shoulder.      
