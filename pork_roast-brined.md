@@ -14,7 +14,8 @@
 
 #### Preparation   
 1. Brine the pork (see below)
-2. Preheat oven to 325F (165C)   
+2. Chop the shallots   
+3. Preheat oven to 325F (165C)   
 
 #### Directions   
 1. Remove the pork from the brine, rinse it, and dry it with a paper towel.
