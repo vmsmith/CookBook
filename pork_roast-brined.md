@@ -1,4 +1,13 @@
-Brined Roast Pork
+[Calendar](https://github.com/vmsmith/EDT/blob/master/calendar.md)     
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)      
+[Meat](https://github.com/vmsmith/CookBook/blob/master/meat.md)     
+[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)     
+
+-----   
+
+### Brined Roast Pork    
+
+
 You want to use a relatively large, deep bowl or another container (such as a deep plastic one) that will comfortably fit the meat in it, submerged, along with the brine. If you have a little extra brine, you don't need to add it all, but you want enough to cover the meat. Feel free to use whatever aromatics you'd like. I gave quantities for what I used but you can swap out crushed allspice berries or a few cloves, or leave them out altogether.
 Make sure the brine is cold before you add the meat - it should be "refrigerator cold" (about 40ºF/4ºC) - and don't re-use the brine.
 Note that the pork roast I used was already tied, and didn't have a thick layer of fat on it. If yours does, it may throw off some additional fat, so you may wish to find a roast that's been trimmed of some of its thick fat. In the U.S. the cut that I used is called pork shoulder roast.
