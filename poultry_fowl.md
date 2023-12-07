@@ -49,6 +49,8 @@
 
 [Chicken Normand](https://github.com/vmsmith/CookBook/blob/master/chicken_legs_normand.md)  
 
+[Chicken and Peppers with Creamy Paprika]()    
+
 [Tandoori Chicken](https://github.com/vmsmith/CookBook/blob/master/chicken_thighs_tandoori.md)
 
 [Slow-Cooker Dijon Chicken With Barley and Mushrooms](https://github.com/vmsmith/CookBook/blob/master/chicken_thighs_slow-cooked_barley_mushrooms.md)
