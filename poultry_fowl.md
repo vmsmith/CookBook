@@ -49,7 +49,7 @@
 
 [Chicken Normand](https://github.com/vmsmith/CookBook/blob/master/chicken_legs_normand.md)  
 
-[Chicken and Peppers with Creamy Paprika]()    
+[Chicken and Peppers with Creamy Paprika](https://github.com/vmsmith/CookBook/blob/master/chicken_peppers-paprika.md)        
 
 [Tandoori Chicken](https://github.com/vmsmith/CookBook/blob/master/chicken_thighs_tandoori.md)
 
