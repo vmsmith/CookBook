@@ -27,24 +27,25 @@
 * Fresh bread crumbs
 * Walnut oil   
 
-#### Preparation   
-* Day One
-  * Trim and cut pork shoulder into 6 chunks
-  * Chunk the ham hock   
-* Day Two
-  * Chop the onion
-  * Cut the carrot
-  * Cut the pancetta into cubes   
-* Day Three
-  * Preheat oven to 325F (165C)      
+#### Day One   
 
+**Preparation:**   
+* Trim and cut pork shoulder into 6 chunks    
+* Chunk the ham hock   
 
-#### Day 1 Directions   
+**Directions:**
 1. Season the pork shoulder, ham hock, and pork skin with salt and pepper.
 2. Cover and refrigerate the meats overnight.
 3. Soak the beans overnight.
 
-#### Day 2 Directions    
+#### Day Two   
+
+**Preparation:**   
+* Chop the onion
+* Cut the carrot
+* Cut the pancetta into cubes   
+
+**Directions:**
 1. Simmer the pork skin until it's supple.
 2. Dry the cubes of pork, then lightly brown on all sides in the duck fat.
 3. Add the onion and carrots, and simmer until soft.
@@ -57,7 +58,12 @@
 10. Let it cool, then skim off the fat (save two tablespoons).
 11. Put in the refrigerator overnight.
 
-#### Day 3 Directions   
+#### Day Three
+  
+**Preparation:**   
+* Preheat oven to 325F (165C)      
+
+**Directions:**      
 1. Remove the ragout from the refrigerator and bring to room temperature.
 2. Pick out the ham hock, pancetta, garlic head and herbs.
 3. Cut the pancetta into pieces, discarding the fat.
