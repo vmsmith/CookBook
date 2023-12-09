@@ -1,4 +1,7 @@
-[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)  
+[Calendar](https://github.com/vmsmith/EDT/blob/master/calendar.md)   
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)    
+[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)  
+
 
 #### Things to try  
 * [Hachis Parmentier de Canard](https://mesmeilleuresrecettesfaciles.over-blog.com/2021/05/hachis-parmentier-de-canard.html)  
@@ -11,7 +14,6 @@
 * Pintade  
 * Brest chicken   
 * Lamb Saddle Basquaise (Elizabeth David)  
-* Sole (Julia Child)   
 * Sardines and tomatoes (Radia)    
 
 -----  
