@@ -45,5 +45,8 @@
 * [Rabbit Braised with Prunes](https://github.com/vmsmith/CookBook/blob/master/rabbit_braised_prunes.md)  
 * [Rabbit Cacciatore](https://github.com/vmsmith/CookBook/blob/master/rabbit_cacciatore.md)  
 * [Rabbit Stew with Mushrooms](https://github.com/vmsmith/CookBook/blob/master/rabbit_stew_mushrooms.md)  
-* [Maltese Rabbit Stew](https://github.com/vmsmith/CookBook/blob/master/rabbit_stew_maltese.md)  
+* [Maltese Rabbit Stew](https://github.com/vmsmith/CookBook/blob/master/rabbit_stew_maltese.md)
+
+#### Miscellaneous   
+* [Wild Boar Pasta Sauce](https://github.com/vmsmith/CookBook/blob/master/pasta_sauce_wild-boar.md)        
 
