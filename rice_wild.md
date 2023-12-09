@@ -1,12 +1,13 @@
-[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)  
-
-[Rice and Risotto](https://github.com/vmsmith/CookBook/blob/master/rice_risotto.md)  
+[Calendar](https://github.com/vmsmith/CookBook/blob/master/calendar.md)       
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)     
+[Rice and Risotto](https://github.com/vmsmith/CookBook/blob/master/rice_risotto.md)     
+[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)  
 
 -----  
 
-[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)  
-
 ### Wild Rice (with many things)  
+
+### 1. NY Times Wild Rice w/Mushrooms    
 
 [NY Times "Wild Rice w/Mushrooms" recipe (see comments)](https://cooking.nytimes.com/recipes/1016894-wild-rice-with-mushrooms)  
 
@@ -30,4 +31,37 @@
 * Turn it down to low (2), and put the lid on  
 * Cook approximately 40  until the rice has "popped"  
 * Drain the liquid  
-* Add additions, and put back on a (1) burner if other things are still cooking 
+* Add additions, and put back on a (1) burner if other things are still cooking
+
+-----    
+
+### 2. Minnesota Wild Rice  
+
+#### Ingredients    
+* 1/2 cup of washed (well) wild rice    
+* 2 cups of chicken stock    
+* 1/2 cup of diced celery    
+* 1/3 cup of diced onion    
+* 1/3 cup diced mushrooms    
+* 1 tablespoon of butter
+* Salt and pepper
+
+#### Preparation     
+1. Wash the rice
+2. Dice the celery
+3. Dice the onion
+4. Dice the mushrooms
+5. Preheat oven to 375 degrees F
+
+#### Directions   
+1. Sautée the vegetables and mushrooms in butter.    
+2. Place all (except 1/3 cup of broth) into a covered casserole dish.   
+3. Cover tightly and bake at 375 degrees F for about 1 1/2 hours or a little more.    
+4. Add extra broth as needed.    
+5. Check to make sure wild rice has popped open.
+6. Remove lid and fluff a bit with fork. Take a forkful and taste the wild rice. Make sure it is the desired texture.
+7. Serve immediately or let sit to cool a bit uncovered.
+
+
+Fluff again with fork and if not serving immediately let sit out or refrigerate. This dish tastes good later on or the next day. Can re-heat in smaller amounts in microwave.
+
