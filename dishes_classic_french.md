@@ -1,11 +1,10 @@
-[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)   
+[Calendar](https://github.com/vmsmith/EDT/blob/master/calendar.md)    
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)       
+[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)   
 
------   
+-----     
 
-[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)  
-
-### Classic French Dishes  
-
+### Classic French Dishes   
 * Boeuf Bourguignon  
 * Bouillabaisse  
 * Onion Soup  
@@ -19,8 +18,7 @@
 * Blanquette de veau  
 * Pot-au-Feu  
 
-### Classic Desserts  
-
+### Classic Desserts   
 * Tarte Tatin  
 * Chocolate Soufflé
 * Crème Brûlé   
