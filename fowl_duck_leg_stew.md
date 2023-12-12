@@ -36,4 +36,4 @@
 
 #### Menu  
 
-Serve with wild rice and sautéed Golden Delicious apple slices  
+Serve with [wild rice](https://github.com/vmsmith/CookBook/blob/master/rice_wild.md) and sautéed Golden Delicious apple slices  
