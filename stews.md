@@ -16,4 +16,4 @@
 
 [Rabbit Stew](https://github.com/vmsmith/CookBook/blob/master/rabbit_stew_mushrooms.md)  
 
-[Duck Leg Stew](https://github.com/vmsmith/CookBook/blob/master/.md)  
+[Duck Leg Stew](https://github.com/vmsmith/CookBook/blob/master/fowl_duck_leg_stew.md)      
