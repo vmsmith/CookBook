@@ -28,13 +28,15 @@
 1. Prep the wild boar:
    * Marinate the meat for 24 hours in red wine, onion, garlic, celery, and bay leaf
    * Drain and dice (or mince) the meat    
-2. Dice carrots and celery   
+2. Dice onions, carrots, and celery
+3. Chop the garlic     
 
 #### Directions   
-1. Peel and chop the garlic and onion, then brown them in a stewpot with extra-virgin olive oil.
-2. Add the diced carrots and celery, and sauté with the spices and herbs for 5 to 10 minutes.
-3. Brown the meat, season with salt and deglaze with the red wine.
-4. Add the tomato paste and coulis and cook over a low heat, stirring occasionally, until the sauce has reduced.
-5. If necessary, add a little meat stock during cooking, which should take around two hours in all, depending on the quality of the meat.
-6. 15 minutes before the end of the cooking time, add the milk and mix well.
-7. Serve over papparelle, and sprinkle with grated parmesan.   
+1. Sautée the onions in a stewpot with extra-virgin olive oil.
+2. When the onions are almost done, add the garlic and stir for a minute.
+3. Add the diced carrots and celery, and sauté with the spices and herbs for 5 to 10 minutes.
+4. Brown the meat, season with salt and deglaze with the red wine.
+5. Add the tomato paste and coulis and cook over a low heat, stirring occasionally, until the sauce has reduced.
+6. If necessary, add a little meat stock during cooking, which should take around two hours in all, depending on the quality of the meat.
+7. 15 minutes before the end of the cooking time, add the milk and mix well.
+8. Serve over papparelle, and sprinkle with grated parmesan.   
