@@ -1,10 +1,9 @@
-[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)  
-
-[Poultry and Fowl](https://github.com/vmsmith/CookBook/blob/master/poultry_fowl.md)  
+[Calendar](https://github.com/vmsmith/EDT/blob/master/caledar.md)    
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)    
+[Poultry and Fowl](https://github.com/vmsmith/CookBook/blob/master/poultry_fowl.md)    
+[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)   
 
 -----  
-
-[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)  
 
 #### Roast Goose with Breast Crown  
 Adapted from [Raymond's Roast Goose](https://www.bbcgoodfood.com/recipes/raymonds-roast-goose)  
