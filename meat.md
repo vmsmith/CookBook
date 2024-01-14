@@ -48,5 +48,6 @@
 * [Maltese Rabbit Stew](https://github.com/vmsmith/CookBook/blob/master/rabbit_stew_maltese.md)
 
 #### Miscellaneous   
-* [Wild Boar Pasta Sauce](https://github.com/vmsmith/CookBook/blob/master/pasta_sauce_wild-boar.md)        
+* [Wild Boar Pasta Sauce](https://github.com/vmsmith/CookBook/blob/master/pasta_sauce_wild-boar.md)
+* [Venison Chili](https://github.com/vmsmith/CookBook/blob/master/venison_chili.md)
 
