@@ -8,23 +8,23 @@
 ### Venison Chili   
 
 #### Ingredients    
-* 1 pound of ground venison    
-* 1 1/2 cups of venison of beef stock    
-* 28 ounces of diced tomatoes     
-* 15 ounces of kidney beans, drained and rinsed    
-* 15 ounces of black beans, drained and rinsed     
-* 1 yellow onion, diced     
-* 2 peppers, diced     
-* 4 - 5 garlic cloves, minced     
-* 2 tbsp chili powder    
-* 1 tbsp of cumin
-* 1 tsp of paprika
-* 1 1/2 tsp salt
-* 1/2 tsp pepper
-* 3 tbsp tomato paste
-* 1 tsp Worchestishire sauce   
-* 1 orange, juiced
-* 1 lime, juiced    
+* 1/2 pound of ground venison    
+* 3/4 cups of venison of beef stock    
+* 14 ounces of diced tomatoes     
+* 8 ounces of kidney beans, drained and rinsed    
+* 7 ounces of black beans, drained and rinsed     
+* 1/2 yellow onion, diced     
+* 1 peppers, diced     
+* 3 garlic cloves, minced     
+* 1 tablespoon chili powder    
+* 1/2 tablespoon of cumin
+* 1/2 teaspoon of paprika
+* 1 1/2 teaspoons salt
+* 1/4 teaspoon pepper
+* 1 1/2 tablespoon tomato paste
+* 1/2 teaspoon Worchestishire sauce   
+* 1/2 orange, juiced
+* 1/2 lime, juiced    
 
 #### Preparation    
 1. Dice the onion
