@@ -11,7 +11,9 @@
 
 #### Chicken, Whole    
 
-[Poulet au Pot](https://github.com/vmsmith/CookBook/blob/master/chicken_pot_au_poulet.md)  
+[Poulet au Pot](https://github.com/vmsmith/CookBook/blob/master/chicken_pot_au_poulet.md)   
+
+[Slow Whole Roast Chicken](https://github.com/vmsmith/CookBook/blob/master/chicken_roasted_whole_slow.md)
 
 [Roast Chicken with Butter, Taragon, and Cognac](https://github.com/vmsmith/CookBook/blob/master/chicken_roasted_butter-tarragon-cognac.md)
 
