@@ -6,6 +6,7 @@
 -----    
 
 ### Slow Cooked Whole Chicken    
+( [NY Times](https://cooking.nytimes.com/recipes/1024994-slow-cooker-whole-chicken) )
 
 #### Ingredients    
 * 1 whole (4- to 5-pound) chicken, trimmed of excess fat     
