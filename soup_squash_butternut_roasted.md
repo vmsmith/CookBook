@@ -37,4 +37,4 @@
 8. Remove the soup from the heat and let cool a bit.
 9. Use an immersion blender to puree the soup until smooth.
 10. Season to taste with salt.
-11. Serve hot, and add a dollop of creme fraiche. .. 
+11. Serve hot, and add a dollop of creme fraiche and a sprinkling of the remaining chopped sage.   
