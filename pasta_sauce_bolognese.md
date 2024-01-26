@@ -23,21 +23,23 @@
 * Pasta    
 * Freshly grated parmigiano-reggiano cheese at the table    
 
-
-
 #### Preparation    
-
-
-
+1. Chop the onion
+2. Chop the celery
+3. Chop the carrot
+4. Cut up the tomatoes   
 
 #### Directions   
-Step 1
-Put the oil, butter and chopped onion in the pot and turn the heat on to medium. Cook and stir the onion until it has become translucent, then add the chopped celery and carrot. Cook for about 2 minutes, stirring vegetables to coat them well.
-Step 2
-Add ground beef, a large pinch of salt and a few grindings of pepper. Crumble the meat with a fork, stir well and cook until the beef has lost its raw, red color.
-Step 3
-Add milk and let it simmer gently, stirring frequently, until it has bubbled away completely. Add a tiny grating -- about ⅛ teaspoon -- of nutmeg, and stir.
-Step 4
-Add the wine, let it simmer until it has evaporated, then add the tomatoes and stir thoroughly to coat all ingredients well. When the tomatoes begin to bubble, turn the heat down so that the sauce cooks at the laziest of simmers, with just an intermittent bubble breaking through to the surface. Cook, uncovered, for 3 hours or more, stirring from time to time. While the sauce is cooking, you are likely to find that it begins to dry out and the fat separates from the meat. To keep it from sticking, add ½ cup of water whenever necessary. At the end, however, no water at all must be left and the fat must separate from the sauce. Stir to mix the fat into the sauce, taste and correct for salt.
-Step 5
-Toss with cooked drained pasta, adding the tablespoon of butter, and serve with freshly grated Parmesan on the side.
+1. Put the oil, butter and chopped onion in the pot and turn the heat on to medium.
+2. Cook and stir the onion until it has become translucent, then add the chopped celery and carrot.
+3. Cook for about 2 minutes, stirring vegetables to coat them well.
+4. Add ground beef, a large pinch of salt and a few grindings of pepper.
+5. Crumble the meat with a fork, stir well and cook until the beef has lost its raw, red color.
+6. Add the milk and let it simmer gently, stirring frequently, until it has bubbled away completely.
+7. Add a tiny grating -- about ⅛ teaspoon -- of nutmeg, and stir.
+8. Add the wine, let it simmer until it has evaporated, then add the tomatoes and stir thoroughly to coat all ingredients well.
+9. When the tomatoes begin to bubble, turn the heat down so that the sauce cooks at the laziest of simmers, with just an intermittent bubble breaking through to the surface.
+10. Cook, uncovered, for 3 hours or more, stirring from time to time.
+11. While the sauce is cooking, you are likely to find that it begins to dry out and the fat separates from the meat. To keep it from sticking, add ½ cup of water whenever necessary. At the end, however, no water at all must be left and the fat must separate from the sauce.
+12. Stir to mix the fat into the sauce, taste and correct for salt.
+13. Toss with cooked drained pasta, adding the tablespoon of butter, and serve with freshly grated Parmesan on the side.
