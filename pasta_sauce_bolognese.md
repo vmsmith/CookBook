@@ -8,20 +8,20 @@
 #### Marcella Hazan's Bolognese Sauce   
 
 #### Ingredients   
-1tablespoon vegetable oil
-3tablespoons butter plus 1 tablespoon for tossing the pasta
-½cup chopped onion
-⅔cup chopped celery
-⅔cup chopped carrot
-¾pound ground beef chuck (or you can use 1 part pork to 2 parts beef)
-Salt
-Black pepper, ground fresh from the mill
-1cup whole milk
-Whole nutmeg
-1cup dry white wine
-1½cups canned imported Italian plum tomatoes, cut up, with their juice
-1¼ to 1½pounds pasta
-Freshly grated parmigiano-reggiano cheese at the table
+* 1 tablespoon vegetable oil    
+* 3 tablespoons butter plus 1 tablespoon for tossing the pasta    
+* 1/4 cup chopped onion    
+* 2/3 cup chopped celery    
+* 2/3 cup chopped carrot    
+* 3/4 pound ground beef chuck (or you can use 1 part pork to 2 parts beef)    
+* Salt    
+* Black pepper, ground fresh from the mill    
+* 1 cup whole milk    
+* Whole nutmeg    
+* 1 cup dry white wine    
+* 1 1/2 cups canned imported Italian plum tomatoes, cut up, with their juice    
+* Pasta    
+* Freshly grated parmigiano-reggiano cheese at the table    
 
 
 
