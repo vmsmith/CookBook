@@ -6,7 +6,9 @@
 
 ### Pasta  
 
-[Wild Boar Pasta Sauce](https://github.com/vmsmith/CookBook/blob/master/pasta_sauce_wild-boar.md)        
+[Wild Boar Pasta Sauce](https://github.com/vmsmith/CookBook/blob/master/pasta_sauce_wild-boar.md) 
+
+[Marcella Hazan's Bolognese Sauce](https://github.com/vmsmith/CookBook/blob/master/pasta_sauce_bolognese.md)
 
 [Cacio e Pepe](https://github.com/vmsmith/CookBook/blob/master/pasta_cacio-e-pepe.md)  
 
