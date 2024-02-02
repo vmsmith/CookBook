@@ -4,6 +4,8 @@
 
 ### Beans and Legumes  
 
+[Parmesan Braised Beans](https://github.com/vmsmith/CookBook/blob/master/beans_braised_parmesan.md)
+
 [Cassoulet - Paula Wolfert](https://github.com/vmsmith/CookBook/blob/master/beans_cassoulet_wolfert.md)
 
 [Cassoulet - Anthony Bourdain](https://github.com/vmsmith/CookBook/blob/master/beans_cassoulet_bourdain.md)
