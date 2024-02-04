@@ -22,7 +22,10 @@
 * 1 small bunch fresh parsley, chopped       
 
 #### Preparation    
-
-
+1. Dice the onion
+2. Seed and dice the pepper
+3. Chop the garlic
+4. Chop the tomatoes
+5. Chop the herbs   
 
 #### Directions    
