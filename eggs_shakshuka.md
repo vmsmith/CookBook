@@ -25,7 +25,14 @@
 1. Dice the onion
 2. Seed and dice the pepper
 3. Chop the garlic
-4. Chop the tomatoes
-5. Chop the herbs   
+4. Chop the herbs   
 
 #### Directions    
+1. Heat olive oil in a large sauté pan on medium heat.
+2. Add the chopped bell pepper and onion and cook for 5 minutes or until the onion becomes translucent.
+3. Add garlic and spices and cook an additional minute.
+4. Pour the can of tomatoes and juice into the pan and break down the tomatoes using a large spoon.
+5. Season with salt and pepper and bring the sauce to a simmer.
+6. Use a large spoon to make small wells in the sauce and crack the eggs into each well.
+7. Cook the eggs for 5 to 8 minutes, or until they're done to your liking.   
+8. Garnish with chopped cilantro and parsley before serving.
