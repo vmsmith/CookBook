@@ -5,6 +5,8 @@
 
 ### Eggs  
 
+[Shakshuka](https://github.com/vmsmith/CookBook/blob/master/eggs_shakshuka.md)  
+
 [Basque Poached Eggs](https://github.com/vmsmith/CookBook/blob/master/eggs_poached_basque.md)  
 
 [En cocotte]() - oven 190C  
