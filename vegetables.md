@@ -70,6 +70,8 @@ Mushrooms
 
 [Sweet Pea Pilaf](https://github.com/vmsmith/CookBook/blob/master/rice_risotto_sweet-pea_pilaf.md)  
 
+[Piperade](https://github.com/vmsmith/CookBook/blob/master/sauce_piperade.md)    
+
 [Spinach, Sautéed with Garlic](https://github.com/vmsmith/CookBook/blob/master/veg_spinach_sauteed_garlic.md)    
 
 [Tomatoes, Over Dried](https://github.com/vmsmith/CookBook/blob/master/veg_tomatoes_oven-dried.md)  
