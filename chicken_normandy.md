@@ -1,8 +1,50 @@
-[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)
+[Calendar](https://github.com/vmsmith/EDT/blob/master/calendar.md)    
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)   
+[Poultry and Fowl](https://github.com/vmsmith/CookBook/blob/master/poultry_fowl.md)    
+[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)
 
-[Poultry and Fowl](https://github.com/vmsmith/CookBook/blob/master/poultry_fowl.md)  
+-----    
 
-### Chicken Normandy  
+### Simple Chicken Normandy #1
+
+#### Ingredients
+* Chicken thighs    
+* 4 small leeks (white and pale-green parts only), cut crosswise into 3-inch pieces, rinsed well (about 1 pound)    
+* 1 cup good-quality hard apple cider    
+* 1/2 cup of Creme Fraiche    
+* 2 teaspoons of olive oil    
+* 1 tablespoon of unsalted butter    
+* 1 tablespoon of thyme leaves    
+* 1 tablespoon of finely chopped parsely leaves    
+* Coarse salt and freshly ground pepper    
+
+#### Preparation
+1. Cut and wash the leeks
+2. Chop the herbs
+3. Season the chicken with salt and pepper   
+
+#### Directions
+1. Melt butter with the oil in a large enameled cast-iron Dutch oven over medium-high heat until just bubbling.
+2. Brown the chicken pieces (2 to 3 minutes per side( then transfer to a plate.
+3. Remove the pot and let cool slightly.
+4. Return pot to medium-low heat, and add the leeks.
+5. Cook, stirring frequently, until leeks begin to soften and are pale golden, about 3 minutes.
+6. Add hard cider and thyme.
+7. Move leeks to edges of pot, and add all the chicken pieces to pot, skin sides down.
+8. Arrange leeks over chicken.
+9. Cover, and cook 15 minutes (if liquid is bubbling rapidly, reduce heat to low).
+10. Turn chicken pieces.   
+12. Adjust leeks so they are submerged in liquid.
+13. Cook, uncovered, until the chicken pieces are tender and cooked through, about 10 minutes.
+14. Transfer the chicken to a warm serving platter.
+15. Remove leeks from pot, and arrange them around the chicken. Cover to keep warm.
+16. Return pot to medium heat. Cook, uncovered, until liquid has reduced by about half (to a scant 2/3 cup), 8 to 10 minutes.
+17. Reduce heat to medium-low. Whisk in the creme fraiche and parsley.
+18. Ladle pan sauce over chicken and leeks and serve immediately.
+
+-----     
+
+### Chicken Normandy #2
 
 #### Ingredients
 
