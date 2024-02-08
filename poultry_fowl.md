@@ -49,7 +49,9 @@
 
 #### Chicken Legs   
 
-[Chicken Normand](https://github.com/vmsmith/CookBook/blob/master/chicken_legs_normand.md)  
+[Chicken Normandy](https://github.com/vmsmith/CookBook/blob/master/chicken_normandy.md)    
+
+[Chicken Legs Normand](https://github.com/vmsmith/CookBook/blob/master/chicken_legs_normand.md)  
 
 [Chicken and Peppers with Creamy Paprika](https://github.com/vmsmith/CookBook/blob/master/chicken_peppers-paprika.md)        
 
