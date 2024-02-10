@@ -8,21 +8,17 @@
 ### Parmesan Braised Beans   
 
 #### Ingredients    
-FOR THE BEANS
-
-1pound dried beans (any mix of white, brown and black beans), rinsed
-1 to 3Parmesan rinds
-2fresh thyme sprigs
-2 to 3dried or fresh bay leaves
-Salt
-FOR SERVING
-
-⅓cup extra-virgin olive oil, plus more for drizzling
-1cup loosely packed fresh rosemary and sage leaves
-Unsalted butter (optional), at room temperature
-Oil-cured black olives, pitted (see Tip)
-Coarsely grated Parmesan
-Freshly ground black pepper
+* 1 pound dried beans (any mix of white, brown and black beans), rinsed
+* 1 to 3 Parmesan rinds
+* 2 fresh thyme sprigs
+* 2 to 3 dried or fresh bay leaves
+* Salt
+* 1/3 cup extra-virgin olive oil, plus more for drizzling
+* 1 cup loosely packed fresh rosemary and sage leaves
+* Unsalted butter (optional), at room temperature
+* Oil-cured black olives, pitted   
+* Coarsely grated Parmesan
+* Freshly ground black pepper
 
 
 #### Preparation    
