@@ -22,19 +22,22 @@
 
 
 #### Preparation    
-
+* Soak the beans overnight   
 
 
 #### Directions    
+1. Drain and place the soaked beans in a large (5- to 8-quart) pot.
+2. Cover with at least 2 inches of water.
+3. Add the Parmesan rinds, thyme sprigs and bay leaves.
+4. Bring to a boil over high, then reduce the heat to medium-low and simmer uncovered, stirring occasionally, until tender, 2 to 4 hours. Add more liquid during the cooking process if necessary.
+5. Cook until the beans should be very tender and somewhat brothy.
+6. A few minutes before they are done, remove and discard the thyme sprigs, bay leaves and rinds, then crush some of the beans against the side of the pot to thicken the broth.
+7. Season with salt to taste.
+8. Serve immediately, or cool and refrigerate. (The beans can stay up to 5 days in their liquid.)
+9. Heat the olive oil in a small saucepan over medium.
+10. Add a single sage leaf to test the oil; when it sizzles immediately, you’re good to go.
+11. Fry the rosemary and sage leaves, stirring occasionally with a slotted spoon, until crispy and muted green in color, 30 to 90 seconds.
+12. Transfer the fried herbs to a paper towel to drain.
+13. To serve, add 1/4 teaspoon butter, if using, and 4 olives to the bottom of each serving bowl.
+14. Ladle the beans into the bowls, then drizzle each with olive oil and top with cheese, pepper and fried herbs.
 
-
-Step 1
-Soak the beans in plenty of water so they have room to expand, at least 4 hours (and up to 12 hours) in the refrigerator.
-Step 2
-Drain and place the soaked beans in a large (5- to 8-quart) pot. Cover with at least 2 inches of water. Add the Parmesan rinds, thyme sprigs and bay leaves. Bring to a boil over high, then reduce the heat to medium-low and simmer uncovered, stirring occasionally, until tender, 2 to 4 hours. You may have to add more water during the cooking process. The beans should be very tender and somewhat brothy. A few minutes before they are done, remove and discard the thyme sprigs, bay leaves and rinds, then crush some of the beans against the side of the pot to thicken the broth. Season with salt to taste. Serve immediately, or cool and refrigerate. (The beans can stay up to 5 days in their liquid.)
-Step 3
-Heat the olive oil in a small saucepan over medium. Add a single sage leaf to test the oil; when it sizzles immediately, you’re good to go. Fry the rosemary and sage leaves, stirring occasionally with a slotted spoon, until crispy and muted green in color, 30 to 90 seconds. Transfer the fried herbs to a paper towel to drain.
-Step 4
-To serve, add ½ teaspoon butter, if using, and 4 olives to the bottom of each serving bowl. Ladle the beans into the bowls, then drizzle each with olive oil and top with cheese, pepper and fried herbs.
-TIP
-Oil-cured black olives, with their wrinkly dark skins, have a much deeper and muskier flavor than brined ones and are worth seeking out for their specific butteriness. You can find them in any specialty Italian grocery or deli, or at the cold deli bar of many supermarkets.
