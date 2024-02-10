@@ -38,6 +38,6 @@
 10. Add a single sage leaf to test the oil; when it sizzles immediately, you’re good to go.
 11. Fry the rosemary and sage leaves, stirring occasionally with a slotted spoon, until crispy and muted green in color, 30 to 90 seconds.
 12. Transfer the fried herbs to a paper towel to drain.
-13. To serve, add 1/4 teaspoon butter, if using, and 4 olives to the bottom of each serving bowl.
+13. To serve, add 1/2 teaspoon butter and 4 olives to the bottom of each serving bowl.
 14. Ladle the beans into the bowls, then drizzle each with olive oil and top with cheese, pepper and fried herbs.
 
