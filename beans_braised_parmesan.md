@@ -26,18 +26,17 @@
 
 
 #### Directions    
-1. Drain and place the soaked beans in a large (5- to 8-quart) pot.
+1. Drain and place the soaked beans in a large pot.
 2. Cover with at least 2 inches of water.
 3. Add the Parmesan rinds, thyme sprigs and bay leaves.
-4. Bring to a boil over high, then reduce the heat to medium-low and simmer uncovered, stirring occasionally, until tender, 2 to 4 hours. Add more liquid during the cooking process if necessary.
-5. Cook until the beans should be very tender and somewhat brothy.
+4. Bring to a boil over high heat, then reduce the heat to medium-low and simmer uncovered, stirring occasionally, until tender, 2 to 4 hours. Add more liquid during the cooking process if necessary.
+5. Cook until the beans are very tender and somewhat brothy.
 6. A few minutes before they are done, remove and discard the thyme sprigs, bay leaves and rinds, then crush some of the beans against the side of the pot to thicken the broth.
-7. Season with salt to taste.
-8. Serve immediately, or cool and refrigerate. (The beans can stay up to 5 days in their liquid.)
-9. Heat the olive oil in a small saucepan over medium.
-10. Add a single sage leaf to test the oil; when it sizzles immediately, you’re good to go.
-11. Fry the rosemary and sage leaves, stirring occasionally with a slotted spoon, until crispy and muted green in color, 30 to 90 seconds.
-12. Transfer the fried herbs to a paper towel to drain.
-13. To serve, add 1/2 teaspoon butter and 4 olives to the bottom of each serving bowl.
-14. Ladle the beans into the bowls, then drizzle each with olive oil and top with cheese, pepper and fried herbs.
+7. Season with salt to taste. To serve . . .    
+8.  Heat the olive oil in a small saucepan over medium heat.
+9.  Add a single sage leaf to test the oil; when it sizzles immediately, you’re good to go.
+10. Fry the rosemary and sage leaves, stirring occasionally with a slotted spoon, until crispy and muted green in color, 30 to 90 seconds.
+11. Transfer the fried herbs to a paper towel to drain.
+12. To serve, add 1/2 teaspoon butter and 4 olives to the bottom of each serving bowl.
+13. Ladle the beans into the bowls, then drizzle each with olive oil and top with cheese, pepper and fried herbs.
 
