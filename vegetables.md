@@ -72,6 +72,8 @@ Mushrooms
 
 [Piperade](https://github.com/vmsmith/CookBook/blob/master/sauce_piperade.md)    
 
+[Spinach, Creamed](https://github.com/vmsmith/CookBook/blob/master/veg_spinach_creamed.md)    
+
 [Spinach, Sautéed with Garlic](https://github.com/vmsmith/CookBook/blob/master/veg_spinach_sauteed_garlic.md)    
 
 [Tomatoes, Over Dried](https://github.com/vmsmith/CookBook/blob/master/veg_tomatoes_oven-dried.md)  
