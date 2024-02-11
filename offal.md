@@ -10,6 +10,8 @@
 
 [Brains, Lamb](https://github.com/vmsmith/CookBook/blob/master/offal_brains_lamb.md)
 
+[Deviled Duck Hearts](https://github.com/vmsmith/CookBook/blob/master/offal_hearts_duck_deviled.md)
+
 [Sweetbreads](https://github.com/vmsmith/CookBook/blob/master/offal_sweetbreads.md)  
 
 [Sautéed Rabbit Liver and Onions](https://github.com/vmsmith/CookBook/blob/master/offal_rabbit_liver_and_onions.md)
