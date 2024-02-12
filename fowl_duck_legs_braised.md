@@ -10,9 +10,11 @@
 #### Ingredients    
 * 2 duck legs, trimmed of excess fat    
 * 2 cups chicken or duck stock    
-* 2 large onions    
-* 1 pound carrots    
+* 1/2 pound onions    
+* 1/2 pound carrots    
 * 6 celery stalks
+* Optional: other root vegetables
+* Optional: reconstituted procini & liquid  
 * Salt and pepper to taste   
 
 ##### Preparation   
