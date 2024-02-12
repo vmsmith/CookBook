@@ -13,7 +13,7 @@
 * 2 large onions    
 * 1 pound carrots    
 * 6 celery stalks
-* * Salt and pepper to taste   
+* Salt and pepper to taste   
 
 ##### Preparation   
 1. Pre-heat oven to 400F
