@@ -104,6 +104,8 @@
 -----  
 #### Duck  
 
+[Crisp Braised Duck Legs](https://github.com/vmsmith/CookBook/blob/master/fowl_duck_legs_braised.md)  
+
 [Roast Wild Duck](https://github.com/vmsmith/CookBook/blob/master/poultry_fowl_duck-wild.md)   
 (https://www.cuisinefiend.com/147/roast-wild-duck) - Link to Cuisine Friend   
 
