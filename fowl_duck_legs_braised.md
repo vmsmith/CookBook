@@ -18,7 +18,7 @@
 * Salt and pepper to taste   
 
 ##### Preparation   
-1. Pre-heat oven to 400F
+1. Pre-heat oven to 400F / 205C   
 2. Peel and dice the vegetables   
 
 #### Directions   
