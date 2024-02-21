@@ -51,6 +51,8 @@
 
 [Chicken Normandy](https://github.com/vmsmith/CookBook/blob/master/chicken_normandy.md)    
 
+[White Wine Braised Thighs with Artichoke Hearts and Olives](https://github.com/vmsmith/CookBook/blob/master/chicken_braised_artichoke-olives.md)
+
 [Chicken and Peppers with Creamy Paprika](https://github.com/vmsmith/CookBook/blob/master/chicken_peppers-paprika.md)        
 
 [Tandoori Chicken](https://github.com/vmsmith/CookBook/blob/master/chicken_thighs_tandoori.md)
