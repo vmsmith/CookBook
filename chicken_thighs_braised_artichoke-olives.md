@@ -21,6 +21,7 @@
 * 1/2 cup pimento-stuffed green olives   
 
 #### Preparation    
-
+1. Mix flour with oregano, paprika, onion powder, salt, and pepper
+2. Drain and cut the artichoke hearts   
 
 #### Directions   
