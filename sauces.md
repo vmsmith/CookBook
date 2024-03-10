@@ -74,4 +74,6 @@ Mother Sauces - [Web site](https://www.thespruceeats.com/mother-sauces-996119)
 
 [Sauce Vierge](https://github.com/vmsmith/CookBook/blob/master/sauce_vierge.md) - Fish  
 
+[Creamy Vinaingrette](https://github.com/vmsmith/CookBook/blob/master/sauce_vinaigrette_creamy.md)
+
 
