@@ -11,11 +11,11 @@
 
 #### Ingredients  
 
-* Asparagus, cut into 1" pieces  
+* 1 pounds of asparagus, cut into 1" pieces  
 * 2 cups of chicken stock  
 * Minced garlic  
-* Heavy cream  
-* Butter  
+* 1/2 cup of heavy cream  
+* 2 tablespoons of butter  
 * Chopped chives (garnish)  
 * Chopped dill (garnish)  
 
