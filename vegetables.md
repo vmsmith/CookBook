@@ -32,6 +32,8 @@
 
 [Carrots, Roasted](https://github.com/vmsmith/CookBook/blob/master/veg_carrots_roasted.md)  
 
+[Creamy Cucumber Salad](https://github.com/vmsmith/CookBook/blob/master/veg_cucumber_salad_creamy.md)
+
 [Sautéed Endive with Balsamic Butter](https://github.com/vmsmith/CookBook/blob/master/veg_endive_sauteed.md)  
 
 [Endives with Ham, Gratinée](https://github.com/vmsmith/CookBook/blob/master/pork_ham_endives_gratinee.md)  
