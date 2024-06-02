@@ -8,7 +8,7 @@
 ### Pommes de Terre à l'Huile   
 
 #### Ingredients   
-* 1 pound “boiling” potatoes     
+* 1 pound boiling potatoes     
 * 2 tablespoon of dry white wine   
 * 1 tablespoon of wine vinegar   
 * 1/2 teaspoon of prepared mustard (Dijon)    
