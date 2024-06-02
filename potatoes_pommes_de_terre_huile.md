@@ -36,3 +36,5 @@
 9.  Pour the dressing over the potatoes and toss gently to blend.    
 10.  Serve them while still warm, or chill.
 11.  Decorate with herbs before serving.
+
+**Note:** Serve with ham and/or Alsace sausage   
