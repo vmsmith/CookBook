@@ -8,13 +8,15 @@
 ### Veal Kidneys à la Moutarde   
 
 #### Ingredients   
-* Fresh whole veal kidney
-* 6 cups of veal stock
-* 3 tablespoons of oil
-* 8 tablespoons of butter
-* Mushrooms 
-* 1 large finely chopped shallot
-* Heavy cream  
+* 1 fresh whole veal kidney
+* 3 cups of veal stock
+* 1 1/2 tablespoons of oil
+* 4 tablespoons of butter
+* 8 ounces of sliced mushrooms 
+* 1/2 cup of finely chopped shallot
+* 1/2 cup of heavy cream
+* 2 tablespoons of coarse ground prepared mustard
+* Salt and pepper to taste   
 
 #### Preparation    
 1. Cut vein out of kidney, separate into lobes, and liberally salt  
@@ -24,8 +26,8 @@
 
 #### Directions   
 1. Add the stock to a sauce pan and bring to a boil.
-2. Maintain a boil over a medium-high heat reducing the liquid until the total volume remaining is about 3/4 of a cup and set aside.
-3. Add 3 tablespoons of oil to a heavy sauté pan over high heat and bring it up to 350 degrees.  (If you do not have a infrared thermometer, drop a few popcorn kernels in the pan as it heats. Popcorn kernels pop at approximately 350 degrees.)
+2. Maintain a boil over a medium-high heat reducing the liquid until the total volume remaining is about 3/8 of a cup and set aside.
+3. Add the oil to a heavy sauté pan over high heat and bring it up to 350 degrees.  (If you do not have a infrared thermometer, drop a few popcorn kernels in the pan as it heats. Popcorn kernels pop at approximately 350 degrees.)
 4. Once your pan reaches temperature, add 2 tablespoons of butter and the cleaned veal kidneys to the pan.
 5. Maintain the pan over high heat and working quickly, saute the kidneys until they are uniformly colored and no red or pick is showing on the surface.  This should take no more than 3 to 4 minutes.  Remember you do not want to brown them.
 6. Remove the kidneys to a strainer, discard the cooking fat and wipe out your skillet.
