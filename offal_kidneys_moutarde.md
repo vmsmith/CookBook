@@ -5,7 +5,8 @@
 
 -----    
 
-### Veal Kidneys à la Moutarde   
+### Veal Kidneys à la Moutarde     
+[Recipe](https://www.tummyfood.com/veal-kidneys-mustard-sauce/)
 
 #### Ingredients   
 * 1 fresh whole veal kidney
