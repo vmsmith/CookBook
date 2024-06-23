@@ -12,6 +12,8 @@
 
 [Deviled Duck Hearts](https://github.com/vmsmith/CookBook/blob/master/offal_hearts_duck_deviled.md)
 
+[Veal Kidneys à la Moutarde](https://github.com/vmsmith/CookBook/blob/master/offal_kidneys_moutarde.md)  
+
 [Sweetbreads](https://github.com/vmsmith/CookBook/blob/master/offal_sweetbreads.md)  
 
 [Sautéed Rabbit Liver and Onions](https://github.com/vmsmith/CookBook/blob/master/offal_rabbit_liver_and_onions.md)
