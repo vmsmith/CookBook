@@ -69,13 +69,15 @@
 
 #### [Sandwiches](https://github.com/vmsmith/CookBook/blob/master/sandwiches.md)  
 
-#### [Seafood](https://github.com/vmsmith/CookBook/blob/master/fish_shellfish.md)
+#### [Sauces](https://github.com/vmsmith/CookBook/blob/master/sauces.md)    
 
-#### [Soups](https://github.com/vmsmith/CookBook/blob/master/soups.md)  
+#### [Seafood](https://github.com/vmsmith/CookBook/blob/master/fish_shellfish.md)    
 
-#### [Stews](https://github.com/vmsmith/CookBook/blob/master/stews.md)    
+#### [Soups](https://github.com/vmsmith/CookBook/blob/master/soups.md)   
 
-#### [Stocks and Sauces](https://github.com/vmsmith/CookBook/blob/master/sauces.md)  
+#### [Stews](https://github.com/vmsmith/CookBook/blob/master/stews.md)     
+
+#### [Stocks](https://github.com/vmsmith/CookBook/blob/master/stocks.md)   
 
 #### [Vegetables](https://github.com/vmsmith/CookBook/blob/master/vegetables.md)  
 
