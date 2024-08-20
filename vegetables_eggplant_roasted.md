@@ -18,7 +18,7 @@
 #### Preparation    
 1. Heat the oven to 450F    
 2. Slice eggplant into 1-inch rounds     
-3. Combine olive oil, cumin, salt, and red-pepper flakes     
+3. Combine olive oil, garlic, cumin, salt, and red-pepper flakes     
 
 #### Directions    
 1. Line a baking pan with parchment paper. 
