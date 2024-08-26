@@ -1,6 +1,6 @@
 [Calendar](https://github.com/vmsmith/EDT/blob/master/calendar.md)    
 [Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)      
-[Fish](https://github.com/vmsmith/CookBook/blob/master/fish_shellfish.md)     
+[Fish](https://github.com/vmsmith/CookBook/blob/master/fish_shellfish.md) / [Stews](https://github.com/vmsmith/CookBook/blob/master/stews.md)    
 
 ### Mediterranean Cod  
 
