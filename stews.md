@@ -8,7 +8,7 @@
 
 [Beouf Bourguinon](https://github.com/vmsmith/CookBook/blob/master/stews_beef_bourginon.md)   
 
-[Mediterranean Cod Stew]()    
+[Mediterranean Cod Stew](https://github.com/vmsmith/CookBook/blob/master/fish_cod_mediterranean.md)        
 
 [Pot au Feu](https://github.com/vmsmith/CookBook/blob/master/stews_pot_au_feu.md)  
 
