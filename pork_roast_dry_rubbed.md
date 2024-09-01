@@ -25,7 +25,7 @@
 
 #### Directions   
 1. Apply seasoning rub over the meat. Massage and press into meat as best possible.    
-2. Place meat in a large zip-top bag, sealed, overnight to marinate.    
+2. Place meat in a large zip-top bag (or wrap in Saran wrap) sealed, for at least one day.        
 3. Preheat oven to 350F.   
 4. Place seasoned pork but on wire rack of a roasting pan with the fat side up.   
 5. Place in oven at approximately 3-4 hours.   
