@@ -22,7 +22,7 @@
 * 1 1/2 teaspoons salt
 * 1/4 teaspoon pepper
 * 1 1/2 tablespoon tomato paste
-* 1/2 teaspoon Worchestishire sauce   
+* 1/2 teaspoon Worcestishire sauce    
 * 1/2 orange, juiced
 * 1/2 lime, juiced    
 
@@ -38,7 +38,7 @@
 2. Add the venison and brown it.
 3. Add the garlic, chili powder, cumin, paprika, and pepper.
 4. Sauté for 1 - 2 minutes, then add tomato paste.
-5. Deglaze with Worchestishire sauce, orange juice, and lime juice.
+5. Deglaze with Worcestishire sauce, orange juice, and lime juice.
 6. Scrape the bottom of the pot, and add the stock, tomatoes, and beans.
 7. Stir well and bring to a boil, then reduce the heat to low.
 8. Simmer for at least 30 minutes, but up to all day (cover and add stock from time to time if doing a long simmer).   
