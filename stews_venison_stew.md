@@ -1,6 +1,6 @@
 [Calendar](https://github.com/vmsmith/EDT/blob/master/calendar.md)     
 [Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)     
-[Meat](https://github.com/vmsmith/CookBook/blob/master/meat.md)     
+[Stews](https://github.com/vmsmith/CookBook/blob/master/stews.md)    
 [Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)    
 
 -----    
