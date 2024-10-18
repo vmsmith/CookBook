@@ -51,4 +51,5 @@
 #### Miscellaneous   
 * [Wild Boar Pasta Sauce](https://github.com/vmsmith/CookBook/blob/master/pasta_sauce_wild-boar.md)
 * [Venison Chili](https://github.com/vmsmith/CookBook/blob/master/venison_chili.md)
+* [Venison Stew](https://github.com/vmsmith/CookBook/blob/master/venison_stew.md)
 
