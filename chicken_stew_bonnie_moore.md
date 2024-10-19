@@ -1,2 +1,18 @@
+[Calendar](https://github.com/vmsmith/EDT/blob/master/calendar.md)    
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)   
+[Poultry and Fowl](https://github.com/vmsmith/CookBook/blob/master/poultry_fowl.md)    
+[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)    
 
-[Poultry and Fowl](https://github.com/vmsmith/CookBook/blob/master/poultry_fowl.md)
+-----    
+
+### Chicken Stew à la Bonnie Moore    
+
+#### Ingredients   
+
+
+
+#### Preparation   
+
+
+
+#### Directions   
