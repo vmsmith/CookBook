@@ -6,9 +6,11 @@
 
 ### Stews  
 
-[Beouf Bourguinon](https://github.com/vmsmith/CookBook/blob/master/stews_beef_bourginon.md)   
+[Pork Stew with Prunes and Armagnac](https://github.com/vmsmith/CookBook/blob/master/stews_pork_prunes_armagnac.md)
 
 [Venison Stew](https://github.com/vmsmith/CookBook/blob/master/stews_venison_stew.md)
+
+[Beouf Bourguinon](https://github.com/vmsmith/CookBook/blob/master/stews_beef_bourginon.md)   
 
 [Mediterranean Cod Stew](https://github.com/vmsmith/CookBook/blob/master/fish_cod_mediterranean.md)        
 
