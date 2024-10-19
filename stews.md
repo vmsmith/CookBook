@@ -6,7 +6,7 @@
 
 ### Stews  
 
-[Pork Stew with Prunes and Armagnac](https://github.com/vmsmith/CookBook/blob/master/stews_pork_prunes_armagnac.md)
+[Pork (or Boar) Stew with Prunes and Armagnac](https://github.com/vmsmith/CookBook/blob/master/stews_pork_prunes_armagnac.md)
 
 [Venison Stew](https://github.com/vmsmith/CookBook/blob/master/stews_venison_stew.md)
 
