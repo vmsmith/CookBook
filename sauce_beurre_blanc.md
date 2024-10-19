@@ -22,11 +22,10 @@
 2. Make slurry with the wine and starch   
 
 #### Directions    
-1. Boil wine, vinegar, and shallot in a heavy saucepan over moderate heat until liquid is syrupy and reduced to 2 to 3 tablespoons, about 5 minutes.
-2. Add cream, salt, and white pepper and boil 1 minute.
-3. Reduce heat to moderately low and add a few tablespoons butter, whisking constantly.
-4. Add remaining butter a few pieces at a time, whisking constantly and adding new pieces before previous ones have completely liquefied (the sauce should maintain consistency of hollandaise), lifting pan from heat occasionally to cool mixture.
-5. Remove from heat, then season to taste with salt and pepper and pour sauce through a medium-mesh sieve into a sauceboat, pressing on and then discarding shallot.  
-
-6. Serve immediately.
+1. Boil wine, vinegar, and shallot in a heavy saucepan over moderate heat until liquid is syrupy and reduced to 2 to 3 tablespoons, about 5 minutes.   
+2. Add cream, salt, and white pepper and boil 1 minute.   
+3. Reduce heat to moderately low and add a few tablespoons butter, whisking constantly.   
+4. Add remaining butter a few pieces at a time, whisking constantly and adding new pieces before previous ones have completely liquefied (the sauce should maintain consistency of hollandaise), lifting pan from heat occasionally to cool mixture.   
+5. Remove from heat, then season to taste with salt and pepper and pour sauce through a medium-mesh sieve into a sauceboat, pressing on and then discarding shallot.   
+6. Serve immediately.    
 
