@@ -71,7 +71,9 @@
 
 [Braised Legs with Shallots](https://github.com/vmsmith/CookBook/blob/master/chicken_thighs_shallots.md)  
 
-[Coq au Vin à la Elizabeth David](https://github.com/vmsmith/CookBook/blob/master/chicken_coq-au-vin.md)
+[Coq au Vin à la Elizabeth David](https://github.com/vmsmith/CookBook/blob/master/chicken_coq-au-vin.md)    
+
+[Chicken Stew à la Bonnie Moore](https://github.com/vmsmith/CookBook/blob/master/chicken_stew_bonnie_moore.md)
 
 [Chicken Fricasée à la Julia Child](https://github.com/vmsmith/CookBook/blob/master/chicken_fricasee.md)
 
