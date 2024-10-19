@@ -27,5 +27,12 @@
 3. Reduce heat to moderately low and add a few tablespoons butter, whisking constantly.   
 4. Add remaining butter a few pieces at a time, whisking constantly and adding new pieces before previous ones have completely liquefied (the sauce should maintain consistency of hollandaise), lifting pan from heat occasionally to cool mixture.   
 5. Remove from heat, then season to taste with salt and pepper and pour sauce through a medium-mesh sieve into a sauceboat, pressing on and then discarding shallot.   
-6. Serve immediately.    
+6. Serve immediately.
+
+#### Notes:   
+1. The sauce can be held for several hours in a warm spot. It will continue to thicken and will need to be refreshed with a liquid from time to time.
+2. Add:
+  * Basil or parsley for a green sauce
+  * Roasted red peppers or dried tomatoes for a red sauce
+  * Ripe olives for a black sauce    
 
