@@ -14,7 +14,9 @@
 
 [Duxelles](https://github.com/vmsmith/CookBook/blob/master/veg_duxelles.md)
 
-[Green Beans, Provencal](https://github.com/vmsmith/CookBook/blob/master/veg_green_beans_provencal.md)
+[Green Beans, Provencal](https://github.com/vmsmith/CookBook/blob/master/veg_green_beans_provencal.md)   
+
+[Green Beans in Hazlenut Butter](https://github.com/vmsmith/CookBook/blob/master/veg_green_beans_hazlenut_butter.md)
 
 [Broccoli, Roasted - Basquaise](https://github.com/vmsmith/CookBook/blob/master/veg_broccoli_roasted.md)  
 
