@@ -4,8 +4,9 @@
 -----  
 #### Blogs    
 
-* [Everyday French Chef](https://everydayfrenchchef.com/)  
-* [Mimi Thorisson](http://mimithorisson.com/)  
+* [Everyday French Chef](https://everydayfrenchchef.com/)    
+* [Mimi Thorisson](http://mimithorisson.com/)    
+* [Taste Foods](https://tastefoodblog.com)    
 
 #### [Ingredients](https://github.com/vmsmith/CookBook/blob/master/ingredients.md)   
 
