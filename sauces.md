@@ -52,7 +52,9 @@ Mother Sauces - [Web site](https://www.thespruceeats.com/mother-sauces-996119)
 
 [Ranch Dressing](https://github.com/vmsmith/CookBook/blob/master/sauce_ranch_dressing.md)
 
-[Red Wine Sauce - Game](https://github.com/vmsmith/CookBook/blob/master/sauce_red_wine_game.md)
+[Red Wine Sauce - Game](https://github.com/vmsmith/CookBook/blob/master/sauce_red_wine_game.md)   
+
+[Red Wine Reduction Sauce](https://github.com/vmsmith/CookBook/blob/master/sauce_red_wine_reduction.md)   
 
 [Red Wine Sauce](https://github.com/vmsmith/CookBook/blob/master/sauce_red_wine.md)    
 
