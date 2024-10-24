@@ -10,7 +10,9 @@
 
 #### [Ingredients](https://github.com/vmsmith/CookBook/blob/master/ingredients.md)   
 
-#### [Glycemic Foods Index](https://github.com/vmsmith/CookBook/blob/master/glycemic_foods.md)
+#### [Glycemic Foods Index](https://github.com/vmsmith/CookBook/blob/master/glycemic_foods.md)   
+
+#### [Mediterranean Diet](https://github.com/vmsmith/CookBook/blob/master/general_diet_mediterranean.md)    
 
 -----  
 
