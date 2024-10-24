@@ -6,6 +6,8 @@
 
 ### Salads  
 
+[Lentil and Duck Confit Salad](beans_salad_lentil_duck_confit.md)    
+
 [Salad Lyonnaise](https://github.com/vmsmith/CookBook/blob/master/salads_lyonnaise.md)  
 
 [Salad Nicoise](https://github.com/vmsmith/CookBook/blob/master/salads_nicoise.md)  
