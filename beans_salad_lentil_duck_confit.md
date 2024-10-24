@@ -11,6 +11,7 @@
 #### Ingredients   
 * 2 Duck legs, confit
 * 200 grams of Puy lentils
+* 3 tablespoons of extra virgin olive oil   
 * Onion, chopped
 * Carrot, chopped
 * Celery, chopped
