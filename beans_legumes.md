@@ -4,6 +4,8 @@
 
 ### Beans and Legumes  
 
+[Lentil and Duck Confit Salad](beans_salad_lentil_duck_confit.md)
+
 [Parmesan Braised Beans](https://github.com/vmsmith/CookBook/blob/master/beans_braised_parmesan.md)
 
 [Cassoulet - Paula Wolfert](https://github.com/vmsmith/CookBook/blob/master/beans_cassoulet_wolfert.md)
