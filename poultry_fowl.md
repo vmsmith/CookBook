@@ -108,6 +108,8 @@
 -----  
 #### Duck  
 
+[Lentil and Duck Confit Salad](beans_salad_lentil_duck_confit.md)    
+
 [Crisp Braised Duck Legs](https://github.com/vmsmith/CookBook/blob/master/fowl_duck_legs_braised.md)  
 
 [Roast Wild Duck](https://github.com/vmsmith/CookBook/blob/master/poultry_fowl_duck-wild.md)   
