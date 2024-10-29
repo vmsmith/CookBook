@@ -8,20 +8,23 @@
 ### Butternut Squash and Pear Soup   
 
 #### Ingredients  
-* 2 tablespoons olive oil
+* 2 pounds butternut squash, cut into 1-inch dice (about 7 cups)      
+* 2 ripe Bosc pears, peeled, cored and cut into 1-inch pieces    
 * 1 large yellow onion (about 10 ounces), chopped
-* 1 tablespoon finely minced or grated fresh ginger
-* 1/4 teaspoon ground turmeric
-* 2 pounds butternut squash, cut into 1-inch dice (about 7 cups)
-* 2 ripe Bosc pears, peeled, cored and cut into 1-inch pieces
+* 1 tablespoon finely minced or grated fresh ginger    
+* 4 cups low-sodium chicken or vegetable broth, or more as needed    
+* 2 tablespoons olive oil   
+* 1/4 teaspoon ground turmeric   
 * 3/4 teaspoon kosher salt
-* 1/4 teaspoon freshly ground black pepper
-* 4 cups low-sodium chicken or vegetable broth, or more as needed
+* 1/4 teaspoon freshly ground black pepper   
 * 3 tablespoons plain yogurt (low-fat or full fat)
 * Water, as needed
 
 #### Preparation   
-
+1. Peel, seed, and cut squash
+2. Peel, seed, and cut pears
+3. Chop onion
+4. Grate ginger   
 
 #### Directions  
 1. Heat the oil until shimmering and add the onion, then cook about 5 minutes.  
