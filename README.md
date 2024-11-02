@@ -56,7 +56,9 @@
 
 #### [Miscellaneous](https://github.com/vmsmith/CookBook/blob/master/miscellaneous.md)  
 
-#### [Mis en Place](https://github.com/vmsmith/CookBook/blob/master/mis_en_place.md)
+#### [Mis en Place](https://github.com/vmsmith/CookBook/blob/master/mis_en_place.md)     
+
+#### [Mushrooms](https://github.com/vmsmith/CookBook/blob/master/mushrooms.md)       
 
 #### [Offal](https://github.com/vmsmith/CookBook/blob/master/offal.md)
 
