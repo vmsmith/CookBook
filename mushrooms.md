@@ -13,7 +13,7 @@
 
 
 * [Garlic Mushrooms](https://github.com/vmsmith/CookBook/blob/master/veg_mushrooms_garlic.md)
-* [Mushrooms Bourgignon](https://github.com/vmsmith/CookBook/blob/master/veg_mushrooms_bourgignon.md)
+* [Mushrooms Bourgignon](https://github.com/vmsmith/CookBook/blob/master/mushrooms_bourgignon.md)
 * [Risotto with Mushrooms and Thyme](https://www.bonappetit.com/recipe/risotto-with-mushrooms-and-thyme)  
 * [Oven Polenta with Roasted Mushrooms and Thyme](https://www.bonappetit.com/recipe/oven-polenta-with-roasted-mushrooms-and-thyme)  
 * [Seared Mushrooms with Garlic and Thyme](https://www.bonappetit.com/recipe/seared-mushrooms-with-garlic-and-thyme)  
