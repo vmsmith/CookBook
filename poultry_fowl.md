@@ -137,6 +137,8 @@
 
 #### Pheasant  
 
+[Braised Pheasant](https://github.com/vmsmith/CookBook/blob/master/fowl_pheasant_braised.md)    
+
 [Roast Pheasant](https://github.com/vmsmith/CookBook/blob/master/fowl_pheasant_roast.md)  
 
 -----  
