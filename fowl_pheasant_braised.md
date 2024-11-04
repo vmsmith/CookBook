@@ -28,5 +28,6 @@
 4. Return the pheasant to the skillet.
 5. Add the wine, lemon juice, onions, salt and pepper.   
 6. Cover (seal with aluminum foil) and simmer 45 minutes, or until tender.
+7. Remove the pheasant, strain the liquid, and thicken to make sauce.   
 
 
