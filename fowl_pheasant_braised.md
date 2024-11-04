@@ -11,7 +11,7 @@
 * 1 cup of sliced mushrooms (optional)   
 * 1 cup of dry white wine
 * 2 tablespoons of lemon juice
-* 1⁄2 cup of chopped onion
+* 1/2 cup of chopped onion
 * 1 teaspoon salt
 * 1 teaspoon pepper
 
