@@ -15,3 +15,18 @@
 * 1 teaspoon salt
 * 1 teaspoon pepper
 
+#### Preparation   
+1. Split the pheasant
+2. Squeeze the lemon juice
+3. Chop the onion
+4. Clean and slice the mushrooms if using
+
+#### Directions   
+1. Sauté the pheasant sides in butter 10 minutes, skin side down.    
+2. Remove the pheasant from  skillet.
+3. Sauté the mushrooms—if using—in the butter remaining in skillet 10 minutes.
+4. Return the pheasant to the skillet.
+5. Add the wine, lemon juice, onions, salt and pepper.   
+6. Cover (seal with aluminum foil) and simmer 45 minutes, or until tender.
+
+
