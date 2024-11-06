@@ -6,19 +6,22 @@
 ### Cèpes à la Bordelaise  
 
 #### Ingredients   
-
-* 1/2 kg cèpes    
-* 1 large or 2 medium shallots    
-* Bunch of flat parsley    
-* Olive oil    
-* 2 soup spoonfuls of white bread crumbs    
+* 6 - 8 cèpes (for 2 people)      
+* 1 large or 2 medium shallots, chopped
+* Several garlic cloves, chopped
+* Bunch of flat parsley       
+* 2 soup spoonfuls of white bread crumbs
+* Olive oil   
 * Salt     
 * Freshly ground black pepper   
 
 #### Preparation   
-1.  Wash the cèpes and seperate the stalks, then slice the heads and chop the stalks    
-2. Finely chop the shallots    
-3. Wash and chop the parsley
+1.  Clean the cèpes and seperate the stalks
+   * Slice the heads at a diagonal
+   * Chop the stalks    
+3. Finely chop the shallots
+4. Finely chop the garlic  
+5. Wash and chop the parsley
 
 #### Directions   
 1. Heat the olive oil and saute the sliced mushroom heads for around 5 minutes.
