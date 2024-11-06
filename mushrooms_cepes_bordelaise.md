@@ -13,7 +13,8 @@
 * 2 soup spoonfuls of white bread crumbs
 * Olive oil   
 * Salt     
-* Freshly ground black pepper   
+* Freshly ground black pepper
+* Slices of toast (optional)   
 
 #### Preparation   
 1.  Clean the cèpes and seperate the stalks
@@ -24,10 +25,10 @@
 5. Wash and chop the parsley
 
 #### Directions   
-1. Heat the olive oil and saute the sliced mushroom heads for around 5 minutes.
+1. Heat the olive oil and sauté the mushrooms, stirring often, until they are golden brown and a little crispy.
 2. Set aside and keep warm.
-3. Reheat the pan, add the shallots and chopped mushroom stalks, and season.   
-4. Add the breadcrumbs and chopped parsley.    
-5. Cook for around 5 minutes then serve on top of the slices.    
-6. Serve with Bordeaux wine.
+3. Reheat the pan, add the shallots and sauté for five minutes, until translucent. 
+4. Add the chopped garlic parsley, and stir for about a minute.       
+6. Add the breadcrumbs and mushrooms, give it a couple of stirs, and serve (on the toast if using).    
+7. Serve with Bordeaux wine.
 
