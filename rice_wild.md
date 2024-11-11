@@ -16,7 +16,8 @@
 * Garlic, minced   
 * Onion, chopped   
 * Baby carrots, sliced
-* Brussel sprouts leaves    
+* Brussel sprouts leaves
+* Sliced or slivered almonds (optional)   
 * Italian seasoning and freshly ground black pepper    
 
 #### Preparation    
@@ -26,14 +27,13 @@
 4. Separate Brussels sprouts leaves  
 
 #### Directions   
-1. Cook rice according to package instructions, using the broth instead of water.    
-2. When cook time is up, do not open lid; turn heat off and keep lid tightly covered for 10 minutes to allow continued steaming. If rice is still a bit too firm, mix in just enough extra broth to moisten all rice, cover, and simmer another 10 minutes.
-3. While rice is cooking, melt butter to a large/deep skillet over medium high heat.
-4. Once butter is melted and starting to bubble, add onion and carrots. Stir to combine.
-5. Cover and cook 5 minutes,  stirring occasionally.
-6. Add brussels sprouts, garlic, Italian seasoning, and black pepper, stirring another 2 minutes until softened.
-7. Check rice for doneness. Fluff with fork and add to skillet with vegetable mixture, stirring to incorporate.
-8. Taste and season with kosher salt and freshly ground black pepper as needed. 
+1. Cook rice according to package instructions, using the stock instead of water. Drain and set aside when done.   
+2. While rice is cooking, melt butter to a large/deep skillet over medium high heat.
+3. Once butter is melted and starting to bubble, add onion and carrots. Stir to combine.
+4. Cover and cook 5 minutes, stirring occasionally.
+5. Add brussels sprouts, garlic, Italian seasoning, and black pepper, stirring another 2 minutes until softened.
+6. Fluff the rice with a fork and add to skillet with vegetable mixture, stirring to incorporate.
+7. Taste and season with kosher salt and freshly ground black pepper as needed. 
 
 ### NY Times Wild Rice w/Mushrooms    
 
