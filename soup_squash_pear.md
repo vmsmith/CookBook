@@ -8,11 +8,11 @@
 ### Butternut Squash and Pear Soup   
 
 #### Ingredients  
+* 4 cups low-sodium chicken or vegetable broth, or more as needed    
 * 2 pounds butternut squash, cut into 1-inch dice (about 7 cups)      
 * 2 ripe Bosc pears, peeled, cored and cut into 1-inch pieces    
 * 1 large yellow onion (about 10 ounces), chopped
 * 1 tablespoon finely minced or grated fresh ginger    
-* 4 cups low-sodium chicken or vegetable broth, or more as needed    
 * 2 tablespoons olive oil   
 * 1/4 teaspoon ground turmeric   
 * 3/4 teaspoon kosher salt
