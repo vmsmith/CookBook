@@ -8,9 +8,11 @@
 
 ### Carrot and Cashew Soup   
 
-#### Ingredients  
-
-* 1 pound carrots, trimmed, scrubbed and cut into 1-inch pieces   
+#### Ingredients    
+* 3 cups chicken stock     
+* 1 pound carrots, trimmed, scrubbed and cut into 1-inch pieces
+* 1/2 cup roasted, unsalted cashews   
+* 1/4 cup unsweetened coconut milk or cashew milk   
 * 2 - 3 garlic cloves, crushed   
 * 1/2 medium shallot, quartered   
 * 1/2 teaspoon sea salt, or more as needed   
@@ -19,9 +21,6 @@
 * 1/4 teaspoon ground sumac   
 * 1/2 teaspoon crushed red pepper flakes   
 * 1 1/2 tablespoons extra-virgin olive oil, plus more for drizzling   
-* 3 cups chicken stock     
-* 1/2 cup roasted, unsalted cashews   
-* 1/4 cup unsweetened coconut milk or cashew milk   
 * 1 tablespoon fresh lime juice or apple cider vinegar (easy Action)  
 
 #### Preparation   
