@@ -22,12 +22,13 @@
 * Crusty bread to serve    
 
 #### Preparation    
-1. Grate onion   
+1. Grate onion
+2. Mix the salt, cayenne, dry mustard and flour together   
 
 #### Directions   
-1. Mix the salt, cayenne, dry mustard and flour together, then dust the hearts with it.
+1. Dust the hearts with the dry mix.
 2. Heat the duck fat in a pan over medium-high heat.
-3. When it's hot, drop the hearts into the pan and saute them for 3 to 4 minutes, shaking the pan and letting the little hearts roll around a bit.
+3. When it's hot, drop the hearts into the pan and saute them for 3 to 4 minutes, shaking the pan and letting the hearts roll around a bit.
 4. Add the grated onion, Worcestershire sauce and broth into the pan and scrape up any browned bits on the bottom of the pan with a wooden spoon.
 5. Swirl everything around so the hearts get coated.
 6. Let the sauce reduce to a glaze, about 3 minutes or so over high heat.
