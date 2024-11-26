@@ -3,6 +3,8 @@
 [Mushrooms](https://github.com/vmsmith/CookBook/blob/master/mushrooms.md)       
 [Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)     
 
+-----    
+
 ### Cèpes à la Bordelaise  
 
 #### Ingredients   
