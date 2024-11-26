@@ -5,6 +5,7 @@
 
 ### Mushrooms   
 
+* [Oyster Mushrooms Sautées with Garlic and Parsley]()
 * [Cèpes à la Bordelaise](mushrooms_cepes_bordelaise.md)   
 * [Cèpes Provencale](mushrooms_cepes_provencale.md)   
 
