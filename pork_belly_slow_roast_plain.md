@@ -20,3 +20,8 @@
 5. Dry brine the meat by letting it sit in the refrigerator, uncovered, at least 12 hours or overnight  
 
 #### Directions   
+1. Heat the oven to 250°F (121°C) and put pork on a wire rack in a rimmed baking sheet.
+2. Cook the pork until the internal temparature is 195F. This could take as little as three hours and as long as six.   
+3. Remove the pork belly from the oven and adjust the oven heat to 500°F (260°C).
+4. When the oven comes to temp, put the pork back in the oven.
+5. Rotate the pan every 5 minutes until all the skin is puffy, crunchy, and crisp. (You may need to remove some pieces from the oven before others, as they can finish at different rates.)
