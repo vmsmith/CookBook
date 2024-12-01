@@ -36,7 +36,9 @@
 
 [Creamy Cucumber Salad](https://github.com/vmsmith/CookBook/blob/master/veg_cucumber_salad_creamy.md)
 
-[Eggplant, Roasted and Spiced](https://github.com/vmsmith/CookBook/blob/master/vegetables_eggplant_roasted.md)
+[Eggplant, Roasted and Spiced](https://github.com/vmsmith/CookBook/blob/master/vegetables_eggplant_roasted.md)   
+
+[Endives, Garlic Roasted](https://github.com/vmsmith/CookBook/blob/master/veg_endive_garlic_roasted.md)   
 
 [Endive, Sautéed with Balsamic Butter](https://github.com/vmsmith/CookBook/blob/master/veg_endive_sauteed.md)  
 
