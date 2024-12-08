@@ -50,7 +50,7 @@
 
 [Macédoine](https://github.com/vmsmith/CookBook/blob/master/veg_macedoine.md)  
 
-[Mushrooms]()  
+[Mushrooms](https://github.com/vmsmith/CookBook/blob/master/mushrooms.md)      
 
 [Onions Gratin](https://github.com/vmsmith/CookBook/blob/master/veg_onions_gratin.md)  
 
