@@ -108,7 +108,9 @@
 -----  
 #### Duck  
 
-[Lentil and Duck Confit Salad](beans_salad_lentil_duck_confit.md)    
+[Spiced Orange Duck](https://github.com/vmsmith/CookBook/blob/master/fowl_duck_spiced_orange.md)    
+
+[Lentil and Duck Confit Salad](beans_salad_lentil_duck_confit.md)     
 
 [Crisp Braised Duck Legs](https://github.com/vmsmith/CookBook/blob/master/fowl_duck_legs_braised.md)  
 
