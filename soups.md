@@ -34,7 +34,7 @@
 
 [Chestnut Soup](https://github.com/vmsmith/CookBook/blob/master/soup_chestnut.md)   
 
-[Chestnute and Parsnip Soup](https://github.com/vmsmith/CookBook/blob/master/soup_chesnute_parsnip.md)    
+[Chestnut and Parsnip Soup](https://github.com/vmsmith/CookBook/blob/master/soup_chesnute_parsnip.md)    
 
 [Clam Chowder](https://github.com/vmsmith/CookBook/blob/master/soup_clam_chowder.md)  
 
