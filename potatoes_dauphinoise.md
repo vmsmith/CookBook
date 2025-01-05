@@ -28,7 +28,7 @@
 5. Preheat the oven to 350F (180C)   
 
 #### Directions   
-1. Place into a large pot with the minced garlic, heavy cream, whole milk, salt, black pepper, nutmeg, and bay leaves.
+1. Place the potatoes into a large pot with the minced garlic, heavy cream, whole milk, salt, black pepper, nutmeg, and bay leaves.
 2. Simmer over medium heat, stirring often, until the potatoes are fork tender but still slightly firm, 5 to 7 minutes.
 3. Remove and discard the bay leaves.
 4. Using a slotted spoon, transfer half of the potatoes into the prepared baking dish and arrange in an even layer.
