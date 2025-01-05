@@ -32,7 +32,7 @@
 4. Mince the garlic   
 
 #### Directions   
-1. Season the oxtails with salt and pepper on all sides, the brown and set aside.    
+1. Season the oxtails with salt and pepper on all sides, then brown and set aside.    
 2. Cook the onion, carrots, and celery in a pot until tender, then add the garlic for a minute or two.   
 3. Add flour to the pot and cook until it becomes golden brown, then add the tomato paste and quickly combine.    
 4. Pour in the wine and deglaze the pan.
