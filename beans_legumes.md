@@ -4,6 +4,8 @@
 
 ### Beans and Legumes  
 
+[Lentil and Sausage Stew](beans_stew_lentil_sausage.md)   
+
 [Lentil and Duck Confit Salad](beans_salad_lentil_duck_confit.md)
 
 [Parmesan Braised Beans](https://github.com/vmsmith/CookBook/blob/master/beans_braised_parmesan.md)
