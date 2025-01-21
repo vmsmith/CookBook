@@ -49,6 +49,8 @@
 
 #### Chicken Legs   
 
+[Chicken Fricasée](https://github.com/vmsmith/CookBook/blob/master/chicken_fricasee2.md)
+
 [Chicken Normandy](https://github.com/vmsmith/CookBook/blob/master/chicken_normandy.md)    
 
 [White Wine Braised Thighs with Artichoke Hearts and Olives](https://github.com/vmsmith/CookBook/blob/master/chicken_thighs_braised_artichoke-olives.md)
