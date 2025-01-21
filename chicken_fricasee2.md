@@ -4,6 +4,7 @@
 [Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)    
 
 ### Simple Chicken Fricasée   
+https://www.recipetineats.com/chicken-fricassee-quick-french-chicken-stew/
 
 #### Ingredients    
 * Chicken thighs, skin-on and bone-in    
@@ -30,11 +31,11 @@
 #### Directions   
 1. Pat chicken dry with paper towels then sprinkle with salt and pepper.
 2. Melt butter over medium-high heat in a large skillet or heavy based pot with a lid. Add chicken thighs, skin side down, and cook for 4 to 5 minutes until golden brown. Turn and cook the other side for 1 minute then remove to a plate.
-3. Sauté mushrooms and onion: Add mushrooms, onion, bay leave and thyme. Cook for 5 minutes until mushroom is lightly golden – they won't go deep golden brown.
+3. Add mushrooms, onion, bay leave and thyme. Cook for 5 minutes until mushroom is lightly golden – they won't go deep golden brown.
 4. Add garlic and stir for 30 seconds. Add flour and cook for 1 minute.
-5. Add wine and chicken stock. Stir, scraping the base of the pot to dissolve the brown residue stuck to the pan ("fond") into the sauce.
-6. Return chicken back into the sauce with the skin side up.
-7. Once it comes to a simmer, adjust heat so it's bubbling constantly but not rapidly (see video) – medium-low on my stove. Cover with lid and simmer 10 minutes.
-8. Remove lid and let it simmer for a further 20 minutes. Chicken will be cooked – internal temperature 75°C/167°F or slightly higher.
-9. Remove chicken to a plate. Add cream and stir. Once it comes up to a simmer, taste sauce (I know, big ask!), and add more salt if desired..
-10. Return chicken into the sauce then remove from the stove. Sprinkle with parsley and serve! Traditionally served over mashed potato or rice. Also ideal with short pasta like penne, ziti or macaroni.
+5. Deglaze with the white wine, then add the chicken stock. 
+6. Return chicken back into the sauce with the skin side up then cover with lid and simmer 10 minutes.
+7. Remove lid and let it simmer for a further 20 minutes.    
+8. Remove chicken to a plate.
+9. Add cream and stir. Once it comes up to a simmer, taste sauce and season as desired.   
+10.  Return chicken into the sauce then remove from the stove. Sprinkle with parsley and serve! Traditionally served over mashed potato or rice. 
