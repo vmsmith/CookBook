@@ -26,7 +26,7 @@
 
 #### Preparation  
 
-* Preheat oven to 325F
+* Preheat oven to 325F (170C)    
 * Trim and peel carrots  
 * Peel and dice onion  
 * Dice celery  
