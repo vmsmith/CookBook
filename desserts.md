@@ -9,6 +9,8 @@
 
 [Sweet Basque Cream](https://github.com/vmsmith/CookBook/blob/master/dessert_cream_sweet-basque.md)  
 
+[Basque Compote](https://github.com/vmsmith/CookBook/blob/master/dessert_compote_basque.md)  
+
 [Creme Brulee](https://github.com/vmsmith/CookBook/blob/master/dessert_creme_brulee.md)  
 
 [Roasted Figs](https://www.davidlebovitz.com/roasted-figs-recipe/)  
