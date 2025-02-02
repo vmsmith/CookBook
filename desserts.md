@@ -9,7 +9,7 @@
 
 [Sweet Basque Cream](https://github.com/vmsmith/CookBook/blob/master/dessert_cream_sweet-basque.md)  
 
-[Basque Compote](https://github.com/vmsmith/CookBook/blob/master/dessert_compote_basque.md)  
+[Basque Fruit Compote](https://github.com/vmsmith/CookBook/blob/master/dessert_fruit_compote_basque.md)  
 
 [Creme Brulee](https://github.com/vmsmith/CookBook/blob/master/dessert_creme_brulee.md)  
 
