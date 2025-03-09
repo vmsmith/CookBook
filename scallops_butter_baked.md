@@ -1,6 +1,6 @@
 [Calendar](https://github.com/vmsmith/EDT/blob/master/calendar.md)    
 [Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)    
-[Seafood](https://github.com/vmsmith/CookBook/blob/master/seafood.md)    
+[Seafood](https://github.com/vmsmith/CookBook/blob/master/fish_shellfish.md)    
 [Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)    
 
 ### Garlic Butter Baked Scallops   
