@@ -4,7 +4,7 @@
 
 [How to Cook a Whole Fish](https://www.foodandwine.com/news/how-to-cook-whole-fish)    
 
-[Scallops, Butter Baked](https://github.com/vmsmith/CookBook/blob/master/scallops_butter_baked.md)    
+[Scallops, Garlic Butter Baked](https://github.com/vmsmith/CookBook/blob/master/scallops_butter_baked.md)    
 
 ### Fish and Shellfish    
 
