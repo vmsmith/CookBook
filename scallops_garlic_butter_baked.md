@@ -32,3 +32,6 @@
 
 
 Prep Time: 10 mins | Total Time: 22 mins | Servings: 4
+
+![Garlic Butter Baked Scallops](https://github.com/vmsmith/CookBook/blob/master/graphics/scallops_garlic_butter_baked.jpg)
+
