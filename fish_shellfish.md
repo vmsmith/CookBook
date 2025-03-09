@@ -6,6 +6,10 @@
 
 ### Fish and Shellfish    
 
+[Scallops, Butter Baked](https://github.com/vmsmith/CookBook/blob/master/scallops_butter_baked.md)
+
+-----    
+
 [Whole Baked Bar](https://github.com/vmsmith/CookBook/blob/master/fish_bar_baked.md)  
 
 [Bayou Lobster Omelet]()  
