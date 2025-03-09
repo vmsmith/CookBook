@@ -2,13 +2,11 @@
 
 -----  
 
-[How to Cook a Whole Fish](https://www.foodandwine.com/news/how-to-cook-whole-fish)  
+[How to Cook a Whole Fish](https://www.foodandwine.com/news/how-to-cook-whole-fish)    
+
+[Scallops, Butter Baked](https://github.com/vmsmith/CookBook/blob/master/scallops_butter_baked.md)    
 
 ### Fish and Shellfish    
-
-[Scallops, Butter Baked](https://github.com/vmsmith/CookBook/blob/master/scallops_butter_baked.md)
-
------    
 
 [Whole Baked Bar](https://github.com/vmsmith/CookBook/blob/master/fish_bar_baked.md)  
 
