@@ -68,7 +68,9 @@ Mother Sauces - [Web site](https://www.thespruceeats.com/mother-sauces-996119)
 
 [Rouille (garlic mayonnaise for fish soups)](https://github.com/vmsmith/CookBook/blob/master/sauce_rouille.md) 
 
-[Smitane Sauce](https://github.com/vmsmith/CookBook/blob/master/sauce_smitane.md)  
+[Smitane Sauce](https://github.com/vmsmith/CookBook/blob/master/sauce_smitane.md)    
+
+[Soubise](https://github.com/vmsmith/CookBook/blob/master/sauce_soubise.md)
 
 [Toum (Lebanese Garlic Sauce)](https://github.com/vmsmith/CookBook/blob/master/sauce_toum.md)  
 
