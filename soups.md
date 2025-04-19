@@ -4,6 +4,8 @@
 
 -----    
 
+[Tomato and Fennel Soup](https://github.com/vmsmith/CookBook/blob/master/soup_tomato_fennel.md)    
+
 ### Soups    
 
 [Creamy White Asparagus Soup](https://github.com/vmsmith/CookBook/blob/master/soup_asparagus_creamy_white.md)
