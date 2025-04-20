@@ -6,7 +6,7 @@
 
 ### Stews   
 
-[Pork or Lamb Neck Stew](https://github.com/vmsmith/CookBook/blob/master/stews_pork-lamb_neck.md)
+[Pork or Lamb Neck Stew](https://github.com/vmsmith/CookBook/blob/master/stews_pork_lamb_neck.md)
 
 [Pork (or Boar) Stew with Prunes and Armagnac](https://github.com/vmsmith/CookBook/blob/master/stews_pork_prunes_armagnac.md)
 
