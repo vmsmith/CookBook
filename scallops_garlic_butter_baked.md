@@ -17,9 +17,10 @@
 
 #### Preparation     
 1. Preheat the oven to 400F (200C)
-2. Mince garlic
-3. Grate cheese
-4. Chop parsley   
+2. Melt the butter    
+3. Mince garlic
+4. Grate cheese
+5. Chop parsley   
 
 #### Directions   
 1. In a small bowl, mix the melted butter, minced garlic, lemon juice, salt, and pepper.
