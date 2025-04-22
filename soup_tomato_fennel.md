@@ -6,6 +6,7 @@
 ### Tomato and Fennel Soup   
 
 #### Ingredients    
+* 4 tablespoons of olive oil   
 * Plum tomatoes    
 * 1 fennel bulb, cored and sliced       
 * 1 small onion, finely chopped       
@@ -27,3 +28,5 @@
 5. Remove the pot from the heat and let the soup cool for a few minutes.
 6. Transfer the mix to the blender and purée until smooth.
 7. Return to the pot, bring to a boil, lower to a simmer, and season with salt and pepper.
+
+You can boost the flavor elements by adding a few slices of garlic with the vegetables at the beginning and a few drops of Pernod at the very end. 
