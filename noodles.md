@@ -4,4 +4,4 @@
 
 ### Asian Noodles    
 
-[Cold Sesame Noodles](https://github.com/vmsmith/EDT/blob/master/noodles_cold_sesame.md)
+[Cold Sesame Noodles](https://github.com/vmsmith/CookBook/blob/master/noodles_cold_sesame.md)
