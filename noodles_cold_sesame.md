@@ -1,7 +1,7 @@
-[Calendar](https://github.com/vmsmith/EDT/blob/master/calendar.md)   
-[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)   
-[Noodles](https://github.com/vmsmith/EDT/blob/master/noodles.md)   
-[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)   
+[Calendar](https://github.com/vmsmith/EDT/blob/master/calendar.md)     
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)      
+[Noodles](https://github.com/vmsmith/CookBook/blob/master/noodles.md)     
+[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)    
 
 ### Cold Sesame Noodles    
 
