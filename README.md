@@ -36,7 +36,7 @@
 
 #### [Appetizers](https://github.com/vmsmith/CookBook/blob/master/appetizers.md)    
 
-#### [Asian Noodles](https://github.com/vmsmith/Cookbook/blob/master/asian_noodles.md)   
+#### [Asian Noodles](https://github.com/vmsmith/Cookbook/blob/master/noodles.md)   
 
 #### [Beans and Legumes](https://github.com/vmsmith/CookBook/blob/master/beans_legumes.md)
 
