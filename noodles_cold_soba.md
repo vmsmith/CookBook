@@ -36,6 +36,18 @@
 6. Pour the chilled mentsuyu into bowls.
 7. Add the quail egg, nori, and any other toppings to the sauce.
 
+#### Mentsuyu Dipping Sauce   
+* 3 Tbsp Soy Sauce    
+* * 3 Tbsp Sake   
+* 3 Tbsp Mirin    
+* 1/2 cup Katsuobushi (dried bonito flakes)    
+* 2/3 cup water (cold)
+
+1. In a pot, combine Soy Sauce, Sake, and Mirin and cook at medium heat.
+2. Add Katsuobushi dried bonito flakes.
+3. Let boil for a minute, remove from heat, and cool in the pot.
+4. Strain Katsuobushi.
+5. Mix the sauce with water.   
 
 
 
