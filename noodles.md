@@ -4,4 +4,6 @@
 
 ### Asian Noodles    
 
-[Cold Sesame Noodles](https://github.com/vmsmith/CookBook/blob/master/noodles_cold_sesame.md)
+[Cold Sesame Noodles](https://github.com/vmsmith/CookBook/blob/master/noodles_cold_sesame.md)   
+
+[Korean Jjajangmyeon Noodles](https://github.com/vmsmith/CookBook/blob/master/noodles_korean_jjajangmyeon.md)
