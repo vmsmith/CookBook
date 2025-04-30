@@ -8,17 +8,16 @@
 ### Korean Jjajangmyeon Noodles   
 
 #### Ingredients    
-* 1 tablespoon canola or grapeseed oil, plus more if needed
-* 8 ounces boneless, skinless pork belly, sliced crosswise into ½-inch-thick pieces
+* 1 1/2pounds fresh wheat noodles for jjajangmyeon (see Tips)
+* 8 ounces boneless, skinless pork belly, sliced crosswise into 1/2-inch-thick pieces
 * 1 medium white onion, coarsely chopped
 * 1/2 small green cabbage, cored and coarsely chopped
-2½ tablespoons chunjang, sometimes labeled as jjajang (fermented black bean paste; see Tips)
-4cups chicken broth
-2tablespoons maple syrup
-1small russet potato
-1½pounds fresh wheat noodles for jjajangmyeon (see Tips)
-1small cucumber, cut into thin matchsticks
-
+* 4 cups of chicken or pork stock
+* 2 1/2 tablespoons chunjang, sometimes labeled as jjajang (fermented black bean paste; see Tips)    
+* 2 tablespoons maple syrup
+* 1 small russet potato
+* 1 small cucumber, cut into thin matchsticks
+* 1 tablespoon canola or grapeseed oil, plus more if needed
 
 #### Prepatation   
 
