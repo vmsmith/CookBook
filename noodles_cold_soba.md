@@ -49,5 +49,35 @@
 4. Strain Katsuobushi.
 5. Mix the sauce with water.   
 
+#### Beverages   
+1. Cold Green Tea (Reich) 
+
+Sencha – Bright and grassy, perfect chilled.
+Hojicha – Roasted green tea, nutty and low in caffeine.
+Genmaicha – Green tea with roasted brown rice; toasty and very comforting.
+
+Chill it ahead of time, or serve over ice. No sugar needed.
+
+2. Cold Sake (Reishu)
+
+Junmai Ginjo or Junmai Daiginjo – Clean, lightly aromatic, and often served chilled.
+
+
+3. Mugicha (Barley Tea)
+Why it works: A staple summer drink in Japan, it’s naturally caffeine-free, toasty, and pairs well with cold soba dishes.
+
+Flavor profile: Slightly nutty, mild bitterness, extremely refreshing when served cold.
+
+Available in teabags at Asian groceries; just steep and chill.
+
+4. Sparkling Water with a Japanese Citrus Twist
+Not traditional per se, but adding a splash of yuzu juice or sudachi to sparkling water is a very Japanese-style refreshment and pairs beautifully with the meal.
+
+5. Japanese Beer (if you want something with alcohol)
+Why it works: Crisp and cold, light lagers like Asahi, Sapporo, or Kirin don't overwhelm the palate.
+
+Best served very cold, in small glasses as the Japanese do.
+
+
 
 
