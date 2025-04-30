@@ -6,6 +6,6 @@
 
 [Cold Sesame Noodles](https://github.com/vmsmith/CookBook/blob/master/noodles_cold_sesame.md)   
 
-[Cold Soba Noodles](https://github.com/vmsmith/CookBook/blob/master/noodles_cold_soba.md)   
+[Saru Soba (Cold Soba Noodles) ](https://github.com/vmsmith/CookBook/blob/master/noodles_cold_soba.md)   
 
 [Korean Jjajangmyeon Noodles](https://github.com/vmsmith/CookBook/blob/master/noodles_korean_jjajangmyeon.md)
