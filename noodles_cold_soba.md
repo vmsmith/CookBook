@@ -5,7 +5,7 @@
 
 -----    
 
-### Cold Soba Noodles    
+### Zaru Soba - Cold Soba Noodles    
 
 #### Ingredients   
 * 200 grams dried soba noodles (for 2 servings)
