@@ -5,7 +5,8 @@
 
 -----    
 
-### Korean Jjajangmyeon Noodles   
+### Korean Jjajangmyeon Noodles    
+[Eric Kim YouTube](https://www.youtube.com/watch?v=XuCvIvU7LAg&t=672s)
 
 #### Ingredients    
 * 1 1/2pounds fresh wheat noodles for jjajangmyeon (see Tips)
