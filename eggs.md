@@ -6,6 +6,8 @@
 
 ### Eggs  
 
+[Hard Boiled Eggs](https://github.com/vmsmith/CookBook/blob/master/eggs_hard_boiled.md)
+
 [Shakshuka](https://github.com/vmsmith/CookBook/blob/master/eggs_shakshuka.md)  
 
 [Basque Poached Eggs](https://github.com/vmsmith/CookBook/blob/master/eggs_poached_basque.md)  
