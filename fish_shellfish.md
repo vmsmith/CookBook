@@ -2,6 +2,8 @@
 
 -----  
 
+[Cooking Restaurant Quality Fish](https://www.youtube.com/watch?v=r5WNjoeJNzg)    
+
 [How to Cook a Whole Fish](https://www.foodandwine.com/news/how-to-cook-whole-fish)    
 
 [Scallops, Garlic Butter Baked](https://github.com/vmsmith/CookBook/blob/master/scallops_garlic_butter_baked.md)    
