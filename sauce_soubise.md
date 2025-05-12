@@ -4,7 +4,8 @@
 [Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)    
 
 ### Sauce Soubise   
-[Serious Eats](https://www.seriouseats.com/soubise-french-onion-sauce-recipe-7101058)    
+* [Serious Eats](https://www.seriouseats.com/soubise-french-onion-sauce-recipe-7101058)     
+* Goes with chicken or fish   
 
 #### Ingredients   
 * 1 1/2 cups heavy cream    
