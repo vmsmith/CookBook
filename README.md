@@ -68,7 +68,9 @@
 
 #### [Potatoes](https://github.com/vmsmith/CookBook/blob/master/potatoes.md)
 
-#### [Poultry and Fowl](https://github.com/vmsmith/CookBook/blob/master/poultry_fowl.md)
+#### [Poultry and Fowl](https://github.com/vmsmith/CookBook/blob/master/poultry_fowl.md)   
+
+#### [Purées](https://github.com/vmsmith/CookBook/blob/master/purees.md)
 
 #### [Rice, Risotto, etc.](https://github.com/vmsmith/CookBook/blob/master/rice_risotto.md)
 
