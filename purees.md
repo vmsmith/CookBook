@@ -5,7 +5,8 @@
 -----    
 
 ### Purées   
-* [Purées](https://www.youtube.com/watch?v=qal3bbhiG88)    
+
+[YouTube: 4 Purées](https://www.youtube.com/watch?v=qal3bbhiG88)    
 
 [Carrot Purée](https://github.com/vmsmith/CookBook/blob/master/purees_carrot.md)    
 
