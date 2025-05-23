@@ -1,7 +1,7 @@
-[Calendar]()   
-[Cook Book]()   
-[Purées]()   
-[Notes]()   
+[Calendar](https://github.com/vmsmith/EDT/blob/master/calendar.md)    
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)       
+[Purées](https://github.com/vmsmith/CookBook/blob/master/purees.md)     
+[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)     
 
 -----   
 
