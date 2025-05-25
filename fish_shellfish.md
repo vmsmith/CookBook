@@ -10,6 +10,8 @@
 
 ### Fish and Shellfish    
 
+[Bouillabaisse](https://github.com/vmsmith/CookBook/blob/master/soup_bouillabaisse.md)
+
 [Whole Baked Bar](https://github.com/vmsmith/CookBook/blob/master/fish_bar_baked.md)  
 
 [Bayou Lobster Omelet]()  
