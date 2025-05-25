@@ -18,7 +18,7 @@
 
 [Borscht #2 - with beef](https://github.com/vmsmith/CookBook/blob/master/soup_borscht2.md)  
 
-[Bouillabaisse Bacon](https://github.com/vmsmith/CookBook/blob/master/soup_bouillabaisse.md)
+[Bouillabaisse](https://github.com/vmsmith/CookBook/blob/master/soup_bouillabaisse.md)
 
 [Bouillabaisse - James Beard](https://github.com/vmsmith/CookBook/blob/master/soup_bouillabaisse_beard.md)  
 
