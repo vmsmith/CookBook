@@ -1,6 +1,6 @@
 [Calendar](https://github.com/vmsmith/EDT/blob/master/calendar.md)   
 [Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)   
-[Soup](https://github.com/vmsmith/CookBook/blob/master/soups.md) - [Fish](https://github.com/vmsmith/CookBook/edit/master/soups.md)   
+[Soup](https://github.com/vmsmith/CookBook/blob/master/soups.md) - [Seafood](https://github.com/vmsmith/CookBook/blob/master/fish_shellfish.md)   
 [Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)   
 
 ### Bouillabaisse   
