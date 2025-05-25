@@ -36,4 +36,9 @@
 4. Add the fish stock (or vegetable broth), saffron, thyme, bay leaves, salt, and pepper.
 5. Bring the mixture to a gentle simmer.
 6. Once simmering, add the fish chunks and cook for about 5 minutes.
-7. Add the shrimp and mussels to the pot. Cook until the shrimp are pink and the mussels have opened, about 3 - 4 minutes.   
+7. Add the shrimp and mussels to the pot. Cook until the shrimp are pink and the mussels have opened, about 3 - 4 minutes.    
+8. Remove the bay leaves and any unopened mussels before serving.
+9. Ladle the bouillabaisse into bowls, garnish with fresh parsley, and serve hot with crusty bread on the side.
+
+#### Notes:    
+Feel free to add your favorite seafood to the mix, like scallops or clams!    
