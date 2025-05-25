@@ -36,4 +36,4 @@
 4. Add the fish stock (or vegetable broth), saffron, thyme, bay leaves, salt, and pepper.
 5. Bring the mixture to a gentle simmer.
 6. Once simmering, add the fish chunks and cook for about 5 minutes.
-7. Add the shrimp and mussels to the pot. Cook until the shrimp are pink and the
+7. Add the shrimp and mussels to the pot. Cook until the shrimp are pink and the mussels have opened, about 3 - 4 minutes.   
