@@ -4,6 +4,8 @@
 
 -----   
 
+[Petit Pois à la Français](https://github.com/vmsmith/CookBook/blob/master/vegetables_peas_francais.md)
+
 ### Vegetables     
 
 * [How to Braise Vegetables](https://www.washingtonpost.com/food/2021/01/11/how-to-braise-vegetables/)  
