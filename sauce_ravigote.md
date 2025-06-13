@@ -6,11 +6,12 @@
 -----    
 
 ### Ravigote Sauce   
+Serve on artichokes, or with mild flavored proteins (veal tongue)   
 
 #### Ingredients    
-* Red onion, chopped finely
+* Red onion or shallot, chopped finely
 * Capers
-* Herbs (tarragon), chopped      
+* Herbs (tarragon, chives, chervil), chopped      
 * 2 parts olive oil
 * 1 part vinegar
 * Salt, dash   
