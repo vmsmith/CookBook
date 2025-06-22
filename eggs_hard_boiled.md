@@ -27,7 +27,7 @@
 ### Hard Boiled Eggs #2   
 
 #### Ingredients   
-* Eggs approx 75 grams
+* Eggs approx 62 grams
 
 #### Preparation   
 1. Bring the eggs to room temperature  
