@@ -28,14 +28,10 @@
 
 #### Directions  
 
-1. Put the pancetta and onion in a large, deep frying pan and cook for 7 minutes, until the onion is beginning to soften  
-
-2. Add the peppers, tomatoes and tomato purée to the pan and mix well  
-
-3. Season, cover and cook for 10-15 mins  
-
-4. Make 4 small wells in the mixture and crack an egg into each well  
-
-5. Cook for a further 5-6 mins or until the eggs have set  
-
-6. Scatter with basil and serve straight away  
+1. Put the pancetta and onion in a large, deep frying pan and cook for 7 minutes, until the onion is beginning to soften.
+2. Add the garlic and let it aromaize for a minute or so.
+3. Add the peppers, tomatoes and tomato purée to the pan and mix well  
+4. Season, cover and cook for 10-15 mins  
+5. Make 4 small wells in the mixture and crack an egg into each well  
+6. Cook for a further 5-6 mins or until the eggs have set  
+7. Scatter with basil and serve straight away  
