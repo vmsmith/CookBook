@@ -29,6 +29,7 @@
 #### Pork  
 * [Slow-roast Pork Belly](https://github.com/vmsmith/CookBook/blob/master/pork_belly_slow_roast_plain.md)
 * [Slow-roast Pork Belly with Celeriac and Pear Mash](https://github.com/vmsmith/CookBook/blob/master/pork_belly_slow_roast.md)
+* [Roast Pork Shoulder with Rosemary, Mustard and Garlic](https://themom100.com/recipe/fall-apart-roasted-pork-shoulder-rosemary-mustard-garlic/)   
 * [Roast Brined Pork Shoulder](https://github.com/vmsmith/CookBook/blob/master/pork_roast_brined.md)
 * [Roast Dry-rubbed Pork Shoulder](https://github.com/vmsmith/CookBook/blob/master/pork_roast_dry_rubbed.md)    
 * [Slow-roasted Pork Belly with Celeriac and Pears](https://github.com/vmsmith/CookBook/blob/master/pork_belly_slow-roasted.md)  
