@@ -76,6 +76,8 @@
 
 [Spinach, Sautéed with Garlic](https://github.com/vmsmith/CookBook/blob/master/veg_spinach_sauteed_garlic.md)    
 
+[Squash, Butternut, Roasted](https://github.com/vmsmith/CookBook/blob/master/squash-butternut-roasted.md)    
+
 [Tomatoes, Over Dried](https://github.com/vmsmith/CookBook/blob/master/veg_tomatoes_oven-dried.md)  
 
 [Tomatoes, Roasted]() - Patricia Wells, p. 88  
