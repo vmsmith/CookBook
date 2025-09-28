@@ -7,7 +7,8 @@
 ### Poultry and Fowl     
 
 [Chicken Normandy](https://eatingeuropean.com/chicken-normandy/) - Link to Eating European  
-[Cacio e Pepe Chicken Thighs](https://github.com/vmsmith/CookBook/blob/master/chicken_thighs_cacio_pepe.md)  
+[Cacio e Pepe Chicken Thighs](https://github.com/vmsmith/CookBook/blob/master/chicken_thighs_cacio_pepe.md)   
+[Ethiopian Chicken Stew](https://github.com/vmsmith/CookBook/blob/master/chicken_stew_ethiopian.md)
 
 
 #### Chicken, Whole    
