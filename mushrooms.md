@@ -7,7 +7,7 @@
 ### Mushrooms   
 
 * [Oyster Mushrooms Sautéed with Garlic and Parsley](https://github.com/vmsmith/CookBook/blob/master/mushrooms_oyster_sauteed_garlic.md)
-* [Cèpes, Sautéed](https://github.com/vmsmith/CookBook/blob/master/mushrooms_cepes_sauteed.md) 
+* [Girolles, Sautéed](https://github.com/vmsmith/CookBook/blob/master/mushrooms_girolles_sauteed.md) 
 * [Cèpes à la Bordelaise](mushrooms_cepes_bordelaise.md)   
 * [Cèpes Provencale](mushrooms_cepes_provencale.md)   
 
