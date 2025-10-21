@@ -6,25 +6,29 @@
 ## Mushroom Sauce   
 
 #### Ingredients    
-* Mushrooms
-* Shallot
-* Garlic   
+* Mushrooms, sliced    
+* Shallot, diced   
+* Garlic, chopped      
 * Wine
 * Balsamic vinegar
 * Butter
 * Stock
 * Cream
-* Thickener (potato starch, beurre manier, etc.)   
+* Thickener (potato starch, beurre manier, etc.)
+* Herbs  
 * Salt and pepper   
-
 
 #### Preparation    
 1. Chop shallots
 2. Slice mushrooms   
-
-
+3. Chop the garlic   
 
 #### Directions   
 1. Melt butter and caremalize shallots.
 2. Add mushrooms, and cook out the water (add a bit of salt).  
-3. 
+3. Add chopped garlic plus some herbs.
+4. Stir until garlic releases its aroma, then add some balsamic vinegar.
+5. Add wine, and reduce until almost nothing.
+6. Add broth/stock, and season.   
+7. Thicken the sauce.
+8. 
