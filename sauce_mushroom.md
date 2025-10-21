@@ -8,6 +8,7 @@
 #### Ingredients    
 * Mushrooms
 * Shallot
+* Garlic   
 * Wine
 * Balsamic vinegar
 * Butter
@@ -24,3 +25,6 @@
 
 
 #### Directions   
+1. Melt butter and caremalize shallots.
+2. Add mushrooms, and cook out the water (add a bit of salt).  
+3. 
