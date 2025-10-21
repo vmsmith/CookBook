@@ -46,6 +46,8 @@ Mother Sauces - [Web site](https://www.thespruceeats.com/mother-sauces-996119)
 
 [Mignonette Sauce (Oysters)](https://github.com/vmsmith/CookBook/blob/master/sauce_mignonette.md)
 
+[Mushroom Sauce](https://github.com/vmsmith/CookBook/blob/master/sauce_mushroom.md)  
+
 [Pesto, Green (Basil)](https://github.com/vmsmith/CookBook/blob/master/sauce_pesto_green.md)  
 
 [Pesto, Red](https://github.com/vmsmith/CookBook/blob/master/sauce_pesto_red.md)  
