@@ -31,4 +31,5 @@
 5. Add wine, and reduce until almost nothing.
 6. Add broth/stock, and season.   
 7. Thicken the sauce.
-8. 
+8. Add some cream.
+9. Take it off the heat, then stir in some cold butter.   
