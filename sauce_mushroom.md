@@ -6,16 +6,17 @@
 ## Mushroom Sauce   
 
 #### Ingredients    
-* Mushrooms, sliced    
-* Shallot, diced   
-* Garlic, chopped      
-* Wine
-* Balsamic vinegar
-* Butter
-* Stock
-* Cream
+* 300 - 350 grams (10 - 12 oz) of mushrooms, sliced    
+* 2 medium shallots, diced   
+* 2 garlic cloves, chopped      
+* 1/2 cup of red wine (Crozes-Hermitage, St-Joseph)   
+* 2 - 3 tsps of balsamic vinegar
+* 2 tbls of butter for sautéing
+* 2 tbls of cold butter for finishing   
+* 1 cup of stock
+* 2 - 3 Cream
 * Thickener (potato starch, beurre manier, etc.)
-* Herbs  
+* Herbs (rosemary, thyme)  
 * Salt and pepper   
 
 #### Preparation    
