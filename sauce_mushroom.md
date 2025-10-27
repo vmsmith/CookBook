@@ -9,7 +9,7 @@
 * 300 - 350 grams (10 - 12 oz) of mushrooms, sliced    
 * 2 medium shallots, diced   
 * 2 garlic cloves, chopped      
-* 1/2 cup of red wine (Crozes-Hermitage, St-Joseph)   
+* 1 cup of red wine (Crozes-Hermitage, St-Joseph)   
 * 2 - 3 tsps of balsamic vinegar
 * 2 tbls of butter for sautéing
 * 2 tbls of cold butter for finishing   
