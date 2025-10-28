@@ -30,7 +30,8 @@
 5. Chop the celery
 6. Halve the garlic head
 7. Get orange strips & squeeze the oranges   
-8. Preheat oven to 350F 
+8. Preheat oven to 350F
+9. Make [gremolata](https://github.com/vmsmith/CookBook/blob/master/condiment_gremolata.md)    
 
 #### Directions   
 1. Sprinkle lamb evenly with 2 tablespoons salt and black pepper. Let stand at room temperature 1 hour.   
@@ -46,5 +47,5 @@
 11. Nestle lamb, fat side up, on vegetable mixture; bring to a boil over medium.
 12. Remove from heat and cover Dutch oven.
 13. Transfer to preheated oven and roast until lamb is fork-tender, 2 hours to 2 hours and 30 minutes.
-14. Serve with gremolata.   
+14. Serve with [gremolata](https://github.com/vmsmith/CookBook/blob/master/condiment_gremolata.md).       
 
