@@ -23,13 +23,14 @@
 * 1 bunch thyme sprigs
 
 #### Preparation   
-1. Chop the onion
-2. Halve the shallots
-3. Chop the carrot
-4. Chop the celery
-5. Halve the garlic head
-6. Get orange strips & squeeze the oranges   
-7. Preheat oven to 350F 
+1. Salt the lamb shoulder and let it sit overnight
+2. Chop the onion
+3. Halve the shallots
+4. Chop the carrot
+5. Chop the celery
+6. Halve the garlic head
+7. Get orange strips & squeeze the oranges   
+8. Preheat oven to 350F 
 
 #### Directions   
 1. Sprinkle lamb evenly with 2 tablespoons salt and black pepper. Let stand at room temperature 1 hour.   
@@ -45,4 +46,5 @@
 11. Nestle lamb, fat side up, on vegetable mixture; bring to a boil over medium.
 12. Remove from heat and cover Dutch oven.
 13. Transfer to preheated oven and roast until lamb is fork-tender, 2 hours to 2 hours and 30 minutes.
+14. Serve with gremolata.   
 
