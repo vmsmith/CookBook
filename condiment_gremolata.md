@@ -25,3 +25,8 @@
 1. Stir together all gremolata ingredients in a bowl.
 2. Let stand 10 minutes.
 3. Season with salt to taste.
+
+#### Serve With   
+* [Braised Lamb Shoulder](https://github.com/vmsmith/CookBook/blob/master/lamb_shoulder_braised_1.md)
+* [Osso buco alla Milanese]()
+* Oily fish, like mackerel and sardines   
