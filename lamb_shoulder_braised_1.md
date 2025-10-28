@@ -1,7 +1,7 @@
-[Calendar](https://github.com/vmsmith/EDT/blob/master/calendar)        
-[Lamb Shoulder, Braised](https://github.com/vmsmith/CookBook/blob/master/README.md)    
-[Lamb Shoulder, Braised](https://github.com/vmsmith/CookBook/blob/master/meat.md)    
-[Lamb Shoulder, Braised](https://github.com/vmsmith/CookBook/blob/master/notes.md)     
+[Calendar](https://github.com/vmsmith/EDT/blob/master/calendar)         
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)       
+[Meat](https://github.com/vmsmith/CookBook/blob/master/meat.md)     
+[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)       
 
 ## Braised Lamb Shoulder    
 
