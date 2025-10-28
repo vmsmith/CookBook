@@ -4,7 +4,7 @@
 
 ### Condiments  
 
-[Gremolata](https://github.com/vmsmith/CookBook/blob/master/gremolata.md)     
+[Gremolata](https://github.com/vmsmith/CookBook/blob/master/condiment_gremolata.md)     
 
 [Onion Confitura](https://github.com/vmsmith/CookBook/blob/master/condiment_onion_confitura.md)  
 
