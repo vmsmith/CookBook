@@ -35,6 +35,6 @@
 * Swirl a little cold butter into the reduced glaze just before serving for extra silkiness.
 
 #### Serve With: 
-* [Glazed turnips]()
+* [Glazed turnips](https://github.com/vmsmith/CookBook/blob/master/veg_turnips_glazed.md)    
 * [Celeriac Purée]()
 * [Spiced Red Cabbage]()     
