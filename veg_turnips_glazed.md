@@ -27,4 +27,4 @@
 7. Toss gently to coat and serve warm.
 
 #### Serve With:   
-* Roasted Duck Legs   
+* [Roasted Duck Legs](https://github.com/vmsmith/CookBook/blob/master/fowl_duck_leg_slow_roasted.md)       
