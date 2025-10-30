@@ -82,6 +82,8 @@
 
 [Tomatoes, Roasted]() - Patricia Wells, p. 88  
 
+[Turnips, Glazed](https://github.com/vmsmith/CookBook/blob/master/veg_turnips_glazed.md)
+
 [Turnips, Mashed](https://github.com/vmsmith/CookBook/blob/master/veg_turnips_mashed.md)  
 
 [Turnip Purée](https://github.com/vmsmith/CookBook/blob/master/veg_turnip_puree.md) 
