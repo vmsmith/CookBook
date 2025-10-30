@@ -114,26 +114,28 @@
 -----  
 #### Duck  
 
-[Spiced Orange Duck](https://github.com/vmsmith/CookBook/blob/master/fowl_duck_spiced_orange.md)    
+[Roast Wild Duck](https://github.com/vmsmith/CookBook/blob/master/poultry_fowl_duck-wild.md)     
+(https://www.cuisinefiend.com/147/roast-wild-duck) - Link to Cuisine Friend     
 
-[Lentil and Duck Confit Salad](beans_salad_lentil_duck_confit.md)     
+[Spiced Orange Duck](https://github.com/vmsmith/CookBook/blob/master/fowl_duck_spiced_orange.md)      
 
-[Crisp Braised Duck Legs](https://github.com/vmsmith/CookBook/blob/master/fowl_duck_legs_braised.md)  
+[Lentil and Duck Confit Salad](beans_salad_lentil_duck_confit.md)       
 
-[Roast Wild Duck](https://github.com/vmsmith/CookBook/blob/master/poultry_fowl_duck-wild.md)   
-(https://www.cuisinefiend.com/147/roast-wild-duck) - Link to Cuisine Friend   
+[Duck Breast, Pan Seared](https://github.com/vmsmith/CookBook/blob/master/fowl_duck_breast_pan-seared.md)    
 
-[Duck Breast, Pan Seared](https://github.com/vmsmith/CookBook/blob/master/fowl_duck_breast_pan-seared.md)  
+[Duck Breast, Roasted with Apicius Sauce](https://github.com/vmsmith/CookBook/blob/master/fowl_duck_breast_roasted_apicius-sauce.md)    
 
-[Duck Breast, Roasted with Apicius Sauce](https://github.com/vmsmith/CookBook/blob/master/fowl_duck_breast_roasted_apicius-sauce.md)
+[Duck Breast with Blood Oranges](https://github.com/vmsmith/CookBook/blob/master/fowl_duck_breast_blood_oranges.md)    
 
-[Duck Breast with Blood Oranges](https://github.com/vmsmith/CookBook/blob/master/fowl_duck_breast_blood_oranges.md)  
+[Duck Breast with Prune Sauce](https://github.com/vmsmith/CookBook/blob/master/fowl_duck_breast_prune_sauce.md)      
 
-[Duck Breast with Prune Sauce](https://github.com/vmsmith/CookBook/blob/master/fowl_duck_breast_prune_sauce.md)  
+[Crisp Braised Duck Legs](https://github.com/vmsmith/CookBook/blob/master/fowl_duck_legs_braised.md)     
 
-[Duck Leg Confit Parmentier](https://github.com/vmsmith/CookBook/blob/master/fowl_duck_leg_confit_parmentier.md)  
+[Slow Roasted Duck Leg](https://github.com/vmsmith/CookBook/blob/master/fowl_duck_leg_slow_roasted.md)     
 
-[Duck Leg Stew](https://github.com/vmsmith/CookBook/blob/master/fowl_duck_leg_stew.md)  
+[Duck Leg Confit Parmentier](https://github.com/vmsmith/CookBook/blob/master/fowl_duck_leg_confit_parmentier.md)     
+
+[Duck Leg Stew](https://github.com/vmsmith/CookBook/blob/master/fowl_duck_leg_stew.md)    
 
 -----  
 
