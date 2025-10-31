@@ -19,10 +19,11 @@
 * 1 1/4 teaspoons kosher salt, divided    
 
 #### Preparation   
-1. Finely chop shallot
-2. Finely chop garlic
-3. Finely chop thyme
-4. Finely chop chives   
+1. Do Jacques Pepin trick with thigh bone    
+2. Finely chop shallot
+3. Finely chop garlic
+4. Finely chop thyme
+5. Finely chop chives   
 
 #### Directions    
 1. Pat chicken dry with paper towels.
