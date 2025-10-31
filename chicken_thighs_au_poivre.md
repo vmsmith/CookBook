@@ -26,8 +26,8 @@
 
 #### Directions    
 1. Pat chicken dry with paper towels.
-2. Sprinkle evenly on all sides with 2 teaspoons of the pepper and 1 teaspoon of the salt, pressing gently to adhere. P
-3. lace chicken skin side down in a cold 12-inch skillet.
+2. Sprinkle evenly on all sides with 2 teaspoons of the pepper and 1 teaspoon of the salt, pressing gently to adhere.    
+3. Place chicken skin side down in a cold 12-inch skillet.
 4. Cook over medium, undisturbed, until skin is golden brown and very crisp, about 15 minutes.
 5. Turn chicken skin side up; cook, undisturbed, until a thermometer inserted into thickest portion of chicken registers 165°F, about 10 minutes.
 6. Transfer chicken to a plate and set aside, reserving drippings in skillet.
