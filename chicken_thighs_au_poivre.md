@@ -23,7 +23,8 @@
 2. Finely chop shallot
 3. Finely chop garlic
 4. Finely chop thyme
-5. Finely chop chives   
+5. Finely chop chives
+6. Crack peppercorns   
 
 #### Directions    
 1. Pat chicken dry with paper towels.
