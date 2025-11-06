@@ -6,6 +6,7 @@
 -----   
 
 ### Brined Roast Pork    
+[David Lebovitz ](https://www.davidlebovitz.com/roast-all-purpose-pork-and-chicken-brine/)
 
 #### Ingredients   
 * Pork shoulder
