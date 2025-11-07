@@ -9,7 +9,7 @@
 [David Lebovitz ](https://www.davidlebovitz.com/roast-all-purpose-pork-and-chicken-brine/)
 
 #### Ingredients   
-* Pork shoulder
+* 2-pound pork shoulder
 * Stock
 * 1 - 2 chopped shallots  
 
@@ -28,7 +28,7 @@
 7. Let cool for 30 minutes at room temperature.
 8. Pour the liquid into a small saucepan. If you'd like more liquid to serve with the pork you can add a little more stock and warm it before serving.
 9. To finish the pork, preheat the oven to 475ºF (250ºC) and move the oven rack to the top third of the oven. Set the pork on a clean baking sheet.
-10. Roast the pork until it's well-browned, which will take 12 to 20 minutes. Mine took almost the full 20 minutes but go by look and color rather than a strict cooking time.
+10. Roast the pork until it's well-browned, which will take 12 to 20 minutes. Go by look and color rather than a strict cooking time.
 
 
 -----    
