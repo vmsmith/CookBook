@@ -4,6 +4,8 @@
 
 ### Beans and Legumes  
 
+[Afghan Chickpea and Yogurt Stew](beans_stew_chickpea_yogurt.md)
+
 [Lentil and Sausage Stew](beans_stew_lentil_sausage.md)   
 
 [Lentil and Duck Confit Salad](beans_salad_lentil_duck_confit.md)
