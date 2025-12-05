@@ -1,7 +1,7 @@
-[Calendar]()   
-[Cook Book]()  
+[Calendar](https://github.com/vmsmith/EDT/blob/master/calendar.md)   
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)  
 [Beans and Legumes]()   
-[Notes]()   
+[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)   
 
 
 ## Afghan Chickpea and Yogurt Stew   
