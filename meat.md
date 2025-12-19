@@ -17,7 +17,7 @@
 * [Osso Bucco](https://github.com/vmsmith/CookBook/blob/master/meat_osso_bucco.md)      
 
 #### Lamb  
-* [Lamb Shoulder, Roast with Honey]()   
+* [Lamb Shoulder, Roast with Honey](https://github.com/vmsmith/CookBook/blob/master/lamb_shoulder_roast_honey.md)       
 * [Lamb Chops, Pan-seared](https://github.com/vmsmith/CookBook/blob/master/lamb_chops_pan-seared.md)  
 * [Lamb Ragu](https://github.com/vmsmith/CookBook/blob/master/lamb_ragu.md)   
 * [Lamb Shanks, Braised](https://github.com/vmsmith/CookBook/blob/master/lamb_shanks_braised_1.md)
