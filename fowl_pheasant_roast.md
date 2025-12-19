@@ -19,6 +19,8 @@
 * 2 tablespoons olive oil or softened butter
 * Black pepper to taste
 
+* Other ingredients for brine and onion sauce   
+
 #### Preparation  
 * Brine pheasant for four hours (see brine directions, below).  
 * Bring pheasant to room temperature, stuff loosely with onion, apple, and herbs, then truss.  
@@ -45,4 +47,12 @@
 
 2. Cover and let cool to room temperature. 
 
-3. When it cools, submerge the pheasant in the brine and keep it in the fridge for 4 hours. 
+3. When it cools, submerge the pheasant in the brine and keep it in the fridge for 4 hours.
+
+### Onion Sauce   
+1. Sauté onions and shallots
+2. Deglaze with white wine
+3. Add pheasant stock and some fresh thyme
+4. Reduce a bit
+5. Thicken with potato starch
+6. Remove from heat and stir in some crême fraiche   
