@@ -24,6 +24,8 @@
 
 [Brussells Sprouts, Roasted](https://github.com/vmsmith/CookBook/blob/master/veg_brussels-sprouts_roasted2.md)  
 
+[Brussels Sprouts, Pan Roasted](https://github.com/vmsmith/CookBook/blob/master/veg_brussells-sprouts_pan-roasted.md)    
+
 [Brussells Sprouts, Roasted - Balsamic  ](https://github.com/vmsmith/CookBook/blob/master/veg_brussells_sprouts_roasted1.md)  
 
 [Brussels Sprouts, Roasted with Shitake Mushrooms](https://github.com/vmsmith/CookBook/blob/master/veg_brussells-sprouts_shitake-mushrooms.md)  
