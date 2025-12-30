@@ -70,7 +70,7 @@
 
 [Chicken a la Diable](https://github.com/vmsmith/CookBook/blob/master/chicken_diable.md)
 
-[Roasted Legs Pronvençal](https://github.com/vmsmith/CookBook/blob/master/chicken_roasted_provencal.md)  
+[Roasted Legs Provençal](https://github.com/vmsmith/CookBook/blob/master/chicken_roasted_provencal.md)  
 
 [Roasted Legs with Lemon/Thyme](https://github.com/vmsmith/CookBook/blob/master/chicken_thighs_roasted_lemon-thyme.md)
 
