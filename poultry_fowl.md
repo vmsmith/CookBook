@@ -6,7 +6,7 @@
 
 ### Poultry and Fowl     
 
-[*Poulet Chasseur*](https://github.com/vmsmith/CookBook/blob/master/chicken_poulet_chasseur.md)
+[*Poulet Chasseur*](https://github.com/vmsmith/CookBook/blob/master/chicken_poulet_chasseur.md)    
 [Chicken Thighs au Poivre](https://github.com/vmsmith/CookBook/blob/master/chicken_thighs_au_poivre.md)    
 [Chicken Normandy](https://eatingeuropean.com/chicken-normandy/) - Link to Eating European    
 [Cacio e Pepe Chicken Thighs](https://github.com/vmsmith/CookBook/blob/master/chicken_thighs_cacio_pepe.md)       
