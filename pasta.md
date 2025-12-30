@@ -6,6 +6,8 @@
 
 ### Pasta  
 
+[Anchovy and Walnut Sauce](https://github.com/vmsmith/CookBook/blob/master/pasta_sauce_anchovy_walnut.md)
+
 [Wild Boar Pasta Sauce](https://github.com/vmsmith/CookBook/blob/master/pasta_sauce_wild-boar.md) 
 
 [Marcella Hazan's Bolognese Sauce](https://github.com/vmsmith/CookBook/blob/master/pasta_sauce_bolognese.md)
