@@ -4,6 +4,8 @@
 
 -----    
 
+[Ramen with Shrimp and Vegetables](https://github.com/vmsmith/CookBook/blob/master/soup_ramen_shrimp_vegetables.md)
+
 [Tomato and Fennel Soup](https://github.com/vmsmith/CookBook/blob/master/soup_tomato_fennel.md)    
 
 ### Soups    
