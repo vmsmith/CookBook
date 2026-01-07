@@ -8,20 +8,20 @@
 ### Toulouse Cassoulet - Paula Wolfert   
 
 #### Ingredients   
-* 1/2 pound (230 grams) of boneless pork shoulder
-* 3/4 pound of fresh ham hock
-* 3 legs of *cuisse de canard confit*
-* 1/2 pound (230 grams) of Toulouse sausage
-* 1/4 pound of pancetta   
-* Pork skin
-* 1/8 pound of hard pork fat   
-* 1 pound (460 grams) of Tarbais beans
-* 1 medium onion, chopped
-* 2 small carrots, cut into medium rounds
-* 1 whole head of garlic, unpeeled
+* 1+ pounds of boneless pork shoulder    
+* 1 1/2 pounds of fresh ham hock    
+* 3/4 pounds of pork skin
+* 2 pounds (1 kilo) of Tarbais beans    
+* 2 medium onions, chopped    
+* 3 small carrots, cut into medium rounds
+* 1 pound of pancetta  
+* 1 whole head of garlic, unpeeled    
 * 4 small cloves of garlic, peeled
-* 1/2 large plum tomato, pealed and seeded
-* 1 quart of chicken stock
+* 1 large plum tomato peeled and seeded
+* 2 quarts of chicken stock   
+* 6 legs of *cuisse de canard confit*
+* 1 pound (500 grams) of Toulouse sausage
+* 1/4 pound of hard pork fat   
 * Rendered duck fat
 * Herb bouquet
 * Fresh bread crumbs
