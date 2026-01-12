@@ -6,6 +6,7 @@
 
 ### Poultry and Fowl     
 
+[*Poulet à la Claudine*](https://github.com/vmsmith/CookBook/blob/master/chicken_poulet_claudine.md)    
 [*Poulet Chasseur*](https://github.com/vmsmith/CookBook/blob/master/chicken_poulet_chasseur.md)    
 [Chicken Thighs au Poivre](https://github.com/vmsmith/CookBook/blob/master/chicken_thighs_au_poivre.md)    
 [Chicken Normandy](https://eatingeuropean.com/chicken-normandy/) - Link to Eating European    
