@@ -9,7 +9,7 @@
 * Jacques Pepin   
 
 #### Ingredients   
-* 2 Chicken thighs, prepped    
+* 2 - 3 Chicken thighs, prepped    
 * 1/2 cup rice    
 * 1/2 cup canned chick peas   
 * 1/2 cup of cut onions    
