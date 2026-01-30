@@ -6,6 +6,7 @@
 ---   
 
 ## Turkish Eggs with Lemon Yogurt    
+[The Guardian](https://www.theguardian.com/food/2026/jan/17/turkish-eggs-with-lemon-yoghurt-recipe-meera-sodha)    
 
 #### Ingredients    
 * 3 large eggs
