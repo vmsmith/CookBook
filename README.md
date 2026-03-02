@@ -1,7 +1,9 @@
 [Calendar](https://github.com/vmsmith/EDT/blob/master/calendar.md)   
 [Everyday Things - README](https://github.com/vmsmith/EDT/blob/master/README.md)
+[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)    
 
 -----  
+
 #### Blogs    
 
 * [Everyday French Chef](https://everydayfrenchchef.com/)    
