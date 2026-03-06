@@ -19,7 +19,10 @@
 #### Preparation
 
 1. Preheat oven to 350F
-2. Remove excess fat and silver skin from lamb shanks
+2. Prepare lamb
+  * Score lamb shanks about 1 inch from end
+  * Remove excess fat and silver skin from lamb shanks
+  * Brine lamb shanks in 5% salt solution for 24 hours  
 3. Chop the carrots and onions
 4. Chop the garlic clove
 
