@@ -33,4 +33,5 @@
 5. Add peeled tomatoes and liquid & stir.
 6. Add the stock and cook for 40 minutes.
 7. Thow in a few ripped basil leaves, add the eggs, cover, and cook until desired doneness.
-8. Put a stale bread slice in a bowl, cover with the grated cheese, and laddle on the sauce and eggs.   
+8. Put a stale bread slice in a bowl, cover with the grated cheese, and laddle on the sauce and eggs.
+9. Granish with a drizzle of oil and a few basil leaves.  
