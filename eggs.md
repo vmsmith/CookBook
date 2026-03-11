@@ -6,6 +6,8 @@
 
 ### Eggs  
 
+[Tuscan Eggs](https://github.com/vmsmith/CookBook/blob/master/eggs_tuscan.md)
+
 [Turkish Eggs with Yogurt](https://github.com/vmsmith/CookBook/blob/master/eggs_turkish_yogurt.md)
 
 [Eggs Gratin](https://github.com/vmsmith/CookBook/blob/master/eggs_gratin.md)
