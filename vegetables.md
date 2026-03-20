@@ -50,7 +50,9 @@
 
 [Fennel, Braised](https://github.com/vmsmith/CookBook/blob/master/veg_fennel_braised.md)  
 
-[Leeks, Braised](https://github.com/vmsmith/CookBook/blob/master/veg_leeks_braised.md)
+[Leeks, Braised #1](https://github.com/vmsmith/CookBook/blob/master/veg_leeks_braised.md)
+
+[Leeks, Braised #2](https://github.com/vmsmith/CookBook/blob/master/veg_leeks_braised2.md)
 
 [Macédoine](https://github.com/vmsmith/CookBook/blob/master/veg_macedoine.md)  
 
