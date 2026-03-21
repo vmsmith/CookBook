@@ -4,6 +4,8 @@
 
 ### Beans and Legumes  
 
+[White Bean and Tomato Stew](beans_stew_white-tomato.md)    
+
 [Afghan Chickpea and Yogurt Stew](beans_stew_chickpea_yogurt.md)
 
 [Lentil and Sausage Stew](beans_stew_lentil_sausage.md)   
