@@ -14,6 +14,7 @@
 * White cheddar, shredded       
 * Butter    
 * Parmigiano-Reggiano, shredded
+* Salt and pepper   
 * Herb for garnish   
 
 #### Preparation    
@@ -28,12 +29,13 @@
 1. Cook the bacon & shallots.    
 3. Put the grated potatoes in a bowl.    
 4. Add sour cream and shredded cheddar.    
-5. Add a few ounces of butter.    
-6. Add the bacon/shallots.    
-7. Stir and mix well, then put in baking dish.
-8. Sprikle with shredded parmigiano and bacon bits.
-9. In the oven for 40 - 45 minutes (inside temp 150+)
-10. Sprinkle with chopped chives or parsley. 
+5. Add a few ounces of butter.
+6. Taste, season as necessary.   
+7. Add the bacon/shallots.    
+8. Stir and mix well, then put in baking dish.
+9. Sprikle with shredded parmigiano and bacon bits.
+10. In the oven for 40 - 45 minutes (inside temp 150+)
+11. Sprinkle with chopped chives or parsley. 
 
 
 #### Note   
