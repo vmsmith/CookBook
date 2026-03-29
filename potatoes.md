@@ -6,6 +6,8 @@
 
 ### Potatoes    
 
+[Romanoff](https://github.com/vmsmith/CookBook/blob/master/potatoes_romanoff.md)   
+
 [Dauphinoise](https://github.com/vmsmith/CookBook/blob/master/potatoes_dauphinoise.md)   
 
 [Gratin #1](https://github.com/vmsmith/CookBook/blob/master/potatoes_gratin1.md) - Patricia Wells, p. 98    
