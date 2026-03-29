@@ -13,7 +13,8 @@
 * Sour cream    
 * White cheddar, shredded       
 * Butter    
-* Parmigiano-Reggiano, shredded     
+* Parmigiano-Reggiano, shredded
+* Herb for garnish   
 
 #### Preparation    
 1. Prepare potatoes one day in advance [see note]
@@ -30,7 +31,9 @@
 5. Add a few ounces of butter.    
 6. Add the bacon/shallots.    
 7. Stir and mix well, then put in baking dish.
-8. Sprikle with shredded parmigiano and bacon bits.   
+8. Sprikle with shredded parmigiano and bacon bits.
+9. In the oven for 40 - 45 minutes (inside temp 150+)
+10. Sprinkle with chopped chives or parsley. 
 
 
 #### Note   
