@@ -5,26 +5,30 @@
 
 -----      
 
-### Oyster Mushrooms Sautéed with Garlic   
+### Oyster Mushrooms *en persillade*    
 
 #### Ingredients    
-* 10 ounces oyster mushrooms
-* 1 clove garlic, finely chopped or grated
-* 1/4 cup fresh Italian parsley leaves
+* Oyster mushrooms
+* Garlic, finely chopped or grated
+* Fresh Italian parsley leaves
 * 1 tablespoon extra virgin olive oil
 * Salt and freshly ground black pepper
 * 2 tablespoons butter
+* A bit of wine
+* Lemon juice    
 
 
 #### Preparation   
-* Clean, trim, and slice (if necessary) the mushrooms
+* Clean, trim, and rip the mushrooms
 * Chop the garlic
-* Lightly chop the parsley   
+* Chop the parsley   
 
 #### Directions   
 1. Place a nonstick pan over medium-high heat. When a drop of water sizzles and evaporates on contact, add the oil to the pan.
 2. Arrange the mushrooms in one layer.
 3. Cook, without turning, until one side is golden brown and crisp (If the mushrooms don't fit in one layer in your pan, cook them in 2 batches, adding a little more oil as needed).   
 4. Sprinkle with salt and pepper to taste and toss.
-5. Transfer the mushrooms to a serving platter.
-6. Without returning the pan to the heat, add the butter, garlic and parsley to the hot pan, swirling until the butter melts and the garlic is fragrant.
+5. Add some butter.   
+6. Add the garlic and stir until it gets fragrant.  
+7. Stir in the parsley.
+8. Add a dash of lemon juice and serve.
