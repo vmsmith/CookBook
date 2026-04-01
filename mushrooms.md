@@ -6,6 +6,7 @@
 
 ### Mushrooms   
 
+* [Garlic Mushrooms](https://github.com/vmsmith/CookBook/blob/master/veg_mushrooms_garlic.md)     
 * [Oyster Mushrooms Sautéed with Garlic and Parsley](https://github.com/vmsmith/CookBook/blob/master/mushrooms_oyster_sauteed_garlic.md)
 * [Girolles, Sautéed](https://github.com/vmsmith/CookBook/blob/master/mushrooms_girolles_sauteed.md) 
 * [Cèpes à la Bordelaise](mushrooms_cepes_bordelaise.md)   
@@ -13,7 +14,7 @@
 
 -----    
 
-* [Garlic Mushrooms](https://github.com/vmsmith/CookBook/blob/master/veg_mushrooms_garlic.md)
+
 * [Risotto with Mushrooms and Thyme](https://www.bonappetit.com/recipe/risotto-with-mushrooms-and-thyme)  
 * [Oven Polenta with Roasted Mushrooms and Thyme](https://www.bonappetit.com/recipe/oven-polenta-with-roasted-mushrooms-and-thyme)
 
