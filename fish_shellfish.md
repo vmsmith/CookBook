@@ -42,7 +42,7 @@
 
 [Sardine Sandwich #2](https://github.com/vmsmith/CookBook/blob/master/fish_sardine_sandwich2.md)    
 
-[Shrimp Aguachile](https://github.com/vmsmith/CookBook/blob/master/fish_shrimp_aguachile.md)
+[Shrimp Aguachile](https://github.com/vmsmith/CookBook/blob/master/fish_shrimp_aquachile.md)
 
 [Buttery Poached Shrimp Stew](https://github.com/vmsmith/CookBook/blob/master/fish_shrimp_buttery-poached.md)  
 
