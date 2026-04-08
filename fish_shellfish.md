@@ -40,7 +40,9 @@
 
 [Baked Sardines and Tomatoes](https://github.com/vmsmith/CookBook/blob/master/fish_sardines_tomatoes_baked.md)
 
-[Sardine Sandwich #2](https://github.com/vmsmith/CookBook/blob/master/fish_sardine_sandwich2.md)
+[Sardine Sandwich #2](https://github.com/vmsmith/CookBook/blob/master/fish_sardine_sandwich2.md)    
+
+[Shrimp Aguachile](https://github.com/vmsmith/CookBook/blob/master/fish_shrimp_aguachile.md)
 
 [Buttery Poached Shrimp Stew](https://github.com/vmsmith/CookBook/blob/master/fish_shrimp_buttery-poached.md)  
 
