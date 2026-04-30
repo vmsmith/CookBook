@@ -6,6 +6,7 @@
 
 ### Poultry and Fowl     
 
+[Chicken Marbella](https://github.com/vmsmith/CookBook/blob/master/chicken_marbella.md)
 [Chicken Jambalaya](https://github.com/vmsmith/CookBook/blob/master/chicken_jambalaya.md)
 [Chicke Thighs in Creany Tarragon Sauce](https://github.com/vmsmith/CookBook/blob/master/chicken_thighs_creany_tarragon.md)    
 [*Poulet à la Claudine*](https://github.com/vmsmith/CookBook/blob/master/chicken_poulet_claudine.md)    
