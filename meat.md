@@ -29,7 +29,7 @@
 * [Lamb *Hachis Parmentier*](https://github.com/vmsmith/CookBook/blob/master/lamb_hachis_parmentier.md)   
 
 #### Pork   
-* [Pork Tenderloin, Marinaded & with Chutney](https://github.com/vmsmith/CookBook/blob/master/pork_tenderloin_marinaded_chutney.md)
+* [Cider Roasted Pork Tenderloin with Chutney](https://github.com/vmsmith/CookBook/blob/master/pork_tenderloin_marinaded_chutney.md)
 * [Slow-roast Pork Belly](https://github.com/vmsmith/CookBook/blob/master/pork_belly_slow_roast_plain.md)
 * [Slow-roast Pork Belly with Celeriac and Pear Mash](https://github.com/vmsmith/CookBook/blob/master/pork_belly_slow_roast.md)
 * [Roast Pork Shoulder with Rosemary, Mustard and Garlic](https://themom100.com/recipe/fall-apart-roasted-pork-shoulder-rosemary-mustard-garlic/)   
