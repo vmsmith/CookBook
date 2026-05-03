@@ -7,4 +7,11 @@
 
 ## Ina Garten's Baked Shrimp   
 
-#### Ingre
+#### Ingredients    
+* Raw shrimp
+* Chili sauce    
+* Ketchup
+* Horseradish
+* Wor Sauce
+* Tabasco
+* Lemon juice   
