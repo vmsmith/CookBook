@@ -2,11 +2,13 @@
 
 ### Appetizers  
 
+[Baked Shrimp](https://github.com/vmsmith/CookBook/blob/master/appetizers_shrimp_baked.md)  
+
 [Anchoïade Chez Gilbert]() - Patricia Wells, p. 4  
 
 [Potted Shrimp](https://github.com/vmsmith/CookBook/blob/master/appetizers_shrimp_potted.md)  
 
-[Cashews, Rosemart](https://github.com/vmsmith/CookBook/blob/master/appetizers_rosemary_cashews.md)  
+[Cashews, Rosemary](https://github.com/vmsmith/CookBook/blob/master/appetizers_rosemary_cashews.md)  
 
 [Céleri Rémoulade]() - Patricia Wells, p. 8
 
