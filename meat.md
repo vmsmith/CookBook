@@ -44,7 +44,7 @@
   * 325F - until 145F    
 
 #### Rabbit  
-
+* [Rabbit à la Moutarde, Baked](https://github.com/vmsmith/CookBook/blob/master/rabbit_moutarde_baked.md)  
 * [Rabbit à la Moutarde #1](https://github.com/vmsmith/CookBook/blob/master/rabbit_a_la_moutarde.md)  
 * [Rabbit in Mustard Sauce](https://github.com/vmsmith/CookBook/blob/master/rabbit_a_la_moutarde2.md)  
 * [Rabbit Basquaise](https://github.com/vmsmith/CookBook/blob/master/rabbit_basque.md)  
