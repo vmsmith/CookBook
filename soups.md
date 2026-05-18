@@ -88,7 +88,7 @@
 
 [French Pumpkin Soup](https://github.com/vmsmith/CookBook/blob/master/soup_pumpkin_french.md)  
 
-[Rabbit Soup](https://github.com/vmsmith/CookBook/blob/master/soup_rabbit.md)
+[Old Fashion Rabbit Soup à la Paula Wolfert](https://github.com/vmsmith/CookBook/blob/master/soup_rabbit.md)
 
 [Shrimp Bisque](https://github.com/vmsmith/CookBook/blob/master/soup_bisque_shrimp.md)  
 
