@@ -16,7 +16,9 @@
 
 [Bayou Lobster Omelet]()  
 
-[Cod, Baked](https://github.com/vmsmith/CookBook/blob/master/fish_cod_baked.md)
+[Cod, Baked](https://github.com/vmsmith/CookBook/blob/master/fish_cod_baked.md)   
+
+[Cod, Baked with Breaded Topping](https://github.com/vmsmith/CookBook/blob/master/fish_cod_baked_breaded-topping.md)   
 
 [Cod, Pan-seared with Thyme](https://github.com/vmsmith/CookBook/blob/master/fish_cod_pan-seared_thyme.md)
 
