@@ -4,6 +4,8 @@
 
 ### Beans and Legumes  
 
+[Foul Madames](beans_foul_medames.md)
+
 [White Bean and Tomato Stew](beans_stew_white-tomato.md)    
 
 [Afghan Chickpea and Yogurt Stew](beans_stew_chickpea_yogurt.md)
