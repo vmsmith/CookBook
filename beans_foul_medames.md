@@ -1,7 +1,7 @@
-[Foul Madames](beans_foul_medames.md)     
-[Foul Madames](README.md)     
-[Foul Madames](beans_legumes.md)    
-[Foul Madames](beans_foul_medames.md)    
+[Calendar](https://github.com/vmsmith/EDT/blob/master/calendar.md)     
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)     
+[Beans and Legumes](https://github.com/vmsmith/CookBook/blob/master/beans_legumes.md)    
+[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)    
 
 ---   
 
