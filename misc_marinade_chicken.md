@@ -17,7 +17,7 @@
 * 1/2 tsp of paprika
 * 1 tbls dried oregano
 * 6 sprigs of fresh thyme
-* 1/2 cup of olive oil
+* 1/2 cup of neutral oil (avocado)   
 * 2 tsp of salt
 * Pepper    
 
