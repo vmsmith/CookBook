@@ -4,7 +4,9 @@
 
 -----   
 
-[Brine (for upland game birds)](https://github.com/vmsmith/CookBook/blob/master/misc_brine.md)
+[Brine (for upland game birds)](https://github.com/vmsmith/CookBook/blob/master/misc_brine.md)    
+
+[Marinade, Chicken](https://github.com/vmsmith/CookBook/blob/master/misc_marinade_chicken.md)
 
 [Chestnut Dressing](https://github.com/vmsmith/CookBook/blob/master/misc_chestnut_dressing.md)  
 
