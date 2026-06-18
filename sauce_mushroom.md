@@ -12,11 +12,11 @@
 * 1 cup of red wine (Crozes-Hermitage, St-Joseph)   
 * 2 - 3 tsps of balsamic vinegar
 * 2 tbls of butter for sautéing
-* 2 tbls of cold butter for finishing   
-* 1 cup of stock
+* 2 tbls of **cold** butter for finishing   
+* 1 cup of stock (beef, pork, chicken)   
 * 2 - 3 Cream
 * Thickener (potato starch, beurre manier, etc.)
-* Herbs (rosemary, thyme)  
+* **Fresh** herbs (rosemary, thyme)  
 * Salt and pepper   
 
 #### Preparation    
@@ -25,12 +25,12 @@
 3. Chop the garlic   
 
 #### Directions   
-1. Melt butter and caremalize shallots.
-2. Add mushrooms, and cook out the water (add a bit of salt).  
-3. Add chopped garlic plus some herbs.
-4. Stir until garlic releases its aroma, then add some balsamic vinegar.
-5. Add wine, and reduce until almost nothing.
+1. Melt butter and **slowly** caremalize shallots.
+2. Add mushrooms, and **cook out the water** (add a bit of salt).  
+3. Add chopped garlic plus the fresh herbs.
+4. Stir until garlic releases its aroma, then add the balsamic vinegar.
+5. Add the wine, and reduce until almost nothing.
 6. Add broth/stock, and season.   
 7. Thicken the sauce.
 8. Add some cream.
-9. Take it off the heat, then stir in some cold butter.   
+9. **Take it off the heat**, then stir in some cold butter.   
