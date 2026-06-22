@@ -6,6 +6,8 @@
 
 ### Poultry and Fowl     
 
+[Chicken Scallopini w/Mushrooms and Zucchini](https://github.com/vmsmith/CookBook/blob/master/chicken_scallopini_mushrooms_zucchini.md)      
+
 [Chicken Marbella](https://github.com/vmsmith/CookBook/blob/master/chicken_marbella.md)      
 [Chicken Jambalaya](https://github.com/vmsmith/CookBook/blob/master/chicken_jambalaya.md)     
 [Chicke Thighs in Creany Tarragon Sauce](https://github.com/vmsmith/CookBook/blob/master/chicken_thighs_creany_tarragon.md)     
