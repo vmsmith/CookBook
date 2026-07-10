@@ -6,6 +6,8 @@
 
 ### Pasta  
 
+[Pasta Pomodoro](https://github.com/vmsmith/CookBook/blob/master/pasta_pomodoro.md)
+
 [Garlic Shrimp Pasta](https://github.com/vmsmith/CookBook/blob/master/pasta_garlic_shrimp.md)
 
 [Anchovy and Walnut Sauce](https://github.com/vmsmith/CookBook/blob/master/pasta_sauce_anchovy_walnut.md)
