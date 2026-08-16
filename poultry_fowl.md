@@ -6,6 +6,7 @@
 
 ### Poultry and Fowl     
 
+[Sautéed Chicken Breasts with Tomato and Chives](https://github.com/vmsmith/CookBook/blob/master/chicken_breast_tomato_chives.md)
 [Chicken Scallopini w/Mushrooms and Zucchini](https://github.com/vmsmith/CookBook/blob/master/chicken_scallopini_mushrooms_zucchini.md)      
 [Chicken Marbella](https://github.com/vmsmith/CookBook/blob/master/chicken_marbella.md)      
 [Chicken Jambalaya](https://github.com/vmsmith/CookBook/blob/master/chicken_jambalaya.md)     
