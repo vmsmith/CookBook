@@ -9,15 +9,16 @@
 
 #### Ingredients   
 * 1 cup of dried fava beans    
-* Onion    
+* 1 medium-large onion, diced       
+* 400 gram can of tomatoes (240 grams of tomato)      
 * Chopped garlic    
-* Tomato (fresh or canned)        
-* Harissa    
-* Egg(s) - Optional   
-* Olive oil          
-* Cumin    
+* 1/2 teaspoon of harissa    
+* 2 eggs    
+ 
+* 1/4 teaspoon of cumin    
 * Lemon juice   
-* Chopped parsley       
+* Chopped parsley
+* Olive oil         
 * Flat bread     
 
 #### Preparation   
