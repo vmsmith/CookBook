@@ -50,7 +50,9 @@
 
 [Fish Soup, Basque](https://github.com/vmsmith/CookBook/blob/master/soup_fish_basquaise.md)  
 
-[Fish Soup, Provençal](https://github.com/vmsmith/CookBook/blob/master/soup_fish_provencal.md)
+[Fish Soup, Provençal](https://github.com/vmsmith/CookBook/blob/master/soup_fish_provencal.md)  
+
+[Andalusian Gazpacho](https://github.com/vmsmith/CookBook/blob/master/soup_gazpacho_andalusian.md)  
 
 [Leek, Potato, and Bacon Soup]() - Patricia Wells, p. 29
 
