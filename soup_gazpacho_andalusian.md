@@ -5,7 +5,7 @@
 
 ---    
 
-## Andalusian Gazpacho Soup
+## Andalusian Gazpacho  
 
 #### Ingredients   
 * 4 large ripe tomatoes, cored and cut into rough 1-inch chunks   
