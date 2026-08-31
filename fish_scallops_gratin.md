@@ -23,14 +23,14 @@
 * White wine   
 
 #### Preparation   
-1.Take the butter out of the fridge and let it soften.
-2. Cut the scallops in half if they are large.  
-4. Chop the garlic cloves.
-5. Mince the shallot.
-6. Mince the prosciutto.
-7. Mince the parsley.
-8. Squeeze the lemon juice.   
-9. Preheat oven to 425F. 
+1. Take the butter out of the fridge and let it soften.   
+2. Cut the scallops in half if they are large.    
+3. Chop the garlic cloves.   
+4. Mince the shallot.   
+5. Mince the prosciutto.   
+6. Mince the parsley.   
+7. Squeeze the lemon juice.      
+8. Preheat oven to 425F.   
 
 #### Directions   
 1. Mix the soft butter, garlic, shallots, prosciutto, parsley, lemon juice, Pernod, Panko, and olive oil as if it were being done in a blender.
