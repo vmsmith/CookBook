@@ -14,7 +14,8 @@
 * Chopped garlic    
 * 1 - 1 1/2 teaspoons of harissa    
 * 1 teaspoon of cumin
-* 2 eggs    
+* 2 eggs
+* Tomato paste   
 * Lemon juice   
 * Chopped parsley
 * Olive oil         
@@ -32,8 +33,9 @@
 2. Sautée the onion in olive oil.
 3. Add the garlic, and stir for about 30 seconds.
 4. Add the cumin and let it "bloom."
-5. Add the chopped tomatoes and harissa and cook for 8-10 minutes, until the tomatoes are "jammy."
-6. Add the fava beans, and perhaps a bit of chicken stock. 
-7. Season with salt and pepper, and add a few drops of lemon juice.   
-8. Optional: Crack the egg(s) into it and cook them.
-9. Sprinkle with chopped parsley.   
+5. Add the tomato paste and xxxxx.   
+6. Add the chopped tomatoes and harissa and cook for 8-10 minutes, until the tomatoes are "jammy."
+7. Add the fava beans, and perhaps a bit of chicken stock. 
+8. Season with salt and pepper, and add a few drops of lemon juice.   
+9. Optional: Crack the egg(s) into it and cook them.
+10. Sprinkle with chopped parsley.   
