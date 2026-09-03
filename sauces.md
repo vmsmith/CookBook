@@ -48,6 +48,8 @@ Mother Sauces - [Web site](https://www.thespruceeats.com/mother-sauces-996119)
 
 [Mushroom Sauce](https://github.com/vmsmith/CookBook/blob/master/sauce_mushroom.md)  
 
+[Pan Sauce, Fish](https://github.com/vmsmith/CookBook/blob/master/sauce_fish_pan.md)
+
 [Pesto, Green (Basil)](https://github.com/vmsmith/CookBook/blob/master/sauce_pesto_green.md)  
 
 [Pesto, Red](https://github.com/vmsmith/CookBook/blob/master/sauce_pesto_red.md)  
