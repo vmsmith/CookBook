@@ -12,7 +12,7 @@
 * Shallot    
 * Garlic    
 * Mushrooms   
-* White wine    
+* 1/2 cup of white wine    
 * 1/2 a can of peeled or chopped tomatoes    
 * Olive oil
 * Soya sauce   
