@@ -3,7 +3,7 @@
 [Game Bird Sauces](https://github.com/vmsmith/CookBook/blob/master/sauces_game_bird.md)    
 [Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md) 
 
-## Mushroom and Armagnac Sauce
+## Mushroom and Armagnac Sauce for Perdreau   
 
 #### Ingredients
 * 150 g mushrooms — ideally cremini — sliced thin
