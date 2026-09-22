@@ -1,5 +1,7 @@
-
-
+[Calendar](https://github.com/vmsmith/EDT/blob/master/calendar.md)   
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)    
+[Game Bird Sauces](https://github.com/vmsmith/CookBook/blob/master/sauces_game_bird.md)    
+[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md) 
 
 ## Mushroom and Armagnac Sauce
 
