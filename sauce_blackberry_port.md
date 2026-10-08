@@ -14,7 +14,7 @@
 * 1/2 cup of blackberries (and perhaps raspberries, or a mix)     
 * 1 tsp balsamic vinegar    
 * 1/4 cup chicken or game stock    
-* 1 tsp honey (optional, to adjust sweetness)
+* 1 tsp honey (optional, to adjust sweetness) - **Bill's alcoholized honey**   
 * Salt and freshly ground black pepper, to taste
 * 1 tbsp cold unsalted butter (to finish the sauce)
 
