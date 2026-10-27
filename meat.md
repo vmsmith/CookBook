@@ -49,7 +49,8 @@
 * [Rabbit in Mustard Sauce](https://github.com/vmsmith/CookBook/blob/master/rabbit_a_la_moutarde2.md)  
 * [Rabbit Basquaise](https://github.com/vmsmith/CookBook/blob/master/rabbit_basque.md)  
 * [Rabbit Braised with Prunes](https://github.com/vmsmith/CookBook/blob/master/rabbit_braised_prunes.md)  
-* [Rabbit Cacciatore](https://github.com/vmsmith/CookBook/blob/master/rabbit_cacciatore.md)  
+* [Rabbit Cacciatore](https://github.com/vmsmith/CookBook/blob/master/rabbit_cacciatore.md)
+* [Rabbit Stew, Cretan](https://github.com/vmsmith/CookBook/blob/master/rabbit_stew_cretan.md)
 * [Rabbit Stew with Mushrooms](https://github.com/vmsmith/CookBook/blob/master/rabbit_stew_mushrooms.md)  
 * [Maltese Rabbit Stew](https://github.com/vmsmith/CookBook/blob/master/rabbit_stew_maltese.md)
 
