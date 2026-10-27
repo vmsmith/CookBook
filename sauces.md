@@ -37,8 +37,6 @@ Mother Sauces - [Web site](https://www.thespruceeats.com/mother-sauces-996119)
 
 [Beurre Blanc](https://github.com/vmsmith/CookBook/blob/master/sauce_beurre_blanc.md)
 
-[Brandy, Mushroom, and Cream Sauce](https://github.com/vmsmith/CookBook/blob/master/sauce_brandy-mushroom-cream.md)  
-
 [Cocktail Sauce, Shrimp](https://github.com/vmsmith/CookBook/blob/master/sauce_cocktail_shrimp.md)    
 
 [Glace de viande](https://github.com/vmsmith/CookBook/blob/master/sauce_glace_viande.md)
