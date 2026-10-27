@@ -3,7 +3,7 @@
 [Meat](https://github.com/vmsmith/CookBook/blob/master/meat.md)      
 [Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)    
 
-## Creatan Rabbit Stew    
+## Cretan Rabbit Stew    
 
 #### Ingredients   
 * 1 1/2 pounds of rabbit legs     
