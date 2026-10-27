@@ -1,10 +1,9 @@
-[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)   
-
-[Sauces](https://github.com/vmsmith/CookBook/blob/master/sauces.md)   
+[Calendar](https://github.com/vmsmith/EDT/blob/master/calendar.md)    
+[Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)        
+[Meat Sauces](https://github.com/vmsmith/CookBook/blob/master/sauces_meat.md)    
+[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)    
 
 -----   
-
-[Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)   
 
 ### Sauce Gribiche   
 
@@ -20,16 +19,14 @@
 * Chopped parsley     
 * Salt and pepper   
 
-
 #### Preparation   
-1. Hard boil and egg, and separate the yolk from the white   
+1. Hard boil an egg, and separate the yolk from the white   
 2. Julienne the egg white      
 3. Chop the cornichons   
 4. Chop the capers  
 5. Chop the parsley and taragon   
 
 #### Directions   
-
 1. Mash the egg yolk with a fork.  
 2. Add the mustard, salt and pepper, then the oil, whisking gently as if making mayonnaise.   
 3. Add the lemon juice, vinegar, parsley and tarragon and mix.   
