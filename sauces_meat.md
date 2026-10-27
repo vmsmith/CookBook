@@ -10,3 +10,4 @@
 * [Gribiche](https://github.com/vmsmith/CookBook/blob/master/sauce_meat_gribiche.md)
 * [Jaeger Sauce](https://github.com/vmsmith/CookBook/blob/master/sauce_meat_jaeger.md)
 * [Madeira Sauce](https://github.com/vmsmith/CookBook/blob/master/sauce_meat_madeira.md)   
+* [Red Wine Reduction Sauce](https://github.com/vmsmith/CookBook/blob/master/sauce_meat_red_wine_reduction.md)   
