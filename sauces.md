@@ -49,7 +49,7 @@ Mother Sauces - [Web site](https://www.thespruceeats.com/mother-sauces-996119)
 
 [Lemon Cream Sauce with Capers and Shallots](https://github.com/vmsmith/CookBook/blob/master/sauce_lemon-cream.md)  
 
-[Madeira Sauce](https://github.com/vmsmith/CookBook/blob/master/sauce_madeira.md)   
+
 
 [Mignonette Sauce (Oysters)](https://github.com/vmsmith/CookBook/blob/master/sauce_mignonette.md)
 
