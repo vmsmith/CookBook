@@ -1,16 +1,14 @@
 [Calendar](https://github.com/vmsmith/EDT/blob/master/calendar.md)    
 [Cook Book](https://github.com/vmsmith/CookBook/blob/master/README.md)      
-[Stocks and Sauces](https://github.com/vmsmith/CookBook/blob/master/sauces.md)      
+[Meat Sauces](https://github.com/vmsmith/CookBook/blob/master/sauces_meat.md)      
 [Notes](https://github.com/vmsmith/CookBook/blob/master/notes.md)    
 
 -----  
-
 
 ### Bernaise Sauce   
 NY Times – Sam Sifton - 06 May 2015
 
 #### Ingredients:
-
 * 1/4 cup white-wine vinegar 
 * 1 small shallot, peeled and minced 
 * 1/2 teaspoon freshly cracked black pepper 
@@ -20,8 +18,7 @@ NY Times – Sam Sifton - 06 May 2015
 * Kosher salt, to taste 
 * Splash of lemon juice, optional 
 
-#### Preparation:
-
+#### Preparation:   
 1. Bring the ingredients up to room temperature  
 2. Peel and mince shallot  
 3. Crack peppercorns  
