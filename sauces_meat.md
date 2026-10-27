@@ -5,5 +5,6 @@
 
 ## Meat Sauces   
 * [Bearnaise Sauce](https://github.com/vmsmith/CookBook/blob/master/sauce_bearnaise.md)    
-* [Bordelaise Sauce](https://github.com/vmsmith/CookBook/blob/master/sauce_bordelaise.md)  
+* [Bordelaise Sauce](https://github.com/vmsmith/CookBook/blob/master/sauce_bordelaise.md)
+* [Brandy, Mushroom, and Cream Sauce](https://github.com/vmsmith/CookBook/blob/master/sauce_brandy-mushroom-cream.md)  
 * [Jaeger Sauce](https://github.com/vmsmith/CookBook/blob/master/sauce_meat_jaeger.md)   
