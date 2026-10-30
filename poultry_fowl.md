@@ -122,6 +122,8 @@
 -----  
 #### Duck  
 
+[Glazed Roasted Duck]()
+
 [Roast Wild Duck](https://github.com/vmsmith/CookBook/blob/master/poultry_fowl_duck-wild.md)     
 (https://www.cuisinefiend.com/147/roast-wild-duck) - Link to Cuisine Friend     
 
